@@ -67,6 +67,35 @@ export default defineConfig({
 							return textarea.value;
 						};
 
+						// Post-process SVG styles for dark mode contrast and HUD aesthetic
+						const postProcessMermaid = () => {
+							const isDark = document.documentElement.dataset.theme === 'dark';
+							document.querySelectorAll('.mermaid svg').forEach((svg) => {
+								svg.querySelectorAll('.warnnode').forEach((node) => {
+									const shape = node.querySelector('polygon, rect, circle, path');
+									if (shape) {
+										if (isDark) {
+											shape.style.setProperty('fill', 'rgba(220, 38, 38, 0.22)', 'important');
+											shape.style.setProperty('stroke', '#ef4444', 'important');
+										} else {
+											shape.style.setProperty('fill', '#fff0f0', 'important');
+											shape.style.setProperty('stroke', '#d9534f', 'important');
+										}
+									}
+									const textNodes = node.querySelectorAll('p, span, div, text');
+									textNodes.forEach((t) => {
+										if (isDark) {
+											t.style.setProperty('color', '#fee2e2', 'important');
+											t.style.setProperty('fill', '#fee2e2', 'important');
+										} else {
+											t.style.setProperty('color', '#991b1b', 'important');
+											t.style.setProperty('fill', '#991b1b', 'important');
+										}
+									});
+								});
+							});
+						};
+
 						// 1. Mermaid Flowchart Renderer
 						const renderMermaid = async () => {
 							const pres = document.querySelectorAll('pre[data-language="mermaid"]');
@@ -91,6 +120,7 @@ export default defineConfig({
 
 							try {
 								await mermaid.run({ nodes: document.querySelectorAll('.mermaid') });
+								postProcessMermaid();
 							} catch (err) {
 								console.error('Mermaid render error:', err);
 							}
@@ -385,6 +415,18 @@ export default defineConfig({
 							initCollapsibleSections();
 							initHudChecklist();
 						};
+
+						if (!window.__themeObserverSet) {
+							window.__themeObserverSet = true;
+							const themeObserver = new MutationObserver((mutations) => {
+								for (const m of mutations) {
+									if (m.attributeName === 'data-theme') {
+										postProcessMermaid();
+									}
+								}
+							});
+							themeObserver.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+						}
 
 						if (document.readyState === 'loading') {
 							document.addEventListener('DOMContentLoaded', setup);
