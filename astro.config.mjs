@@ -352,52 +352,151 @@ export default defineConfig({
 							}
 						};
 
-						// 4. Precision HUD Checklist Widget for Right Sidebar
+						// 4. Precision HUD Checklist Widget for Right Sidebar (Dynamic per Card)
 						const initHudChecklist = () => {
 							const toc = document.querySelector('starlight-toc');
 							if (!toc || !toc.parentElement || document.querySelector('.hud-checklist-card')) return;
 
+							const pathname = window.location.pathname;
+							
+							const CHECKLISTS = {
+								'co01': {
+									title: '接案与诉前核验清单',
+									badge: '7项核心',
+									items: [
+										{ label: '利益冲突回避检索', en: 'Conflict Check', href: '#0b-接案retainer-与-pg-flap-事实调查' },
+										{ label: '委托与董事会授权', en: 'Retainer & Resolution', href: '#0b-接案retainer-与-pg-flap-事实调查' },
+										{ label: '五层事实调查模型', en: 'PG-FLAP Investigation', href: '#0b-接案retainer-与-pg-flap-事实调查' },
+										{ label: '管辖法院层级划分', en: 'Jurisdiction & Transfer', href: '#速读定位层' },
+										{ label: '法定诉讼时效核验', en: 'Limitation & Protective Writ', href: '#速读定位层' },
+										{ label: '诉前催告函六步解剖', en: 'LBA Drafting Framework', href: '#0b-接案retainer-与-pg-flap-事实调查' },
+										{ label: '诉前行为与讼费告诫', en: 'Costs Warnings & PD 18.1', href: '#速读定位层' },
+									]
+								},
+								'co03': {
+									title: '送达与认收核验清单',
+									badge: '7项核心',
+									items: [
+										{ label: '域内自然人规范送达', en: 'Personal Service O.10', href: '#0d-域内送达与-affirmation-of-service' },
+										{ label: '公司注册处法定送达', en: 'Companies Ordinance s.827', href: '#0e-特殊主体与-substituted-service' },
+										{ label: '替代送达四步申请', en: 'Substituted Service O.65', href: '#0e-特殊主体与-substituted-service' },
+										{ label: '域外管辖网格申请', en: 'Service out of Jurisdiction O.11', href: '#0b-送达aos-与管辖权异议总框架' },
+										{ label: '推定送达日算术核对', en: 'Deemed Service & Clear Days', href: '#0c-时间计算与-deemed-service' },
+										{ label: '认收书时限与登案', en: 'Acknowledgement of Service O.12', href: '#0b-送达aos-与管辖权异议总框架' },
+										{ label: '管辖权异议程序防御', en: 'Dispute Jurisdiction O.12 r.8', href: '#0b-送达aos-与管辖权异议总框架' },
+									]
+								},
+								'co04': {
+									title: '诉答起草与抗辩清单',
+									badge: '7项核心',
+									items: [
+										{ label: '实质事实并非证据', en: 'Material Facts not Evidence', href: '#0b-诉答功能material-facts-与证据边界' },
+										{ label: '真实陈述书签署核验', en: 'Statement of Truth O.41A', href: '#0b-诉答功能material-facts-与证据边界' },
+										{ label: '针对性逐条抗辩', en: 'Specific Traverse & Admissions', href: '#0b-诉答功能material-facts-与证据边界' },
+										{ label: '抵销与独立反申索', en: 'Set-off vs Counterclaim', href: '#0b-诉答功能material-facts-与证据边界' },
+										{ label: '第三方责任分担程序', en: 'Third Party Notice O.16', href: '#0b-诉答功能material-facts-与证据边界' },
+										{ label: '诉答文书修改通道', en: 'Amendments O.20', href: '#0c-诉答时序期限与-close-of-pleadings' },
+										{ label: '滥用程序剔除申请', en: 'Striking Out O.18 r.19', href: '#0b-诉答功能material-facts-与证据边界' },
+									]
+								},
+								'co06': {
+									title: '审前判决与处分清单',
+									badge: '7项核心',
+									items: [
+										{ label: '未认收缺席判决', en: 'Default in AOS O.13', href: '#0b-审前取判路径与程序状态' },
+										{ label: '未抗辩缺席判决预警', en: 'Default of Defence O.19 (2 Days)', href: '#0b-审前取判路径与程序状态' },
+										{ label: '诉讼自认与分期偿付', en: 'Admissions Form 16 / O.13A', href: '#0b-审前取判路径与程序状态' },
+										{ label: '违规判决应计撤销', en: 'Set Aside Ex Debito Justitiae', href: '#0b-审前取判路径与程序状态' },
+										{ label: '常规简易判决准入', en: 'Summary Judgment O.14', href: '#0b-审前取判路径与程序状态' },
+										{ label: '抗辩许可三分支裁量', en: 'Triable Issue & Conditional Leave', href: '#0b-审前取判路径与程序状态' },
+										{ label: '暂定付款法定触发', en: 'Interim Payment O.29', href: '#0b-审前取判路径与程序状态' },
+									]
+								},
+								'co07': {
+									title: '传票申请与费用担保清单',
+									badge: '7项核心',
+									items: [
+										{ label: '内庭传票法定起草', en: 'Interlocutory Summons O.32', href: '#0b-中间申请命令与-security-for-costs-总框架' },
+										{ label: '2 Clear Days 送达规则', en: 'Service Deadlines O.32 r.3', href: '#0b-中间申请命令与-security-for-costs-总框架' },
+										{ label: '同意传票与同意令', en: 'Consent Summons & Orders O.42', href: '#0b-中间申请命令与-security-for-costs-总框架' },
+										{ label: '常居境外费用担保', en: 'Foreign Resident O.23 r.1(1)(a)', href: '#0b-中间申请命令与-security-for-costs-总框架' },
+										{ label: '无力偿债公司担保', en: 'Insolvent Company s.905', href: '#0b-中间申请命令与-security-for-costs-总框架' },
+										{ label: '担保金额合理估算', en: 'Quantum Assessment of Security', href: '#0b-中间申请命令与-security-for-costs-总框架' },
+										{ label: '即席讼费评定与执行', en: 'Summary Assessment & Pay in 14d', href: '#0b-中间申请命令与-security-for-costs-总框架' },
+									]
+								},
+								'co08': {
+									title: '证据准备与披露清单',
+									badge: '7项核心',
+									items: [
+										{ label: '自动披露与文件清单', en: 'List of Documents O.24 r.2', href: '#0b-证据准备总框架三件套时序主干与状态机' },
+										{ label: 'Peruvian Guano 关联测试', en: 'Train of Inquiry Relevance', href: '#0c-o24-自动披露范围peruvian-guano-口径与-list-of-documents-结构' },
+										{ label: '法律专业特权核验', en: 'Legal Professional Privilege', href: '#0b-证据准备总框架三件套时序主干与状态机' },
+										{ label: '默示承诺禁止滥用', en: 'Implied Undertaking Harman', href: '#0b-证据准备总框架三件套时序主干与状态机' },
+										{ label: '特定文件披露申请', en: 'Specific Discovery O.24 r.7', href: '#0b-证据准备总框架三件套时序主干与状态机' },
+										{ label: '证人陈述书事实界限', en: 'Witness Statements O.38', href: '#0b-证据准备总框架三件套时序主干与状态机' },
+										{ label: '独立专家证人指引', en: 'Expert Reports & Code PD 22', href: '#0b-证据准备总框架三件套时序主干与状态机' },
+									]
+								},
+								'co11': {
+									title: '案件管理与审讯组织清单',
+									badge: '7项核心',
+									items: [
+										{ label: '排期问卷倒排填写', en: 'Timetabling Questionnaire', href: '#0b-案件管理总框架三文书两会议三里程碑' },
+										{ label: '调解证书提交死线', en: 'Mediation Certificate PD 31', href: '#0b-案件管理总框架三文书两会议三里程碑' },
+										{ label: '三大不可动摇里程碑', en: '3 Milestone Dates (CMC/PTR/Trial)', href: '#0b-案件管理总框架三文书两会议三里程碑' },
+										{ label: '非里程碑时限合意调整', en: 'Non-Milestone Consent O.25 r.1B', href: '#0b-案件管理总框架三文书两会议三里程碑' },
+										{ label: '除非命令与违规制裁', en: 'Unless Order & Strike Out', href: '#0b-案件管理总框架三文书两会议三里程碑' },
+										{ label: '制裁宽免五维裁量', en: 'Relief from Sanctions O.2 r.5', href: '#0b-案件管理总框架三文书两会议三里程碑' },
+										{ label: '审前复核与正式排期', en: 'PTR, Bundles & Setting Down', href: '#0b-案件管理总框架三文书两会议三里程碑' },
+									]
+								},
+								'co13': {
+									title: '程序准入核验清单',
+									badge: '7项核心',
+									items: [
+										{ label: '实体权利基础', en: 'Cause of Action', href: '#0b1-禁制令的性质权源与管辖' },
+										{ label: '严重待决争点', en: 'Serious Question', href: '#0b4-american-cyanamid按顺序审查争点赔偿与不公风险' },
+										{ label: '损害赔偿不足', en: 'Inadequacy of Damages', href: '#0b4-american-cyanamid按顺序审查争点赔偿与不公风险' },
+										{ label: '赔偿承诺与担保', en: 'Cross-undertaking', href: '#0c-损害赔偿承诺与强化担保' },
+										{ label: '便利与损害平衡', en: 'Balance of Convenience', href: '#0b4-american-cyanamid按顺序审查争点赔偿与不公风险' },
+										{ label: '充分坦白披露', en: 'Full & Frank Disclosure', href: '#0d-单方申请与充分而坦白的披露' },
+										{ label: '资产散失真实风险', en: 'Risk of Dissipation', href: '#0e2-准入条件与证据' },
+									]
+								}
+							};
+
+							let currentCard = 'co13';
+							for (const key of Object.keys(CHECKLISTS)) {
+								if (pathname.includes(key)) {
+									currentCard = key;
+									break;
+								}
+							}
+							const config = CHECKLISTS[currentCard];
+							if (!config) return;
+
 							const widget = document.createElement('div');
 							widget.className = 'hud-checklist-card not-content';
-							widget.innerHTML = [
-								'<div class="hud-checklist-header">',
-								'  <div class="hud-header-title">',
-								'    <span class="hud-pulse-dot"></span>',
-								'    <span class="hud-title-text">程序准入核验清单</span>',
-								'  </div>',
-								'  <span class="hud-badge-count">7项核心</span>',
-								'</div>',
-								'<div class="hud-checklist-items">',
-								'  <a href="#0b1-禁制令的性质权源与管辖" class="hud-check-item">',
-								'    <span class="hud-check-icon">✓</span>',
-								'    <span class="hud-check-label">实体权利基础 <span class="hud-en">Cause of Action</span></span>',
-								'  </a>',
-								'  <a href="#0b4-american-cyanamid按顺序审查争点赔偿与不公风险" class="hud-check-item">',
-								'    <span class="hud-check-icon">✓</span>',
-								'    <span class="hud-check-label">严重待决争点 <span class="hud-en">Serious Question</span></span>',
-								'  </a>',
-								'  <a href="#0b4-american-cyanamid按顺序审查争点赔偿与不公风险" class="hud-check-item">',
-								'    <span class="hud-check-icon">✓</span>',
-								'    <span class="hud-check-label">损害赔偿不足 <span class="hud-en">Inadequacy of Damages</span></span>',
-								'  </a>',
-								'  <a href="#0c-损害赔偿承诺与强化担保" class="hud-check-item">',
-								'    <span class="hud-check-icon">✓</span>',
-								'    <span class="hud-check-label">赔偿承诺与担保 <span class="hud-en">Cross-undertaking</span></span>',
-								'  </a>',
-								'  <a href="#0b4-american-cyanamid按顺序审查争点赔偿与不公风险" class="hud-check-item">',
-								'    <span class="hud-check-icon">✓</span>',
-								'    <span class="hud-check-label">便利与损害平衡 <span class="hud-en">Balance of Convenience</span></span>',
-								'  </a>',
-								'  <a href="#0d-单方申请与充分而坦白的披露" class="hud-check-item">',
-								'    <span class="hud-check-icon">✓</span>',
-								'    <span class="hud-check-label">充分坦白披露 <span class="hud-en">Full & Frank Disclosure</span></span>',
-								'  </a>',
-								'  <a href="#0e2-准入条件与证据" class="hud-check-item">',
-								'    <span class="hud-check-icon">✓</span>',
-								'    <span class="hud-check-label">资产散失真实风险 <span class="hud-en">Risk of Dissipation</span></span>',
-								'  </a>',
-								'</div>'
-							].join('');
+							
+							const itemsHtml = config.items.map(function(it) {
+								return '<a href="' + it.href + '" class="hud-check-item">' +
+									'<span class="hud-check-icon">✓</span>' +
+									'<span class="hud-check-label">' + it.label + ' <span class="hud-en">' + it.en + '</span></span>' +
+								'</a>';
+							}).join('');
+
+							widget.innerHTML = 
+								'<div class="hud-checklist-header">' +
+									'<div class="hud-header-title">' +
+										'<span class="hud-pulse-dot"></span>' +
+										'<span class="hud-title-text">' + config.title + '</span>' +
+									'</div>' +
+									'<span class="hud-badge-count">' + config.badge + '</span>' +
+								'</div>' +
+								'<div class="hud-checklist-items">' +
+									itemsHtml +
+								'</div>';
 
 							toc.parentElement.insertBefore(widget, toc);
 
@@ -441,6 +540,13 @@ export default defineConfig({
 				{
 					label: '🏛️ 制度凝结层 (Institutions)',
 					items: [
+						{ label: 'CO01 · 接案指示、诉前行为与 LBA', slug: 'institutions/co01-taking-instructions' },
+						{ label: 'CO03 · 送达、诉讼认收与管辖权异议', slug: 'institutions/co03-service-and-aos' },
+						{ label: 'CO04-05-10 · 诉答文书、抗辩与第三方程序', slug: 'institutions/co04-05-10-pleadings' },
+						{ label: 'CO06-09 · 审前判决、自认与中期付款', slug: 'institutions/co06-09-pre-trial-judgments' },
+						{ label: 'CO07 · 传票起草、命令与诉讼费用担保', slug: 'institutions/co07-summonses-and-orders' },
+						{ label: 'CO08 · 证据准备体系：披露、证人与专家', slug: 'institutions/co08-evidence-preparation' },
+						{ label: 'CO11 · 案件管理与审讯组织体系', slug: 'institutions/co11-case-management' },
 						{ label: 'CO13 · 临时救济与风险保障体系', slug: 'institutions/co13-interim-relief' },
 					],
 				},
