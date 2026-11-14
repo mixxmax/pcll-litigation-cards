@@ -21,6 +21,10 @@
   --sl-color-black: #f5f4ef;
   
   --gold: #e4c993;
+
+  /* Widened reading canvas */
+  --sl-content-width: 92rem;
+  --sl-sidebar-width: 19rem;
 }
 
 :root[data-theme='dark'] {
@@ -40,15 +44,60 @@
   --sl-color-black: #111e24;
 }
 
+/* ==========================================================================
+   Full-Width & Wide Layout Controls
+   ========================================================================== */
+
+@media (min-width: 72rem) {
+  /* Make main pane fill all available horizontal space up to right sidebar */
+  [data-has-sidebar][data-has-toc] .main-pane {
+    width: calc(100% - var(--sl-sidebar-width)) !important;
+  }
+
+  /* Make TOC sidebar a crisp, fixed width column */
+  .right-sidebar-container {
+    width: var(--sl-sidebar-width) !important;
+  }
+
+  /* Expand container out of the default 45rem bottleneck */
+  .sl-container {
+    max-width: 90rem !important;
+    margin-inline: 0 !important;
+  }
+}
+
+.content-panel {
+  padding: 1.5rem clamp(1.2rem, 3.5vw, 3rem) !important;
+}
+
+.sl-markdown-content {
+  max-width: 90rem !important;
+  line-height: 1.8;
+}
+
 /* Typography Enhancements */
 h1, h2, h3, h4 {
   font-family: var(--sl-font-system-headers);
   letter-spacing: -0.015em;
 }
 
-/* Law-Firm Quality Clean Tables */
+h2 {
+  border-bottom: 1px solid var(--sl-color-gray-6);
+  padding-bottom: 0.45rem;
+  margin-top: 2.2rem;
+}
+
+h3 {
+  color: var(--sl-color-accent);
+  margin-top: 1.6rem;
+}
+
+/* ==========================================================================
+   Law-Firm Quality Clean Tables (Expansive & Bordered)
+   ========================================================================== */
 .sl-markdown-content table {
-  width: 100%;
+  width: 100% !important;
+  max-width: 100% !important;
   border-collapse: separate;
   border-spacing: 0;
   margin: 1.8rem 0;
@@ -56,6 +105,7 @@ h1, h2, h3, h4 {
   border-radius: 8px;
   overflow: hidden;
   font-size: 0.94rem;
+  display: table !important; /* overrides any inline constraints */
 }
 
 .sl-markdown-content th {
@@ -90,7 +140,32 @@ h1, h2, h3, h4 {
   background: rgba(38, 118, 108, 0.07);
 }
 
-/* Card Styling */
+/* ==========================================================================
+   Mermaid Flowcharts (Wide, Responsive & Clear)
+   ========================================================================== */
+.mermaid {
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow-x: auto;
+  display: flex !important;
+  justify-content: center;
+  background: var(--sl-color-gray-7);
+  border: 1px solid var(--sl-color-gray-6);
+  border-radius: 10px;
+  padding: 24px 18px;
+  margin: 2rem 0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.03);
+}
+
+.mermaid svg {
+  max-width: 100%;
+  height: auto;
+  min-width: 650px;
+}
+
+/* ==========================================================================
+   Card & Aside Styling
+   ========================================================================== */
 .card {
   border-radius: 10px;
   border: 1px solid var(--sl-color-gray-6) !important;
@@ -103,15 +178,4 @@ h1, h2, h3, h4 {
   transform: translateY(-2px);
   border-color: var(--sl-color-accent) !important;
   box-shadow: 0 8px 24px rgba(23, 45, 55, 0.08);
-}
-
-/* Mermaid Flowcharts */
-.mermaid {
-  background: var(--sl-color-gray-7);
-  border: 1px solid var(--sl-color-gray-6);
-  border-radius: 8px;
-  padding: 20px;
-  margin: 1.8rem 0;
-  display: flex;
-  justify-content: center;
 }
