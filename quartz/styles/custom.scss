@@ -1,3 +1,491 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// ============================================================================
+// PCLL Civil Litigation Editorial Theme (Hong Kong Legal Scholarly Style)
+// ============================================================================
+
+:root {
+  --gold: #e4c993;
+  --gold-dark: #b89758;
+  --soft-teal: #eef5f2;
+  --soft-teal-dark: #263e40;
+  --paper-light: #ffffff;
+  --paper-dark: #1c2d34;
+  --accent-jade: #26766c;
+  --accent-jade-light: #8dc8b5;
+  --border-subtle: #e3e7e5;
+  --border-subtle-dark: #30434a;
+}
+
+// 1. Top Brand Mark & Page Title
+.page-title {
+  margin: 0.5rem 0 1rem 0;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    font-family: var(--headerFont), Georgia, "Songti SC", serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--dark);
+    text-decoration: none;
+    letter-spacing: -0.01em;
+
+    &::before {
+      content: "P";
+      display: inline-grid;
+      place-items: center;
+      width: 32px;
+      height: 34px;
+      background: #172d37;
+      color: #e4c993;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      font-weight: 700;
+      border-radius: 6px;
+      box-shadow: 0 2px 6px rgba(23, 45, 55, 0.2);
+      flex-shrink: 0;
+    }
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+}
+
+// 2. Search Button pill styling
+.search-button {
+  border: 1px solid var(--lightgray) !important;
+  background: var(--paper-light) !important;
+  border-radius: 8px !important;
+  padding: 8px 14px !important;
+  color: var(--gray) !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+  transition: all 0.2s ease;
+  width: 100%;
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+
+  &:hover {
+    border-color: var(--secondary) !important;
+    color: var(--secondary) !important;
+    background: var(--soft-teal) !important;
+  }
+}
+
+:root[saved-theme="dark"] .search-button {
+  background: var(--paper-dark) !important;
+  border-color: var(--border-subtle-dark) !important;
+
+  &:hover {
+    background: var(--soft-teal-dark) !important;
+  }
+}
+
+// 3. Main Reading Card (White Paper Surface)
+.center > article {
+  background: var(--paper-light);
+  border: 1px solid var(--border-subtle);
+  border-radius: 12px;
+  padding: 36px 44px;
+  box-shadow: 0 4px 20px rgba(23, 45, 55, 0.04);
+  line-height: 1.8;
+  margin-bottom: 2rem;
+
+  @media all and ($mobile) {
+    padding: 20px 18px;
+    border-radius: 8px;
+  }
+}
+
+:root[saved-theme="dark"] .center > article {
+  background: var(--paper-dark);
+  border-color: var(--border-subtle-dark);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+}
+
+// 4. Article Title & Hierarchy
+h1.article-title {
+  font-family: var(--headerFont), Georgia, "Songti SC", serif;
+  font-size: 2.1rem;
+  font-weight: 700;
+  color: var(--dark);
+  letter-spacing: -0.015em;
+  line-height: 1.35;
+  margin-top: 0.5rem;
+  margin-bottom: 0.4rem;
+}
+
+h2 {
+  font-family: var(--headerFont), Georgia, "Songti SC", serif;
+  font-size: 1.45rem;
+  font-weight: 600;
+  color: var(--dark);
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 0.45rem;
+  margin-top: 2.2rem;
+  margin-bottom: 0.9rem;
+}
+
+h3 {
+  font-family: var(--headerFont), Georgia, "Songti SC", serif;
+  font-size: 1.18rem;
+  font-weight: 600;
+  color: var(--secondary);
+  margin-top: 1.7rem;
+  margin-bottom: 0.6rem;
+}
+
+h4 {
+  font-size: 1.02rem;
+  font-weight: 600;
+  color: var(--dark);
+  margin-top: 1.4rem;
+}
+
+// 5. Professional Legal Tables
+.table-container {
+  margin: 1.6rem 0;
+  overflow-x: auto;
+  border-radius: 8px;
+  border: 1px solid var(--lightgray);
+  background: var(--paper-light);
+
+  table {
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+    border-collapse: collapse;
+    font-size: 0.92rem;
+    line-height: 1.65;
+
+    th {
+      background: var(--soft-teal);
+      color: #172d37;
+      font-weight: 600;
+      padding: 11px 14px;
+      border-bottom: 2px solid #cbd9d6;
+      border-top: none;
+      text-align: left;
+      white-space: nowrap;
+    }
+
+    td {
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--lightgray);
+      vertical-align: top;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    tbody tr:nth-child(even) td {
+      background: rgba(238, 245, 242, 0.4);
+    }
+
+    tbody tr:hover td {
+      background: rgba(38, 118, 108, 0.05);
+    }
+  }
+}
+
+:root[saved-theme="dark"] .table-container {
+  background: var(--paper-dark);
+  border-color: var(--border-subtle-dark);
+
+  table {
+    th {
+      background: var(--soft-teal-dark);
+      color: #d8e4e5;
+      border-bottom: 2px solid var(--border-subtle-dark);
+    }
+
+    tbody tr:nth-child(even) td {
+      background: rgba(38, 62, 64, 0.25);
+    }
+
+    tbody tr:hover td {
+      background: rgba(141, 200, 181, 0.08);
+    }
+  }
+}
+
+// 6. Explorer (Left Navigation)
+.explorer {
+  .folder-title,
+  .nav-file-title {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    padding: 6px 10px;
+    border-radius: 6px;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+
+  a.nav-file-title:hover {
+    background: rgba(38, 118, 108, 0.06);
+    color: var(--secondary);
+  }
+
+  // Active note item styling with gold indicator
+  li > a[aria-current="page"],
+  .nav-file-title.active {
+    background: rgba(38, 118, 108, 0.08) !important;
+    color: var(--secondary) !important;
+    font-weight: 600;
+    box-shadow: inset 3px 0 var(--gold) !important;
+    border-radius: 0 6px 6px 0;
+  }
+}
+
+// 7. Callouts (Obsidian Callouts)
+.callout {
+  border-radius: 8px;
+  border: 1px solid var(--lightgray);
+  border-left-width: 4px;
+  box-shadow: 0 2px 6px rgba(23, 45, 55, 0.02);
+  margin: 1.4rem 0;
+  padding: 14px 18px;
+
+  &[data-callout="note"],
+  &[data-callout="info"],
+  &[data-callout="tip"] {
+    border-left-color: var(--accent-jade);
+    background-color: #f2f6f9;
+  }
+
+  &[data-callout="warning"],
+  &[data-callout="caution"] {
+    border-left-color: var(--gold-dark);
+    background-color: #fbf7eb;
+  }
+
+  &[data-callout="important"],
+  &[data-callout="danger"] {
+    border-left-color: #b04632;
+    background-color: #fdf5f4;
+  }
+}
+
+:root[saved-theme="dark"] .callout {
+  &[data-callout="note"],
+  &[data-callout="info"],
+  &[data-callout="tip"] {
+    border-left-color: var(--accent-jade-light);
+    background-color: #1f333a;
+  }
+
+  &[data-callout="warning"],
+  &[data-callout="caution"] {
+    border-left-color: var(--gold);
+    background-color: #353124;
+  }
+
+  &[data-callout="important"],
+  &[data-callout="danger"] {
+    border-left-color: #e06c58;
+    background-color: #382424;
+  }
+}
+
+// 8. Citations, Pills & Code
+code {
+  font-family: var(--codeFont);
+  background: var(--soft-teal);
+  color: var(--dark);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.88em;
+}
+
+:root[saved-theme="dark"] code {
+  background: var(--soft-teal-dark);
+  color: #e5f0ec;
+}
+
+pre {
+  background: #fdfdfc !important;
+  border: 1px solid var(--lightgray) !important;
+  border-radius: 8px !important;
+
+  code {
+    background: transparent !important;
+  }
+}
+
+:root[saved-theme="dark"] pre {
+  background: #142026 !important;
+  border-color: var(--border-subtle-dark) !important;
+}
+
+// 10. Table of Contents & Graph (Right Sidebar)
+.toc {
+  button.toc-header {
+    font-family: var(--headerFont), Georgia, "Songti SC", serif;
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: var(--dark);
+  }
+
+  ul {
+    padding-left: 14px;
+    font-size: 0.86rem;
+    line-height: 1.6;
+
+    li > a {
+      color: var(--gray);
+      transition: color 0.15s ease;
+
+      &:hover,
+      &.in-view {
+        color: var(--secondary);
+        font-weight: 600;
+      }
+    }
+  }
+}
+
+.graph {
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--lightgray);
+  background: var(--paper-light);
+}
+
+:root[saved-theme="dark"] .graph {
+  background: var(--paper-dark);
+  border-color: var(--border-subtle-dark);
+}
+
+// 11. Home Guide & Quick Links (Reference Site Style)
+.eyebrow {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  color: var(--accent-jade);
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+
+:root[saved-theme="dark"] .eyebrow {
+  color: var(--accent-jade-light);
+}
+
+.home-guide {
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 20px;
+  margin-bottom: 24px;
+
+  h1 {
+    font-family: var(--headerFont), Georgia, "Songti SC", serif;
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 8px 0 6px;
+    color: var(--dark);
+    line-height: 1.35;
+    border-bottom: none !important;
+  }
+
+  p {
+    color: var(--gray);
+    font-size: 0.95rem;
+    margin: 0;
+    line-height: 1.6;
+  }
+}
+
+.quick-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 14px;
+  margin: 22px 0;
+}
+
+.quick-link-card {
+  background: var(--soft-teal);
+  border: 1px solid var(--border-subtle);
+  border-radius: 10px;
+  text-decoration: none !important;
+  padding: 16px 18px;
+  color: var(--dark) !important;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  transition: all 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 14px rgba(23, 45, 55, 0.08);
+    border-color: var(--accent-jade);
+    background: #e5f1ed;
+  }
+
+  small {
+    font-size: 10px;
+    letter-spacing: 1.2px;
+    color: var(--accent-jade);
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+
+  strong {
+    font-size: 15px;
+    font-weight: 650;
+    color: var(--dark);
+  }
+
+  span {
+    font-size: 12px;
+    color: var(--gray);
+  }
+}
+
+:root[saved-theme="dark"] .quick-link-card {
+  background: var(--soft-teal-dark);
+  border-color: var(--border-subtle-dark);
+
+  &:hover {
+    background: #2e4d50;
+    border-color: var(--accent-jade-light);
+  }
+
+  small {
+    color: var(--accent-jade-light);
+  }
+
+  strong {
+    color: #ffffff;
+  }
+
+  span {
+    color: var(--gray);
+  }
+}
+
+.study-notice {
+  font-size: 12px;
+  color: var(--gray);
+  background: var(--soft-teal);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 12px 18px;
+  margin: 24px 0;
+  line-height: 1.6;
+
+  strong {
+    color: var(--accent-jade);
+  }
+}
+
+:root[saved-theme="dark"] .study-notice {
+  background: var(--soft-teal-dark);
+  border-color: var(--border-subtle-dark);
+
+  strong {
+    color: var(--accent-jade-light);
+  }
+}
+
