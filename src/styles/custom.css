@@ -1449,3 +1449,166 @@ nav.sidebar-content ul li a[aria-current="page"]::before {
 :root[data-theme='dark'] .feat-desc {
   color: var(--sl-color-gray-2);
 }
+
+/* ==========================================================================
+   Master Layer (CO00) Cards & Distinct Separation Styling
+   ========================================================================== */
+
+/* 1. Master Layer Cards Grid */
+.master-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 20px;
+  margin-bottom: 2.5rem;
+}
+
+.master-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: #ffffff;
+  border: 1px solid var(--sl-color-gray-5);
+  border-top: 3px solid #b8860b !important;
+  border-radius: 12px;
+  padding: 1.4rem 1.5rem;
+  text-decoration: none !important;
+  color: inherit !important;
+  box-shadow: 0 4px 14px rgba(184, 134, 11, 0.06);
+  transition: all 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+}
+
+:root[data-theme='dark'] .master-card {
+  background: rgba(22, 28, 34, 0.9) !important;
+  border-color: rgba(228, 201, 147, 0.25) !important;
+  border-top: 3px solid var(--gold) !important;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.45);
+}
+
+.master-card:hover {
+  transform: translateY(-3px);
+  border-color: #b8860b !important;
+  border-top-color: #d4af37 !important;
+  box-shadow: 0 10px 28px rgba(184, 134, 11, 0.16);
+}
+
+:root[data-theme='dark'] .master-card:hover {
+  border-color: var(--gold) !important;
+  border-top-color: #ffe6a3 !important;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.6), 0 0 14px rgba(228, 201, 147, 0.3);
+}
+
+.master-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 0.8rem;
+}
+
+.master-card-code {
+  font-family: var(--sl-font-system-mono);
+  font-size: 0.82rem;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 6px;
+  background: #fdf6e2;
+  color: #8b6508;
+  border: 1px solid rgba(184, 134, 11, 0.3);
+  letter-spacing: 0.02em;
+}
+
+:root[data-theme='dark'] .master-card-code {
+  background: rgba(228, 201, 147, 0.15);
+  color: #ffe6a3;
+  border-color: rgba(228, 201, 147, 0.4);
+}
+
+.master-card-badge {
+  font-size: 0.74rem;
+  font-weight: 600;
+  color: #8b6508;
+  background: rgba(228, 201, 147, 0.2);
+  padding: 2px 8px;
+  border-radius: 999px;
+}
+
+:root[data-theme='dark'] .master-card-badge {
+  color: #e4c993;
+  background: rgba(228, 201, 147, 0.1);
+  border: 1px solid rgba(228, 201, 147, 0.25);
+}
+
+.master-card-heading {
+  font-size: 1.18rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: var(--sl-color-gray-1);
+  margin: 0 0 0.6rem 0;
+}
+
+:root[data-theme='dark'] .master-card-heading {
+  color: #ffffff;
+}
+
+.master-card-desc {
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: var(--sl-color-gray-3);
+  margin-bottom: 1.1rem;
+  flex-grow: 1;
+}
+
+:root[data-theme='dark'] .master-card-desc {
+  color: var(--sl-color-gray-2);
+}
+
+.master-card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 1.1rem;
+}
+
+.master-tag {
+  font-size: 0.74rem;
+  font-family: var(--sl-font-system-mono);
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: #fdfaf0;
+  color: #795548;
+  border: 1px solid #ebd9b4;
+}
+
+:root[data-theme='dark'] .master-tag {
+  background: rgba(35, 30, 22, 0.6);
+  color: #e4c993;
+  border-color: rgba(228, 201, 147, 0.2);
+}
+
+.master-card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 0.8rem;
+  border-top: 1px solid var(--sl-color-gray-6);
+  font-size: 0.86rem;
+  font-weight: 600;
+  color: #8b6508;
+}
+
+:root[data-theme='dark'] .master-card-footer {
+  border-top-color: rgba(228, 201, 147, 0.15);
+  color: #e4c993;
+}
+
+.master-card:hover .master-card-footer {
+  text-decoration: underline;
+}
+
+/* 2. Sidebar Group Distinction */
+nav.sidebar-content .top-level > li:first-child > details > summary,
+nav.sidebar-content .top-level > li:first-child > .group-label {
+  border-left: 3px solid var(--gold);
+  padding-left: 8px;
+}

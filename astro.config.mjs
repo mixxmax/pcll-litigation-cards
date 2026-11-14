@@ -361,6 +361,44 @@ export default defineConfig({
 							const pathname = window.location.pathname;
 							
 							const CHECKLISTS = {
+								'co00-master-overview': {
+									title: '全景总控考点核验',
+									badge: '7项核心',
+									items: [
+										{ label: '四大第一性底层需求', en: 'Notice / Def / Proof / Cost', href: '#第一部分第一性原理--整套制度只解决四个问题' },
+										{ label: '工程控制论三状态模型', en: 'State & Gateways', href: '#第二部分控制论视角--诉讼是一个受控系统' },
+										{ label: '诉讼全周期竖向推进', en: 'Vertical Progression', href: '#第三部分竖向时间轴--各阶段核心制度速查' },
+										{ label: '模块间横向耦合关系', en: 'Horizontal Coupling', href: '#第四部分横向耦合--制度之间如何咬合' },
+										{ label: '战术逆向倒推工程', en: 'Reverse Engineering', href: '#第五部分逆向推导--当事人要达成目的如何选工具' },
+										{ label: '程序效率与相称性', en: 'Proportionality & CJR', href: '#第一部分第一性原理--整套制度只解决四个问题' },
+										{ label: '证据交换与防突袭', en: 'No Ambush & Proof', href: '#第一部分第一性原理--整套制度只解决四个问题' },
+									]
+								},
+								'co00-deadlines': {
+									title: '程序时钟核验速查',
+									badge: '7大时钟',
+									items: [
+										{ label: 'O.3 r.2 时间计算规则', en: 'Computation of Time', href: '#a-时间计算规则o3-r2-先会算再谈期限' },
+										{ label: 'Cap. 347 诉讼时效核验', en: 'Limitation Ordinance', href: '#b-起诉时效limitation-ordinance-cap-347-见客户第一件事' },
+										{ label: '令状发出与有效期限', en: 'Writ Validity O.6 r.8', href: '#c-令状发出与送达阶段' },
+										{ label: '认收书与管辖异议时限', en: 'AOS & O.12 r.8', href: '#d-诉讼认收acknowledgment-of-service-aos阶段' },
+										{ label: '诉答文书交换时间表', en: 'Pleadings Deadlines', href: '#e-诉答文书阶段pleadings' },
+										{ label: '审前传票与宣誓书时限', en: 'Interlocutory Summonses', href: '#h-中间申请interlocutory-applications阶段' },
+										{ label: '法定披露与问卷时限', en: 'Discovery & TTWO', href: '#g-法定披露discovery与审前准备' },
+									]
+								},
+								'co00-procedural': {
+									title: '流程图谱关键分支',
+									badge: '6大图谱',
+									items: [
+										{ label: 'Writ Action 12步主干', en: 'Main Writ Action Flow', href: '#一主干writ-action-全流程' },
+										{ label: '诉答文书两种情形对照', en: 'Scenario A vs Scenario B', href: '#二pleadings-阶段的两种情形' },
+										{ label: '默认判决与自认流程', en: 'Default Judgment Flow', href: '#三默认判决自认与撤销o13--o13a--o19-详见-lg06-制度卡片' },
+										{ label: '中间传票申请处置流程', en: 'Interlocutory Applications', href: '#四中间传票申请流程' },
+										{ label: '简易判决与抗辩流程', en: 'Summary Judgment O.14', href: '#五简易判决o14' },
+										{ label: '民事上诉裁判路径', en: 'Civil Appeals Path', href: '#六上诉流程' },
+									]
+								},
 								'co01': {
 									title: '接案与诉前核验清单',
 									badge: '7项核心',
@@ -467,13 +505,15 @@ export default defineConfig({
 								}
 							};
 
-							let currentCard = 'co13';
+							let currentCard = null;
 							for (const key of Object.keys(CHECKLISTS)) {
 								if (pathname.includes(key)) {
 									currentCard = key;
 									break;
 								}
 							}
+							if (!currentCard && pathname.includes('co13')) currentCard = 'co13';
+							if (!currentCard) return;
 							const config = CHECKLISTS[currentCard];
 							if (!config) return;
 
@@ -539,7 +579,15 @@ export default defineConfig({
 			],
 			sidebar: [
 				{
-					label: '🏛️ 制度凝结层 (Institutions)',
+					label: '🧭 全景总括与时钟体系 (Master & Tools)',
+					items: [
+						{ label: 'CO00 · 民事诉讼底层结构与全景总览', slug: 'master/co00-master-overview' },
+						{ label: 'CO00 · 法定时限与程序时钟速查大表', slug: 'master/co00-deadlines-and-time-limits' },
+						{ label: 'CO00 · 诉讼全流程与分支决策图谱', slug: 'master/co00-procedural-flowcharts' },
+					],
+				},
+				{
+					label: '🏛️ 制度凝结层 (Institutions 01–13)',
 					items: [
 						{ label: 'CO01 · 接案指示、诉前行为与 LBA', slug: 'institutions/co01-taking-instructions' },
 						{ label: 'CO03 · 送达、诉讼认收与管辖权异议', slug: 'institutions/co03-service-and-aos' },
