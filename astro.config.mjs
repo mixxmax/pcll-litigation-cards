@@ -482,13 +482,13 @@ export default defineConfig({
 									title: '案件管理与审讯组织清单',
 									badge: '7项核心',
 									items: [
-										{ label: '排期问卷倒排填写', en: 'Timetabling Questionnaire', href: '#0b-案件管理总框架三文书两会议三里程碑' },
-										{ label: '调解证书提交死线', en: 'Mediation Certificate PD 31', href: '#0b-案件管理总框架三文书两会议三里程碑' },
-										{ label: '三大不可动摇里程碑', en: '3 Milestone Dates (CMC/PTR/Trial)', href: '#0b-案件管理总框架三文书两会议三里程碑' },
-										{ label: '非里程碑时限合意调整', en: 'Non-Milestone Consent O.25 r.1B', href: '#0b-案件管理总框架三文书两会议三里程碑' },
-										{ label: '除非命令与违规制裁', en: 'Unless Order & Strike Out', href: '#0b-案件管理总框架三文书两会议三里程碑' },
-										{ label: '制裁宽免五维裁量', en: 'Relief from Sanctions O.2 r.5', href: '#0b-案件管理总框架三文书两会议三里程碑' },
-										{ label: '审前复核与正式排期', en: 'PTR, Bundles & Setting Down', href: '#0b-案件管理总框架三文书两会议三里程碑' },
+										{ label: '排期问卷倒排填写', en: 'Timetabling Questionnaire', href: '#0c-timetabling-questionnaire-逐栏填写逻辑' },
+										{ label: '调解证书提交死线', en: 'Mediation Certificate PD 31', href: '#0b-8-调解与和解会议体系-cjr-的-和解压力-从什么制度件上发生' },
+										{ label: '三大不可动摇里程碑', en: '3 Milestone Dates (CMC/PTR/Trial)', href: '#0b-6-里程碑日期-vs-非里程碑日期-更改规则对照' },
+										{ label: '非里程碑时限合意调整', en: 'Non-Milestone Consent O.25 r.1B', href: '#0d-1-三个渠道与两个例外' },
+										{ label: '除非命令与违规制裁', en: 'Unless Order & Strike Out', href: '#0e-1-unless-order-的生成-形式与相称' },
+										{ label: '制裁宽免五维裁量', en: 'Relief from Sanctions O.2 r.5', href: '#0e-3-relief-from-sanctions-14-日窗口-传票-誓章-十因素裁量' },
+										{ label: '审前复核与正式排期', en: 'PTR, Bundles & Setting Down', href: '#0f-1-ptr-审前覆核-法院预期的-备审成果展示' },
 									]
 								},
 								'co13': {
