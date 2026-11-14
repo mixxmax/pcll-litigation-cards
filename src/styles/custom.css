@@ -45,41 +45,49 @@
 }
 
 /* ==========================================================================
-   Custom Top Navigation Bar (Header Background Image with High Contrast)
+   Custom Top Navigation Bar (Horizontal Repeating Ribbon / ~20 Tiles)
    ========================================================================== */
 header.header {
-  background-image: linear-gradient(rgba(245, 244, 239, 0.72), rgba(245, 244, 239, 0.84)), url('/pcll-litigation-cards/header-bg.png') !important;
-  background-size: cover !important;
-  background-position: center !important;
-  background-repeat: no-repeat !important;
-  backdrop-filter: blur(8px) !important;
-  -webkit-backdrop-filter: blur(8px) !important;
+  background-image: linear-gradient(rgba(245, 244, 239, 0.45), rgba(245, 244, 239, 0.55)), url('/pcll-litigation-cards/header-bg.png') !important;
+  background-size: 64px 64px !important;
+  background-repeat: repeat-x !important;
+  background-position: left center !important;
+  backdrop-filter: blur(4px) !important;
+  -webkit-backdrop-filter: blur(4px) !important;
   border-bottom: 2px solid var(--gold) !important;
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08) !important;
 }
 
 :root[data-theme='dark'] header.header {
-  background-image: linear-gradient(rgba(17, 30, 36, 0.68), rgba(17, 30, 36, 0.82)), url('/pcll-litigation-cards/header-bg.png') !important;
+  background-image: linear-gradient(rgba(17, 30, 36, 0.45), rgba(17, 30, 36, 0.58)), url('/pcll-litigation-cards/header-bg.png') !important;
   border-bottom: 2px solid rgba(228, 201, 147, 0.6) !important;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35) !important;
 }
 
 header.header a.site-title {
   font-family: var(--sl-font-system-headers);
-  font-size: 1.25rem !important;
+  font-size: 1.18rem !important;
   font-weight: 700 !important;
   letter-spacing: 0.02em !important;
-  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+  padding: 4px 12px !important;
+  border-radius: 8px !important;
+  background: rgba(255, 255, 255, 0.82) !important;
+  border: 1px solid var(--sl-color-gray-5) !important;
+  backdrop-filter: blur(8px) !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08) !important;
+  color: var(--sl-color-accent-high) !important;
 }
 
 :root[data-theme='dark'] header.header a.site-title {
+  background: rgba(17, 30, 36, 0.85) !important;
+  border-color: rgba(228, 201, 147, 0.4) !important;
   color: #ffffff !important;
-  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.9);
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.8);
 }
 
 /* Frosted glass controls on the top header */
 header.header button[data-open-modal] {
-  background: rgba(255, 255, 255, 0.65) !important;
+  background: rgba(255, 255, 255, 0.85) !important;
   border: 1px solid var(--sl-color-gray-5) !important;
   backdrop-filter: blur(8px) !important;
   border-radius: 8px !important;
@@ -87,14 +95,14 @@ header.header button[data-open-modal] {
 }
 
 :root[data-theme='dark'] header.header button[data-open-modal] {
-  background: rgba(28, 45, 52, 0.75) !important;
-  border-color: rgba(255, 255, 255, 0.15) !important;
+  background: rgba(24, 38, 44, 0.85) !important;
+  border-color: rgba(255, 255, 255, 0.2) !important;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3) !important;
 }
 
 header.header .social-icons a,
 header.header starlight-theme-select label {
-  background: rgba(255, 255, 255, 0.5) !important;
+  background: rgba(255, 255, 255, 0.8) !important;
   border: 1px solid var(--sl-color-gray-5) !important;
   backdrop-filter: blur(8px) !important;
   border-radius: 6px !important;
@@ -102,8 +110,8 @@ header.header starlight-theme-select label {
 
 :root[data-theme='dark'] header.header .social-icons a,
 :root[data-theme='dark'] header.header starlight-theme-select label {
-  background: rgba(28, 45, 52, 0.65) !important;
-  border-color: rgba(255, 255, 255, 0.15) !important;
+  background: rgba(24, 38, 44, 0.85) !important;
+  border-color: rgba(255, 255, 255, 0.2) !important;
 }
 
 /* ==========================================================================
