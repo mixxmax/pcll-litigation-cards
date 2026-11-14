@@ -1,8 +1,15 @@
 /* PCLL Civil Litigation Editorial Theme for Astro Starlight */
 
+html { scroll-behavior: smooth; }
+
+::selection {
+  background: rgba(38, 118, 108, 0.22);
+  color: inherit;
+}
+
 :root {
   --sl-font-system-headers: Georgia, "Songti SC", "PingFang SC", "Times New Roman", serif;
-  --sl-font-system: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --sl-font-system: "Inter", "Noto Sans SC", -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
   --sl-font-system-mono: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
 
   /* Editorial Light Mode Palette */
@@ -170,12 +177,13 @@ h3 {
   align-items: center;
   gap: 10px;
   flex-wrap: wrap;
-  padding: 12px 16px;
+  padding: 14px 18px;
   margin-bottom: 2rem;
-  background: var(--sl-color-accent-low);
+  background: linear-gradient(135deg, var(--sl-color-accent-low) 0%, rgba(38, 118, 108, 0.04) 100%);
   border: 1px solid var(--sl-color-gray-6);
-  border-radius: 8px;
+  border-radius: 10px;
   font-size: 0.88rem;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
 }
 
 .toolbar-label {
@@ -186,12 +194,13 @@ h3 {
 .action-btn {
   background: var(--sl-color-gray-7);
   border: 1px solid var(--sl-color-gray-6);
-  border-radius: 6px;
-  padding: 4px 12px;
+  border-radius: 20px;
+  padding: 5px 14px;
   font-size: 0.84rem;
   color: var(--sl-color-gray-2);
   cursor: pointer;
-  transition: all 0.15s ease;
+  transition: all 0.2s ease;
+  font-weight: 500;
 }
 
 .action-btn:hover {
@@ -212,8 +221,13 @@ h3 {
   display: flex !important;
   align-items: baseline;
   gap: 8px;
-  padding: 4px 0;
-  transition: color 0.15s ease;
+  padding: 6px 10px;
+  border-radius: 8px;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.collapsible-heading:hover {
+  background: var(--sl-color-accent-low);
 }
 
 .collapsible-heading:hover h2 {
@@ -318,4 +332,175 @@ h3 {
   transform: translateY(-2px);
   border-color: var(--sl-color-accent) !important;
   box-shadow: 0 8px 24px rgba(23, 45, 55, 0.08);
+}
+
+/* ==========================================================================
+   Hero Page Title Banner
+   ========================================================================== */
+.sl-markdown-content > h1:first-of-type,
+.content-panel h1 {
+  background: linear-gradient(135deg, var(--sl-color-accent-low) 0%, rgba(38, 118, 108, 0.08) 100%);
+  padding: 1.2rem 1.6rem !important;
+  border-radius: 12px;
+  border-left: 5px solid var(--sl-color-accent);
+  margin-bottom: 2rem !important;
+  font-size: 1.85rem !important;
+}
+
+:root[data-theme='dark'] .sl-markdown-content > h1:first-of-type,
+:root[data-theme='dark'] .content-panel h1 {
+  background: linear-gradient(135deg, rgba(27, 51, 56, 0.6) 0%, rgba(141, 200, 181, 0.08) 100%);
+}
+
+/* ==========================================================================
+   Left Sidebar Polish
+   ========================================================================== */
+nav.sidebar-content ul li a {
+  border-radius: 6px;
+  transition: all 0.15s ease;
+  padding: 5px 10px !important;
+}
+
+nav.sidebar-content ul li a:hover {
+  background: var(--sl-color-accent-low);
+  padding-left: 14px !important;
+}
+
+nav.sidebar-content ul li a[aria-current="page"] {
+  background: var(--sl-color-accent) !important;
+  color: #fff !important;
+  font-weight: 600;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(38, 118, 108, 0.25);
+}
+
+/* Sidebar group label */
+.sidebar-content .top-level > li > details > summary,
+.sidebar-content .top-level > li > a {
+  font-weight: 600;
+  font-size: 0.92rem;
+  letter-spacing: 0.01em;
+}
+
+/* ==========================================================================
+   Right TOC Sidebar Polish
+   ========================================================================== */
+starlight-toc {
+  border-left: 2px solid var(--sl-color-gray-6);
+  padding-left: 0.5rem;
+}
+
+starlight-toc a {
+  font-size: 0.82rem !important;
+  border-radius: 4px;
+  padding: 2px 6px !important;
+  transition: all 0.12s ease;
+}
+
+starlight-toc a:hover {
+  background: var(--sl-color-accent-low);
+  color: var(--sl-color-accent) !important;
+}
+
+starlight-toc a[aria-current="true"] {
+  background: rgba(38, 118, 108, 0.1);
+  color: var(--sl-color-accent) !important;
+  font-weight: 600;
+  border-left: 3px solid var(--sl-color-accent);
+  margin-left: -0.65rem;
+  padding-left: 9px !important;
+}
+
+/* ==========================================================================
+   Inline Code & Blockquote
+   ========================================================================== */
+.sl-markdown-content :not(pre) > code {
+  background: rgba(38, 118, 108, 0.08) !important;
+  color: var(--sl-color-accent) !important;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.88em;
+  border: 1px solid rgba(38, 118, 108, 0.12);
+}
+
+:root[data-theme='dark'] .sl-markdown-content :not(pre) > code {
+  background: rgba(141, 200, 181, 0.1) !important;
+  color: var(--sl-color-accent) !important;
+  border-color: rgba(141, 200, 181, 0.15);
+}
+
+.sl-markdown-content blockquote {
+  border-left: 4px solid var(--sl-color-accent) !important;
+  background: var(--sl-color-accent-low);
+  padding: 1rem 1.4rem;
+  border-radius: 0 8px 8px 0;
+  margin: 1.5rem 0;
+  font-style: italic;
+}
+
+/* ==========================================================================
+   Citation Footnotes (the <small> source tags)
+   ========================================================================== */
+.sl-markdown-content small {
+  display: inline;
+  font-size: 0.78em;
+  color: var(--sl-color-gray-3);
+  font-style: italic;
+}
+
+/* ==========================================================================
+   Link Styling
+   ========================================================================== */
+.sl-markdown-content a:not(.sl-anchor-link) {
+  color: var(--sl-color-accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+.sl-markdown-content a:not(.sl-anchor-link):hover {
+  border-bottom-color: var(--sl-color-accent);
+}
+
+/* ==========================================================================
+   Scrollbar Styling (Webkit)
+   ========================================================================== */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--sl-color-gray-4);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--sl-color-accent);
+}
+
+/* ==========================================================================
+   Collapsible Section Left Accent Bar
+   ========================================================================== */
+.collapsible-section-body {
+  border-left: 3px solid var(--sl-color-gray-6);
+  padding-left: 1rem;
+  margin-left: 0.3rem;
+}
+
+.collapsible-heading[aria-expanded="true"] + .collapsible-section-body {
+  border-left-color: var(--sl-color-accent);
+}
+
+/* ==========================================================================
+   Smooth Focus Rings
+   ========================================================================== */
+:focus-visible {
+  outline: 2px solid var(--sl-color-accent);
+  outline-offset: 2px;
+  border-radius: 4px;
 }
