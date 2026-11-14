@@ -504,3 +504,73 @@ starlight-toc a[aria-current="true"] {
   outline-offset: 2px;
   border-radius: 4px;
 }
+
+/* ==========================================================================
+   Obsidian Callout Component Styling
+   ========================================================================== */
+details.obsidian-callout {
+  border-radius: 10px;
+  border: 1px solid var(--sl-color-gray-6);
+  background: var(--sl-color-gray-7);
+  margin: 1.8rem 0;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+  transition: all 0.2s ease;
+}
+
+details.obsidian-callout > summary.callout-summary {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 18px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  user-select: none;
+  background: var(--sl-color-accent-low);
+  border-bottom: 1px solid transparent;
+  transition: background 0.15s ease;
+}
+
+details.obsidian-callout > summary.callout-summary:hover {
+  filter: brightness(0.97);
+}
+
+details.obsidian-callout[open] > summary.callout-summary {
+  border-bottom: 1px solid var(--sl-color-gray-6);
+}
+
+details.obsidian-callout .callout-body {
+  padding: 16px 22px;
+  line-height: 1.75;
+}
+
+details.obsidian-callout.callout-info {
+  border-left: 4px solid var(--sl-color-accent);
+}
+
+details.obsidian-callout.callout-abstract {
+  border-left: 4px solid #8b5cf6;
+}
+
+details.obsidian-callout.callout-abstract > summary.callout-summary {
+  background: rgba(139, 92, 246, 0.08);
+  color: #6d28d9;
+}
+
+:root[data-theme='dark'] details.obsidian-callout.callout-abstract > summary.callout-summary {
+  background: rgba(139, 92, 246, 0.16);
+  color: #c4b5fd;
+}
+
+details.obsidian-callout.callout-note {
+  border-left: 4px solid #3b82f6;
+}
+
+details.obsidian-callout.callout-tip {
+  border-left: 4px solid #10b981;
+}
+
+details.obsidian-callout.callout-warning {
+  border-left: 4px solid #f59e0b;
+}

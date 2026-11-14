@@ -96,7 +96,59 @@ export default defineConfig({
 							}
 						};
 
-						// 2. Interactive Collapsible Sections with Auto-Collapse for §6+
+						// 2. Obsidian Callouts Renderer (transform blockquotes starting with [!type] into interactive <details>)
+						const renderCallouts = () => {
+							const blockquotes = document.querySelectorAll('.sl-markdown-content blockquote');
+							blockquotes.forEach((bq) => {
+								const firstP = bq.querySelector('p');
+								if (!firstP) return;
+								const text = firstP.textContent || '';
+								const match = text.match(/^\s*\[!([a-zA-Z0-9_-]+)\]([+-]?)\s*(.*)$/);
+								if (!match) return;
+
+								const type = match[1].toLowerCase();
+								const foldSign = match[2];
+								const title = match[3].trim() || type.toUpperCase();
+
+								const icons = {
+									info: 'ℹ️',
+									abstract: '📋',
+									note: '📝',
+									tip: '💡',
+									warning: '⚠️',
+									danger: '🚨',
+								};
+								const icon = icons[type] || '📌';
+
+								// Remove the callout marker line from the first paragraph
+								firstP.innerHTML = firstP.innerHTML.replace(/^\s*\[![a-zA-Z0-9_-]+\][+-]?\s*.*?(<br\s*\/?>|\n|$)/i, '').trim();
+								if (!firstP.textContent.trim() && firstP.children.length === 0) {
+									firstP.remove();
+								}
+
+								const details = document.createElement('details');
+								details.className = 'obsidian-callout callout-' + type;
+								if (foldSign !== '-') {
+									details.open = true;
+								}
+
+								const summary = document.createElement('summary');
+								summary.className = 'callout-summary';
+								summary.innerHTML = '<span class="callout-icon">' + icon + '</span> <span class="callout-title">' + title + '</span>';
+								details.appendChild(summary);
+
+								const body = document.createElement('div');
+								body.className = 'callout-body';
+								while (bq.firstChild) {
+									body.appendChild(bq.firstChild);
+								}
+								details.appendChild(body);
+
+								bq.parentElement?.replaceChild(details, bq);
+							});
+						};
+
+						// 3. Interactive Collapsible Sections with Auto-Collapse for §6+
 						const initCollapsibleSections = () => {
 							const content = document.querySelector('.sl-markdown-content');
 							if (!content || content.dataset.collapsibleInit === 'true') return;
@@ -271,6 +323,7 @@ export default defineConfig({
 
 						const setup = () => {
 							renderMermaid();
+							renderCallouts();
 							initCollapsibleSections();
 						};
 
