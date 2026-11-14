@@ -103,7 +103,7 @@ export default defineConfig({
 								const firstP = bq.querySelector('p');
 								if (!firstP) return;
 								const text = firstP.textContent || '';
-								const match = text.match(/^\s*\[!([a-zA-Z0-9_-]+)\]([+-]?)\s*(.*)$/);
+								const match = text.match(/^\\s*\\[!([a-zA-Z0-9_-]+)\\]([+-]?)\\s*(.*)$/);
 								if (!match) return;
 
 								const type = match[1].toLowerCase();
@@ -121,7 +121,7 @@ export default defineConfig({
 								const icon = icons[type] || '📌';
 
 								// Remove the callout marker line from the first paragraph
-								firstP.innerHTML = firstP.innerHTML.replace(/^\s*\[![a-zA-Z0-9_-]+\][+-]?\s*.*?(<br\s*\/?>|\n|$)/i, '').trim();
+								firstP.innerHTML = firstP.innerHTML.replace(/^\\s*\\[![a-zA-Z0-9_-]+\\][+-]?\\s*.*?(<br\\s*\\/?>|\\n|$)/i, '').trim();
 								if (!firstP.textContent.trim() && firstP.children.length === 0) {
 									firstP.remove();
 								}
