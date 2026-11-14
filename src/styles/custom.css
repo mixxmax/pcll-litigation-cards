@@ -1,0 +1,117 @@
+/* PCLL Civil Litigation Editorial Theme for Astro Starlight */
+
+:root {
+  --sl-font-system-headers: Georgia, "Songti SC", "PingFang SC", "Times New Roman", serif;
+  --sl-font-system: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --sl-font-system-mono: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+
+  /* Editorial Light Mode Palette */
+  --sl-color-accent-low: #eef5f2;
+  --sl-color-accent: #26766c;
+  --sl-color-accent-high: #172d37;
+  
+  --sl-color-white: #192a35;
+  --sl-color-gray-1: #243540;
+  --sl-color-gray-2: #485c66;
+  --sl-color-gray-3: #6e828c;
+  --sl-color-gray-4: #9db0b8;
+  --sl-color-gray-5: #d2dee0;
+  --sl-color-gray-6: #e3e7e5;
+  --sl-color-gray-7: #f0f3f2;
+  --sl-color-black: #f5f4ef;
+  
+  --gold: #e4c993;
+}
+
+:root[data-theme='dark'] {
+  /* Editorial Dark Mode Palette */
+  --sl-color-accent-low: #1b3338;
+  --sl-color-accent: #8dc8b5;
+  --sl-color-accent-high: #cce9df;
+  
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #e2eaed;
+  --sl-color-gray-2: #b8c9ce;
+  --sl-color-gray-3: #879ea6;
+  --sl-color-gray-4: #4e656d;
+  --sl-color-gray-5: #283a42;
+  --sl-color-gray-6: #1c2d34;
+  --sl-color-gray-7: #16252c;
+  --sl-color-black: #111e24;
+}
+
+/* Typography Enhancements */
+h1, h2, h3, h4 {
+  font-family: var(--sl-font-system-headers);
+  letter-spacing: -0.015em;
+}
+
+/* Law-Firm Quality Clean Tables */
+.sl-markdown-content table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1.8rem 0;
+  border: 1px solid var(--sl-color-gray-6);
+  border-radius: 8px;
+  overflow: hidden;
+  font-size: 0.94rem;
+}
+
+.sl-markdown-content th {
+  background: var(--sl-color-accent-low);
+  color: var(--sl-color-accent-high);
+  font-weight: 600;
+  padding: 12px 14px;
+  border-bottom: 2px solid var(--sl-color-gray-5);
+  text-align: left;
+}
+
+.sl-markdown-content td {
+  padding: 11px 14px;
+  border-bottom: 1px solid var(--sl-color-gray-6);
+  line-height: 1.65;
+  vertical-align: top;
+}
+
+.sl-markdown-content tr:last-child td {
+  border-bottom: none;
+}
+
+.sl-markdown-content tbody tr:nth-child(even) td {
+  background: rgba(38, 118, 108, 0.03);
+}
+
+:root[data-theme='dark'] .sl-markdown-content tbody tr:nth-child(even) td {
+  background: rgba(141, 200, 181, 0.04);
+}
+
+.sl-markdown-content tbody tr:hover td {
+  background: rgba(38, 118, 108, 0.07);
+}
+
+/* Card Styling */
+.card {
+  border-radius: 10px;
+  border: 1px solid var(--sl-color-gray-6) !important;
+  background: var(--sl-color-gray-7) !important;
+  box-shadow: 0 4px 16px rgba(23, 45, 55, 0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  border-color: var(--sl-color-accent) !important;
+  box-shadow: 0 8px 24px rgba(23, 45, 55, 0.08);
+}
+
+/* Mermaid Flowcharts */
+.mermaid {
+  background: var(--sl-color-gray-7);
+  border: 1px solid var(--sl-color-gray-6);
+  border-radius: 8px;
+  padding: 20px;
+  margin: 1.8rem 0;
+  display: flex;
+  justify-content: center;
+}
