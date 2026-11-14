@@ -12,18 +12,18 @@ html { scroll-behavior: smooth; }
   --sl-font-system: "Inter", "Noto Sans SC", -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
   --sl-font-system-mono: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
 
-  /* Editorial Light Mode Palette */
+  /* Editorial Light Mode Palette - Deep Ink & High Contrast */
   --sl-color-accent-low: #eef5f2;
   --sl-color-accent: #26766c;
-  --sl-color-accent-high: #172d37;
+  --sl-color-accent-high: #0d1b22;
   
-  --sl-color-white: #192a35;
-  --sl-color-gray-1: #243540;
-  --sl-color-gray-2: #485c66;
-  --sl-color-gray-3: #6e828c;
-  --sl-color-gray-4: #9db0b8;
-  --sl-color-gray-5: #d2dee0;
-  --sl-color-gray-6: #e3e7e5;
+  --sl-color-white: #0c1519;
+  --sl-color-gray-1: #141f26;
+  --sl-color-gray-2: #1c2930;
+  --sl-color-gray-3: #42555f;
+  --sl-color-gray-4: #8598a1;
+  --sl-color-gray-5: #cbd8dc;
+  --sl-color-gray-6: #e2e8e7;
   --sl-color-gray-7: #f0f3f2;
   --sl-color-black: #f5f4ef;
   
@@ -152,12 +152,32 @@ header.header starlight-theme-select label {
 .sl-markdown-content {
   max-width: 90rem !important;
   line-height: 1.8;
+  color: var(--sl-color-gray-2);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+:root:not([data-theme='dark']) .sl-markdown-content {
+  color: #141f26 !important;
+}
+
+:root:not([data-theme='dark']) .sl-markdown-content p,
+:root:not([data-theme='dark']) .sl-markdown-content li {
+  color: #141f26 !important;
+  font-weight: 450;
 }
 
 /* Typography Enhancements */
 h1, h2, h3, h4 {
   font-family: var(--sl-font-system-headers);
   letter-spacing: -0.015em;
+}
+
+:root:not([data-theme='dark']) .sl-markdown-content h1,
+:root:not([data-theme='dark']) .sl-markdown-content h2 {
+  color: #0b151a !important;
+  font-weight: 700;
 }
 
 .sl-markdown-content h1:not(:first-of-type) {
@@ -350,6 +370,11 @@ h1, h2, h3, h4 {
   vertical-align: top;
 }
 
+:root:not([data-theme='dark']) .sl-markdown-content td {
+  color: #141f26 !important;
+  font-weight: 450;
+}
+
 :root[data-theme='dark'] .sl-markdown-content td {
   color: #d6e2e5 !important;
   border-bottom: 1px solid rgba(141, 200, 181, 0.12) !important;
@@ -384,18 +409,123 @@ h1, h2, h3, h4 {
   overflow-x: auto;
   display: flex !important;
   justify-content: center;
-  background: var(--sl-color-gray-7);
-  border: 1px solid var(--sl-color-gray-6);
+  background: #ffffff !important;
+  border: 1px solid var(--sl-color-gray-5) !important;
   border-radius: 10px;
   padding: 24px 18px;
   margin: 2rem 0;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.03);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04) !important;
 }
 
+/* Light Mode: Original Crisp White Background & High-Contrast Ink Text */
+:root:not([data-theme='dark']) .mermaid {
+  background: #ffffff !important;
+  border: 1px solid #d8e2e6 !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04) !important;
+}
+
+:root:not([data-theme='dark']) .mermaid svg .node rect,
+:root:not([data-theme='dark']) .mermaid svg .node polygon,
+:root:not([data-theme='dark']) .mermaid svg .node circle {
+  fill: #ffffff !important;
+  stroke: #79919d !important;
+  stroke-width: 1.5px !important;
+}
+
+:root:not([data-theme='dark']) .mermaid svg .node.decision rect,
+:root:not([data-theme='dark']) .mermaid svg .node.decision polygon {
+  fill: #f4f8fa !important;
+  stroke: #26766c !important;
+  stroke-width: 2px !important;
+}
+
+:root:not([data-theme='dark']) .mermaid svg .node .label,
+:root:not([data-theme='dark']) .mermaid svg .node .nodeLabel,
+:root:not([data-theme='dark']) .mermaid svg .node p,
+:root:not([data-theme='dark']) .mermaid svg .node span,
+:root:not([data-theme='dark']) .mermaid svg .node div {
+  color: #0e171b !important;
+  fill: #0e171b !important;
+  font-weight: 500 !important;
+}
+
+:root:not([data-theme='dark']) .mermaid svg .cluster rect {
+  fill: #f8fafb !important;
+  stroke: #b0c2c8 !important;
+  stroke-width: 1.5px !important;
+}
+
+:root:not([data-theme='dark']) .mermaid svg .cluster text,
+:root:not([data-theme='dark']) .mermaid svg .cluster span {
+  color: #172d37 !important;
+  fill: #172d37 !important;
+  font-weight: 700 !important;
+}
+
+:root:not([data-theme='dark']) .mermaid svg .edgeLabel {
+  background-color: #ffffff !important;
+  color: #1a333d !important;
+  fill: #1a333d !important;
+  font-weight: 500 !important;
+}
+
+:root:not([data-theme='dark']) .mermaid svg .edgePath path {
+  stroke: #5a737f !important;
+  stroke-width: 1.5px !important;
+}
+
+:root:not([data-theme='dark']) .mermaid svg marker path,
+:root:not([data-theme='dark']) .mermaid svg #flowchart-pointEnd,
+:root:not([data-theme='dark']) .mermaid svg #flowchart-circleEnd {
+  fill: #5a737f !important;
+  stroke: #5a737f !important;
+}
+
+:root:not([data-theme='dark']) .mermaid svg .warnnode rect,
+:root:not([data-theme='dark']) .mermaid svg .warnnode polygon,
+:root:not([data-theme='dark']) .mermaid svg .warnnode path {
+  fill: #fff0f0 !important;
+  stroke: #d9534f !important;
+  stroke-width: 2px !important;
+}
+
+:root:not([data-theme='dark']) .mermaid svg .warnnode .label,
+:root:not([data-theme='dark']) .mermaid svg .warnnode .nodeLabel,
+:root:not([data-theme='dark']) .mermaid svg .warnnode p,
+:root:not([data-theme='dark']) .mermaid svg .warnnode span,
+:root:not([data-theme='dark']) .mermaid svg .warnnode div {
+  color: #991b1b !important;
+  fill: #991b1b !important;
+  font-weight: 600 !important;
+}
+
+/* Dark Mode: Cyber-Editorial Console Aesthetic */
 :root[data-theme='dark'] .mermaid {
   background: rgba(13, 23, 29, 0.95) !important;
   border: 1px solid rgba(141, 200, 181, 0.25) !important;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.04) !important;
+}
+
+:root[data-theme='dark'] .mermaid svg .node rect,
+:root[data-theme='dark'] .mermaid svg .node polygon,
+:root[data-theme='dark'] .mermaid svg .node circle {
+  fill: #142229 !important;
+  stroke: rgba(141, 200, 181, 0.35) !important;
+}
+
+:root[data-theme='dark'] .mermaid svg .node.decision rect,
+:root[data-theme='dark'] .mermaid svg .node.decision polygon {
+  fill: #192d35 !important;
+  stroke: #e4c993 !important;
+}
+
+:root[data-theme='dark'] .mermaid svg .node .label,
+:root[data-theme='dark'] .mermaid svg .node .nodeLabel,
+:root[data-theme='dark'] .mermaid svg .node p,
+:root[data-theme='dark'] .mermaid svg .node span,
+:root[data-theme='dark'] .mermaid svg .node div {
+  color: #e2eaed !important;
+  fill: #e2eaed !important;
 }
 
 :root[data-theme='dark'] .mermaid svg .cluster rect {
@@ -581,6 +711,14 @@ starlight-toc a[aria-current="true"] {
   font-size: 0.78em;
   color: var(--sl-color-gray-3);
   font-style: italic;
+}
+
+:root:not([data-theme='dark']) .sl-markdown-content small {
+  color: #384d56 !important;
+}
+
+:root[data-theme='dark'] .sl-markdown-content small {
+  color: #9cb3bc !important;
 }
 
 /* ==========================================================================
