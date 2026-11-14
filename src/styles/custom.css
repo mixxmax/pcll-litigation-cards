@@ -45,6 +45,68 @@
 }
 
 /* ==========================================================================
+   Custom Top Navigation Bar (Header Background Image with High Contrast)
+   ========================================================================== */
+header.header {
+  background-image: linear-gradient(rgba(245, 244, 239, 0.72), rgba(245, 244, 239, 0.84)), url('/pcll-litigation-cards/header-bg.png') !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  backdrop-filter: blur(8px) !important;
+  -webkit-backdrop-filter: blur(8px) !important;
+  border-bottom: 2px solid var(--gold) !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08) !important;
+}
+
+:root[data-theme='dark'] header.header {
+  background-image: linear-gradient(rgba(17, 30, 36, 0.68), rgba(17, 30, 36, 0.82)), url('/pcll-litigation-cards/header-bg.png') !important;
+  border-bottom: 2px solid rgba(228, 201, 147, 0.6) !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35) !important;
+}
+
+header.header a.site-title {
+  font-family: var(--sl-font-system-headers);
+  font-size: 1.25rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.02em !important;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+}
+
+:root[data-theme='dark'] header.header a.site-title {
+  color: #ffffff !important;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.9);
+}
+
+/* Frosted glass controls on the top header */
+header.header button[data-open-modal] {
+  background: rgba(255, 255, 255, 0.65) !important;
+  border: 1px solid var(--sl-color-gray-5) !important;
+  backdrop-filter: blur(8px) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05) !important;
+}
+
+:root[data-theme='dark'] header.header button[data-open-modal] {
+  background: rgba(28, 45, 52, 0.75) !important;
+  border-color: rgba(255, 255, 255, 0.15) !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3) !important;
+}
+
+header.header .social-icons a,
+header.header starlight-theme-select label {
+  background: rgba(255, 255, 255, 0.5) !important;
+  border: 1px solid var(--sl-color-gray-5) !important;
+  backdrop-filter: blur(8px) !important;
+  border-radius: 6px !important;
+}
+
+:root[data-theme='dark'] header.header .social-icons a,
+:root[data-theme='dark'] header.header starlight-theme-select label {
+  background: rgba(28, 45, 52, 0.65) !important;
+  border-color: rgba(255, 255, 255, 0.15) !important;
+}
+
+/* ==========================================================================
    Full-Width & Wide Layout Controls
    ========================================================================== */
 
