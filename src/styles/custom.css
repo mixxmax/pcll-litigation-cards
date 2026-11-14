@@ -590,3 +590,230 @@ details.obsidian-callout.callout-tip {
 details.obsidian-callout.callout-warning {
   border-left: 4px solid #f59e0b;
 }
+
+/* ==========================================================================
+   Precision HUD Checklist & Right Sidebar Widget
+   ========================================================================== */
+.hud-checklist-card {
+  margin-bottom: 1.5rem;
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: var(--sl-color-gray-7);
+  border: 1px solid var(--sl-color-gray-6);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.04);
+  font-size: 0.82rem;
+}
+
+:root[data-theme='dark'] .hud-checklist-card {
+  background: rgba(22, 37, 44, 0.75);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+}
+
+.hud-checklist-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--sl-color-gray-6);
+}
+
+.hud-header-title {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-weight: 600;
+  color: var(--sl-color-accent-high);
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+}
+
+:root[data-theme='dark'] .hud-header-title {
+  color: #ffffff;
+}
+
+.hud-pulse-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #10b981;
+  box-shadow: 0 0 8px #10b981;
+  display: inline-block;
+  animation: hudPulse 2s infinite ease-in-out;
+}
+
+@keyframes hudPulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(0.85); }
+}
+
+.hud-badge-count {
+  font-size: 0.72rem;
+  padding: 1px 7px;
+  border-radius: 10px;
+  background: rgba(16, 185, 129, 0.12);
+  color: #10b981;
+  font-weight: 600;
+  border: 1px solid rgba(16, 185, 129, 0.25);
+}
+
+.hud-checklist-items {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.hud-check-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 5px 8px;
+  border-radius: 6px;
+  color: var(--sl-color-gray-2);
+  text-decoration: none !important;
+  transition: all 0.15s ease;
+  line-height: 1.35;
+}
+
+.hud-check-item:hover {
+  background: var(--sl-color-accent-low);
+  color: var(--sl-color-accent-high) !important;
+  transform: translateX(2px);
+}
+
+:root[data-theme='dark'] .hud-check-item:hover {
+  background: rgba(141, 200, 181, 0.12);
+  color: #ffffff !important;
+}
+
+.hud-check-icon {
+  color: #10b981;
+  font-size: 0.82rem;
+  font-weight: 700;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+.hud-check-label {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.hud-en {
+  display: block;
+  font-size: 0.72rem;
+  color: var(--sl-color-gray-3);
+  font-family: var(--sl-font-system-mono);
+  opacity: 0.85;
+}
+
+/* ==========================================================================
+   TOC Precision HUD Track & Markers
+   ========================================================================== */
+starlight-toc nav {
+  position: relative;
+}
+
+starlight-toc h2 {
+  font-size: 0.82rem !important;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 0.8rem !important;
+  color: var(--sl-color-gray-3);
+}
+
+starlight-toc ul {
+  border-left: 1px solid var(--sl-color-gray-5) !important;
+  padding-left: 0.75rem !important;
+  margin-left: 0.25rem !important;
+}
+
+starlight-toc a {
+  position: relative;
+  display: flex !important;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 6px !important;
+  border-radius: 4px;
+  font-size: 0.8rem !important;
+}
+
+starlight-toc a::before {
+  content: '';
+  position: absolute;
+  left: -0.75rem;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--sl-color-gray-4);
+  transform: translateX(-50%);
+  transition: all 0.2s ease;
+}
+
+starlight-toc a:hover::before {
+  background: var(--sl-color-accent);
+  transform: translateX(-50%) scale(1.4);
+}
+
+starlight-toc a[aria-current="true"] {
+  background: rgba(38, 118, 108, 0.12) !important;
+  color: var(--sl-color-accent) !important;
+  font-weight: 600 !important;
+}
+
+:root[data-theme='dark'] starlight-toc a[aria-current="true"] {
+  background: rgba(141, 200, 181, 0.15) !important;
+  color: #cce9df !important;
+}
+
+starlight-toc a[aria-current="true"]::before {
+  background: #10b981 !important;
+  width: 7px;
+  height: 7px;
+  box-shadow: 0 0 8px #10b981;
+  transform: translateX(-50%) scale(1.2);
+}
+
+/* ==========================================================================
+   Left Sidebar Step Indicator Dots
+   ========================================================================== */
+nav.sidebar-content ul li a {
+  position: relative;
+  border-radius: 6px;
+  transition: all 0.15s ease;
+  padding: 6px 12px !important;
+  font-size: 0.88rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+nav.sidebar-content ul li a::before {
+  content: '○';
+  font-size: 0.65em;
+  opacity: 0.5;
+  transition: all 0.2s ease;
+}
+
+nav.sidebar-content ul li a:hover::before {
+  content: '●';
+  opacity: 0.8;
+  color: var(--sl-color-accent);
+}
+
+nav.sidebar-content ul li a[aria-current="page"] {
+  background: var(--sl-color-accent) !important;
+  color: #fff !important;
+  font-weight: 600;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(38, 118, 108, 0.35);
+  padding-left: 14px !important;
+}
+
+nav.sidebar-content ul li a[aria-current="page"]::before {
+  content: '●';
+  opacity: 1;
+  color: #a7f3d0;
+  text-shadow: 0 0 6px rgba(167, 243, 208, 0.8);
+}

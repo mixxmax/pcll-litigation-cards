@@ -302,6 +302,7 @@ export default defineConfig({
 									}
 								}
 							};
+							window.expandTarget = expandTarget;
 
 							document.querySelectorAll('starlight-toc a').forEach((a) => {
 								a.addEventListener('click', () => {
@@ -321,10 +322,68 @@ export default defineConfig({
 							}
 						};
 
+						// 4. Precision HUD Checklist Widget for Right Sidebar
+						const initHudChecklist = () => {
+							const toc = document.querySelector('starlight-toc');
+							if (!toc || !toc.parentElement || document.querySelector('.hud-checklist-card')) return;
+
+							const widget = document.createElement('div');
+							widget.className = 'hud-checklist-card not-content';
+							widget.innerHTML = [
+								'<div class="hud-checklist-header">',
+								'  <div class="hud-header-title">',
+								'    <span class="hud-pulse-dot"></span>',
+								'    <span class="hud-title-text">程序准入核验清单</span>',
+								'  </div>',
+								'  <span class="hud-badge-count">7项核心</span>',
+								'</div>',
+								'<div class="hud-checklist-items">',
+								'  <a href="#0b1-禁制令的性质权源与管辖" class="hud-check-item">',
+								'    <span class="hud-check-icon">✓</span>',
+								'    <span class="hud-check-label">实体权利基础 <span class="hud-en">Cause of Action</span></span>',
+								'  </a>',
+								'  <a href="#0b4-american-cyanamid按顺序审查争点赔偿与不公风险" class="hud-check-item">',
+								'    <span class="hud-check-icon">✓</span>',
+								'    <span class="hud-check-label">严重待决争点 <span class="hud-en">Serious Question</span></span>',
+								'  </a>',
+								'  <a href="#0b4-american-cyanamid按顺序审查争点赔偿与不公风险" class="hud-check-item">',
+								'    <span class="hud-check-icon">✓</span>',
+								'    <span class="hud-check-label">损害赔偿不足 <span class="hud-en">Inadequacy of Damages</span></span>',
+								'  </a>',
+								'  <a href="#0c-损害赔偿承诺与强化担保" class="hud-check-item">',
+								'    <span class="hud-check-icon">✓</span>',
+								'    <span class="hud-check-label">赔偿承诺与担保 <span class="hud-en">Cross-undertaking</span></span>',
+								'  </a>',
+								'  <a href="#0b4-american-cyanamid按顺序审查争点赔偿与不公风险" class="hud-check-item">',
+								'    <span class="hud-check-icon">✓</span>',
+								'    <span class="hud-check-label">便利与损害平衡 <span class="hud-en">Balance of Convenience</span></span>',
+								'  </a>',
+								'  <a href="#0d-单方申请与充分而坦白的披露" class="hud-check-item">',
+								'    <span class="hud-check-icon">✓</span>',
+								'    <span class="hud-check-label">充分坦白披露 <span class="hud-en">Full & Frank Disclosure</span></span>',
+								'  </a>',
+								'  <a href="#0e2-准入条件与证据" class="hud-check-item">',
+								'    <span class="hud-check-icon">✓</span>',
+								'    <span class="hud-check-label">资产散失真实风险 <span class="hud-en">Risk of Dissipation</span></span>',
+								'  </a>',
+								'</div>'
+							].join('');
+
+							toc.parentElement.insertBefore(widget, toc);
+
+							widget.querySelectorAll('.hud-check-item').forEach((a) => {
+								a.addEventListener('click', () => {
+									const hash = a.getAttribute('href')?.replace(/^#/, '');
+									if (hash && window.expandTarget) window.expandTarget(decodeURIComponent(hash));
+								});
+							});
+						};
+
 						const setup = () => {
 							renderMermaid();
 							renderCallouts();
 							initCollapsibleSections();
+							initHudChecklist();
 						};
 
 						if (document.readyState === 'loading') {
