@@ -159,7 +159,7 @@ export default defineConfig({
 
 							// Add Quick Actions Toolbar at top
 							const toolbar = document.createElement('div');
-							toolbar.className = 'section-action-toolbar';
+							toolbar.className = 'section-action-toolbar not-content';
 							toolbar.innerHTML = \`
 								<span class="toolbar-label">章节快速折叠：</span>
 								<button type="button" class="action-btn" id="btn-expand-all">全部展开</button>

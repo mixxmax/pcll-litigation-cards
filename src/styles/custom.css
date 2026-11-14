@@ -201,6 +201,8 @@ h3 {
   cursor: pointer;
   transition: all 0.2s ease;
   font-weight: 500;
+  margin: 0 !important;
+  vertical-align: middle;
 }
 
 .action-btn:hover {
