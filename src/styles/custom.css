@@ -93,6 +93,76 @@ h3 {
 }
 
 /* ==========================================================================
+   Interactive Collapsible Sections & Quick Toolbar
+   ========================================================================== */
+.section-action-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding: 12px 16px;
+  margin-bottom: 2rem;
+  background: var(--sl-color-accent-low);
+  border: 1px solid var(--sl-color-gray-6);
+  border-radius: 8px;
+  font-size: 0.88rem;
+}
+
+.toolbar-label {
+  font-weight: 600;
+  color: var(--sl-color-accent-high);
+}
+
+.action-btn {
+  background: var(--sl-color-gray-7);
+  border: 1px solid var(--sl-color-gray-6);
+  border-radius: 6px;
+  padding: 4px 12px;
+  font-size: 0.84rem;
+  color: var(--sl-color-gray-2);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.action-btn:hover {
+  background: var(--sl-color-accent);
+  color: #ffffff;
+  border-color: var(--sl-color-accent);
+}
+
+.action-btn.is-active {
+  border-color: var(--sl-color-accent);
+  color: var(--sl-color-accent);
+  font-weight: 600;
+}
+
+.collapsible-heading {
+  cursor: pointer;
+  user-select: none;
+  display: flex !important;
+  align-items: baseline;
+  gap: 8px;
+  padding: 4px 0;
+  transition: color 0.15s ease;
+}
+
+.collapsible-heading:hover h2 {
+  color: var(--sl-color-accent);
+}
+
+.section-chevron {
+  font-size: 0.72em;
+  color: var(--sl-color-accent);
+  display: inline-block;
+  user-select: none;
+  flex-shrink: 0;
+}
+
+.collapsible-section-body {
+  transition: all 0.2s ease;
+}
+
+/* ==========================================================================
    Law-Firm Quality Clean Tables (Expansive & Bordered)
    ========================================================================== */
 .sl-markdown-content table {
@@ -105,7 +175,7 @@ h3 {
   border-radius: 8px;
   overflow: hidden;
   font-size: 0.94rem;
-  display: table !important; /* overrides any inline constraints */
+  display: table !important;
 }
 
 .sl-markdown-content th {
