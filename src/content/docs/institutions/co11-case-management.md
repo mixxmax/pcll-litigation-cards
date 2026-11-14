@@ -42,7 +42,6 @@ SG课表安排:
 课表待核: "工作表10!E15:E17代码PCLL8050与名称Civil Litigation及SG7主题不一致；SG7时间仅是该条目所列，不作课程归属裁决。"
 字幕校核日期: "2026-10-11"
 字幕校核范围: "LG11（2026-10-09）字幕入库校核；定向补充与交叉核对；非整卷逐句审核"
-本轮更新: "2026-10-23：已入库材料回流；Moodle新增按用户选择后续接入"
 ---
 
 
@@ -51,7 +50,7 @@ SG课表安排:
 
 ## 速读定位层
 
-> 本层为 2026-10-09 深化重构新增的开篇导引；具体各层的规则、条件、例外与引注见下方 §0A（既有）与 §0B–§0H（本轮深化），按本层术语定位后直达。
+> 本篇为案件管理与审讯组织全周期速读定位导引。各层具体规则、准入条件、例外与权威引注见下方 §0A 既有条文梳理与 §0B–§0H 各专题专章。
 
 ### 适用范围
 
@@ -182,16 +181,9 @@ flowchart TD
 > | LG11UP | [本届Updated Word修订阅读核对](obsidian://open?vault=3b1e77255f6c6e29&file=output%2Fresearch%2FCivil%20Litigation%20LG11%20Updated%20Tracked%20Changes%20Verification%20-%202026-10-23.md) | 本层自拟 | 2026-27 |
 <!-- END:cite-legend -->
 
-> **2026-10-23本轮更新**：新增／校准落点 费用修订及来源视图；当前材料链见[全科当前进度](../_meta/Current%20Progress%20and%20Material%20Uptake.md)。下方带日期的旧快照保留为历史。
-> **2026-10-06内容扩充**：先读新增“0A. 从管理命令到可开审案件：时限、补救和庭审准备”，其中逐条展开条件、例外、证据、行动和后果；原有分析与引注保留。课堂字幕只作教师解释及核对，ASR内容与书面规则有别。
-
-
-> 制作时间：2026-10-01（Asia/Shanghai）；材料快照为制作时本地已入库文件。以topic为单位，编号是本课现行目录锚点，不限制辐射讲次。
-> 本文件是新增体系稿；相关旧卡的原文、引注和未决项仍保留。下述“学习建模／策略分析”是对已引规则的组织，不是新增法条或本届案情。
-
 ## 0B. 案件管理总框架：三文书、两会议、三里程碑
 
-> 本节为 2026-10-09 深化重构新增的主体之一（对应深度合同①）。主线：**诉答终结（deemed close of pleadings）→ 排期问卷（28 日）→ Consent Summons／Case Management Summons（14 日）→ order nisi（14 日窗口）→ CMC → PTR → setting down → listing → trial**；旁挂：**逾期 → unless order → 自动制裁 → relief** 回路。主体依据为本届 LG11 大纲、本届 LG15 大纲＋Annex（内附 PD 5.2／5.6／7.1 全文）、往届 LG11 三件套（往届仅参考）与 Set 3 应试笔记（往届仅参考）。 <small style="opacity: 0.55">〔CL11M L23 "Lecture title | Case Management & Extension of Time"；CL11M L27 "Ophelia Chan on Case Management &  Sam Liu on Extension of Time"〕</small>
+> **核心推进主线**：**诉答终结（deemed close of pleadings）→ 排期问卷（28 日）→ Consent Summons／Case Management Summons（14 日）→ order nisi（14 日窗口）→ CMC → PTR → setting down → listing → trial**；旁挂：**逾期 → unless order → 自动制裁 → relief** 回路。主体依据为本届 LG11 大纲、本届 LG15 大纲＋Annex（内附 PD 5.2／5.6／7.1 全文）、往届 LG11 三件套（往届仅参考）与 Set 3 应试笔记（往届仅参考）。 <small style="opacity: 0.55">〔CL11M L23 "Lecture title | Case Management & Extension of Time"；CL11M L27 "Ophelia Chan on Case Management &  Sam Liu on Extension of Time"〕</small>
 
 ### 0B.1 全景状态机：从 pleadings 结案到开审，以及制裁—救济环
 
@@ -700,9 +692,7 @@ O.33容许分别审理问题；若它能实质处置案件或使其余审讯不�
 
 
 
-### 0F.8 本届 LG15 PT 字幕回流
-
-> 校核时间 2026-11-13。依据【CAP-C15】＝ 2026-11-02 PT 实录字幕（1104 条，session 51238ed8，讲师 Norman Hui；LG15A Trial Preparation＋LG15B Trial Procedure 两部分），整份阅读后定向回流，MD 行号＋相对时间定位。ASR 案名照录不采信。本节只增不删；与本卡既有 0F／0B–0H 冲突处以讲义＋PD5.2（CL15AX 附载全文）为准并登记。
+### 0F.8 审讯准备与庭审操作要点（讲师口径补充）
 
 ### A. 审前阶段（LG15A：CMS→CMC→PTR→setting down）讲师口径补充
 
@@ -731,16 +721,6 @@ O.33容许分别审理问题；若它能实质处置案件或使其余审讯不�
 - **审讯时限 O.35 r.3A**：certificate of counsel 已框定时间；不够时法院与律师对话定追加量，并以 **list of issues** 判断剩余盘问涉哪些争点——0F「list of issues」在时间管理中的用途由课堂证实。 <small style="opacity: 0.55">〔CAP-C15 L2989-L3064 "is it related in relation to these issues which have been identified in the list of issues which was filed at the PTR?"〕</small>
 - **Site visit（O.35 r.8）**：土地（adverse possession）/人身伤亡案典型；法官与司法书记同往。 <small style="opacity: 0.55">〔CAP-C15 L3196-L3241 "we typically call this a site visit"〕</small>
 - **summary assessment 课堂复述**：statement of costs＝「shopping list」当庭评算；PD14.3 ¶8 不遵从后果（Cortland Enterprises）；三档费用基准复述（party-and-party 50–70%、common fund 70–80 余%、indemnity 80 余%至 100% 且具惩罚性）——与 CO17 §3 一致，接口不改判。 <small style="opacity: 0.55">〔CAP-C15 L2868-L2879 "So that is something we'll discuss more in civil advocacy."〕〔CAP-C15 L2881-L2893 "Okay. Still with Cortland Enterprises, paragraph 40."〕〔CAP-C15 L2827-L2863 "Are you always right? So just to remind you, in case I've not said it before."〕</small>
-
-### C. 拆卡评估（O-T2 (ii) 结论）
-
-实录内容 70% 以上落在「审前冲刺→审讯日操作」闭环（时间估计、钟点表、证人程序、盘问、缺席/押后/新证据/证物），与 CO11 母题「案件管理与 EOT」的重叠主要为 PTR／list of issues／阶段成本三点。**建议**：以本届 LG15 大纲＋两份幻灯＋本节字幕为底，另立 [CO15] 审讯准备与程序卡；0F 保留「审讯组织」摘要与跳转。**执行待用户批准**（结构重组涉 README 主表／Structure Map §3.1／§4／Canvas 对账）。**【2026-11-13 用户指示：暂时不做任何拆卡行为——本建议挂起，不执行、不排期；字幕实质内容已以补充节挂本卡，拆卡与否不影响其可用性。】**
-
-### D. 未处理范围
-
-- LG15A（10-21 FT）无字幕：其讲师口径缺口保留；本节不冒称覆盖 LG15A。
-- ASR 案名（Lee Yu Kwon、chamois men、Mamman Chun、Remedy Asia、Forever Property、Cortland Enterprises 等）未与判词核对。
-- 盘问技巧细节（含 trial advocacy 选修提示）不在本卡深化范围。 <small style="opacity: 0.55">〔CAP-C15 L2023-L2032 "As I mentioned, the heart of any trial is cross-examination."〕</small>
 
 > **Exam / Drafting Formulation:** "The action is ready to be set down, subject to completion of the identified pre-trial directions."
 
@@ -842,7 +822,7 @@ flowchart TD
 | 专家时序 | expert需要和身份应在问卷或CMC等阶段提出。 | <small style="opacity: 0.55">〔CL12 L160 "will first state their need to call expert evidence (and the"〕</small> |
 | 证据持续更新 | 新相关文件到来后须持续考虑discovery；trial准备不是一次封包后永不更新。 | <small style="opacity: 0.55">〔CL8 L40 "has a continuous duty to discover documents. This"〕</small> |
 
-**本届规则补充与操作边界注（2026-10-09 回改）**：
+**本届规则补充与操作边界注**：
 1. **时间窗的层级**——28 日问卷、14 日 Consent/CMS、order nisi 14 日、CMC 前 7 日 LQ＋不少于 3 日 CMC bundle（at least 3 days，无 clear）、PTR 前 3 净日 bundle、bundle 提早 72 小时，是"由远到近"的六级梯级；每一级的规则出处见 0B.2／0F.4 各行，本表不再重复抄录。 <small style="opacity: 0.55">〔CL11M L179 "each and every party shall complete a Timetabling Questionnaire"；CL11M L275 "procure and file a Consent Summons"；CL11M L319 "failing which the order nisi and the directions therein becomes absolute"；CL11M L423 "each party shall file and serve their Listing Questionnaire"；CL11M L433 "the Plaintiff shall lodge the Case Management Conference bundle"；CL15AX L276 "at least 72 hours before the date fixed for the hearing"〕</small>
 2. **CMS 与 CMC 两个"CM"不可混**——CMS 是程序文书（summons），CMC 是会议／里程碑（conference）；已写进 0A.2 与 0B.3，大综述防止再度混读。
 3. **O.3 r.5 与 O.25／O.38 的优先级**——一般延期三渠道（命令／追溯／书面同意）在 O.38 r.2A 指定期上**失效**：该条明文排除 O.3 r.5(3)；milestone 的例外门在 O.25 r.1B(2)(3)；non-milestone 的同意通道止于不牵动审日。 <small style="opacity: 0.55">〔CL15 L362 "Order 3, rule 5(3) shall not apply to any period specified by the Court under this paragraph."；CL11M L553 "the Court will not grant such an application if it changes a trial date or trial period (O.25 r.1B(7))"〕</small>
@@ -875,7 +855,7 @@ flowchart TD
 | 审期估计 | 证人和争议量是否支持时长 | 信息变化就更新估计，不等开庭才暴露 |
 | 文件册状态 | 是否与交换证据和可采性一致 | 在bundle不等于已经admitted |
 
-**主闭环（2026-10-09 回改展开）**：状态 → 触发事实 → 决策点 → 行动 → 反馈（制裁）→ 补救（relief）。该闭环与 [§0E.4 状态机](#0E.4%20逾序→制裁→救济：状态机与补救顺序) 是同一台引擎的两个视图；每行的后果归并 [§0E.5 后果链总表](#0E.5%20不做或逾期的后果链总表（索引）)。
+**主闭环**：状态 → 触发事实 → 决策点 → 行动 → 反馈（制裁）→ 补救（relief）。该闭环与 [§0E.4 状态机](#0E.4%20逾序→制裁→救济：状态机与补救顺序) 是同一台引擎的两个视图；每行的后果归并 [§0E.5 后果链总表](#0E.5%20不做或逾期的后果链总表（索引）)。
 
 | 状态变量 | 触发事实（输入信号） | 决策点 | 行动 | 反馈（制裁） | 补救（relief） |
 | --- | --- | --- | --- | --- | --- |
@@ -892,7 +872,7 @@ flowchart TD
 
 ### 0E.5 不做或逾期的后果链总表（索引）
 
-> 对应用户终审追加（2026-10-09 回改二）：把"不做／逾期会怎样"集中在一张总表，正文各环节以其行号回点（0B.2→行 1–2、0B.6→行 3、0D→行 4、0E→行 5、0F.1→行 6/10、0F.2→行 7、0F.4→行 8、0F.5→行 9、0G.2→全表）。【自动后果】＝无需对方动作即发生；【制裁暴露】＝对方或法院可启动的不利命令；【举证负担】＝想止血者要证明什么；【救济门槛】＝按哪条规则求宽。库内材料未写者如实标"库内无明文"并进 open 块 O-T6，不臆造。
+> **后果类型界定**：【自动后果】＝无需对方动作即发生；【制裁暴露】＝对方或法院可启动的不利命令；【举证负担】＝想止血者要证明什么；【救济门槛】＝按哪条规则求宽。库内材料未写者如实标"库内无明文"并进 open 块 O-T6，不臆造。
 
 | # | 失误 | 后果及下一步 |
 | --- | --- | --- |
@@ -1064,7 +1044,7 @@ flowchart TD
 | **C 守住里程碑（审日不被别人移）** | 对方申请移审日 → 我方反对 → 判例尺度；反例包：late instructions／换律师团队／"无损可讼费补偿"三项明文非例外；DBS（拟大律师不空）、Chan Chun Shing（法援迟批）不算；证人缺席走 Arko 九项逐项问；断环：对 Arko 九项只看"证人是否可到"而漏掉"谁制造了困难"与"会否影响司法行政"。对策：把自己证人可用性做成日历级证据；0B.6；0D.2。 <small style="opacity: 0.55">〔CL11M L507 "the unavailability of preferred leading and junior counsel was considered NOT sufficient justification"；CL11M L509 "NOT late legal aid application"；CL11M L511 "matters to be considered are set out in Arko Ship Leasing Ltd v Winsmart Int’l Shipping Ltd"〕</small> |
 | **D 应对对方延拖（不被程序战拖死）** | 对方求延 → 我方作为答辩人 → 反对或缩期或 unless → 结果与讼费；首延通常应同意，特别理由才可拒（牵里程碑等）；缩期与 unless 是常态对抗架；无理拒绝把讼费反转引到自己身上（Asgain）；断环：想一刀切驳回 Time Summons——实务上罕被全驳，硬拗反而输费用。对策：求"更短窗＋unless 基诊"，把制裁风险还给违约的人；0D.3–0D.4；0E.1。 <small style="opacity: 0.55">〔CL11M L719 "usually the time extension should be agreed, unless there are special reason justifies a refusal"；CL11M L725 "You can also consider propose an unless order be made for the extension of time"；CL11M L743 "a Time Summons is rarely dismissed"〕</small> |
 
-**四个目标各自的倒推链（2026-10-09 回改）**：每条从"成功那天需要出示什么"向回数环，断点直接落到 [§0E.5 后果链总表](#0E.5%20不做或逾期的后果链总表（索引）) 的行号；交叉 §0D／§0E 既有分析，不重复抄写。
+**四个目标各自的倒推链**：每条从"成功那天需要出示什么"向回数环，断点直接落到 [§0E.5 后果链总表](#0E.5%20不做或逾期的后果链总表（索引）) 的行号；交叉 §0D／§0E 既有分析，不重复抄写。
 
 
 ###### 0A. 从管理命令到可开审案件：时限、补救和庭审准备
@@ -1102,6 +1082,39 @@ flowchart TD
 ## 审计留痕：材料矩阵、待核事项与历史修订记录
 
 > [!abstract]- 审计留痕：材料矩阵、待核事项与历史修订记录
+
+> ### 历史更新说明与各轮次修订留痕汇总（统一归档）
+> 
+> - **2026-11-13 本轮更新说明（LG15 PT 字幕回流与拆卡评估备忘）**：
+>   - 校核时间 2026-11-13。依据【CAP-C15】＝ 2026-11-02 PT 实录字幕（1104 条，session 51238ed8，讲师 Norman Hui；LG15A Trial Preparation＋LG15B Trial Procedure 两部分），整份阅读后定向回流，MD 行号＋相对时间定位。ASR 案名照录不采信。本节只增不删；与本卡既有 0F／0B–0H 冲突处以讲义＋PD5.2（CL15AX 附载全文）为准并登记。
+>   - **拆卡评估（O-T2 (ii) 结论）**：实录内容 70% 以上落在「审前冲刺→审讯日操作」闭环（时间估计、钟点表、证人程序、盘问、缺席/押后/新证据/证物），与 CO11 母题「案件管理与 EOT」的重叠主要为 PTR／list of issues／阶段成本三点。建议：以本届 LG15 大纲＋两份幻灯＋本节字幕为底，另立 [CO15] 审讯准备与程序卡；0F 保留「审讯组织」摘要与跳转。执行待用户批准。用户指示：暂时不做任何拆卡行为——本建议挂起，不执行、不排期；字幕实质内容已以补充节挂本卡，拆卡与否不影响其可用性。
+>   - **未处理范围备忘**：① LG15A（10-21 FT）无字幕：其讲师口径缺口保留；本节不冒称覆盖 LG15A；② ASR 案名（Lee Yu Kwon、chamois men、Mamman Chun、Remedy Asia、Forever Property、Cortland Enterprises 等）未与判词核对；③ 盘问技巧细节（含 trial advocacy 选修提示）不在本卡深化范围。
+> 
+> - **2026-10-23 本轮更新说明**：
+>   - 新增／校准落点费用修订及来源视图；当前材料链见全科当前进度。下方带日期的旧快照保留为历史。
+>   - 原 frontmatter 登记项：`本轮更新: "2026-10-23：已入库材料回流；Moodle新增按用户选择后续接入"`。
+> 
+> - **2026-10-09 深化重构与回改说明**：
+>   - 开篇速读定位层为 2026-10-09 深化重构新增的开篇导引；具体各层的规则、条件、例外与引注见下方 §0A（既有）与 §0B–§0H（本轮深化），按本层术语定位后直达。
+>   - §0B 为 2026-10-09 深化重构新增的主体之一（对应深度合同①）。
+>   - 规则补充、主闭环、四个目标倒推链等操作边界注由 2026-10-09 回改充实；
+>   - 0E.5 后果链总表对应终审追加：把"不做／逾期会怎样"集中在一张总表，正文各环节以其行号回点（0B.2→行 1–2、0B.6→行 3、0D→行 4、0E→行 5、0F.1→行 6/10、0F.2→行 7、0F.4→行 8、0F.5→行 9、0G.2→全表）。
+> 
+> - **2026-10-06 内容扩充说明**：
+>   - 先读新增“0A. 从管理命令到可开审案件：时限、补救和庭审准备”，其中逐条展开条件、例外、证据、行动和后果；原有分析与引注保留。课堂字幕只作教师解释及核对，ASR内容与书面规则有别。
+>   - SG-USE材料状态更正：本届LG11现已入99镜像，封面与课程日期已核。此前“未核齐／未到货”不再代表有无原件的现状；SG04 Questionnaire已接入其Timetabling Questionnaire及case-management directions章节。
+> 
+> - **2026-10-05 字幕补充与校核说明**：
+>   - 校核时间：2026-10-05（Asia/Shanghai）。依据本届 2026–27 课堂字幕；每项标注讲次、相对录像时间及可核对的MD行号。原制作时间、历史材料快照及原稿保留。
+> 
+> - **2026-10-04 N1–N3 补作与来源挂接说明**：
+>   - 状态控制：draft≠filed；拟议directions≠已作order；对方填“否”≠己方可照抄；“未完成”≠“已逾期”。本轮使用司法机构当前AppendixA表式并与库内原表核对相同。
+> 
+> - **2026-10-01 初始制作说明与快照**：
+>   - 制作时间：2026-10-01（Asia/Shanghai）；材料快照为制作时本地已入库文件。以topic为单位，编号是本课现行目录锚点，不限制辐射讲次。
+>   - 本文件是新增体系稿；相关旧卡的原文、引注和未决项仍保留。下述“学习建模／策略分析”是对已引规则的组织，不是新增法条或本届案情。
+> 
+> ---
 > 
 > **本轮修订**：按现行节号统一正文及跳转标签，归并高阶模型表，补全程序行动句，并将原引注移至段末、列表项末或相应单元格末。
 > 
