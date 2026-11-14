@@ -180,6 +180,7 @@ export default defineConfig({
 
 						// 3. Interactive Collapsible Sections with Auto-Collapse for §6+
 						const initCollapsibleSections = () => {
+							if (document.querySelector('.hero')) return;
 							const content = document.querySelector('.sl-markdown-content');
 							if (!content || content.dataset.collapsibleInit === 'true') return;
 							content.dataset.collapsibleInit = 'true';
