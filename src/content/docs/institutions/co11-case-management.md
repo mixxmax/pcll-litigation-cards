@@ -6,8 +6,8 @@ type: derived
 created: "2026-10-01"
 material_snapshot: "2026-10-23"
 enrichment_snapshot: "2026-10-23"
-enriched: "2026-10-09"
-status: "已按实际办案时序重写，统合 LG15A/B 讲师要点"
+enriched: "2026-11-15"
+status: "已按实际办案时序重写，统合 LG15A/B 讲师要点；2026-11-15 可读性重构（接通断点、还原制度功能、清除伪黑话与错位用语）"
 preservation: "原有引注逐项保留；历史记录见文末审计区"
 涵盖LG:
   - "PCLL8010 LG11"
@@ -43,18 +43,16 @@ SG课表安排:
 字幕校核日期: "2026-10-11"
 字幕校核范围: "LG11（2026-10-09）字幕入库校核；定向补充与交叉核对；非整卷逐句审核"
 ---
-
-
 # 案件管理与审讯组织体系
 
 ## 速读定位层
 
-> 诉答关闭后，各方先提交排期建议。法院定下 directions 和 milestone dates，各方据此完成证据准备，并在开审前确认审期、文件册和证人到庭安排。
+> **`CO11（案件管理与审讯组织）`的核心功能，是解决诉状交换完毕（`Close of Pleadings`）至一审宣判之间的程序推进问题：此时原被告虽已通过诉状锁定争议焦点，但尚未交换文件证据、证人陈述书与专家报告，尚不具备开庭条件，因此法院须先通过案件管理程序制定备审时间表，待各项证据准备就绪后再将案件排入正审队列并完成庭审。** 全流程按时间先后分为四个连续阶段：**【第一阶段：制定备审时间表（`TQ` $\rightarrow$ `Consent Summons / CMS` $\rightarrow$ `Order Nisi / CMC`）】** 诉答程序视为终结后 **28 日内**，各方须各自填妥并存档送达《时间表问卷（`Timetabling Questionnaire, TQ`）》及调解证书，就后续文件披露、证人及专家证据交换直至审讯的期限提出建议，并尝试私下协商一致；在随后的 **14 日内**，若各方已就各项备审指示与时间表达成协议，由原告提交《同意传票（`Consent Summons`）》请法院书面批核，若未能达成一致或有当事方未交问卷，原告则必须发出《案件管理传票（`Case Management Summons, CMS`）》提请法院裁定（若原告既未交问卷亦未发传票，诉讼依 `O.25 r.1(4)` **自动搁置 `Stayed`**）；法院收到 `CMS` 后，若认为仅凭书面材料即可确定备审方向而**无需就时间表问题专门开庭聆讯**，会直接下达一份附条件的《暂准命令（`Order Nisi`）》——各方若在 **14 日内**均未提出变更申请，该暂准时间表即自动转为正式命令，从而**省去召开首次《案件管理会议（`CMC`）》的口头聆讯**（各方直接按该命令回家准备证据，不影响日后的最终正审）；反之，若一方在 14 日内申请变更，或法院认为案情复杂须当面核定，则会召开 `CMC` 口头聆讯（各方须于会前至少 7 日交存 `Listing Questionnaire` 补充申报审讯估计参数，并于会前 3 个 `clear days` 交存文件束），由聆案官或法官当庭确定备审时间表与后续审讯阶段节点。**【第二阶段：时间表执行期间的延期与违令处理（非里程碑 vs. 里程碑 & `Unless Order`）】** 法院确定的时间表包含两类性质不同的日期：第一类是**非里程碑日期（`Non-milestone dates`）**，即披露文件、交换证人陈述书或专家报告等具体备审步骤的截止日，只要不波及后续的核心审判节点，各方可通过互发函件达成书面协议自行顺延而无需向法院申请，若对方不同意延期，则由需要延期的一方依 `O.3 r.5` 向法院发出延期传票（`Time Summons`）；第二类是**三大里程碑日期（`Milestone dates`）**，专指 **`CMC`、审前覆核（`PTR`）及正审开庭日（`Trial`）**，各方即使私下达成协议亦无权自行更改，必须向法院证明存在“极端例外情况（`exceptional circumstances`）”方获准变更；若某一方在备审过程中无故逾期，法院可下达附带最后通牒性质的《限时命令（`Unless Order`）》，明确规定除非违令方在指定期限内补做该步骤，否则预设制裁（如剔除申索或抗辩、禁止援引某项证据）将依 `O.2 r.4` **在期限届满时自动生效**，守约方无需再另行申请确认，而违令方若想挽救诉讼，必须在自动生效命令送达后 **14 日内**依 `O.2 r.5` 以传票及支持誓章向法院申请《宽免制裁（`Relief from Sanctions`）》。**【第三阶段：审前准备核查与正式排期入表（`PTR` $\rightarrow$ `Setting down` $\rightarrow$ `Listing`）】** 由于早期的 `CMC` 仅负责下达准备证据的时间表，并未将案件正式排入待审队列，因此当各方按时间表完成文件披露、证人陈述书与专家报告交换后，程序即进入排期开庭阶段：对于预计审期超过 5 日的复杂案件，法院通常在开审前 **8 至 10 周**先召开一次《审前覆核（`Pre-Trial Review, PTR`）》，核查各方是否已悉数完成备审指示并最终确认出庭证人人数与审讯天数；当备审步骤完成（或期限届满）后，原告须在法院指定的期限内，依 `O.34` 向法院登记处递交排期申请及两套核心文件束，办理《排期入表（`Setting down for trial`）》——这一步的实质是向登记处正式挂号，确认案件已具备开庭条件并请求列入待审案件池，随后由排期主任（`Listing`）将案件分入锁定具体开庭日期的《固定审期表（`Fixture List`）》或按顺位排队候审、进入警告名单（`Warned List`）后随时待命开庭的《流动审期表（`Running List`）》。**【第四阶段：审讯文件束交付与正审程序（`Trial Bundles` $\rightarrow$ `Trial` $\rightarrow$ `O.35` 缺席处理）】** 在正审开庭前 **至少 72 小时**（不计周六、周日及公众假期），原告须向法院交存装订完备的《审讯文件束（`Trial Bundles`）》及开案陈词；进入正审（`Trial`）当日，若有一方缺席，到庭方可依 `O.35` 直接申请剔除缺席方申索或单方举证取得判决（缺席方可在判决后 **7 日内**申请撤销该缺席判决并恢复审讯）；双方均到庭时，依次由原告作开案陈词（`Opening speech`），随后传召原告证人上庭——在现代民事审讯中，证人宣誓确认其事先提交的书面证人陈述书后，该陈述书即直接作为其《主问证词（`Examination-in-chief`）》（一般不再口头重复主问，且主问严禁使用暗示答案的引导性问题 `leading questions`），紧接着由对方大律师进行《盘问（`Cross-examination`）》（盘问允许使用引导性问题以质疑证人可信度，但必须严格遵守 *Browne v Dunn* 案确立的 **`put case` 规则**：若己方证据版本与对方证人证词存在实质冲突，盘问大律师必须在盘问时将己方的矛盾版本当面明确指出让该证人回应，若盘问时未指出，在最后的结案陈词中便不得质疑该证人就该事项说谎），再经简短《覆问（`Re-examination`）》后完成原告案情，被告案情亦按相同顺序传召证人，最后由被告及原告依次作结案陈词（`Closing submissions`），由法官当庭或保留判决（`Reserve judgment`）择日宣告结果，并一并裁定判决前后的利息与诉讼费用归属。
 
 ### 适用范围
 
-本卡从 O.18 r.20（close of pleadings）起，依次说明案件如何取得 directions、完成备审、开庭和取得判令。
-1. **先交问卷。** 诉答关闭后，各方在 28 日内入禀并送达 timetabling questionnaire（TQ）及适用的 mediation certificate。§0C 逐栏说明 Appendix A 的 A–O 栏目。 <small style="opacity: 0.55">〔CL11M L179 "each and every party shall complete a Timetabling Questionnaire (as set out in Appendix A"〕</small>
+本卡从 O.18 r.20（close of pleadings）起，按实际办案时序把案件从「诉答刚打完」带到「开庭拿判令」：先交问卷报计划 → 法院定时表 → 按表备审，来不及就申请延期 → 违令被制裁就申请宽免 → 备审完成后检查、挂号、排期、编文件册，直至开庭。每一步的接续关系在各节开头的大白话导语中说明。
+1. **先交问卷。** 诉答关闭后，各方在 28 日内把 timetabling questionnaire（TQ）存档并送达对方（file and serve），同时按 PD 31 交适用的 mediation certificate。此时证据还没开始准备，TQ 的作用是先向法院报出各方认可的备审时间表。§0C 逐栏说明 Appendix A 的 A–O 栏目。 <small style="opacity: 0.55">〔CL11M L179 "each and every party shall complete a Timetabling Questionnaire (as set out in Appendix A"〕</small>
 2. **再请法院定 directions。** 各方谈妥后由原告交 consent summons；若谈不拢或未收齐问卷，则由原告发 case management summons（CMS）。法院可先发 order nisi，给各方 14 日申请变更。 <small style="opacity: 0.55">〔CL11M L311 "by an order nisi (i.e. a temporary order made in writing by way of a Court Note"〕</small>
 3. **按法院时表备审。** CMC、PTR 和 trial 是 milestone dates。各方须按指定日期出席；若要变更，须向法院证明 exceptional circumstances。 <small style="opacity: 0.55">〔CL11M L169 "There are only 3 “milestone dates”: Case Management Conference, Pre-Trial Review and Trial"〕</small>
 4. **发现会迟延，先核延期路径。** §0D 说明法院如何延长或缩短期限（包括 retrospective leave）、何时可凭 written consent 延期，以及 *The Decurion* 和 *Zida* 如何处理迟延与 prejudice。 <small style="opacity: 0.55">〔CL11M L565 "although the application for extension is not made until after the expiration of that period"〕</small>
@@ -68,21 +66,21 @@ SG课表安排:
 
 | 术语 | 定义与章节 |
 | --- | --- |
-| 排期问卷（Timetabling Questionnaire） | 各方在 close of pleadings 后 28 日内填写 PD 5.2 Appendix A，向法院入禀并向其他各方送达。法院据此确定 directions 和时表（O.25 r.1(1)）。 [§0C](#0C.%20Timetabling%20Questionnaire%20%E9%80%90%E6%A0%8F%E5%A1%AB%E5%86%99%E9%80%BB%E8%BE%91) <small style="opacity: 0.55">〔CL11M L179 "each and every party shall complete a Timetabling Questionnaire (as set out in Appendix A"〕</small> |
-| 调解证明（Mediation Certificate） | 各方随 TQ 入禀 PD 31 Appendix B。律师签署确认已说明调解及其与诉讼的费用差异；当事人表明是否愿意调解，并说明拒绝的理由。 [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%B8%89%E6%96%87%E4%B9%A6%E3%80%81%E4%B8%A4%E4%BC%9A%E8%AE%AE%E3%80%81%E4%B8%89%E9%87%8C%E7%A8%8B%E7%A2%91) <small style="opacity: 0.55">〔CL11M L211 "shall file in Court a Mediation Certificate (as set out in Appendix B of PD 31)"；CL11M L215 "the party has to certify whether he is willing to attempt mediation"〕</small> |
-| 同意传票（Consent Summons） | 各方谈妥 directions 和时表后，由原告提交协议供法院批准。期限取收齐被告 TQ 后 14 日与对方交 TQ 的期限届满两者中较早者（O.25 r.1(1A)；PD 5.2 ¶13）。 [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%B8%89%E6%96%87%E4%B9%A6%E3%80%81%E4%B8%A4%E4%BC%9A%E8%AE%AE%E3%80%81%E4%B8%89%E9%87%8C%E7%A8%8B%E7%A2%91) <small style="opacity: 0.55">〔CL11M L275 "procure and file a Consent Summons containing the agreed Directions or Timetable for the Court’s consideration"〕</small> |
-| 案件管理传票（Case Management Summons，CMS） | 各方谈不拢、被告未交 TQ，或案件涉及 litigant in person 而适用 CMS 路径时，原告按 PD 5.2 Appendix B 发传票，请法院定 directions。发出期限见 ¶16；return date 不得早于发出后的 14 日。CMS 是申请文书，CMC 是法院举行的会议（O.25 r.1(1B)；PD 5.2 ¶¶16–18）。 [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%B8%89%E6%96%87%E4%B9%A6%E3%80%81%E4%B8%A4%E4%BC%9A%E8%AE%AE%E3%80%81%E4%B8%89%E9%87%8C%E7%A8%8B%E7%A2%91) <small style="opacity: 0.55">〔CL11M L295 "take out a summons (referred to as a Case Management Summons) (as set out in Appendix B"；CL15AX L80 "the plaintiff shall take out a case management summons"〕</small> |
-| 暂准命令（order nisi） | 法院可先发 Court Note，在不开庭的情况下作出 directions。各方如要变更，须从命令作出日起算 14 日内申请；无人申请时，order nisi 成为 order absolute（O.25 r.1A(4)–(6)；PD 5.2 ¶¶19–22）。 [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%B8%89%E6%96%87%E4%B9%A6%E3%80%81%E4%B8%A4%E4%BC%9A%E8%AE%AE%E3%80%81%E4%B8%89%E9%87%8C%E7%A8%8B%E7%A2%91) <small style="opacity: 0.55">〔CL11M L311 "by an order nisi (i.e. a temporary order made in writing by way of a Court Note"；CL11M L319 "failing which the order nisi and the directions therein becomes absolute (i.e. final)"〕</small> |
-| 里程碑日期（milestone date） | 法院指定的 CMC、PTR 与 trial 日期，以及已固定的 trial period，均属 milestone dates。各方如要改期，须向法院证明 exceptional circumstances；双方同意也不能自行改动（O.25 r.1B(2)、(3)、(8)）。 [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%B8%89%E6%96%87%E4%B9%A6%E3%80%81%E4%B8%A4%E4%BC%9A%E8%AE%AE%E3%80%81%E4%B8%89%E9%87%8C%E7%A8%8B%E7%A2%91) <small style="opacity: 0.55">〔CL11M L169 "There are only 3 “milestone dates”: Case Management Conference, Pre-Trial Review and Trial"；CL11M L171 "Milestone dates can only be varied in exceptional circumstances"〕</small> |
-| 非里程碑日期（non-milestone date） | 当事人想改变法院时表内的普通步骤，应先协商，再依 O.25 r.1B(4)–(7) 请法院处理。若要调整 O.38 r.2A 下的 exchange of witness statements，当事人不能仅凭 written consent 延期；调整不得挪动已定 trial date 或 trial period。 [§0D](#0D.%20Extension%20of%20Time%EF%BC%9AO.3%20r.5%20%E7%9A%84%E4%B8%89%E6%B8%A0%E9%81%93%E3%80%81%E8%A3%81%E9%87%8F%E6%9E%B6%E6%9E%84%E4%B8%8E%E9%80%BE%E6%9C%9F%E5%90%8E%E6%9E%9C%E8%B0%B1%E7%B3%BB) <small style="opacity: 0.55">〔CL11M L543 "All other dates or period fixed by the Court (i.e. not the milestone dates) are “non-milestone dates”"；CL11M L553 "the Court will not grant such an application if it changes a trial date or trial period (O.25 r.1B(7))"〕</small> |
-| 案件管理会议（CMC） | 法院在需要开会时召开 CMC。聆案官通常主持首次会议，查核各方对 directions 的 compliance，再处理未决事项、后续时表及是否需要 PTR 或固定审期（O.25；PD 5.2 ¶¶23–32）。 [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%B8%89%E6%96%87%E4%B9%A6%E3%80%81%E4%B8%A4%E4%BC%9A%E8%AE%AE%E3%80%81%E4%B8%89%E9%87%8C%E7%A8%8B%E7%A2%91) <small style="opacity: 0.55">〔CL11M L461 "review the parties’ preparation of the case for trial (especially their compliance with Court directions)"；CL11M L415 "The date fixed for a Case Management Conference is a “milestone date” (O.25 r.1B (8))"〕</small> |
-| 排期审讯问卷（Listing Questionnaire） | 各方至少在 CMC 前 7 日入禀 PD 5.2 Appendix C，逐项说明 A1–A19 的备审进度。若在 PTR 前需要提交，则按法院指示办理；问卷应说明预计审期、语言和传译安排（PD 5.2 ¶¶24–25）。 [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%B8%89%E6%96%87%E4%B9%A6%E3%80%81%E4%B8%A4%E4%BC%9A%E8%AE%AE%E3%80%81%E4%B8%89%E9%87%8C%E7%A8%8B%E7%A2%91) <small style="opacity: 0.55">〔CL11M L423 "each party shall file and serve their Listing Questionnaire (as set out in Appendix C of PD 5.2)"〕</small> |
+| 排期问卷（Timetabling Questionnaire） | 各方在 close of pleadings 后 28 日内填写 PD 5.2 Appendix A，存档并送达其他各方（file and serve）。法院据此确定 directions 和时表（O.25 r.1(1)）。它与 Listing Questionnaire 的区别：TQ 在证据尚未准备时交，性质是「备审动工前先报日程表」；LQ 在备审快完成时交，性质是「逐项检查作业做没做」。 [§0C](#0C.%20Timetabling%20Questionnaire%20%E9%80%90%E6%A0%8F%E5%A1%AB%E5%86%99%E9%80%BB%E8%BE%91) <small style="opacity: 0.55">〔CL11M L179 "each and every party shall complete a Timetabling Questionnaire (as set out in Appendix A"〕</small> |
+| 调解证明（Mediation Certificate） | 各方随 TQ 一并存档（file）PD 31 Appendix B。律师签署确认已向当事人说明调解及其与诉讼的费用差异；当事人表明是否愿意调解，拒绝的须说明理由。 [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%BB%8E%E8%AF%89%E7%AD%94%E5%AE%8C%E7%BB%93%E5%88%B0%E6%8E%92%E6%9C%9F%E5%BC%80%E5%AE%A1%E6%80%8E%E4%B9%88%E8%B5%B0) <small style="opacity: 0.55">〔CL11M L211 "shall file in Court a Mediation Certificate (as set out in Appendix B of PD 31)"；CL11M L215 "the party has to certify whether he is willing to attempt mediation"〕</small> |
+| 同意传票（Consent Summons） | 各方谈妥 directions 和时表后，由原告提交协议供法院批准。期限取收齐被告 TQ 后 14 日与对方交 TQ 的期限届满两者中较早者（O.25 r.1(1A)；PD 5.2 ¶13）。 [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%BB%8E%E8%AF%89%E7%AD%94%E5%AE%8C%E7%BB%93%E5%88%B0%E6%8E%92%E6%9C%9F%E5%BC%80%E5%AE%A1%E6%80%8E%E4%B9%88%E8%B5%B0) <small style="opacity: 0.55">〔CL11M L275 "procure and file a Consent Summons containing the agreed Directions or Timetable for the Court’s consideration"〕</small> |
+| 案件管理传票（Case Management Summons，CMS） | 各方谈不拢、被告未交 TQ，或案件涉及 litigant in person 而适用 CMS 路径时，原告按 PD 5.2 Appendix B 发传票，请法院定 directions。发出期限见 ¶16；return date 不得早于发出后的 14 日。CMS 是申请文书，CMC 是法院举行的会议（O.25 r.1(1B)；PD 5.2 ¶¶16–18）。 [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%BB%8E%E8%AF%89%E7%AD%94%E5%AE%8C%E7%BB%93%E5%88%B0%E6%8E%92%E6%9C%9F%E5%BC%80%E5%AE%A1%E6%80%8E%E4%B9%88%E8%B5%B0) <small style="opacity: 0.55">〔CL11M L295 "take out a summons (referred to as a Case Management Summons) (as set out in Appendix B"；CL15AX L80 "the plaintiff shall take out a case management summons"〕</small> |
+| 暂准命令（order nisi） | 法院可先发 Court Note，在不开庭的情况下作出 directions。各方如要变更，须从命令作出日起算 14 日内申请；无人申请时，order nisi 成为 order absolute（O.25 r.1A(4)–(6)；PD 5.2 ¶¶19–22）。 [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%BB%8E%E8%AF%89%E7%AD%94%E5%AE%8C%E7%BB%93%E5%88%B0%E6%8E%92%E6%9C%9F%E5%BC%80%E5%AE%A1%E6%80%8E%E4%B9%88%E8%B5%B0) <small style="opacity: 0.55">〔CL11M L311 "by an order nisi (i.e. a temporary order made in writing by way of a Court Note"；CL11M L319 "failing which the order nisi and the directions therein becomes absolute (i.e. final)"〕</small> |
+| 里程碑日期（milestone date） | 法院指定的 CMC、PTR 与 trial 日期，以及已固定的 trial period，均属 milestone dates。各方如要改期，须向法院证明 exceptional circumstances；双方同意也不能自行改动（O.25 r.1B(2)、(3)、(8)）。 [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%BB%8E%E8%AF%89%E7%AD%94%E5%AE%8C%E7%BB%93%E5%88%B0%E6%8E%92%E6%9C%9F%E5%BC%80%E5%AE%A1%E6%80%8E%E4%B9%88%E8%B5%B0) <small style="opacity: 0.55">〔CL11M L169 "There are only 3 “milestone dates”: Case Management Conference, Pre-Trial Review and Trial"；CL11M L171 "Milestone dates can only be varied in exceptional circumstances"〕</small> |
+| 非里程碑日期（non-milestone date） | 当事人想改变法院时表内的普通步骤，应先协商，再依 O.25 r.1B(4)–(7) 请法院处理。若要调整 O.38 r.2A 下的 exchange of witness statements，当事人不能仅凭 written consent 延期；调整不得挪动已定 trial date 或 trial period。 [§0D](#0D.%20Extension%20of%20Time%EF%BC%9A%E7%94%B3%E8%AF%B7%E5%BB%B6%E9%95%BF%E6%88%96%E7%BC%A9%E7%9F%AD%E6%9C%9F%E9%99%90%E7%9A%84%E8%B7%AF%E5%BE%84%E3%80%81%E6%B3%95%E9%99%A2%E8%A3%81%E9%87%8F%E4%B8%8E%E9%80%BE%E6%9C%9F%E5%90%8E%E6%9E%9C) <small style="opacity: 0.55">〔CL11M L543 "All other dates or period fixed by the Court (i.e. not the milestone dates) are “non-milestone dates”"；CL11M L553 "the Court will not grant such an application if it changes a trial date or trial period (O.25 r.1B(7))"〕</small> |
+| 案件管理会议（CMC） | 法院在需要开会时召开 CMC。聆案官通常主持首次会议，查核各方对 directions 的 compliance，再处理未决事项、后续时表及是否需要 PTR 或固定审期（O.25；PD 5.2 ¶¶23–32）。 [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%BB%8E%E8%AF%89%E7%AD%94%E5%AE%8C%E7%BB%93%E5%88%B0%E6%8E%92%E6%9C%9F%E5%BC%80%E5%AE%A1%E6%80%8E%E4%B9%88%E8%B5%B0) <small style="opacity: 0.55">〔CL11M L461 "review the parties’ preparation of the case for trial (especially their compliance with Court directions)"；CL11M L415 "The date fixed for a Case Management Conference is a “milestone date” (O.25 r.1B (8))"〕</small> |
+| 排期审讯问卷（Listing Questionnaire） | 各方至少在 CMC 前 7 日把 PD 5.2 Appendix C 存档并送达（file and serve），逐项确认 A1–A19 的备审进度。若在 PTR 前需要提交，则按法院指示办理；问卷应说明预计审期、语言和传译安排（PD 5.2 ¶¶24–25）。它与 TQ 的区别：TQ 是备审开始前报计划；LQ 是备审完成后逐项确认「能否现在排期开庭」。 [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%BB%8E%E8%AF%89%E7%AD%94%E5%AE%8C%E7%BB%93%E5%88%B0%E6%8E%92%E6%9C%9F%E5%BC%80%E5%AE%A1%E6%80%8E%E4%B9%88%E8%B5%B0) <small style="opacity: 0.55">〔CL11M L423 "each party shall file and serve their Listing Questionnaire (as set out in Appendix C of PD 5.2)"〕</small> |
 | 审前覆核（PTR） | 法院若安排 PTR，通常在审期前 8–10 周由 trial judge 主持。此时案件应已可开审；法官可定开审日、校正审期估算，并发出不影响审期的补充 directions（PD 5.2 ¶¶33–36）。 [§0F](#0F.%20%E5%AE%A1%E8%AE%AF%E7%BB%84%E7%BB%87%EF%BC%9APTR%20%E2%86%92%20Setting%20Down%20%E2%86%92%20Listing%20%E2%86%92%20Trial%20Bundles%20%E2%86%92%20%E5%BD%93%E6%97%A5%20%E2%86%92%20O.37) <small style="opacity: 0.55">〔CL11M L479 "normally about 8 to 10 weeks before the trial date (para 33 of PD 5.2)"；CL11M L491 "late interlocutory applications may be dismissed on the basis of delay alone"〕</small> |
 | 大律师估算证书（Certificate of Counsel） | 如须请求审期或 trial period，拟出庭大律师或经办律师须分列 opening、己方证人的 examination-in-chief、对方证人的 cross-examination 及 closing 的时间（PD 5.2 ¶¶14、25）。 [§0F](#0F.%20%E5%AE%A1%E8%AE%AF%E7%BB%84%E7%BB%87%EF%BC%9APTR%20%E2%86%92%20Setting%20Down%20%E2%86%92%20Listing%20%E2%86%92%20Trial%20Bundles%20%E2%86%92%20%E5%BD%93%E6%97%A5%20%E2%86%92%20O.37) <small style="opacity: 0.55">〔CL15 L122 "a document usually referred to as “Certificate of Counsel”"〕</small> |
-| 除外令／若不遵守即受罚命令（unless order） | 法院在 unless order 列明要做的事、履行期限和违令后果。若当事人未按期履行，命令列明的制裁自行生效，例如剔除 pleading 或禁止提交指定证据（O.1B r.1(3)；PD 16.5）。 [§0E](#0E.%20%E5%88%B6%E8%A3%81%E4%B8%8E%20Relief%20from%20Sanctions%EF%BC%9A%E8%87%AA%E5%8A%A8%E7%94%9F%E6%95%88%E5%BC%95%E6%93%8E%E4%B8%8E%2014%20%E6%97%A5%E8%A1%A5%E6%95%91%E7%AA%97%E5%8F%A3) <small style="opacity: 0.55">〔CL11M L637 "the sanction imposed in the order will automatically take effect upon failure to comply within the time"〕</small> |
-| 制裁宽免（relief from sanctions） | 制裁生效后，违令方须自违令起算 14 日内提出 summons，并以 affidavit 或 affirmation 支持。法院依 O.2 r.5 审查十项因素及全案情况；逾期须另求延时（O.2 rr.4–5）。 [§0E](#0E.%20%E5%88%B6%E8%A3%81%E4%B8%8E%20Relief%20from%20Sanctions%EF%BC%9A%E8%87%AA%E5%8A%A8%E7%94%9F%E6%95%88%E5%BC%95%E6%93%8E%E4%B8%8E%2014%20%E6%97%A5%E8%A1%A5%E6%95%91%E7%AA%97%E5%8F%A3) <small style="opacity: 0.55">〔CL11M L681 "once a breach of the unless order occurs, the only recourse is to apply for relief from sanction"〕</small> |
-| 时限传票（Time Summons） | 当事人以 time summons 请求延长或缩短期限，通常列入聆案官内庭三分钟清单，trainee solicitor 可出席。若原因或 prejudice 不能靠案卷说明，申请方应交支持誓章（O.3 r.5）。 [§0D](#0D.%20Extension%20of%20Time%EF%BC%9AO.3%20r.5%20%E7%9A%84%E4%B8%89%E6%B8%A0%E9%81%93%E3%80%81%E8%A3%81%E9%87%8F%E6%9E%B6%E6%9E%84%E4%B8%8E%E9%80%BE%E6%9C%9F%E5%90%8E%E6%9E%9C%E8%B0%B1%E7%B3%BB) <small style="opacity: 0.55">〔CL11M L729 "A summons only seeking for extension of time are often referred to as “Time Summons”"；CL11M L733 "trainee solicitors has the right of audience"〕</small> |
-| 排期审讯令（setting down） | 法院如定下 setting down 期限，原告用 PD 5.2 Appendix D 申请将案件排入审讯名单，并按 O.34 rr.2–3 向司法常务官提交排期请求和法官用文件册。 [§0F](#0F.%20%E5%AE%A1%E8%AE%AF%E7%BB%84%E7%BB%87%EF%BC%9APTR%20%E2%86%92%20Setting%20Down%20%E2%86%92%20Listing%20%E2%86%92%20Trial%20Bundles%20%E2%86%92%20%E5%BD%93%E6%97%A5%20%E2%86%92%20O.37) <small style="opacity: 0.55">〔CL15 L206 "The request for setting down is done by filing Appendix D as attached to PD 5.2."；CL15 L210 "must deliver to the Registrar, by post or otherwise, a request that the action may be set down for trial"〕</small> |
+| 除外令／若不遵守即受罚命令（unless order） | 法院在 unless order 列明要做的事、履行期限和违令后果。若当事人未按期履行，命令列明的制裁自行生效，例如剔除 pleading 或禁止提交指定证据（O.1B r.1(3)；PD 16.5）。 [§0E](#0E.%20%E8%BF%9D%E5%8F%8D%20unless%20order%EF%BC%9A%E5%88%B6%E8%A3%81%E8%87%AA%E5%8A%A8%E7%94%9F%E6%95%88%EF%BC%88O.2%20r.4%EF%BC%89%E4%B8%8E%2014%20%E6%97%A5%E5%86%85%E7%94%B3%E8%AF%B7%E5%AE%BD%E5%85%8D%EF%BC%88O.2%20r.5%EF%BC%89) <small style="opacity: 0.55">〔CL11M L637 "the sanction imposed in the order will automatically take effect upon failure to comply within the time"〕</small> |
+| 制裁宽免（relief from sanctions） | 制裁生效后，违令方须自违令起算 14 日内提出 summons，并以 affidavit 或 affirmation 支持。法院依 O.2 r.5 审查十项因素及全案情况；逾期须另求延时（O.2 rr.4–5）。 [§0E](#0E.%20%E8%BF%9D%E5%8F%8D%20unless%20order%EF%BC%9A%E5%88%B6%E8%A3%81%E8%87%AA%E5%8A%A8%E7%94%9F%E6%95%88%EF%BC%88O.2%20r.4%EF%BC%89%E4%B8%8E%2014%20%E6%97%A5%E5%86%85%E7%94%B3%E8%AF%B7%E5%AE%BD%E5%85%8D%EF%BC%88O.2%20r.5%EF%BC%89) <small style="opacity: 0.55">〔CL11M L681 "once a breach of the unless order occurs, the only recourse is to apply for relief from sanction"〕</small> |
+| 时限传票（Time Summons） | 当事人以 time summons 请求延长或缩短期限，通常列入聆案官内庭三分钟清单，trainee solicitor 可出席。若原因或 prejudice 不能靠案卷说明，申请方应交支持誓章（O.3 r.5）。 [§0D](#0D.%20Extension%20of%20Time%EF%BC%9A%E7%94%B3%E8%AF%B7%E5%BB%B6%E9%95%BF%E6%88%96%E7%BC%A9%E7%9F%AD%E6%9C%9F%E9%99%90%E7%9A%84%E8%B7%AF%E5%BE%84%E3%80%81%E6%B3%95%E9%99%A2%E8%A3%81%E9%87%8F%E4%B8%8E%E9%80%BE%E6%9C%9F%E5%90%8E%E6%9E%9C) <small style="opacity: 0.55">〔CL11M L729 "A summons only seeking for extension of time are often referred to as “Time Summons”"；CL11M L733 "trainee solicitors has the right of audience"〕</small> |
+| 排期审讯令（setting down） | 备审全部完成后的「挂号」动作：法院如定下 setting down 期限，原告用 PD 5.2 Appendix D 申请将案件排入审讯名单，并按 O.34 rr.2–3 向司法常务官提交排期请求和法官用文件册。不挂号，案件就不会进入任何审讯名单。 [§0F](#0F.%20%E5%AE%A1%E8%AE%AF%E7%BB%84%E7%BB%87%EF%BC%9APTR%20%E2%86%92%20Setting%20Down%20%E2%86%92%20Listing%20%E2%86%92%20Trial%20Bundles%20%E2%86%92%20%E5%BD%93%E6%97%A5%20%E2%86%92%20O.37) <small style="opacity: 0.55">〔CL15 L206 "The request for setting down is done by filing Appendix D as attached to PD 5.2."；CL15 L210 "must deliver to the Registrar, by post or otherwise, a request that the action may be set down for trial"〕</small> |
 | 流动审讯单（Running List） | 原讼庭预计三日或以下的合资格短审通常进入 Running List，起初没有固定审日。法院确认已备妥的案件才会进入 Warned List（PD 7.1）。 [§0F](#0F.%20%E5%AE%A1%E8%AE%AF%E7%BB%84%E7%BB%87%EF%BC%9APTR%20%E2%86%92%20Setting%20Down%20%E2%86%92%20Listing%20%E2%86%92%20Trial%20Bundles%20%E2%86%92%20%E5%BD%93%E6%97%A5%20%E2%86%92%20O.37) <small style="opacity: 0.55">〔CL15 L262 "A Running List case is one with an estimated length of trial of 3 days or less"；CL15AX L298 "will be assigned to and set down in the Running List"〕</small> |
 | 定期审讯单（Fixture List） | 案件预计超过三日，或有复杂程度、证人到庭等理由需要固定日期时，法院使用 Fixture List。区院有 litigant in person 的案件按 PD 27 处理（原讼庭见 PD 7.1）。 [§0F](#0F.%20%E5%AE%A1%E8%AE%AF%E7%BB%84%E7%BB%87%EF%BC%9APTR%20%E2%86%92%20Setting%20Down%20%E2%86%92%20Listing%20%E2%86%92%20Trial%20Bundles%20%E2%86%92%20%E5%BD%93%E6%97%A5%20%E2%86%92%20O.37) <small style="opacity: 0.55">〔CL15 L268 "A Fixture List case is one where the court has determined at the setting down stage"〕</small> |
 | 被警示名单（Warned List） | 列单人员每周三从 Pending List 摘出可在下周起随时开审的案件。当事人进了 Warned List 后，须保持可以接通知即开庭的状态（PD 7.1 ¶4）。 [§0F](#0F.%20%E5%AE%A1%E8%AE%AF%E7%BB%84%E7%BB%87%EF%BC%9APTR%20%E2%86%92%20Setting%20Down%20%E2%86%92%20Listing%20%E2%86%92%20Trial%20Bundles%20%E2%86%92%20%E5%BD%93%E6%97%A5%20%E2%86%92%20O.37) <small style="opacity: 0.55">〔CL15AX L306 "will be extracted from the Pending List and put in another list – the Warned List"〕</small> |
@@ -92,7 +90,7 @@ SG课表安排:
 
 | 环节 | 实际操作 |
 | --- | --- |
-| 诉答终结 → 28 日内交换问卷 | 各方在 close of pleadings 后 28 日内入禀并送达 TQ，同时按 PD 31 交适用的 mediation certificate。法院因此能在无人催办时取得备审方案（O.25 r.1(1)）。 <small style="opacity: 0.55">〔CL11M L185 "The purpose of a Timetabling Questionnaire is to enable the Court to give directions relating to management"〕</small> |
+| 诉答终结 → 28 日内交换问卷 | 各方在 close of pleadings 后 28 日内存档并送达 TQ，同时按 PD 31 交适用的 mediation certificate。法院因此能在无人催办时取得备审方案（O.25 r.1(1)）。 <small style="opacity: 0.55">〔CL11M L185 "The purpose of a Timetabling Questionnaire is to enable the Court to give directions relating to management"〕</small> |
 | 同意 → Consent Summons | 各方谈妥后由原告交 consent summons。法院可在不开庭的情况下批准，但会拒绝造成不必要迟延或成本的同意方向（PD 5.2 ¶¶13–15；见 §0B.3 *Li Shiu To*）。 <small style="opacity: 0.55">〔CL11M L317 "it will give great weight to the parties’ agreed directions"〕</small> |
 | 分歧 → CMS | 各方谈不拢时，由原告按 PD 5.2 ¶16 发 CMS。原告不行动，被告可发 CMS 或申请驳回诉讼（O.25 r.1(1B)、(4)）。 <small style="opacity: 0.55">〔CL11M L303 "If the Plaintiff does not take out a Case Management Summons, the Defendant may (a) take out"〕</small> |
 | order nisi | 法院若能根据书面材料定 directions，可先作 order nisi；当事人有 14 日申请变更，无人申请时命令成为 absolute（O.25 r.1A）。 <small style="opacity: 0.55">〔CL11M L321 "The Court shall, on an application to vary the order nisi, hear the Case Management Summons (O.25 r.1A(6))"〕</small> |
@@ -108,7 +106,7 @@ SG课表安排:
 ```mermaid
 flowchart TD
     classDef warnnode fill:#fff1f1,stroke:#a93838,stroke-width:1.5px,color:#752828
-    A["close of pleadings<br/>O.18 r.20"] --> B["各方在 28 日内入禀并送达 TQ<br/>O.25 r.1(1)；适用时同交 mediation certificate"]
+    A["close of pleadings<br/>O.18 r.20"] --> B["各方在 28 日内存档并送达 TQ<br/>O.25 r.1(1)；适用时同交 mediation certificate"]
     B --> C{"已谈妥 directions 及 timetable？"}
     C -->|同意| D["原告交 consent summons<br/>收齐 TQ 后 14 日或 TQ 期限届满，取较早者"]
     C -->|分歧或未收齐| E["原告发 CMS<br/>收齐 TQ 后 14 日或 TQ 期满后 14 日，取较早者；returnable ≥14 日"]
@@ -144,24 +142,24 @@ flowchart TD
 
 | 任务 | 直达 |
 | --- | --- |
-| 案件管理总框架：三文书、两会议、三里程碑 | [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%B8%89%E6%96%87%E4%B9%A6%E3%80%81%E4%B8%A4%E4%BC%9A%E8%AE%AE%E3%80%81%E4%B8%89%E9%87%8C%E7%A8%8B%E7%A2%91) |
+| 案件管理总框架：从诉答完结到排期开审怎么走 | [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%BB%8E%E8%AF%89%E7%AD%94%E5%AE%8C%E7%BB%93%E5%88%B0%E6%8E%92%E6%9C%9F%E5%BC%80%E5%AE%A1%E6%80%8E%E4%B9%88%E8%B5%B0) |
 | Timetabling Questionnaire 逐栏填写逻辑 | [§0C](#0C.%20Timetabling%20Questionnaire%20%E9%80%90%E6%A0%8F%E5%A1%AB%E5%86%99%E9%80%BB%E8%BE%91) |
-| Extension of Time：O.3 r.5 的三渠道、裁量架构与逾期后果谱系 | [§0D](#0D.%20Extension%20of%20Time%EF%BC%9AO.3%20r.5%20%E7%9A%84%E4%B8%89%E6%B8%A0%E9%81%93%E3%80%81%E8%A3%81%E9%87%8F%E6%9E%B6%E6%9E%84%E4%B8%8E%E9%80%BE%E6%9C%9F%E5%90%8E%E6%9E%9C%E8%B0%B1%E7%B3%BB) |
-| 违令制裁与救济机制：自执行制裁与 14 天救济时限 | [§0E](#0E.%20%E8%BF%9D%E4%BB%A4%E5%88%B6%E8%A3%81%E4%B8%8E%E6%95%91%E6%B5%8E%E6%9C%BA%E5%88%B6%EF%BC%9A%E8%87%AA%E6%89%A7%E8%A1%8C%E5%88%B6%E8%A3%81%E4%B8%8E%2014%20%E5%A4%A9%E6%95%91%E6%B5%8E%E6%97%B6%E9%99%90) |
+| Extension of Time：申请延长或缩短期限的路径、法院裁量与逾期后果 | [§0D](#0D.%20Extension%20of%20Time%EF%BC%9A%E7%94%B3%E8%AF%B7%E5%BB%B6%E9%95%BF%E6%88%96%E7%BC%A9%E7%9F%AD%E6%9C%9F%E9%99%90%E7%9A%84%E8%B7%AF%E5%BE%84%E3%80%81%E6%B3%95%E9%99%A2%E8%A3%81%E9%87%8F%E4%B8%8E%E9%80%BE%E6%9C%9F%E5%90%8E%E6%9E%9C) |
+| 违反 unless order：制裁自动生效（O.2 r.4）与 14 日内申请宽免（O.2 r.5） | [§0E](#0E.%20%E8%BF%9D%E5%8F%8D%20unless%20order%EF%BC%9A%E5%88%B6%E8%A3%81%E8%87%AA%E5%8A%A8%E7%94%9F%E6%95%88%EF%BC%88O.2%20r.4%EF%BC%89%E4%B8%8E%2014%20%E6%97%A5%E5%86%85%E7%94%B3%E8%AF%B7%E5%AE%BD%E5%85%8D%EF%BC%88O.2%20r.5%EF%BC%89) |
 | 审讯组织：PTR → Setting Down → Listing → Trial Bundles → 当日 → O.37 | [§0F](#0F.%20%E5%AE%A1%E8%AE%AF%E7%BB%84%E7%BB%87%EF%BC%9APTR%20%E2%86%92%20Setting%20Down%20%E2%86%92%20Listing%20%E2%86%92%20Trial%20Bundles%20%E2%86%92%20%E5%BD%93%E6%97%A5%20%E2%86%92%20O.37) |
 | 攻防与暗礁：问卷的策略含义与程序制裁机制 | [§0G](#0G.%20%E6%94%BB%E9%98%B2%E4%B8%8E%E6%9A%97%E7%A4%81%EF%BC%9A%E9%97%AE%E5%8D%B7%E7%9A%84%E7%AD%96%E7%95%A5%E5%90%AB%E4%B9%89%E4%B8%8E%E7%A8%8B%E5%BA%8F%E5%88%B6%E8%A3%81%E6%9C%BA%E5%88%B6) |
-| 文书与期限倒排 | [§0H](#0H.%20%E7%94%B3%E8%AF%B7%E4%B8%8E%E6%93%8D%E4%BD%9C%E5%B7%A5%E7%A8%8B%EF%BC%9A%E6%96%87%E4%B9%A6%E3%80%81%E9%80%81%E8%BE%BE%E5%92%8C%E6%9C%9F%E9%99%90) |
+| 文书与期限倒排 | [§0H](#0H.%20%E5%AE%9E%E5%8A%A1%E6%93%8D%E4%BD%9C%E6%B8%85%E5%8D%95%EF%BC%9A%E6%96%87%E4%B9%A6%E3%80%81%E9%80%81%E8%BE%BE%E4%B8%8E%E6%97%B6%E9%99%90%E5%80%92%E6%8E%92) |
 | 提交前核对 | [§0I](#0I.%20%E6%94%BB%E9%98%B2%E4%B8%8E%E6%89%A7%E8%A1%8C%E5%89%8D%E6%A0%B8%E5%AF%B9) |
 | 失误、制裁与补救 | [§0J](#0J.%20%E7%A8%8B%E5%BA%8F%E5%A4%B1%E8%AF%AF%E5%8F%8A%E5%85%B6%E5%90%8E%E6%9E%9C) |
 | SG 实务应用 | [§0K](#0K.%20SG%20%E5%AE%9E%E5%8A%A1%E5%BA%94%E7%94%A8%E4%B8%8E%E5%AF%BC%E5%B8%88%E5%8F%A3%E5%BE%84) |
 
 #### 核心参数与计算口径
-- **排期问卷法定提交死线（Timetabling Questionnaire - O.25 r.1(1)）**：诉答完结（close of pleadings）后 **28 天内**，各方须入禀并向其他各方送达 PD 5.2 Appendix A 的 Timetabling Questionnaire。
+- **排期问卷法定提交死线（Timetabling Questionnaire - O.25 r.1(1)）**：诉答完结（close of pleadings）后 **28 天内**，各方须存档并向其他各方送达（file and serve）PD 5.2 Appendix A 的 Timetabling Questionnaire。
 - **书面延期与 milestone dates（O.3 r.5(3)；RHC O.25 r.1B）**：适用 O.3 r.5(3) 的文件期限可经书面同意延期；法院指定的 O.38 r.2A witness statements 交换期限排除这一渠道。CMC、PTR、trial 或已固定的 trial period 只能由法院在 exceptional circumstances 下变更。
 - **除非命令自动生效与制裁救济（Unless Order & Relief from Sanctions - O.2 r.4 / PD 5.2 ¶44）**：违反 Unless Order 之违约方，其诉状被剔除或判决生效自动发生；违约方必须在未遵令之日起 **14 天内**发出传票申请 Relief from Sanctions。
 - **审前复核（PTR）与审讯文件册（Trial Bundles under PD 5.6）**：
   ① 审前复核（PTR）：通常在正审前 8–10 周召开；
-  ② 申请排期开审（Setting Down under O.34 r.2）：按法院的许可与命令期限入禀并缴费；
+  ② 申请排期开审（Setting Down under O.34 r.2）：按法院的许可与命令期限存档并缴费；
   ③ 审讯文件册（Trial Bundles）：负责一方须依 PD 5.6 §8 在聆讯前至少 72 小时向法庭交存 trial bundles；不计周六、周日及公众假期。
 
 <!-- BEGIN:cite-legend -->
@@ -198,15 +196,15 @@ flowchart TD
 > | LG11UP | [本届Updated Word修订阅读核对](obsidian://open?vault=3b1e77255f6c6e29&file=output%2Fresearch%2FCivil%20Litigation%20LG11%20Updated%20Tracked%20Changes%20Verification%20-%202026-10-23.md) | 本层自拟 | 2026-27 |
 <!-- END:cite-legend -->
 
-## 0B. 案件管理总框架：三文书、两会议、三里程碑
+## 0B. 案件管理总框架：从诉答完结到排期开审怎么走
 
-法院以 TQ 取得排期资料，以 consent summons 或 CMS 处理双方的建议，并在需要时举行 CMC 或 PTR。CMC、PTR 和 trial 一经定为 milestone，只能按较严格的程序改期。 <small style="opacity: 0.55">〔CL11M L23 "Lecture title | Case Management & Extension of Time"；CL11M L27 "Ophelia Chan on Case Management &  Sam Liu on Extension of Time"〕</small>
+**此时案件处在什么状态？** 诉答刚终结：双方的对错主张已经写成状纸，但证据一样都没准备——文件未披露、证人陈述未写、专家未请，法院也不知道要审几天，无法排期。**案件管理在干嘛？** 它让法院在此时拿到双方认可的备审计划（先交 TQ），再把计划变成有约束力、有时限的时表（consent summons 或 CMS + order nisi / CMC）。**和相邻程序怎么分？** 此阶段的 TQ 与 CMC 是在证据未备时「布置写备审作业的时间表」；Listing Questionnaire 与 PTR 是备审快完成时「检查作业齐没齐、估算开庭要几天」（§0F）；setting down 则是作业全部完成后「去登记处窗口正式挂号排队领开庭日子」（§0F.2）——名字相近，阶段与功能不同。CMC、PTR 和 trial 一经定为 milestone date，只能按较严格的程序改期（§0B.6）。 <small style="opacity: 0.55">〔CL11M L23 "Lecture title | Case Management & Extension of Time"；CL11M L27 "Ophelia Chan on Case Management &  Sam Liu on Extension of Time"〕</small>
 
-### 0B.1 案件管理程序流转全景：从诉答完结到开审及制裁救济回路
+### 0B.1 全流程一览：从诉答完结到开审的完整时序（含延期与制裁救济）
 
 各方在 O.18 r.20（close of pleadings）所定日期后开始计算 28 日。经办律师签署 TQ；各方可同步协商，但 PD 5.2 ¶8 不准以谈判未完为由延误交问卷。原告应在获知被告立场后选用 consent summons 或 CMS。法院取得各方资料后，先判断能否在书面上处理；如须进一步查问备审进度或解决争议，才需聆讯或 CMC。排期一经确定，各方就按指定日期完成证据准备；预见不能履行时走 §0D，制裁已生效时走 §0E。随后按 §0F 完成 trial preparation。 <small style="opacity: 0.55">〔CL11M L159 "the Timetabling Questionnaire together with the Mediation Certificate shall be filed with the Court"；CL11M L211 "at the same time as the filing of the Timetabling Questionnaire (i.e. within 28 days after the deemed date of close of pleadings)"〕〔CL11M L181 "the process of consultation must not delay the filing of the Timetabling Questionnaire"；CL15AX L52 "the process of consultation must not delay the filing of the Timetabling Questionnaire"〕〔CL11M L263 "file a single set of Timetabling Questionnaire (still within 28 days after the deemed date of close of pleadings)"；CL15AX L64 "within 14 days after receiving the Timetabling Questionnaire from all defendants"〕〔CL11M L305 "the Court will decline to hear the Case Management Summons unless the Timetabling Questionnaire has been filed"；CL15AX L88 "the plaintiff (whether legally represented or not) must take out a case management summons for directions"〕〔CL11M L319 "failing which the order nisi and the directions therein becomes absolute (i.e. final)"；CL15AX L114 "the Court will make orders nisi giving case management directions and fix a timetable"〕〔CL11M L423 "At least 7 days before the Case Management Conference, each party shall file and serve their Listing Questionnaire"；CL11M L433 "At least 3 days before the Case Management Conference, the Plaintiff shall lodge the Case Management Conference bundle"〕〔CL11M L479 "normally about 8 to 10 weeks before the trial date (para 33 of PD 5.2)"；CL15 L142 "At the PTR, the Court will:"〕〔CL15 L206 "The request for setting down is done by filing Appendix D as attached to PD 5.2."；CL15 L210 "must deliver to the Registrar, by post or otherwise, a request that the action may be set down for trial"〕〔CL15 L262 "A Running List case is one with an estimated length of trial of 3 days or less"；CL15AX L298 "will be assigned to and set down in the Running List"〕〔CL11M L643 "Such order can be made upon application by a party, by consent of the party, or of the court’s own motion under O.1B r.2."；CL11M L679 "any sanction for failure to comply imposed by the rule or court order has effect unless the party in default applies"〕</small>
 
-### 0B.2 文书链与时限链一览（28‑14‑7‑3 时限记忆）
+### 0B.2 每一步交什么文书、期限几天（28 日／14 日／7 日／3 clear days）
 
 | 文书／行为 | 时限（起算点 → 死线） | 表式／依据 | 性质与备注 |
 | --- | --- | --- | --- |
@@ -216,7 +214,7 @@ flowchart TD
 | Consent Summons（同意时） | 原告收到全部被告问卷后 14 日内，或对方交卷期届满时，取较早者。 <small style="opacity: 0.55">〔CL11M L275 "procure and file a Consent Summons containing the agreed Directions or Timetable for the Court’s consideration"〕</small> | O.25 r.1(1A)；PD 5.2 §13 | 拟求审期／审段者须附 Certificate of Counsel；联合单一问卷亦可行。 <small style="opacity: 0.55">〔CL15AX L66 "shall be attached to the consent summons referred to in paragraph 13 a certificate prepared by trial counsel"〕〔CL15AX L76 "filing a single set of Timetabling Questionnaire containing the joint views of the parties"〕</small> |
 | Case Management Summons（分歧时） | 收到对方问卷后 14 日内，或交卷期满 28 日＋14 日内，取较早者；回院期不少于 14 日。 <small style="opacity: 0.55">〔CL11M L291 "within 14 days upon expiry of the period for the Defendant to file and serve a Timetabling Questionnaire"；CL11M L295 "take out a summons (referred to as a Case Management Summons) (as set out in Appendix B"〕</small> | O.25 r.1(1B)；PD 5.2 §16–18；PD 5.2 App B。 <small style="opacity: 0.55">〔APPB L16 "Parties to exchange all statements of factual witnesses within 28 days"〕</small> | 原告不取：被告可取 CMS，或申请驳回本案；法院亦可视之为 CMS 处置；有亲身诉讼人必须取。 <small style="opacity: 0.55">〔CL11M L303 "If the Plaintiff does not take out a Case Management Summons, the Defendant may (a) take out"〕〔CL15AX L88 "the plaintiff (whether legally represented or not) must take out a case management summons for directions"〕</small> |
 | order nisi | 法院读卷后随时作出；14 日内无变更申请即成 absolute。 <small style="opacity: 0.55">〔CL11M L319 "failing which the order nisi and the directions therein becomes absolute (i.e. final)"〕</small> | O.25 r.1A(4)-(6)；PD 5.2 §19–22 | 申请变更 → 法院聆讯 CMS；就上诉人可用 relative 条款；课堂补充：master 纸面裁定以 court note **传真（fax）**送达律师行，且 14 日 vary 窗自命令作出日起算、**不以收到传真起算**。 <small style="opacity: 0.55">〔CL11M L321 "The Court shall, on an application to vary the order nisi, hear the Case Management Summons (O.25 r.1A(6))"〕〔CL11T L44 "The court might have faxed you the court note a day later."〕</small> |
-| Listing Questionnaire（各方） | 各方至少在 CMC 前 7 日入禀并送达。 <small style="opacity: 0.55">〔CL11M L423 " At least 7 days before the Case Management Conference"〕〔APPC L20 "to be filed before Case Management Conference or Pre-Trial Review"〕〔APPC L38 "You MUST provide an explanation in Section B if you answer “No” to any of the questions"〕〔CL11T L68 "it should be filled in by the handling solicitor, and you're not allowed to change the wording"〕</small> | PD 5.2 App C | 经办律师按表式原文签署。Section A 的 No 须在 Section B 逐项解释。 |
+| Listing Questionnaire（各方） | 各方至少在 CMC 前 7 日存档并送达（file and serve）。 <small style="opacity: 0.55">〔CL11M L423 " At least 7 days before the Case Management Conference"〕〔APPC L20 "to be filed before Case Management Conference or Pre-Trial Review"〕〔APPC L38 "You MUST provide an explanation in Section B if you answer “No” to any of the questions"〕〔CL11T L68 "it should be filled in by the handling solicitor, and you're not allowed to change the wording"〕</small> | PD 5.2 App C | 经办律师按表式原文签署。Section A 的 No 须在 Section B 逐项解释。 |
 | CMC bundle（原告） | 原告至少在 CMC 前 **3 clear days** 交存。 <small style="opacity: 0.55">〔CL11M L165 "at least 3 days before the Case Management Conference hearing, the Plaintiff shall lodge and serve the Case Management Conference bundle"；CL11M L433 "At least 3 days before the Case Management Conference, the Plaintiff shall lodge the Case Management Conference bundle"；CL11T L72 "at least three days before the case management conference"〕〔CL11M L443 "should be updated and re-used at subsequent Case Management Conferences"；CL15AX L134 "should highlight the updated parts to assist the master or judge"〕</small> | [PD 5.2 ¶26](https://legalref.judiciary.hk/lrs/common/pd/pdcontent.jsp?lang=EN&pdn=PD5.2.htm) | 文件册收录 pleadings、witness statements、expert reports 和 trial bundle 的草拟索引。其后 CMC 或 PTR 可在原册上更新；索引须标明更新位置。 |
 | PTR bundle（原告） | PTR 前不少于 3 clear days（同上更新版）。 <small style="opacity: 0.55">〔CL11M L483 "At least 3 clear days before the Pre-Trial Review, the Plaintiff shall lodge an updated bundle"〕</small> | PD 5.2 §35 | 内容与 CMC bundle 同（§26） |
 | Certificate of Counsel | 求审期时同 Listing Questionnaire／Consent Summons 附交。 <small style="opacity: 0.55">〔CL15AX L124 "the parties should file and serve together with his Listing Questionnaire a certificate"〕</small> | PD 5.2 §14、§25 | 四段独立估算：己方开案／己方证人主问／盘问对方证人／己方结案。 <small style="opacity: 0.55">〔CL15 L124 "(1) his own opening submission"〕</small> |
@@ -226,7 +224,7 @@ flowchart TD
 
 ### 0B.3 法院收到问卷后的两种处置与"同意≠批准"
 
-法院先读 TQ 和随附文件。若现有材料足以定下 directions，法院按 PD 5.2 ¶21 在纸面上作 order nisi，省去双方为无须争辩的事项出庭。任何一方不同意具体指示，须在命令作出后 14 日内申请变更；收到传真不重新起算。无人申请时，命令成为 absolute。若争议需要口头陈词，法院可直接排 CMS 聆讯；书面命令本身也可以安排后续 CMC。 <small style="opacity: 0.55">〔OLD-LG11O L187 "Gives directions on its own motion upon reading the Questionnaire"·往届仅参考；OLD-LG11O L196 "The Court can fix a CMS. At the CMS, the Court can give directions leading up to trial"·往届仅参考；CL11M L321 "The Court shall, on an application to vary the order nisi, hear the Case Management Summons (O.25 r.1A(6))"〕</small>
+order nisi（暂准命令）解决的是「没有争议也要开庭，太浪费」的问题：开庭聆讯有成本，若双方意见接近，法院不值得为确认一份无人反对的时表专门开庭，于是先在纸面上作命令，另给 14 日异议期作保障。法院先读 TQ 和随附文件。若现有材料足以定下 directions，法院按 PD 5.2 ¶21 在纸面上作 order nisi，省去双方为无须争辩的事项出庭。任何一方不同意具体指示，须在命令作出后 14 日内申请变更；收到传真不重新起算。无人申请时，命令成为 absolute。若争议需要口头陈词，法院可直接排 CMS 聆讯；书面命令本身也可以安排后续 CMC。 <small style="opacity: 0.55">〔OLD-LG11O L187 "Gives directions on its own motion upon reading the Questionnaire"·往届仅参考；OLD-LG11O L196 "The Court can fix a CMS. At the CMS, the Court can give directions leading up to trial"·往届仅参考；CL11M L321 "The Court shall, on an application to vary the order nisi, hear the Case Management Summons (O.25 r.1A(6))"〕</small>
 
 - **双方同意后仍须法院批准。** 若各方提交 consent summons，法院会重视双方同意的 directions，但会拒绝不相称的安排。往届 *Li Shiu To v Li Shiu Tsang* HCA 416/2003 中，案件已可排两天审期，法院拒绝双方同意押后第二次 striking-out application，因为继续处理该申请会造成不相称的迟延。 <small style="opacity: 0.55">〔CL11M L317 "it will give great weight to the parties’ agreed directions"；CL15AX L100 "retain discretion to override the agreement where it considers the agreed directions and time limits to be unreasonable"〕〔OLD-LG11O L171 "Allowing the strike out application to continue forward despite severe delay is wholly disproportionate."·往届仅参考〕</small>
 - **当事人须先交自己的 TQ。** *Faith Bright* 中，法院拒绝听取没有提交 TQ 的当事人提出的 CMS；缺报者应补交并解释迟延。 <small style="opacity: 0.55">〔CL11M L305 "the Court will decline to hear the Case Management Summons unless the Timetabling Questionnaire has been filed"；OLD-LG11O L157 "The Court has said that it would refuse to hear CMS if parties failed to file Timetabling Questionnaires"·往届仅参考〕</small>
@@ -236,10 +234,12 @@ flowchart TD
 
 ### 0B.4 CMC 聆讯实务：谁出席、没出席的代价
 
+CMC（案件管理会议）是法院把各方叫来当面核数的会议：核对时表执行到哪一步、还欠什么、接下来定什么。它和 CMS 不是一回事——CMS 是当事人交上去的申请文书，CMC 是法院主持的会议；有分歧或法院要查进度才开，并非每宗案件必经。
+
 | 议题          | 规则与细节                                                                                                                                                                                                                                                                                                                                                                                                                                 | 引注                              |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
 | 谁主持 | 案件初期通常由聆案官主持，聆案官可移交法官（其决定为终局）。 <small style="opacity: 0.55">〔CL11M L451 "usually heard by a master (initial stage) (para 27 of PD 5.2)"；CL15AX L136 "a CMC is generally heard by a master"〕</small> | PD 5.2 §27 |
-| 谁出席 | 各方或其法律代表须出席；法席（法官前）聆讯由出庭大律师出席；出席律师须是经办人、熟案、有足够授权答复；往届笔记建议由受聘大律师出席以利即时磋商。 <small style="opacity: 0.55">〔CL11M L449 "attend by handling solicitor (paras 44 & 46 of PD 5.2), and if before judge, attend by counsel (para 45 of PD 5.2)"；CL15AX L206 "must in any event be familiar with it, be able to provide the Court with the information"〕〔OLD-SET3L11 L357 "It has been suggested that CMC should be attended by the counsel instructed"·往届仅参考〕</small> | PD 5.2 §44–46 |
+| 谁出席 | 各方或其法律代表须出席；在法官席前聆讯（before judge）的由出庭大律师出席；出席律师须是经办人、熟案、有足够授权答复；往届笔记建议由受聘大律师出席以利即时磋商。 <small style="opacity: 0.55">〔CL11M L449 "attend by handling solicitor (paras 44 & 46 of PD 5.2), and if before judge, attend by counsel (para 45 of PD 5.2)"；CL15AX L206 "must in any event be familiar with it, be able to provide the Court with the information"〕〔OLD-SET3L11 L357 "It has been suggested that CMC should be attended by the counsel instructed"·往届仅参考〕</small> | PD 5.2 §44–46 |
 | 法院在 CMC 做什么 | 审查备审进展及遵从、定后续时表、落实可作的承认与同意、押后 CMC 或定 PTR 或定审期／审段、查明 ADR 意向。 <small style="opacity: 0.55">〔CL11M L461 "review the parties’ preparation of the case for trial (especially their compliance with Court directions)"；CL11M L467 "adjourn the Case Management Conference to another date, or fix a date for the Pre-Trial Review"〕</small> | PD 5.2 §32 |
 | CMC 时申请延期 | 法院在 CMC 核对各方是否已遵守时表。申请人须证明 sufficient grounds；法院准许时通常会发 unless order。 | PD 5.2 ¶29 <small style="opacity: 0.55">〔CL11M L455 "it will most likely be an unless order basis with costs"；CL15AX L140 "the grant of extension will most likely be on an unless order basis with self-executing sanctions"〕</small> |
 | 新中间程序的可见性 | 应尽早在问卷／CMS 阶段集中提出；越近审期越不受理；CMC 不是补做问卷阶段该要方向的"第二次机会"。 <small style="opacity: 0.55">〔CL11M L457 "the closer to a trial date, the less likely the Court would entertain it"；CL15AX L144 "The later in time and the closer to a trial date an application is made"〕〔CL15AX L138 "It is not a second opportunity for the parties to ask for directions"〕</small> | PD 5.2 §28、§30–31 |
@@ -276,6 +276,8 @@ CJR 要求法院按 O.1A r.1 的 underlying objectives 管理案件。法院须�
 
 ### 0B.6 里程碑日期 vs 非里程碑日期：更改规则对照
 
+时表里的日期分两等：CMC、PTR、trial 三类里程碑日期，改期须向法院证明 exceptional circumstances，双方同意也不行；其余普通日期，先协商、书面同意即可改。这样设计是因为里程碑牵动排庭、证人和其他案件的安排——不是双方私下说好就能挪的。
+
 | 维度 | milestone dates（CMC／PTR／Trial） | non-milestone dates（其余一切日期） | 引注 |
 | --- | --- | --- | --- |
 | 定义 | 只有三类：CMC、PTR、Trial，且属法院时表中被标明者。 <small style="opacity: 0.55">〔CL11M L169 "There are only 3 “milestone dates”: Case Management Conference, Pre-Trial Review and Trial"〕</small> | 法院时表中除里程碑日期外的一切日期（如 CMS 聆讯日、证人陈述交换日）。 <small style="opacity: 0.55">〔CL11M L543 "All other dates or period fixed by the Court (i.e. not the milestone dates) are “non-milestone dates”"〕</small> | O.25 r.1B(8) |
@@ -303,7 +305,9 @@ CJR 要求法院按 O.1A r.1 的 underlying objectives 管理案件。法院须�
 | 排期名单 | Running／Fixture 两分（PD 7.1） | **PD 5.7 与 PD 7.1 不适用区院**；区院 Running List 只及 PI／雇员补偿／交通车祸索赔三类，逾 3 日或有无律师当事人剔出。 <small style="opacity: 0.55">〔CL15AX L598 "do not apply to proceedings in the District Court."；CL15AX L528 "claims under the Employees’ Compensation Ordinance (Cap. 282)"〕</small> | PD 27 §J、§S35 |
 | 和解会议（CSC／MASC） | 不适用 | **仅区院**（PD 31.1；本届大纲 key takeaway 明文）。 <small style="opacity: 0.55">〔CL11M L163 "Case Settlement Conference & Mediator-Assisted Case Settlement Conference only applies in District Court."〕</small> | PD 31.1（本届大纲转述） |
 
-### 0B.8 调解与和解机制：PD 31 调解程序与讼费制裁杠杆
+### 0B.8 调解与和解：PD 31 程序与无理拒绝调解的讼费后果
+
+调解义务和 TQ 挂在一起交（Mediation Certificate 随问卷同交），因为 CJR 要求法院主动促成和解：愿不愿意调、什么时候材料够调，都要在问卷 A 栏向法院交代。无理拒绝调解要付出讼费代价——举证负担在拒绝方，不在胜方。
 
 1. **Mediation Certificate／Notice／Response／Minute 的 PD 31 链条**：谁愿调解，交证明后发 Mediation Notice（App C）；对方 14 日内回 Mediation Response（App D）；拟定条款后 3 日内交 Mediation Minute。谈不拢的细分差异：联合申请法院作方向（限 venue／费用／参与充足度／开始时间四项单方申请面），以及为调解中止诉讼，但**中止不应扰乱里程碑、除例外情况不推迟审日**。课堂补充：调解达成后，原告须 promptly inform court 调解结果，并以 consent order 或 notice of discontinuance 正式了结程序。 <small style="opacity: 0.55">〔CL11M L225 "a Mediation Notice (as set out in Appendix C of PD 31)"；CL11M L245 "a Mediation Response (as set out in Appendix D of PD 31) within 14 days"；CL11M L247 "The Mediation Minute should be filed in Court within 3 days after being signed"〕〔CL11M L255 "bearing in mind to avoid disruption to milestone dates and, save in exceptional circumstances, postponement of the trial dates"〕〔CL11T L68 "the plaintiff would have to promptly inform the court the results of mediation"〕</small>
 2. **Case Settlement Conference（CSC）与 Mediator-Assisted CSC（MASC）＝区院专属**：在 CMS／CMC 或 Consent Summons 阶段排；当事人可证案不适合或已完成足够调解来"退出"；聆讯前 7 日交 CSC bundle（一页案情摘要、争点表、关键文件、最新要约与反要约、调解报告）；聆讯不公开、无损害基础、法官／聆案官只作三类命令（押后／同意命令了结全部或部分／推进下一阶段方向）；若不和解，主持法官不再介入本案；讼费原则上 in the cause，不合规或无理行为可致制裁。往届讲义据旧 Guidance Notes 另有细节（"pilot scheme"、退出二门、文件清单）。 <small style="opacity: 0.55">〔CL11M L325 "PART F: Case Settlement Conference"；CL11M L339 "parties may contend that their case is not suitable for Case Settlement Conference"；CL11M L407 "generally, costs in the cause"〕〔OLD-LG11O L377 "a pilot scheme at the DC for CSC (without prejudice hearing) to be held"·往届仅参考〕</small>
@@ -345,6 +349,8 @@ O.1A r.1(e) 规定法院应促进和解。PD 31 要求各方先交 Mediation Cer
 
 ## 0C. Timetabling Questionnaire 逐栏填写逻辑
 
+**此时案件处在什么状态？** 诉答刚终结，证据一样没准备——但法院已经需要知道整件案子打算怎么走。**TQ 在干嘛？** 它是备审动工前各方交出的「作业日程表」：怎么调解、要不要加当事人、拟不拟改诉答、传多少证人和专家、估计审几天，按 Appendix A 的 A–O 栏逐项向法院申报，法院据此定 directions 和时表。**和谁区分？** 与 Listing Questionnaire（LQ）分工不同：TQ 是「作业没动工、先报日程表」；LQ（§0F 阶段）是「作业快做完、逐项查进度」。不交 TQ 的直接后果：法院可拒听你的 CMS（*Faith Bright*），对方还可自行发 CMS 或申请驳回诉讼。
+
 下表按 PD 5.2 Appendix A 的原顺序列出所问事项。往届 LG11 所附表格的 Markdown 转录自第 11 行起与本届 PD5.2_App_A_V2 相同。SG04 Exercise 1 另对照司法机构官网与库内的 .doc；本届与往届表式引注均留在相应行。 <small style="opacity: 0.55">〔OLD-LG11TQ L18 "Timetabling Questionnaire to be filed after close of pleadings"·往届仅参考〕〔SG4TQ L30 "与本库`.doc`原件逐字节相同"〕</small>
 
 经办律师先看 PD 5.2 Instructions 1–5，按 Appendix A 原文填答，并出席所需的管理聆讯。各方应依 ¶5 先推进 disclosure，不能等法院给方向。问卷不能用 "subject to counsel's advice" 或笼统的保留权利代替答案；区院按 PD 27 ¶13 适配表式。 <small style="opacity: 0.55">〔APPA L24 "urged to proceed with discovery without waiting for case management directions"〕〔APPA L32 "reserving rights to take certain steps are NOT acceptable."〕〔APPA L36 "this questionnaire MUST be completed by the handling solicitor of this case"〕〔APPA L40 "Parties are NOT allowed to change any wordings of this questionnaire"〕</small>
@@ -352,7 +358,7 @@ O.1A r.1(e) 规定法院应促进和解。PD 31 要求各方先交 Mediation Cer
 | 栏 | 原表问什么（节选） | 法律依据 | 往届范本标题原话 | 填表逻辑与策略含义 |
 | --- | --- | --- | --- | --- |
 | **0 表头** | 谁代为填写、案号 | O.25 r.1(1) | "Timetabling Questionnaire to be filed after close of pleadings"（往届范本原话，往届仅参考）。 <small style="opacity: 0.55">〔OLD-LG11TQ L18 "Timetabling Questionnaire to be filed after close of pleadings"·往届仅参考〕</small> | 除非各方已同意交一套联合问卷，否则各自填写（§0B.2）。 |
-| **A Mediation** | A1 已交调解证明？A2 已试过？A3 是否愿以调解了结？A4 何时材料足够？A5 是否求暂停。 <small style="opacity: 0.55">〔APPA L48 "Have you filed and served any Mediation Certificate?"；APPA L54 "Have the parties attempted mediation so far?"；APPA L82 "Do you seek for a stay of proceedings to attempt mediation?"〕</small> | PD 31；O.1A r.4(2)(e)(f)。 <small style="opacity: 0.55">〔CL11M L207 "encouraging the parties to use an alternative dispute resolution procedure"〕</small> | "Mediation"（往届范本原话，往届仅参考）。 <small style="opacity: 0.55">〔OLD-LG11TQ L44–L48 "Mediation … Have you filed and served any Mediation Certificate?"·往届仅参考〕</small> | 各方在 A3 说明是否愿调解，在 A4 提出材料足备的时点，例如 expert reports 入禀后。若 A5 申请 stay，应注明周数及对 milestone 的影响。 |
+| **A Mediation** | A1 已交调解证明？A2 已试过？A3 是否愿以调解了结？A4 何时材料足够？A5 是否求暂停。 <small style="opacity: 0.55">〔APPA L48 "Have you filed and served any Mediation Certificate?"；APPA L54 "Have the parties attempted mediation so far?"；APPA L82 "Do you seek for a stay of proceedings to attempt mediation?"〕</small> | PD 31；O.1A r.4(2)(e)(f)。 <small style="opacity: 0.55">〔CL11M L207 "encouraging the parties to use an alternative dispute resolution procedure"〕</small> | "Mediation"（往届范本原话，往届仅参考）。 <small style="opacity: 0.55">〔OLD-LG11TQ L44–L48 "Mediation … Have you filed and served any Mediation Certificate?"·往届仅参考〕</small> | 各方在 A3 说明是否愿调解，在 A4 提出材料足备的时点，例如 expert reports 存档后。若 A5 申请 stay，应注明周数及对 milestone 的影响。 |
 | **B Parties** | B1 是否拟加当事人（至何日、加何人、加为何身份）。 <small style="opacity: 0.55">〔APPA L94 "Do you intend to add another party to this case?"〕</small> | O.12／O.15 体系（本卡不展开） | "Parties"（往届范本原话，往届仅参考）。 <small style="opacity: 0.55">〔OLD-LG11TQ L90–L94 "Parties … Do you intend to add another party to this case?"·往届仅参考〕</small> | 拟加人的一方须填拟加入的人、身份及 on or before 日期，使法院先处理 joinder。拟另行发第三方通知时，将其所需时间一起纳入。 |
 | **C Pleadings** | C1 是否修改诉答？C2 是否取 F&BP 传票？C3 对方 F&BP 请求是否未答？C4 拟何时答。 <small style="opacity: 0.55">〔APPA L110 "Do you intend to amend your pleadings?"；APPA L122 "Do you intend to take out a summons for Further and Better Particulars?"〕</small> | O.18 r.12；O.20（本卡不展开） | "Pleadings"（往届范本原话，往届仅参考）。 <small style="opacity: 0.55">〔OLD-LG11TQ L106–L110 "Pleadings … Do you intend to amend your pleadings?"·往届仅参考〕</small> | 律师按 on or before 标明 amendment 和 F&BP 的预计日期，并申报未答的 F&BP 请求，供法院排列先后。 |
 | **D Related Proceedings** | D1 同当事人／相关当事人是否有另案悬于原讼庭、区院或审裁处？D2 应否合并或同庭审理。 <small style="opacity: 0.55">〔APPA L156 "Are there any proceedings pending in the Court of First Instance, District Court and/or any Tribunal"〕</small> | O.4 r.9（合并） | "Related Proceedings"（往届范本原话，往届仅参考）。 <small style="opacity: 0.55">〔OLD-LG11TQ L152–L158 "Related Proceedings … Are there any proceedings pending in the Court of First Instance"·往届仅参考〕</small> | 若发现另案，应尽早说明当事人和争点的重合，以及是否拟按 O.4 r.9 申请合并、同审或转移。未查实的事项不能填成已知没有另案。 |
@@ -374,24 +380,28 @@ O.1A r.1(e) 规定法院应促进和解。PD 31 要求各方先交 Mediation Cer
 
 > **Exam / Drafting Formulation:** "The completed Timetabling Questionnaire identifies the remaining steps, proposed directions and estimated trial requirements."
 
-## 0D. Extension of Time：O.3 r.5 的三渠道、裁量架构与逾期后果谱系
+## 0D. Extension of Time：申请延长或缩短期限的路径、法院裁量与逾期后果
 
-收到法院时表后，负责律师如发现无法按期完成，应先核期限能否由书面同意更改，再查是否会影响 milestone。若原期限届满且制裁已经生效，则按 §0E 求 relief。
+**此时案件处在什么状态？** 时表已经定下，备审按日期推进，实务上几乎必然出现某一步来不及做：证人改期、专家报告慢、文件比预期多。**这一节在干嘛？** 讲三条合法的延路——双方书面同意（不必惊动法院，但只限文件类期限）、期限届满前向法院申请（Time Summons，通常 3 分钟单）、甚至期限已过再申请（retrospective leave）——以及法院用什么标准决定准不准（*The Decurion*、*Zida*）。**分界线在哪？** 期限未过、或只是普通期限没赶上，走本节；一旦法院已发 unless order 而你违令、制裁已自动生效，就只能走 §0E 的 relief from sanctions。负责律师应先核期限能否由书面同意更改，再查是否会影响 milestone。
 
-### 0D.1 三个渠道与两个例外
+### 0D.1 延长或缩短普通时限的三种路径与法定限制
+
+为什么有三条路径？因为期限来源不同：当事人自己能协商解决的（文件类期限），书面同意即可，省时省钱；涉及法院裁量或已有争议的，走法院命令；已经错过期限的，O.3 r.5(2) 留了补救门（retrospective leave）。但记住两条法定限制：向上诉法院申请上诉许可的期限不适用（另有专条），展期传讯令书（writ）有效期只在例外情况且公正所需时才受理。硬扛不申请的代价：对方可申请强制履行或制裁（§0J.1 行 3），讼费也落在拖延方头上。
 
 | 渠道 | 条件与后果 | 引注 |
 | --- | --- | --- |
 | 法院命令（O.3 r.5(1)） | 按其认为公正的条款，延长或缩短任何由规则／判决／命令／方向所订的行为期限；起草覆盖几乎所有情形。 <small style="opacity: 0.55">〔CL11M L563 "by order extend or abridge the period within which a person is required or authorized"；CL11M L571 "gives very wide discretionary power to the court to grant the same"〕</small> | O.3 r.5(1) |
 | 届满后仍准（O.3 r.5(2)＝retrospective leave） | 申请未在期内提出，法院仍可在逾期后准延——常称 retrospective leave。 <small style="opacity: 0.55">〔CL11M L565 "although the application for extension is not made until after the expiration of that period"；CL11M L581 "which is commonly referred to as “retrospective leave” from the Court"〕</small> | O.3 r.5(2) |
-| 书面同意（O.3 r.5(3)） | 送达／入禀／修改任何诉答或其他文件的期限，可以当事人书面同意延展，无需法院命令；追溯性同意延展亦可（Lawson v Midland Travellers）。 <small style="opacity: 0.55">〔CL11M L567 "may be extended by consent (given in writing) without an order of the Court being made for that purpose"；CL11M L583 "it is possible to give a retrospective extension of time by consent"〕</small> | O.3 r.5(3) |
+| 书面同意（O.3 r.5(3)） | 送达／存档／修改任何诉答或其他文件的期限，可以当事人书面同意延展，无需法院命令；追溯性同意延展亦可（Lawson v Midland Travellers）。 <small style="opacity: 0.55">〔CL11M L567 "may be extended by consent (given in writing) without an order of the Court being made for that purpose"；CL11M L583 "it is possible to give a retrospective extension of time by consent"〕</small> | O.3 r.5(3) |
 | 缩短（abridgement） | 同权可缩短法定期限；例：可缩短 O.32 r.3 的传票 2 clear days 送达期。 <small style="opacity: 0.55">〔CL11M L573 "the Court has the power under O.3 r.5 to shorten the period required under O.32 r.3"〕</small> | O.3 r.5(1) |
 | 例外一：上诉许可延长期 | 最常见不覆盖面：向 CA 求上诉许可的延长期。2017-12-01 起 O.59 r.2B(6) 赋原讼庭在期内或期后延展之权；之前仅区院有（O.58 r.2(10) DCO）。 <small style="opacity: 0.55">〔CL11M L575 "The most common situation that o.3 r.5 does not cover is to seek an extension of time for leave to appeal"〕</small> | O.59 r.2B(6) |
 | 例外二：writ 有效期延展 | 纵可延令状有效期，仅例外情况且公正所需方受理（Singh (Joginder) v Duport Harper Foundries）。 <small style="opacity: 0.55">〔CL11M L577 "only in exceptional circumstances and where the interest of justice so require will the court entertain an application"〕</small> | 判例（大纲转述；判词不在库内） |
 
 **同意延展的程序卫生**：书面同意无需命令，但 ADVISED 签交 Consent Summons 留痕——尤其预见对方会再求延而你这一次不想再给。课堂补充（角色不对称，2026-10-11 字幕）：推荐 Consent Summons 留痕是一般口径，但**代表求延一方**（如 plaintiff 客户住院求延）可选择 written consent without order 了事；**被求延一方**（defendant）则倾向 Consent Summons——在 court file 留下"已同意过一次"的记录，以便对抗其后第二、第三次求延。 <small style="opacity: 0.55">〔CL11M L727 "it is advisable that a Consent Summons be signed and filed for the extension so that the Court would have a record"〕〔CL11T L133 "They would want this in court's file in case the plaintiff later again asks us for a second time extension"〕</small>
 
-### 0D.2 裁量架构：The Decurion 两原则 → Zida 四因素 → CJR 边界
+### 0D.2 法院如何决定准不准延期：The Decurion 与 Zida 的判例标准
+
+法院不是有申请就准。*The Decurion* 定下两条总原则：拒绝延期不能在没有充分理由（prejudice）的情况下让有实质内容的申索或抗辩无法审理，但规则的约束力同样要维护。*Zida* 给出操作次序：先问拒绝会造成什么实质不公，再核迟延长短、原因和对方承受的 prejudice。
 
 1. **The Decurion [2012] 1 HKLRD 1063（CA）。** 申请人须指出拒绝延期将使哪项有实质内容的申索或抗辩无法审理，并说明可否用费用或限期弥补迟延。守约方可证明对方屡次不遵规则，或指出费用无法弥补的损害。法院既要让规则有约束力，也要防止程序失误使实体争议在无充分理由下不能审理。CJR 自 2009-04-02 生效后，迅速处理与公平仍须一并衡量；终院在 *Astro Nusantara* 的抗拒执行仲裁裁决语境认同这一进路。 <small style="opacity: 0.55">〔CL11M L589 "to look at all relevant matters and consider the overall justice of the case"；CL11M L595 "a party should not be deprived of an adjudication on the merits due to a procedural default unless there is prejudice"；CL11M L601 "An expeditious disposal of a case has to be considered together with the equally salutary objective of ensuring fairness"〕〔CL11M L603 "Astro Nusantara International BV v. PT Ayunda Prima Mitra (2018) 21 HKCFAR 118"〕</small>
 2. **Zida Technologies。** 先问拒绝会否造成实质不公，再核迟延长短、原因和对方的 prejudice。原稿引判例列出这四项的分析次序；法院仍须权衡全案。守约方可证明额外等待已令争议持续未决（“an additional period of uncertainty is prejudice in itself”），并指出哪部分损害不能靠讼费填补。没有其他损害也不自动决定准驳。 <small style="opacity: 0.55">〔CL11M L605 "the court considers all matters including the adequacy of any reason for the delay and these are weighted in the balance"；CL11M L607 "Prospect of injustice, meaning the merit or the prospect of success"〕〔CL11M L615 "“an additional period of uncertainty is prejudice in itself”"〕〔CL11M L615 "the court will also need to consider whether the prejudice suffered by the respondent can be compensated"〕</small>
@@ -400,7 +410,7 @@ O.1A r.1(e) 规定法院应促进和解。PD 31 要求各方先交 Mediation Cer
 
 **改动 milestone 时，申请方须解释为何其他安排不能保住审期。** 例如，当事人可提供关键证人的医疗或行程证据，说明为何不能换证人、以其他方式作证或调整举证次序；反对方可检验困难何时出现、是否由申请方造成、改期会损失多少准备或庭时。法院以 *Arko Ship Leasing* 的九项因素处理证人不到庭。PD 5.2 ¶42 排除迟给指示、换律师团队，以及对方没有不可由费用弥补的损害；拟聘大律师档期冲突与法援迟批也不足。*Lok Wai Yee v Man Koon Hung* 因迟来的修改揭示可能成立的抗辩而准改期；*Interprocom Ltd v Silver Wings Trading* 因关键专家证据到临审才取得而废除原审日，以完成报告。 <small style="opacity: 0.55">〔CL11M L621 "Just and fair to allow ex-husband to amend Defence very late, even if it would result in the vacation of the trial dates"；CL11M L623 "exceptional circumstances were demonstrated to vacate the dates of trial pending the completion"〕〔CL11M L511 "matters to be considered are set out in Arko Ship Leasing Ltd v Winsmart Int’l Shipping Ltd"；CL11M L513–L529 "what is the nature of the proceedings? … wider implications for the administration of justice"〕</small>
 
-### 0D.3 讼费谱系：求情者的默认单，与反对者的反转风险
+### 0D.3 延期申请的讼费：申请人通常自负，无理反对会被反转
 
 | 场景 | 通常结果 | 引注 |
 | --- | --- | --- |
@@ -427,7 +437,7 @@ O.1A r.1(e) 规定法院应促进和解。PD 31 要求各方先交 Mediation Cer
 
 > **Exam / Drafting Formulation:** "The Applicant seeks an extension before expiry and explains the reason, length, prejudice and effect on milestone dates."
 
-### 0D.5 逾期后果谱系（一张由轻至重的后果梯度）
+### 0D.5 逾期的后果阶梯：从尚可补救到剔除、驳回
 
 | 梯度 | 状态 | 法律逻辑 | 引注 |
 | --- | --- | --- | --- |
@@ -441,16 +451,18 @@ O.1A r.1(e) 规定法院应促进和解。PD 31 要求各方先交 Mediation Cer
 
 **后果索引**：本梯度按 [§0J.1 后果链总表](#0J.1%20不做或逾期的后果链总表（索引）) 各行展开——梯度 1↔行 4、梯度 2↔行 3、梯度 3–4↔行 5、梯度 5↔行 2、梯度 6↔行 7。
 
-#### O.3 r.5 延期申请三渠道与充分理由审查
-1. **书面同意延期（O.3 r.5(3)）**：当事人可书面延长送达、入禀或修改 pleading 或其他文件的期限；特别规则排除书面延期或申请涉及 milestone date 时，须按相应规定向法院申请。见 [RHC O.3 与 O.25](https://www.elegislation.gov.hk/hk/cap4A)。
+#### O.3 r.5 三种延期路径与"充分理由"的审查
+1. **书面同意延期（O.3 r.5(3)）**：当事人可书面延长送达、存档或修改 pleading 或其他文件的期限；特别规则排除书面延期或申请涉及 milestone date 时，须按相应规定向法院申请。见 [RHC O.3 与 O.25](https://www.elegislation.gov.hk/hk/cap4A)。
 2. 传票前置函议：若协议不成，必须在现有期限届满前尽早发出传票（In-time application）。
 3. 法院可接受不可归咎于当事人的突发事件或关键证人的重大变故。若律师只说事务繁忙，却交代不出具体事实和补救安排，法院不会把它当作充分理由。
 
-## 0E. 违令制裁与救济机制：自执行制裁与 14 天救济时限
+## 0E. 违反 unless order：制裁自动生效（O.2 r.4）与 14 日内申请宽免（O.2 r.5）
 
-> 核心程序机制：**unless order（制裁随令预设，逾期自动生效）** 与 **O.2 rr.4–5 relief（制裁生效后的法定救济途径）**。本节末提供程序流转与补救次序；另设 [§0J.1 后果链总表](#0J.1%20不做或逾期的后果链总表（索引）)——全卡各程序环节"不做／逾期"一站查清，§6 目标策略亦以该表为违约清单。
+> **先用大白话分清两样东西。** unless order（若不遵守即受罚命令）是法院的「最后通牒令」：命令里写明要做什么、多久做完、做不完有什么后果（例如剔除答辩书、禁止提交某份证据）。O.2 r.4 让这个后果在违令那一刻**自动兑现**——守约方什么都不用做，法院也不用再开庭裁定；违令方唯一的回头路，是从违令日起 14 日内依 O.2 r.5 申请 relief from sanctions（宽免）。**和 §0D 怎么分？** §0D 处理「来不及做、期限未过或制裁未触发」；本节处理「已经违令、制裁已生效」。本节末提供程序流转与补救次序；另设 [§0J.1 后果链总表](#0J.1%20不做或逾期的后果链总表（索引）)——全卡各程序环节"不做／逾期"一站查清，§6 目标策略亦以该表为违约清单。 <small style="opacity: 0.55">〔CL11M L679 "any sanction for failure to comply imposed by the rule or court order has effect unless the party in default applies"；CL11M L681 "once a breach of the unless order occurs, the only recourse is to apply for relief from sanction"〕</small>
 
 ### 0E.1 Unless Order 的作出（Making of Order）、形式要求与相称性
+
+法院为什么爱用 unless order？因为后果预先写在命令里，违令即自动兑现，法院无须再为「要不要制裁」开一次庭，拖延方也立刻感受到压力——这就是 O.32 r.11B 要求 CMS 之后原则上写明不遵后果的原因。 <small style="opacity: 0.55">〔CL11M L667 "after a case management summons is taken out, it shall, unless there are special circumstances, specify the consequence"〕</small>
 
 1. **法院何时发令。** 法院按 O.1B r.1(3) 可附条件（例如付款入法院），并写明不履行的后果；可应一方申请、依当事人同意或自行作出。若当事人反复拖延，守约方应列明原有命令、每次延期及失责，以支持明确的最后履行期限。 <small style="opacity: 0.55">〔CL11M L641 "specify the consequence of failure to comply with the order (r.1(3)(b))"〕〔CL11M L643 "Such order can be made upon application by a party, by consent of the party, or of the court’s own motion under O.1B r.2."〕〔CL11M L643 "the parties, or one of the parties, has repeatedly failed to follow the deadlines"〕</small>
 2. **按当事人的出席及代表状态写期限。** O.42 r.2(1) 要求命人作为的命令明定时间；按 PD 16.5 ¶2，须从送达起算时可写 “unless within 14 days of the service of this order ...”；对于在场、有代表或同意的情形，可订绝对日期和时间，例如 “unless by [4 p.m. on Thursday, 1st December 1988] ...”。若命令不合 O.42 r.2 的形式要求，据其取得的 default judgment 可被撤销（*Van Houten v Foodsafe Ltd*, CA）。 <small style="opacity: 0.55">〔CL11M L645 "an order which requires a person to do an act must itself specify time after service of the order"；CL11M L651 "within 14 days of the service of this order the defendant"；CL11M L655 "unless by [4 p.m. on Thursday, 1st December 1988] etc. as above"〕〔CL11M L657 "may result in judgment entered pursuant to the unless order be set aside by the Court"〕</small>
@@ -463,6 +475,8 @@ O.1A r.1(e) 规定法院应促进和解。PD 31 要求各方先交 Mediation Cer
 若规则或命令明确规定不遵守即受某项制裁，违令一发生，制裁便依 O.2 r.4 automatically takes effect。守约方无须再申请令制裁生效；如须录入判决或执行，仍按命令和适用程序办理。违令方以违反命令所定期限为起点计算 14 日，并依 O.2 r.5 申请 relief。 <small style="opacity: 0.55">〔CL11M L679 "any sanction for failure to comply imposed by the rule or court order has effect unless the party in default applies"〕〔CL11M L681 "the sanction imposed in any unless order takes effect automatically and immediately upon default unless relief from sanction is obtained"；CL11M L681 "once a breach of the unless order occurs, the only recourse is to apply for relief from sanction"〕</small>
 
 ### 0E.3 relief from sanctions：14 日窗口、传票＋誓章、十因素裁量
+
+relief from sanctions（制裁宽免）不是自动恢复——补交文件不能让已生效的制裁失效，必须由法院批准。申请人要过三道门：14 日内提出、以誓章交证据、回应 O.2 r.5(1) 的十项因素。 <small style="opacity: 0.55">〔CL11M L685 "Evidence in support (normally in the form of affidavit) of the application is expressed required by O.2 r.5(2)"；CL11M L687 "imposes a duty on the court to consider “all the circumstances” including the following factors"〕</small>
 
 | 要素 | 规则 | 引注 |
 | --- | --- | --- |
@@ -505,7 +519,7 @@ stateDiagram-v2
 2. 为何发生违约的理由（Why the default occurred）：审查是否有正当合理解释（Good reason）。
 3. 案情整体正义衡量（All the circumstances of the case）：重点考量司法效率与维护法庭命令之威严，以及对方是否受到实质偏见。
 
-### 0E.5 两段式判断：先识别制裁，再申请宽免
+### 0E.5 违令后的处理次序：先核对命令与制裁，再申请宽免
 
 **第一段：核对命令和违令时点。** 当事人先读命令所列的行为、期限及后果，核对命令如何送达、期限是否从送达开始及是否准过延期。若命令规定未交 Defence 即剔除抗辩，就按该后果处理；若命令只禁止提交迟来的反对 affirmation，答辩人仍可据现有记录反对申请，不能把该制裁写成案件已经败诉。 <small style="opacity: 0.55">〔📄CL11 第“Unless Order”节〕</small>
 
@@ -519,9 +533,9 @@ stateDiagram-v2
 
 ## 0F. 审讯组织：PTR → Setting Down → Listing → Trial Bundles → 当日 → O.37
 
-法院若安排 PTR，双方先说明案件是否已可开审；需要 setting down 时，再按命令办理。列单人员定下名单及通知安排后，律师便可倒排 trial bundles 与证人到庭，最后按正审方向举证。
+**此时案件处在什么状态？** 证据备齐、中间申请处理完，离实际开庭还差几步。**这一节按实际次序讲清每步在干嘛：** ①Listing Questionnaire——各方逐项确认备审已完成（§0C 已对比：它是「查作业」，不是「报日程表」）；②PTR——法院认为有需要时开的「验收会」：确认案件真的可以开审、敲定开审日、校正审期，不是再定一次计划；③Setting down——向登记处交 Appendix D、文件册和费用，把案件正式挂进审讯名单，相当于「作业做完去窗口挂号排队领开庭日子」；④Listing——法院按估计审期把案件放进 Running List（三日以下短案，候叫开庭）或 Fixture List（较长或复杂案件，固定开审日）；⑤编 trial bundles 并在开审前至少 72 小时交存；⑥开审与 O.37 损害评定。列单人员定下名单及通知安排后，律师便可倒排 trial bundles 与证人到庭，最后按正审方向举证。 <small style="opacity: 0.55">〔CL11M L423 "each party shall file and serve their Listing Questionnaire (as set out in Appendix C of PD 5.2)"；CL15 L120 "a pre-trial review (“PTR”) will be held, in particular for “Fixture List” cases"；CL15 L206 "The request for setting down is done by filing Appendix D as attached to PD 5.2."；CL15AX L276 "at least 72 hours before the date fixed for the hearing (excluding Saturdays, Sundays and general holidays)"〕</small>
 
-### 0F.1 PTR（审前覆核）：法院预期的"备审成果展示"
+### 0F.1 PTR（审前覆核）：法院验收案件是否已可开审
 
 - **法院决定是否举行 PTR。** 若安排 PTR，通常在审期或 trial period 开始前 8–10 周（讲义也用「约两个月」说明），一般由 trial judge 主持；除非法院另有指示，向法官出席的代表应为 trial counsel。 <small style="opacity: 0.55">〔CL11M L479 "normally about 8 to 10 weeks before the trial date"；CL11M L487 "attend by trial counsel (paras 44 & 45 of PD 5.2)"；CL11M L489 "before trial judge (para 33 of PD 5.2)"〕〔CAP-C15 L880-L897 "Okay. Now. PD 5.2, paragraph 33, where the court decides to hold a PTR."〕〔CAP-C15 L910-L915 "All right. Paragraph 35, not less than three clear days before the date fixed for"〕〔CAP-C15 L916-L1027 "So at the Peter the court will one fix the starting date for the trial."〕</small>
 - **出席时案件应已可开审。** 当事人应在 CMC 后完成中间程序。若到 PTR 才提出本可较早提出的 interlocutory application，法院可单以 delay 为由拒绝。若报告未齐或主要证人无法到庭，负责律师应事先报告欠缺项目、拟补救办法和对已定审期的影响。 <small style="opacity: 0.55">〔CL11M L491 "late interlocutory applications may be dismissed on the basis of delay alone"；CL15 L138 "A PTR is not an extension of the CMC. The Court expects a case to be ready for trial."〕〔CL15 L92 "prior to the PTR, all interlocutory applications should have already been made and determined."〕〔CL15 L134 "At the PTR, PD 5.2 (Section H) provides that:"〕</small>
@@ -539,6 +553,8 @@ stateDiagram-v2
 **后果索引**：缺席 PTR 与迟来中间申请的代价归并 [§0J.1 后果链总表](#0J.1%20不做或逾期的后果链总表（索引）) 行 6、行 10。
 
 ### 0F.2 Setting down for trial（排期审讯）
+
+setting down（排期开审）是把案件从「准备中」正式登记为「等待开庭」的动作：向登记处交 Appendix D 申请表、O.34 r.3 法官用文件册和费用。它本身不是新的争点战场，而是排队领日子的必经手续；但若原告长期不办，被告可以代为排期，或以 want of prosecution 申请驳回——案件不发球，就会一直躺在名单之外。 <small style="opacity: 0.55">〔CL15 L206 "The request for setting down is done by filing Appendix D as attached to PD 5.2."；CL15 L190 "the defendant may set the action down for trial or may apply to the Court to dismiss the action for want of prosecution"〕</small>
 
 - **获准后申请排期。** 须 setting down 的一方按法院许可及期限向登记处交 PD 5.2 Appendix D（Application to Set a Case Down for Trial），提交法官用文件册并办理排期。 <small style="opacity: 0.55">〔CL15 L206 "The request for setting down is done by filing Appendix D as attached to PD 5.2."〕〔CL15 L190 "the defendant may set the action down for trial or may apply to the Court to dismiss the action for want of prosecution"；CL15 L194 "but this would normally need to be a lapse of several years"〕</small>
 
@@ -595,7 +611,7 @@ stateDiagram-v2
 
 **盘问须把拟争议的关键事项交给证人。** *Browne v Dunn* (1893) 6 R 67 的 *put case* 规则让证人可以当庭回应。若被告拟在 closing 指称原告证人说谎、在关键日期记错，或法院应采信与该证人相反的版本，被告律师通常须在 cross-examination 中讲明争议及实质相反版本。对方可指出证人未获回应机会；若事前已清楚知悉争议，或法院能准许 recall 补救，则法官按公平决定是否听取后来的挑战及给予多少分量。见 [*TUI UK Ltd v Griffiths* [2023] UKSC 48 ¶¶42–70](https://supremecourt.uk/uploads/uksc_2021_0208_judgment_2a7059e7f8.pdf)。
 
-讲师建议让盘问集中在已界定的争点和 prayer for relief，避免引入无需裁决的问题或削弱有用的 expert evidence。Examination-in-chief 原则上不用有争议的 leading questions；cross-examination 可用引导问题核实相反版本。Re-examination 只在有须澄清的盘问答案时进行。证人未作完证而休庭时，由法庭人员提示不得与他人、包括律师讨论案情；法官也会限制以跨夜或跨周末的拖延向证人施压。 <small style="opacity: 0.55">〔CAP-C15 L2056-L2167 "So I can only say this as my own opinion. Right. So what you're going to hear next,"〕〔CAP-C15 L2191-L2248 "Reexamination. The."〕〔CAP-C15 L2275-L2305 "You are not allowed to speak to anyone about this case, in particular your legal advisors, so that they will not be coached"〕〔CAP-C15 L2307-L2345 "The witness is stuck. Not allowed to contact anyone and subject to more attack"〕</small>
+讲师建议让盘问集中在已界定的争点和 prayer for relief，避免引入无需裁决的问题或削弱有用的 expert evidence。Examination-in-chief 原则上不用有争议的 leading questions；cross-examination 可用引导问题核实相反版本。Re-examination 只在有须澄清的盘问答案时进行。证人未作完证而休庭时，由法庭人员提示不得与他人、包括律师讨论案情；法官也会限制以跨夜或跨周末的拖延向证人施压。 <small style="opacity: 0.55">〔CAP-C15 L2056-L2167 "So I can only say this as my own opinion. Right. So what you're going to hear next,"〕〔CAP-C15 L2191-L2248 "Reexamination. The. … only the general rule on reexamination is don't do it unless you have to."〕〔CAP-C15 L2275-L2305 "You are not allowed to speak to anyone about this case, in particular your legal advisors, so that they will not be coached"〕〔CAP-C15 L2307-L2345 "The witness is stuck. Not allowed to contact anyone and subject to more attack"〕</small>
 
 > **Exam / Drafting Formulation:** "If a party intends to invite the court to reject a witness’s evidence on a material point, it should ordinarily put the substance of its challenge to the witness in cross-examination."
 **传召专家前先核许可。** 未获准不得援引 expert evidence；法院可在审前或审中限制医学或其他专家的人数。专家的首要义务是协助法院。任何一方可按适用规则使用 court documents 的 office copies，其可接纳性与原件相同。 <small style="opacity: 0.55">〔CL15 L454 "Expert evidence is not permitted without leave of the court"；CL15 L436 "order that the number of medical or other expert witnesses who may be called at the trial shall be limited"〕〔CL15 L442 "The duty under paragraph (1) overrides any obligation to the person from whom the expert witness has received instructions"〕〔CL15 L456 "Court documents are admissible and receivable in evidence at trial"〕</small>
@@ -633,7 +649,7 @@ stateDiagram-v2
 
 填 TQ 时，各方以可核实的事实提出时间表。法院会在 CMC、PTR 和列单时回看这些资料，决定是否接纳新方向以及由谁承担迟来的申请费用。
 
-### 0G.1 问卷填写的六条策略暗线
+### 0G.1 问卷六个关键栏位的实务用法
 
 1. **用 F3 安排证人和庭时。** 律师填拟传唤的人数和预计审讯日数，对方据此计划 cross-examination，法院据此估时。若送达陈述后不传唤该证人，他方不能径用其陈述（O.38 r.2A(6)）。各方应在 Listing Questionnaire A16–A17 按实确认备审已完成及是否适宜排期。 <small style="opacity: 0.55">〔APPA L228 "Do you intend to call any witnesses of fact including yourself at the trial?"〕</small>
 2. **用 G、H 取得 expert directions。** 申请人按 PD 5.2 ¶20 列出姓名、领域及精确争点，并说明是否合适委任 single joint expert。拒绝联合专家的一方须在表内给理由。若在 CMS 后才提出原已可预见的需要，申请人须解释 delay；未获许可先取报告，原则上自行承担费用风险（¶20(2)）。 <small style="opacity: 0.55">〔CL15AX L112 "does so at his own risk as to costs"〕</small>
@@ -642,9 +658,9 @@ stateDiagram-v2
 5. **用 A3–A5 交代调解时点。** 若适宜等 expert reports 后再调解，律师可在 A4 写明依据；请求 stay 时须建议周数，并交代对里程碑的影响（PD 31 ¶16）。若一方拒绝合理的 admission 或 agreement，法院可按 PD 5.2 ¶10 作费用命令。 <small style="opacity: 0.55">〔CL15AX L56 "may be visited with costs sanctions"〕</small>
 6. **按实际工作量估审期。** 原讼庭合资格的三日或以下短案可进 Running List；通常四日或以上用 Fixture List。高估会增加庭时和文件工作，低估会在 Listing Questionnaire C1 或 PTR 引来核查；法院可依 O.35 r.3A 限证人数和时长。各方应先独立估算自己的四部分，再供法院合计。 <small style="opacity: 0.55">〔CL15AX L124 "giving time estimates (without taking into account the time estimates of other parties)"〕</small>
 
-### 0G.2 诉讼文化转变与制裁机制（Litigation Culture Change & Sanctions Regime）：规则如何改变行为
+### 0G.2 CJR 下的程序纪律：早申请、不得拖延、违者付讼费
 
-根据民事司法改革（CJR）核心目标，法院积极推行**诉讼文化转变（Change in Litigation Culture）**，坚决扭转以往放任拖延与对抗性诉讼技巧的旧习，并以严格的**程序制裁机制（Sanctions Regime）**作为后盾确保规则合规（Culture of Compliance）：
+民事司法改革（CJR）落地后，法院不再放任拖延：申请要趁早、延期要讲理由、违令有自动制裁（§0E）、浪费他人时间要赔讼费。落到操作上是四条纪律，每条都有明文依据：
 - **中间申请应尽早提出。** 一般 summons 按 O.32 r.3 至少提前 2 clear days 送达；有特别规则则从其规定。案件进入 CMS 后，应同时核 O.25 r.7 的集中处理要求。PD 5.2 ¶¶28、30–31 允许法院拒绝本可早提的申请；到 PTR 时，法院可按 ¶34 仅以迟延驳回。 <small style="opacity: 0.55">〔CL15 L70 "so far as practicable apply at the time fixed for determination of the summons"；CL15 L74 "Any application subsequent to the case management summons and before judgment"〕</small>
 - **不合作由造成额外程序的一方解释。** PD 5.2 ¶6(4) 容许法院就不相称的申请及无理反对即席评定不利费用；¶10 也适用于 TQ 上无理拒作 admission 或 agreement。若一方过错导致开会，法院可按 ¶¶47–48 命即时支付；代表准备不足而押后时可判 wasted costs。 <small style="opacity: 0.55">〔CL15AX L44 "They will be met with adverse costs orders summarily assessed"〕〔CL15AX L56 "may be visited with costs sanctions"〕〔CL11M L475 "an order for costs wasted"〕</small>
 - **申请延期时同时提出相称后果。** 按 PD 5.2 ¶29，法院在 CMC 后批准延期时通常附 self-executing sanction。O.32 r.11B(2) 要求 CMS 发出后除特殊情况外列明不遵后果；PD 5.2 ¶41 对争议下的 non-milestone 延期要求即时 unless order。 <small style="opacity: 0.55">〔CL11M L555 "extension will only be granted on the basis of an immediate “unless order”"〕</small>
@@ -667,7 +683,7 @@ stateDiagram-v2
 
 > **Exam / Drafting Formulation:** "The trial bundle is paginated, indexed, limited to relevant material and lodged within the prescribed time."
 
-## 0H. 申请与操作工程：文书、送达和期限
+## 0H. 实务操作清单：文书、送达与时限倒排
 
 先以实际事件确定起算点，再核适用规则和个案命令。法院指定的期限、送达方式与普通规则不同时，按实际命令操作。下图从目标日期倒排；确定日期后，再按下表顺序办理。
 
@@ -765,7 +781,7 @@ flowchart TD
 | 状态变量 | 触发事实（输入信号） | 决策点 | 行动 | 反馈（制裁） | 补救（relief） |
 | --- | --- | --- | --- | --- | --- |
 | 原期限及已准延期 | 原期限临近，当事人尚未完成。 | 律师查是否可书面同意、须发 time summons，或须以 consent summons 记录。 | 向对方交代理由、新日程及答复日期。 | 当事人获宽限仍未履行时，法院可把该次失责计入记录。 | 协商不成，应在到期前发 time summons；答辩方可要求较短期限或相称的 unless 条件。 <small style="opacity: 0.55">〔CL11M L671 "failure to comply with the extended deadline may also demonstrate a history of failure to comply"〕〔CL11M L719 "usually the time extension should be agreed, unless there are special reason justifies a refusal"〕</small> |
-| 草稿、入禀与命令 | 当事人已递交 consent summons，但法院尚未批准。 | 律师查阅案卷，区分草稿、提议和已批命令。 | 按已批准的 order 或已转为 absolute 的 order nisi 记录责任人和日期。 | 法院在 CMC 会通过 Listing Questionnaire A3 核对 compliance。 | 如实申报尚未完成的工作，并向法院请求 directions。 <small style="opacity: 0.55">〔APPC L70 "Do you confirm that all case management directions have been complied with?"〕</small> |
+| 草稿、存档与命令 | 当事人已递交 consent summons，但法院尚未批准。 | 律师查阅案卷，区分草稿、提议和已批命令。 | 按已批准的 order 或已转为 absolute 的 order nisi 记录责任人和日期。 | 法院在 CMC 会通过 Listing Questionnaire A3 核对 compliance。 | 如实申报尚未完成的工作，并向法院请求 directions。 <small style="opacity: 0.55">〔APPC L70 "Do you confirm that all case management directions have been complied with?"〕</small> |
 | 披露、证人陈述与专家 | 交换期将届满，陈述未完成或专家许可未获批。 | O.38 r.2A 下的证人陈述期限不能仅由当事人书面延长。 | 按时交换；如确需延期并有争议事实，以誓章支持申请。 | 未遵方向时，当事人须获准才能援引该证据。 | 制裁已由 unless order 触发时，按 §0E.3 在 14 日内以传票和誓章申请 relief，并交代 Listing Questionnaire A6、A8、A12 的实际状态。 <small style="opacity: 0.55">〔CL15 L362 "Order 3, rule 5(3) shall not apply to any period specified by the Court under this paragraph."〕〔CL15 L390 "he shall not be entitled to adduce evidence to which the direction related without the leave of the Court"〕</small> |
 | CMC、PTR 和 trial | 备审落后，已有项目未完成。 | 律师核对 Listing Questionnaire 所列未决申请和未完成的步骤。 | 补做可按时完成的工作，书面更新进度并解释其余差距。 | 延期如获准往往附 unless 条件；越近审日，迟提申请越难获处理。 | 若缺席 CMC 或 PTR，分别按 §0J.1 行 2、6 核对暂时剔除与申请恢复。 <small style="opacity: 0.55">〔CL11M L455 "it will most likely be an unless order basis with costs"；CL11M L457 "the closer to a trial date, the less likely the Court would entertain it"〕</small> |
 | 制裁是否已发生 | 当事人未完成 unless order 指明的事项。 | 核对原命令、期限和实际履行情况。 | 立即补做，同时从违令日起算 relief 限期。 | 命令所列制裁会自行生效。 | 14 日内发传票并交誓章回应 O.2 r.5 的十因素；超期另求延时。见 §0E.3–0E.4。 <small style="opacity: 0.55">〔CL11M L681 "the sanction imposed in any unless order takes effect automatically and immediately upon default"〕</small> |
@@ -811,9 +827,9 @@ flowchart TD
   - G、H（Expert evidence）：分别说明 liability 与 quantum 的专家、学科、争点及可否使用 single joint expert。
   - J、K、L：在 J 写 CMC、PTR 或 trial 请求，K 申报长案；在 L 附拟议 directions。若求定审期，按 PD 5.2 交 Certificate of Counsel。
 - **SG 应用映射与练习精析（自原第 0H 节归拢）**：
-> 对应深度合同⑥。
+> 本小节归拢自 2026-10-09 深化版的第 0H 节。
 
-#### 0H.1 本届 SG04 Exercise 1（Contract Case）作为本主题的最直接应用锚点
+#### 0K.1.1 本届 SG04 Exercise 1（Contract Case）：本主题最直接的实务应用
 
 **场景**：SG04（2026-10-15 晚授课；Assignment 1（SoC，与本问卷不同项）DDL 2026-10-27 17:30）。Exercise 1 以 Contract Case（HCA 3388/2021）为背景、模拟日 2021-10-11，由被告方实习律师起草该方 Timetabling Questionnaire；完整答案与研究在 [SG04 Exercise 1 填报稿](../../01%20SG/SG04%20Drafting%20SoC%20II%20-%20Negligence/01%20Exercise%201%20-%20Timetabling%20Questionnaire.md)（本届官方表式一栏不漏）；原任务书见 [SG4 Activity Plan](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Small%20Group%20Activity%20Plans/SG4%20Activity%20Plan%20.md)：AP 明示课前须上 LG11 并按 Exercise 1 备妥问卷、样本问卷于 2026-10-16 午后上 Moodle，Exercise 1 本体为课堂研讨与角色扮演、不需上传；模拟日与填表指示。 <small style="opacity: 0.55">〔SG4CD L8 "2026年10月15日（周四）19:00 – 21:00（Week 7）"；SG4CD L100 "2026年10月27日（周二）下午 5:30"〕〔SG4AP L39–L45 "Attend Civil Litigation LG11 … Prepare the Timetabling Questionnaire under Exercise 1"；SG4AP L72 "will be posted on Moodle after noon on Friday 16 October 2026"；SG4TQ L21 "Exercise 1 · Filling in Timetabling Questionnaire"；SG4TQ L25 "官方 10-16 午后发样本；无需上传 Moodle"〕〔SG4AP L92 "Assume today is 11 October 2021."；SG4AP L96 "download the current form of the Timetabling Questionnaire from the judiciary website"；SG4CD L20 "按假定 2021-10-11 程序状态，依据 PD 5.2"〕</small>
 
@@ -821,21 +837,21 @@ flowchart TD
 
 | 栏 | SG04 Exercise 1 的填法（被告 Runway 方） | 对应本卡规则点 |
 | --- | --- | --- |
-| A1 | **No**——C25–26 是 draft 不能当已交；C21–24 是原告 certificate。 <small style="opacity: 0.55">〔SG4TQ L46 "C25–26是draft，不能当成已提交"〕</small> | 状态控制：draft≠filed（0C 栏 I 提示；SG4TQ 题解） |
-| A3/A5 | 愿意试、但不会此刻停。 <small style="opacity: 0.55">〔SG4TQ L48 "客户同意将来尝试调解，不是永久拒绝"；SG4TQ L50 "不同意此时暂停程序"〕</small> | 调解立场的策略货币（0G.1 第 5 条；0B.8） |
+| A1 | **No**——C25–26 是 draft 不能当已交；C21–24 是原告 certificate。 <small style="opacity: 0.55">〔SG4TQ L46 "C25–26是draft，不能当成已提交"〕</small> | 草稿不算已存档（draft≠filed），须核对实际存档状态（0C 栏 I 提示；SG4TQ 题解） |
+| A3/A5 | 愿意试、但不会此刻停。 <small style="opacity: 0.55">〔SG4TQ L48 "客户同意将来尝试调解，不是永久拒绝"；SG4TQ L50 "不同意此时暂停程序"〕</small> | 调解立场要在问卷上申报清楚并说明理由（0G.1 第 5 条；0B.8） |
 | B1 | 不发 Mood Third Party Notice——以客户 19 Aug 明确指示为本。 <small style="opacity: 0.55">〔SG4TQ L51 "19 Aug客户明确指示不发Mood Third Party Notice"〕</small> | 申报意味着"on or before"承诺（0C 栏 B） |
-| F1/F3 | 清单拟 1 Dec 2021 交换；证人陈述其后 56 日（26 Jan 2022）——由 C9 草函推算，实务人名与可达性留方括号。 <small style="opacity: 0.55">〔SG4TQ L57 "本次资料并无己方已served list；草函同意延期"；SG4TQ L59 "Yes; 56 days after exchange of lists, i.e.26 January2022"〕</small> | 排期算术的"触发事件→期限→日历日"三连（SG4TQ L139 的校核方式）；阶段的先后次序（0B.1） |
-| G1–G8 ／ H1–H8 | 1 位纺织／服装专家 Posen 教授；拟与早期方向同取；建议 SJE（对方不同则各一）＋联合检验＋联合报告。 <small style="opacity: 0.55">〔SG4TQ L60 "Yes; apply by8 November2021"；SG4TQ L63 "Yes; propose Professor Jack Posen as single joint expert"〕</small> | PD 5.2 §20 三件套＋SJE 策略（0C 栏 G/H；0G.1 第 2 条） |
-| I1 | **No**——被告无意 S4C；原告 C7 拟就反诉索担保是**对方**立场，不能照抄。 <small style="opacity: 0.55">〔SG4TQ L69 "此为己方是否申请；原告C7拟就反诉索security是对方立场，不能照抄"〕</small> | I1 行动信号（0G.1 第 3 条） |
-| I4/I5 | 披露未完成但**不等于已违令**——"未完成步骤≠已违反 order"，须核验 deemed close 与正式限期。 <small style="opacity: 0.55">〔SG4TQ L72 "未完成步骤”不等于“已违反order”"〕</small> | unless 的两段式（0E.1–0E.2） |
-| J1/J2/J3 | 求 CMC（首可排日 on/after 30 Mar 2022）；J2 此时**No**（披露／证人／专家未完）；求 PTR。 <small style="opacity: 0.55">〔SG4TQ L74 "first available date on／after30 March2022"；SG4TQ L75 "expert evidence未完成，不虚报readyfortrial"〕</small> | J2 里程碑的自我承诺（0G.1 第 4 条） |
-| L1 | 附拟议方向（清楚区分 proposed 与 agreed）。 <small style="opacity: 0.55">〔SG4TQ L78 "未file consent summons，亦不同意对方全部方向"〕</small> | 拟议方向的可照批度（0C 栏 L） |
+| F1/F3 | 清单拟 1 Dec 2021 交换；证人陈述其后 56 日（26 Jan 2022）——由 C9 草函推算，实务人名与可达性留方括号。 <small style="opacity: 0.55">〔SG4TQ L57 "本次资料并无己方已served list；草函同意延期"；SG4TQ L59 "Yes; 56 days after exchange of lists, i.e.26 January2022"〕</small> | 排期算术：先定触发事件，再算期限，落到日历日（SG4TQ L139 的校核方式）；阶段的先后次序（0B.1） |
+| G1–G8 ／ H1–H8 | 1 位纺织／服装专家 Posen 教授；拟与早期方向同取；建议 SJE（对方不同则各一）＋联合检验＋联合报告。 <small style="opacity: 0.55">〔SG4TQ L60 "Yes; apply by8 November2021"；SG4TQ L63 "Yes; propose Professor Jack Posen as single joint expert"〕</small> | PD 5.2 §20 要求列专家姓名、领域、精确争点，并考虑单一联合专家（SJE）（0C 栏 G/H；0G.1 第 2 条） |
+| I1 | **No**——被告无意 S4C；原告 C7 拟就反诉索担保是**对方**立场，不能照抄。 <small style="opacity: 0.55">〔SG4TQ L69 "此为己方是否申请；原告C7拟就反诉索security是对方立场，不能照抄"〕</small> | I1 让对方预先知道拟申请讼费担保及其日期（0G.1 第 3 条） |
+| I4/I5 | 披露未完成但**不等于已违令**——"未完成步骤≠已违反 order"，须核验 deemed close 与正式限期。 <small style="opacity: 0.55">〔SG4TQ L72 "未完成步骤”不等于“已违反order”"〕</small> | 先核是否真的已违令、制裁是否已生效，再谈救济（0E.1–0E.2） |
+| J1/J2/J3 | 求 CMC（首可排日 on/after 30 Mar 2022）；J2 此时**No**（披露／证人／专家未完）；求 PTR。 <small style="opacity: 0.55">〔SG4TQ L74 "first available date on／after30 March2022"；SG4TQ L75 "expert evidence未完成，不虚报readyfortrial"〕</small> | J2 求定审日即向法院作出承诺，其后改期须过 exceptional circumstances 门槛（0G.1 第 4 条） |
+| L1 | 附拟议方向（清楚区分 proposed 与 agreed）。 <small style="opacity: 0.55">〔SG4TQ L78 "未file consent summons，亦不同意对方全部方向"〕</small> | 拟议方向要写成法院能直接照批的命令文字（0C 栏 L） |
 | O | 由经办律师签署，日期仅拟，不伪签。 <small style="opacity: 0.55">〔SG4TQ L81 "供handling solicitor审核签署；日期12 Oct2021仅拟稿"〕</small> | Declaration 责任（0C 栏 O） |
 | 跨栏方法论 | 先由事件先后倒推期间，不虚填最早可能日；未知指示写方括号，不写"subject to counsel's advice"。 <small style="opacity: 0.55">〔SG4TQ L127 "Dates must allow those steps to happen in order, rather than simply fill every box"〕</small> | 问卷纪律（0C Instructions） |
 
 **课堂时点对照**：该 Exercise 模拟日在 LG11 之后（10-09）、SG04 正课（10-15）之前交付审阅；官方样本于 10-16 发放——**LG11 课堂字幕已于 2026-10-11 到库并完成定向校核（CL11T，open 块 O-T1 已核销）**；仅余官方样本 10-16 发放后再校一次填法口径。
 
-#### 0H.2 SG6／SG9／SG10 挂接（按本届 SG 总索引状态）
+#### 0K.1.2 SG06／SG09／SG10 挂接（按本届 SG 总索引状态）
 
 - **SG06（2026-10-29，Civil Procedure 1）**：以本届四题为准。若答案涉及中间程序的处理顺序，先核 §0B 的 directions 和 milestone，再按 §0D、§0E 判断延期或已生效制裁。入口见 [SG 总索引](../../01%20SG/00%20Index.md)、[SG06 主控](../../01%20SG/SG06%20Civil%20Procedure%201/00%20Classroom%20&%20Desk.md)。
 - **SG9（2026-11-19，Civ Proc 2，Knowledge）**：即决判决／讼费担保推演——与本卡 0B.6（里程碑变动作程序背景）、0C 栏 I1、0D（想延期会牵动的 O.14 聆讯日）互馈；S4C 本体在 [CO07 卡](./%5BCO07%5D%20Drafting%20Summonses,%20Interlocutory%20Applications,%20Orders%20&%20Security%20for%20Costs.md)。
@@ -896,7 +912,7 @@ flowchart TD
 | --- | --- | --- |
 | 确认目标 | 律师确认客户要取得的结果及当前程序状态。 | 行动范围 |
 | 核法律入口 | 锁定 deemed close；其后 28 日内完成 Timetabling Questionnaire 与相应文件 | 事实与权源清单 |
-| 提交双方方案 | 原告有共识时交 consent summons，有分歧时发 CMS，法院再决定书面 directions 或聆讯。 | 已入禀文书及已批 directions |
+| 提交双方方案 | 原告有共识时交 consent summons，有分歧时发 CMS，法院再决定书面 directions 或聆讯。 | 已存档文书及已批 directions |
 | 准备材料 | 先核是否 milestone；制裁已生效时及时按 O.2 r.5 申请，通常 14 日内 | 文书与支持证据 |
 | 检查对方立场 | 对方可核迟延缘由、已浪费费用和审期影响，并提出较短延期或附条件方向。 | 异议和回应 |
 | 完成下一步骤 | 按指示完成 Listing Questionnaire、PTR、setting down 与 listing | 送达记录、法院命令或已完成的步骤 |
@@ -953,7 +969,7 @@ flowchart TD
 
 ###### 0A. 从管理命令到可开审案件：时限、补救和庭审准备
 
-见 [现行章节](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%B8%89%E6%96%87%E4%B9%A6%E3%80%81%E4%B8%A4%E4%BC%9A%E8%AE%AE%E3%80%81%E4%B8%89%E9%87%8C%E7%A8%8B%E7%A2%91)。
+见 [现行章节](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%BB%8E%E8%AF%89%E7%AD%94%E5%AE%8C%E7%BB%93%E5%88%B0%E6%8E%92%E6%9C%9F%E5%BC%80%E5%AE%A1%E6%80%8E%E4%B9%88%E8%B5%B0)。
 
 ###### 0A.2 CMC、PTR、trial与一般期限的分界
 
@@ -967,6 +983,8 @@ flowchart TD
 
 <!-- === AUDIT_ZONE_START (DO NOT SEND BELOW THIS LINE TO GPT) === -->
 > [!abstract]- 审计留痕：材料矩阵、待核事项与历史修订记录
+>
+> **2026-11-15 修订（可读性重构：接通逻辑断头路＋还原制度真实功能＋清除伪黑话）。** 用户指认四类阅读障碍后按五条铁律重构：①速读定位层与 §0B／§0C／§0D／§0E／§0F 及各子节新增"承上启下＋制度真身＋易混切割"大白话导语（TQ=备审动工前报日程表；LQ/PTR=备审快完成时查作业；setting down=作业完成后去登记处挂号排队；unless order=最后通牒令＋O.2 r.4 自动兑现＋14 日求宽免；三条延期路径按期限来源分工）。②清除自创黑话：`三文书、两会议、三里程碑`／`三渠道`／`两个例外`／`裁量架构`／`讼费谱系`／`后果谱系`／`两段式判断`／`策略暗线`／`策略货币`／`行动信号`／`自我承诺`／`三连`／`三件套`／`状态控制` 等标题与正文用语改为直述法律动作；`0D.1 三个渠道与两个例外`→`0D.1 延长或缩短普通时限的三种路径与法定限制`（用户钦定）等共 18 个标题改直白题。③错位用语：全部 14 处 `入禀`（仅指提起诉讼）按语境改为 `存档／交存并送达（file and serve）`；`法席（法官前）聆讯`→`在法官席前聆讯（before judge）`。④锚点全量同步：本卡 46 条内部锚点 0 断链（含修复 2 条指向 2026-11-14 前旧 0E 标题的断链）；canvas 26 条锚点同步并修复 24 条旧标题断链＋2 处节点显示文本旧用语；外部引用同步 [CO07 卡](./%5BCO07%5D%20Drafting%20Summonses,%20Interlocutory%20Applications,%20Orders%20&%20Security%20for%20Costs.md)、`00 Master/01 Master Deadlines & Case Matrix.md`（含 1 条此前已断的旧 0E 锚）、SG04 `00 Classroom & Desk.md`（0B.8 与 0H.1→0K.1.1）；0H.1／0H.2 编号错位改为 0K.1.1／0K.1.2。⑤引注零删减：全文 〔〕 引注 543 处与改前逐一守恒；法条号、天数、页数、判例名、英文采分词全部保留。备份：`_workspace/backup-2026-11-15-co11-readable/`（含 canvas）；门禁见本轮报告。
 >
 > **2026-11-14 修订。** 按实际程序重写开篇、§0B、§0D–§0F 和流程图。LG15A/B 补充分别归入 CMC、审期估算、排期、文件册、正审及讼费。现行 PD 5.2 ¶26 规定 CMC bundle 提前 3 clear days；旧日志所载「3 日无 clear」仅记录当时改动。O.2 r.4 从违令起算；O.35 r.1 摘牌与 r.2 审后 7 日撤销分列。
 >
@@ -1026,7 +1044,7 @@ flowchart TD
 > | SG4TQ／SG4CD：本届 SG04 Exercise 1 填报稿与主控 | 凝结层（本届） | **全读**；0H.1 映射锚点 |
 > | SG4AP：本届 SG4 原任务书 | 本届官方 | 任务时点与 AP 行号沿 SG4TQ 援引（未逐行重读；不声称已融合全部） |
 > | CL11T：LG11（2026-10-09 19:00–21:00）课堂字幕（Otter 合并稿 209 行） | 本届课堂实录 | **全读（2026-10-11）**；A 纠正 1 处＋B 补充 13 条已落卡，open 块 O-T1 已核销 |
-> | LG15B（2026-11-02 PT）实录字幕（1104 条，session 51238ed8） | 本届 | 2026-11-12 入库、11-13 整份阅读并回流（见文末「本届LG15 PT字幕回流」）；**LG15A（10-21 FT）平台无字幕**，其口径仍缺——拆卡评估已完成，见 O-T2 |
+> | LG15B（2026-11-02 PT）实录字幕（1104 条，session 51238ed8） | 本届 | 2026-11-12 入库、11-13 整份阅读；字幕实质内容经 2026-11-14 修订并入 §0B／§0F 各处（原所称「文末回流节」已不单独存在，指针落空，见 O-T9）；**LG15A（10-21 FT）平台无字幕**，其口径仍缺——拆卡评估已完成，见 O-T2 |
 > | Blue Book（Hong Kong Civil Court Practice）O.25 段 | 库外 | 未查；本节一切 "Blue Book" 字样仅沿大纲转述〔CL11M L183 "Blue Book O.25 [8849]-\[8850\](online)"〕 |
 > | O.1A／O.1B／O.2／O.3／O.25／O.32／O.42 条文与 PD 5.2 正式文本的原版 | 库外法源 | 库内无该等原文档；本卡仅引讲义与大纲对条文及 PD 的转述（含 LG15 Annex 附载的 PD 全文），不冒充条文原文——PDF 原文取用属库外核验，登记文末 open 块 |
 > 
@@ -1108,6 +1126,7 @@ flowchart TD
 > - **【O-T6｜2026-10-09】0E.5 后果链总表内"库内无明文"两处**：①缺席 PTR 的一般性后果规则——已读材料仅见 *Remedy Asia* 个案按 O.25 r.1C 暂时剔除（0E.5 行 6），缺席 PTR 的通用后果在 LG11/LG15 大纲与 PD 5.2 正文中未见明文（PD 5.2 §34 只及"迟来的中间申请可单以延误被驳回"）；②逾期交 bundle（72 小时死线后）的直接制裁——PD 5.6 仅述"at least 72 hours before"之义务，逾期后果未见明文，已读个案只见自行押后（Ma Man Chun）与评税拒付（Yip Sze Lung）两条间接成本面。两项如实登记，不臆造；如需规则级依据须到库外 PD／O.35 核字句。
 > - **【O-T7｜2026-10-11｜disputed（不作定本入正文）】法援申请的 stay 期限**：讲师口述 "I think it's 42 days"〔CL11T L201 "If you apply for legal aid, usually there would be a stay. I think it's 42 days"〕——"I think" 属不确定表述，具体 stay 长度待核 Legal Aid Ordinance 条文；本卡 0B.6 已沿大纲记 "NOT late legal aid application（grants a statutory stay of the proceedings）"，"42 days" 数字不入正文。
 > - **【O-T8｜2026-10-11｜disputed（不作定本入正文）】Setting down 申请 VCF 是否另收费**：讲师答 "No… I don't think so"〔CL11T L117 "Will that be extra cost for requiring these? No. No. No. I don't think so."〕——属存疑表述，待核；0F.2 正文只登记 App D 栏目含 video conferencing facilities，不登记收费结论。
+> - **【O-T9｜2026-11-15｜指针落空，待核】文末「本届LG15 PT字幕回流」节缺失**：2026-11-13 日志第 12 项与材料矩阵原 LG15B 行均称字幕已回流至"文末新节"，但活动文件与 `_workspace/backup-2026-11-13-condensation-align/` 备份内均无该节；2026-11-14 修订说明称 LG15A/B 补充已分别归入 CMC、审期估算、排期、文件册、正审及讼费（0F 各处现确有 CAP-C15 引注），故判断为"内容并入 0F、单独节与指针未清理"。本轮已把材料矩阵指针改为指向 §0B／§0F 并登记本条；如需独立回流节，按字幕（CAP-C15）另批补写，不得视为已核缺失内容。
 > 
 > 
 > > **2026-10-06 SG-USE材料状态更正**：本届LG11现已入99镜像，[📄本届原件](../../99%20Moodle%20Mirror/Lecture%20Outlines,%20Powerpoints%20&%20Materials/1.%20LG11%20LECTURE%20OUTLINE%20%282026-2027%29.docx)封面与课程日期已核。此前“未核齐／未到货”不再代表有无原件的现状；SG04 Questionnaire已接入其Timetabling Questionnaire及case-management directions章节。正文未因本次到货而冒称已逐句融合整份LG11。

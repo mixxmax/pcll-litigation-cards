@@ -483,12 +483,12 @@ export default defineConfig({
 									badge: '7项核心',
 									items: [
 										{ label: '排期问卷倒排填写', en: 'Timetabling Questionnaire', href: '#0c-timetabling-questionnaire-逐栏填写逻辑' },
-										{ label: '调解证书提交死线', en: 'Mediation Certificate PD 31', href: '#0b8-调解与和解机制pd-31-调解程序与讼费制裁杠杆' },
+										{ label: '调解证书提交死线', en: 'Mediation Certificate PD 31', href: '#0b8-调解与和解pd-31-程序与无理拒绝调解的讼费后果' },
 										{ label: '三大不可动摇里程碑', en: '3 Milestone Dates (CMC/PTR/Trial)', href: '#0b6-里程碑日期-vs-非里程碑日期更改规则对照' },
-										{ label: '非里程碑时限合意调整', en: 'Non-Milestone Consent O.25 r.1B', href: '#0d1-三个渠道与两个例外' },
+										{ label: '非里程碑时限合意调整', en: 'Non-Milestone Consent O.25 r.1B', href: '#0d1-延长或缩短普通时限的三种路径与法定限制' },
 										{ label: '除非命令与违规制裁', en: 'Unless Order & Strike Out', href: '#0e1-unless-order-的作出making-of-order形式要求与相称性' },
 										{ label: '制裁宽免五维裁量', en: 'Relief from Sanctions O.2 r.5', href: '#0e3-relief-from-sanctions14-日窗口传票誓章十因素裁量' },
-										{ label: '审前复核与正式排期', en: 'PTR, Bundles & Setting Down', href: '#0f1-ptr审前覆核法院预期的备审成果展示' },
+										{ label: '审前复核与正式排期', en: 'PTR, Bundles & Setting Down', href: '#0f1-ptr审前覆核法院验收案件是否已可开审' },
 									]
 								},
 								'co13': {
