@@ -24,7 +24,7 @@ source_state: 使用既有本届讲义、已入库字幕及登记法源；本次
 本轮更新: 2026-10-29整卡合并及章节归位；原材料缺口保留，未新增法源或改写SG答案
 material_snapshot: '2026-10-23'
 enrichment_snapshot: '2026-10-23'
-enriched: '2026-10-23'
+enriched: "2026-11-15"
 status: 2026-10-29整卡合并；独有知识保留，重复规则集中
 preservation: 独有规则、例外、案例、出处及未决保留；去重和位置对照见本次迁移记录
 LG课表安排:
@@ -43,7 +43,7 @@ SG课表安排:
 - PCLL8010 SG4：2026-10-15 19:00–21:00；出处 工作表7!E13:E27
 - PCLL8010 SG5：2026-10-22 19:00–21:00；出处 工作表8!E13:E33
 - PCLL8010 SG6：2026-10-29 19:00–21:00；出处 工作表9!E15:E29
-课表来源: 'PCLL PT Yr1 (General)/2026-27 1st Sem PT YR1 PCLL Timetable (24.08.2026).xlsx'
+课表来源: "PCLL PT Yr1 (General)/2026-27 1st Sem PT YR1 PCLL Timetable (24.08.2026).xlsx"
 课表版本: 24.08.2026
 课表核对日期: '2026-10-01'
 课表说明: 按用户指定原课表登记，不代表材料已齐或课程已上；时区Asia/Hong_Kong。预录周次不是固定授课日期；未据后续通知改写。
@@ -53,9 +53,6 @@ SG课表安排:
 - CO04-05
 - CO10
 ---
-
-
-
 # CO04–05–10 — 诉答、抗辩、反申索与第三方程序
 
 ## 速读定位层
@@ -70,7 +67,7 @@ SG课表安排:
 | --- | --- |
 | material facts | 诉答中的实体要件事实：当事人构成诉因或确立抗辩所绝对必需的事实细节；当事人在起草诉答文书时必须清晰陈述每一项实体要件事实，但严禁将证明事实的证据性材料（evidence）写入诉答中。 [§0B](#0B.%20%E8%AF%89%E7%AD%94%E5%8A%9F%E8%83%BD%E3%80%81material%20facts%20%E4%B8%8E%E8%AF%81%E6%8D%AE%E8%BE%B9%E7%95%8C) |
 | Statement of Claim | 原告起诉主张的法定诉答文书：原告详细载明案件事实要件、具体违约或侵权行为、请求法院批出的具体救济（relief）及必要事实详述（particulars）的首发文书。 [§0D](#0D.%20Statement%20of%20Claim%20%E8%B5%B7%E8%8D%89) |
-| Defence | 被告答辩文书：当被告收到申索陈述书后，必须在法定限期内提交答辩书；对原告指控的事实逐段予以承认（admit）、否认（deny）或不予承认（not admit），若依据不可抗力、时效届满等独立事由抗辩，则须在答辩书中明确提出积极抗辩（affirmative defence）。 [§0E](#0E.%20Defence%E3%80%81%E9%80%90%E9%A1%B9%E5%9B%9E%E5%BA%94%E4%B8%8E%20Reply) |
+| Defence | 被告答辩文书：当被告收到申索陈述书后，必须在法定限内存档并送达答辩书；对原告指控的事实逐段予以承认（admit）、否认（deny）或不予承认（not admit），若依据不可抗力、时效届满等独立事由抗辩，则须在答辩书中明确提出积极抗辩（affirmative defence）。 [§0E](#0E.%20Defence%E3%80%81%E9%80%90%E9%A1%B9%E5%9B%9E%E5%BA%94%E4%B8%8E%20Reply) |
 | counterclaim | 被告提起的反请求：被告在同一民事诉讼程序中对原告（或合并其他共同责任人）提出的独立诉讼请求；其性质为完全独立的诉讼，原告即使撤回本诉亦不影响反申索的继续审理。 [§0F](#0F.%20Set-off%E3%80%81Counterclaim%20%E4%B8%8E%20Third%20Party%20Proceedings) |
 | strike-out | 剔除诉答文书的司法制裁：当一方的诉答文书显示全无合理诉因或抗辩、纯属无理缠扰（frivolous or vexatious）、可能妨碍案件公平审讯或构成滥用司法程序时，法庭可依 RHC O.18 r.19 下令将其全部或部分诉答直接剔除并驳回诉讼。 [§0G](#0G.%20F&BP%E3%80%81amendment%20%E4%B8%8E%20strike-out) |
 
@@ -106,7 +103,7 @@ flowchart TD
 | Defence、逐项回应与 Reply | [§0E](#0E.%20Defence%E3%80%81%E9%80%90%E9%A1%B9%E5%9B%9E%E5%BA%94%E4%B8%8E%20Reply) |
 | Set-off、Counterclaim 与 Third Party Proceedings | [§0F](#0F.%20Set-off%E3%80%81Counterclaim%20%E4%B8%8E%20Third%20Party%20Proceedings) |
 | F&BP、amendment 与 strike-out | [§0G](#0G.%20F&BP%E3%80%81amendment%20%E4%B8%8E%20strike-out) |
-| 文书与期限倒排 | [§0H](#0H.%20%E7%94%B3%E8%AF%B7%E4%B8%8E%E6%93%8D%E4%BD%9C%E5%B7%A5%E7%A8%8B%EF%BC%9A%E6%96%87%E4%B9%A6%E3%80%81%E9%80%81%E8%BE%BE%E5%92%8C%E6%9C%9F%E9%99%90) |
+| 文书与期限倒排 | [§0H](#0H.%20%E5%AE%9E%E5%8A%A1%E6%93%8D%E4%BD%9C%E6%B8%85%E5%8D%95%EF%BC%9A%E6%96%87%E4%B9%A6%E3%80%81%E9%80%81%E8%BE%BE%E4%B8%8E%E6%97%B6%E9%99%90%E5%80%92%E6%8E%92) |
 | 提交前核对 | [§0I](#0I.%20%E6%94%BB%E9%98%B2%E4%B8%8E%E6%89%A7%E8%A1%8C%E5%89%8D%E6%A0%B8%E5%AF%B9) |
 | 失误、制裁与补救 | [§0J](#0J.%20%E7%A8%8B%E5%BA%8F%E5%A4%B1%E8%AF%AF%E5%8F%8A%E5%85%B6%E5%90%8E%E6%9E%9C) |
 | SG 实务应用 | [§0K](#0K.%20SG%20%E5%AE%9E%E5%8A%A1%E5%BA%94%E7%94%A8%E4%B8%8E%E5%AF%BC%E5%B8%88%E5%8F%A3%E5%BE%84) |
@@ -169,9 +166,9 @@ flowchart TD
 本卡将相关程序按功能合为一个主述；独有规则、课堂例子、来源及未决保留，重复总览不另设竞争版本。SG答案本身不随本次结构迁移改写。旧CO编号在原案例／修订记录中仍表示教学来源坐标，不代表另有独立活动主卡。
 
 #### 核心参数与计算口径
-- **诉状送达时限（Statement of Claim - O.18 r.1）**：若令状仅附一般认可背书，原告须在被告送达 AOS 后 **14 天内**提交并送达 SoC；若已附完整 SoC 则随令状一并送达。
-- **抗辩书送达时限（Defence - O.18 r.2）**：被告必须在收到 SoC 或提交 AOS 期限届满后（以较迟者为准）**28 天内**提交并送达 Defence。适用 O.3 r.5(3) 时，当事人可书面同意延长文件期限；先核特别规则及个案命令。
-- **Reply 与 Defence to Counterclaim（O.18 r.3(4)）**：原告如拟提交 Reply，须在 Defence 送达后 28 天内送达；如要抗辩 Counterclaim，须在 Counterclaim 送达后 28 天内送达 Defence to Counterclaim。未抗辩反申索时，反申索人可依 O.19 适用规则取判。
+- **诉状送达时限（Statement of Claim - O.18 r.1）**：若令状仅附一般认可背书，原告须在被告送达 AOS 后 **14 天内**存档并送达 SoC；若已附完整 SoC 则随令状一并送达。
+- **抗辩书送达时限（Defence - O.18 r.2）**：被告必须在收到 SoC 或存档 AOS 期限届满后（以较迟者为准）**28 天内**存档并送达 Defence。适用 O.3 r.5(3) 时，当事人可书面同意延长文件期限；先核特别规则及个案命令。
+- **Reply 与 Defence to Counterclaim（O.18 r.3(4)）**：原告如拟送达 Reply，须在 Defence 送达后 28 天内送达；如要抗辩 Counterclaim，须在 Counterclaim 送达后 28 天内送达 Defence to Counterclaim。未抗辩反申索时，反申索人可依 O.19 适用规则取得判决。
 - **Close of pleadings（O.18 r.20）**：原告送达 Reply 的，从送达后算 14 天；没有 Reply 但送达 Defence to Counterclaim 的，从该抗辩送达后算 14 天；两者均未送达的，从 Defence 送达后算 28 天。诉答终结后，各方另算 28 日排期问卷期。见 [RHC O.18 与 O.25](https://www.elegislation.gov.hk/hk/cap4A)。
 - **诉答剔除四大法定事由（Striking Out Pleadings - O.18 r.19(1)）**：
   ① (a) 无合理诉因或抗辩（No reasonable cause of action or defence - 严禁引入任何宣誓证据，仅作纯法律审查）；
@@ -180,6 +177,8 @@ flowchart TD
   ④ (d) 构成对法庭程序的滥用（Abuse of the process of the court）。
 
 ## 0B. 诉答功能、material facts 与证据边界
+
+**此时案件处在什么状态？** 令状已按 CO03 签发并送达，客户手里是一堆事实、文件和目标；还没有任何一份诉答文书，法院和对方都不知道你究竟主张什么、依据什么。**本制度在干嘛？** 诉答（pleadings）是把客户故事压成「构成诉因或抗辩的实质事实」的文书工序：O.18 r.7(1) 划出第一道分水岭——诉状只简要陈述 material facts，不写用来证明它们的证据（evidence），也不以法律论辩代替事实；写什么由本节定，什么时候交由 §0C 管，SOC 与 Defence 分别在 §0D、§0E 落稿。**和谁区分？** material facts 与 evidence 的分界不是文风偏好：把证据抄进诉状，对方只见一堆文件却不知道你要争什么；漏写要件事实，审讯时该事实原则上不得举证。 <small style="opacity: 0.55">〔LG4V L168 "define real issues between the parties in advance of trial"；LG4V L260 "Every pleading must contain only a statement in a summary form of the material facts"〕</small>
 
 ### 术语速查
 
@@ -191,7 +190,7 @@ flowchart TD
 | 真实陈述书（Statement of Truth） | 签署人声明相信文书所述事实为真的核实文件；诉答、修改稿与 F&BP 均须附具，未核实可命补正以至剔除；O.41A r.2(1)(a)；O.18 r.20A。 <small style="opacity: 0.55">〔LG4V L222 "Every pleading must be verified by a Statement of Truth"；LG4V L252 "if not = struck out (O.41A r.6)"〕</small> |
 | 回应（traverse） | 被告对指控的否认（denial）或不承认（non-admission），可明示或必要含意；定义文本本届 LG4 未展开，以往届 LG10 讲义互校（往届仅参考）；O.18 r.13(3)（往届讲义口径）。 <small style="opacity: 0.55">〔OLD-LG10 L155 "a traverse may be made either by a denial or by a statement of non-admission" ·往届仅参考〕</small> |
 | 推定自认（deemed admission） | SOC 中的事实指控未在 Defence 中明确否认或不承认者，依法推定为自认；O.18 r.13(1)。 <small style="opacity: 0.55">〔LG4V L476 "Every allegation of fact … is deemed to be admitted in the defence unless it is expressly denied"〕</small> |
-| 争点默示成立（implied joinder of issue） | 原告不提交 Reply 时，依法视为对 Defence 各项实质事实主张不承认，无需另行文书；O.18 r.14。 <small style="opacity: 0.55">〔LG4V L510 "joinder of issue = a non-admission of every material allegation of fact made in the pleading"〕</small> |
+| 争点默示成立（implied joinder of issue） | 原告不送达 Reply 时，依法视为对 Defence 各项实质事实主张不承认，无需另行文书；O.18 r.14。 <small style="opacity: 0.55">〔LG4V L510 "joinder of issue = a non-admission of every material allegation of fact made in the pleading"〕</small> |
 | 诉答完结（close of pleadings） | 送达 Reply 后 14 日（无 Reply 时 Defence 后 28 日）诉答阶段自动关闭并触发后续案件管理时钟的节点；O.18 r.20(1)。 <small style="opacity: 0.55">〔LG4V L697 "14 days after the service of the reply … close of pleadings (O.18 r.20(1))"〕</small> |
 | 抵销（set-off） | 被告以其对原告的金钱债权全部或部分抵销原告请求的抗辩；O.18 r.17。 <small style="opacity: 0.55">〔CL10 L321 "A set-off is where D has a claim"〕</small> |
 | 反申索（counterclaim） | 被告对原告提出的独立诉因，与 Defence 合并于同一文书；O.15 r.2。 <small style="opacity: 0.55">〔CL10 L335 "Where a defendant alleges that he has a Counterclaim, the"〕</small> |
@@ -271,6 +270,8 @@ flowchart TD
 
 ## 0C. 诉答时序、期限与 close of pleadings
 
+**此时案件处在什么状态？** 写什么已经清楚（§0B），现在的压力是「什么时候必须交出哪份文书」：SOC、Defence、Reply 各有法定死线，算错一天可能被对方申请缺席判决或被催告。**本制度在干嘛？** 本节把诉答当成一条时间线管理：从 AOS 起算 SOC 的 14 天，到 Defence 的 28 天（高院要扣掉 8 月暑期休庭、区院不停钟），再到 O.18 r.20 的 close of pleadings——诉答一关闭，披露与案件管理的时钟立刻开动。**和谁区分？** 送达与 AOS 的算日规则在 CO03；缺席判决的要件与撤销在 CO06-09，本卡只负责诉答侧的起算点与完结时点。 <small style="opacity: 0.55">〔LG4V L697 "14 days after the service of the reply … close of pleadings (O.18 r.20(1))"；LG8V L25 "within 14 days of the close of the pleadings"〕</small>
+
 ### 2.1 时间与草稿：一般令状不产生永久保密
 
 LG4讲授一般endorsement（随后另送SoC）及特别endorsement（SoC随writ），AOS含送达日；Defence期限按AOS的**法定期限**和SoC送达两锚取较后+28日，提早实际fileAOS不提前其法定锚。没有Reply时常依规则28日close；有Reply／Defence to Counterclaim时依相应14日close，但法院命令／特殊程序须先核。此为课堂日历演练，不能不看规则和节假日直接加日期。 <small style="opacity: 0.55">〔CAP-C4 L979 "even if the defendant file the AOS earlier"〕〔CAP-C4 L1282 "whichever is the later."〕</small>
@@ -281,9 +282,9 @@ LG4讲授一般endorsement（随后另送SoC）及特别endorsement（SoC随writ
 
 ```mermaid
 stateDiagram-v2
-    [*] --> 诉答未提交 : 令状已送达 / AOS 已提交
+    [*] --> 诉答未交付 : 令状已送达 / AOS 已存档
     
-    诉答未提交 --> 诉答起草阶段 : 撰写 SOC / Defence (5-Level Analysis)
+    诉答未交付 --> 诉答起草阶段 : 撰写 SOC / Defence (5-Level Analysis)
     
     state 诉答起草阶段 {
         [*] --> 审查实质事实 : O.18 r.7 (Facts not Evidence)
@@ -362,15 +363,17 @@ stateDiagram-v2
 
 ### 2.6 诉答生命周期、时限表与诉答完结（O.18 r.1–r.5A, r.20 & HCO s.31）
 
+这张图回答「谁在什么时候必须交什么」：从令状送达起，AOS、SOC、Defence、Reply 的时钟依次开动，高院的 8 月暑期休庭会把诉答算日整个暂停（区院没有暑期休庭），最后在 O.18 r.20 的节点自动关闭诉答、开启披露与案件管理的时钟。**易错点：**提早实际交 AOS 不提前法定锚点——Defence 期限按「SOC 送达」与「AOS 期限届满」两者中较后者起算；逐列依据见下面的速查表。 <small style="opacity: 0.55">〔CAP-C4 L979 "even if the defendant file the AOS earlier"；LG4V L690 "D to serve defence (and counterclaim) within 28 days of being served statement of claim"〕</small>
+
 ```mermaid
 flowchart TD
     WritPath{"令状发出模式"} --> Spec["特别背书令状 (Specially Endorsed)<br>直接附有 SOC"]
     WritPath --> Gen["一般背书令状 (Generally Endorsed)<br>仅附简短诉由背书"]
 
-    Gen --> GenAOS["送达令状 ➔ 14天内提交 AOS (O.12 r.5)"]
-    GenAOS --> GenSOC["【原告送达 SOC 期限】<br>被告提交 AOS 后 14 天内<br>[O.18 r.1]"]
+    Gen --> GenAOS["送达令状 ➔ 14天内存档 AOS (O.12 r.5)"]
+    GenAOS --> GenSOC["【原告送达 SOC 期限】<br>被告存档 AOS 后 14 天内<br>[O.18 r.1]"]
     
-    Spec --> SpecAOS["送达令状+SOC ➔ 14天内提交 AOS (O.12 r.5)"]
+    Spec --> SpecAOS["送达令状+SOC ➔ 14天内存档 AOS (O.12 r.5)"]
     
     GenSOC --> DefClock["【被告送达 Defence 期限】<br>送达 SOC 后 28 天内<br>[O.18 r.2(1)]"]
     SpecAOS --> SpecDefClock["【被告送达 Defence 期限】<br>AOS 届满期限后 28 天内<br>[O.18 r.2(1)]"]
@@ -380,10 +383,10 @@ flowchart TD
     SummerCheck -->|"高等法院 CFI"| Freeze["O.3 r.3 & HCO s.31 暑期休庭冻结:<br>8月1日–8月31日 期间完全暂停起算！"]
     SummerCheck -->|"区域法院 DC"| NoFreeze["区域法院无暑期休庭！连续计算 28 天"]
     
-    Freeze & NoFreeze --> CloseCheck{"原告是否在 28 天内提交 Reply / Defence to CC？"}
+    Freeze & NoFreeze --> CloseCheck{"原告是否在 28 天内送达 Reply / Defence to CC？"}
     
-    CloseCheck -->|"未提交 Reply（争点默示成立）"| Close28["【Close of Pleadings 诉答完结】<br>送达 Defence 后第 28 日自动完结<br>[O.18 r.20(1)(b)]"]
-    CloseCheck -->|"提交了 Reply / Defence to CC"| Close14["【Close of Pleadings 诉答完结】<br>送达 Reply（或没有 Reply 时的 Defence to Counterclaim）后第 14 日完结<br>[O.18 r.20(1)(a)]"]
+    CloseCheck -->|"未送达 Reply（争点默示成立）"| Close28["【Close of Pleadings 诉答完结】<br>送达 Defence 后第 28 日自动完结<br>[O.18 r.20(1)(b)]"]
+    CloseCheck -->|"送达了 Reply / Defence to CC"| Close14["【Close of Pleadings 诉答完结】<br>送达 Reply（或没有 Reply 时的 Defence to Counterclaim）后第 14 日完结<br>[O.18 r.20(1)(a)]"]
 ```
 
 > **出处订正（附录 G 轻项）**：上图 Freeze 节点与本节标题中的 **HCO s.31**（及 O.3 r.3 暑期休庭规则）**出处在本届 LG3 讲义，不在 LG4**——见 LG3 讲义 L225（诉答之送达、递呈、修改不计休庭期，1–31 八月：RHC O.3 r.3 及 O.64 r.1 & O.1 r.4）、L227（s.31(1) HCO：其他不超过一个月之期限同样不计算休庭期）、L229（区域法院无暑期休庭）、L231（法庭可指示休庭期间继续计算）。LG4 讲义就 HCO 只论及 s.48（利息）。本节标题依「标题契约」未改，仅在此订正出处。 <small style="opacity: 0.55">〔LG3V L225 "for serving, filing or amending pleadings, the counting of days excludes the Court’s summer vacation"；LG3V L225 "(i.e. 1-31 August: RHC O.64 r.1 & O. 1 r. 4)"〕〔LG3V L227 "any period not exceeding 1 month is allowed … the Summer Vacation is not counted"〕〔LG3V L229 "there is NO SUMMER VACATION in the District Court"〕〔LG3V L231 "Court may direct time to run during Summer Vacation"〕〔LG4V L338 "interest under section 48 of the High Court Ordinance"〕</small>
@@ -392,9 +395,9 @@ flowchart TD
 
 | 文书类型 | 适用条款 | 触发事件与起算点 | 法定截止期间（Time Limited） | 暑期休庭适用与实务要点 |
 | --- | --- | --- | --- | --- |
-| **Statement of Claim (SOC)** | **O.18 r.1** | 一般背书令状下，收到被告提交之 AOS。 <small style="opacity: 0.55">〔LG4V L688 "D to file an acknowledgment of service within 14 days (including the day of service)"〕</small> | 收到 AOS 后 **14 天内**。 <small style="opacity: 0.55">〔LG4V L689 "P serves statement of claim within 14 days of D giving notice of intention to defend"〕</small> | 若为特别背书令状，令状发出时即已附连 SOC，无需二次送达。 <small style="opacity: 0.55">〔LG4V L689 "P need not serve a separate statement of claim"〕</small> |
+| **Statement of Claim (SOC)** | **O.18 r.1** | 一般背书令状下，收到被告存档之 AOS。 <small style="opacity: 0.55">〔LG4V L688 "D to file an acknowledgment of service within 14 days (including the day of service)"〕</small> | 收到 AOS 后 **14 天内**。 <small style="opacity: 0.55">〔LG4V L689 "P serves statement of claim within 14 days of D giving notice of intention to defend"〕</small> | 若为特别背书令状，令状发出时即已附连 SOC，无需二次送达。 <small style="opacity: 0.55">〔LG4V L689 "P need not serve a separate statement of claim"〕</small> |
 | **Defence (& Counterclaim)** | **O.18 r.2(1)** | (1) 收到原告之 SOC；或<br>(2) 特别背书令状下 AOS 截止日届满。 | 收到 SOC 或 AOS 截止日后 **28 天内**。 <small style="opacity: 0.55">〔LG4V L690 "D to serve defence (and counterclaim) within 28 days of being served statement of claim"；LG4V L690 "within 28 days of the time limited for giving notice of intention to defend"〕</small> | **高院受 8月1–31日 暑期休庭冻结**（O.3 r.3；出处在 LG3 讲义 L225、L229，非 LG4）；双方可签 Consent Letter 书面同意顺延（O.3 r.5(3)）。 <small style="opacity: 0.55">〔LG3V L225 "for serving, filing or amending pleadings, the counting of days excludes the Court’s summer vacation"；LG3V L229 "there is NO SUMMER VACATION in the District Court"〕〔❓「Consent Letter 书面同意顺延（O.3 r.5(3)」库内查无出处·待核〕</small> |
-| **Reply (& Defence to CC)** | **O.18 r.3(4)** | 收到被告送达之 Defence (& Counterclaim)。 | 收到 Defence 后 **28 天内**。 <small style="opacity: 0.55">〔LG4V L692 "P to serve reply and/or defence to counterclaim within 28 days of being served the defence"〕</small> | 若仅针对 Defence，且无新积极免责事实，**通常无需提交 Reply**。 <small style="opacity: 0.55">〔LG4V L512 "there is no need to serve a reply"〕</small> |
+| **Reply (& Defence to CC)** | **O.18 r.3(4)** | 收到被告送达之 Defence (& Counterclaim)。 | 收到 Defence 后 **28 天内**。 <small style="opacity: 0.55">〔LG4V L692 "P to serve reply and/or defence to counterclaim within 28 days of being served the defence"〕</small> | 若仅针对 Defence，且无新积极免责事实，**通常无需送达 Reply**。 <small style="opacity: 0.55">〔LG4V L512 "there is no need to serve a reply"〕</small> |
 | **Rejoinder（再答辩）** | **O.18 r.4** | 收到原告之 Reply。 | 收到 Reply 后 **28 天内**。 | **必须先取得法庭许可（Leave）**，极罕见。 <small style="opacity: 0.55">〔LG4V L693 "D to serve rejoinder with leave of Court within 28 days"〕</small> |
 | **Close of Pleadings（诉答完结）** | **O.18 r.20** | (a) 无 Reply：送达 Defence 后；<br>(b) 有 Reply：送达 Reply 后。 | (a) 送达 Defence 后 **第 28 日**；<br>(b) 送达 Reply 后 **第 14 日**。 <small style="opacity: 0.55">〔LG4V L691 "28 days after service of the defence (and counterclaim)"；LG4V L697 "14 days after the service of the reply … close of pleadings (O.18 r.20(1))"〕</small> | **诉答完结触发后续管理与披露时钟，但不排除依法申请修改**；其后核相应期限和 14 天交换文件清单（List of Docs）。 <small style="opacity: 0.55">〔LG8V L25 "within 14 days of the close of the pleadings"〕</small> |
 
@@ -405,6 +408,8 @@ flowchart TD
 > **Exam / Drafting Formulation:** "The Defence must be served within 28 days after the later of service of the Statement of Claim and expiry of the acknowledgment period."
 
 ## 0D. Statement of Claim 起草
+
+**此时案件处在什么状态？** 事实已按 §0B 分层核对、时限已按 §0C 算清（一般背书令状下收到 AOS 后 14 天内），轮到原告动笔写第一份正式诉答文书。**本制度在干嘛？** Statement of Claim 把原告的每个诉因从头写到尾：当事人与身份→合同或义务如何形成→对方如何违约→损失与因果→请求什么救济，目标是让对方「看得懂、答得了」。**和谁区分？** SOC 是进攻文书，被告如何逐段拆解回应（Defence）在 §0E——两份文书是同一场攻防的两面，结构相似但写作立场相反；§3.1 讲从分析到成稿的顺序，§3.2 逐项列起草要求与范例。 <small style="opacity: 0.55">〔LG4V L689 "P serves statement of claim within 14 days of D giving notice of intention to defend"〕</small>
 
 ### 3.1 SoC从五层分析转成完整稿件
 
@@ -418,7 +423,9 @@ flowchart TD
 
 > **不做后果点题**：漏要件／利息只写 Prayer／人身伤害漏附医疗报告与 SSD／particulars 超 3 folios 未分离附件的代价归并 [§3.6 总表](#9.1%20%E7%8E%AF%E8%8A%82%C3%97%E4%B8%8D%E5%81%9A%E5%90%8E%E6%9E%9C%E9%93%BE%C3%97%E4%BE%9D%E6%8D%AE%E6%80%BB%E8%A1%A8) 行 1–3、18–20。
 
-### 3.2 申索陈述书（SOC）起草工程学（O.18 r.6, r.7, r.15 & O.41A）
+### 3.2 申索陈述书（SOC）逐项起草要求与范例（O.18 r.6, r.7, r.15 & O.41A）
+
+**和 §3.1 怎么分工？** §3.1 讲从分析到成稿的顺序（先人物表、时间轴、五层分析，再搭骨架）；本节把每一项起草要求落到条目：五层分析怎么填、SOC 的七个段落各写什么、利息怎么主张、真实陈述书谁签。**为什么不能提笔就写？** 直接抄案卷会把证据当事实写进 SOC（§0B 的分水岭）；漏写一个要件，对方就能申请剔除（O.18 r.19(1)(a)），或让你在自己的简易判决申请里被卡住（§8.5 清单 3）。**一个最容易丢分的区分：**约定利息计入管辖额且必须写进正文；法定裁量利息不计入管辖额，写正文或只写 Prayer 皆可——见本节第 2 项的逐条拆解。 <small style="opacity: 0.55">〔LG5V L128 "drafting pleadings (Level 4 material facts, which must cover all Level 3 legal ingredients)"〕</small>
 
 #### 1. 5-Level Case Analysis（五层案件分析法）
 
@@ -431,7 +438,7 @@ flowchart TD
 - **Level 4（实质事实 - Material Facts）**：支撑 Level 3 每一项要件的具体事实（**即必须写入 SOC 的内容**）。 <small style="opacity: 0.55">〔LG5V L128 "drafting pleadings (Level 4 material facts, which must cover all Level 3 legal ingredients)"〕</small>
 - **Level 5（证据与证明方式 - Evidence）**：发票、邮件、证人证言（**严禁写入 SOC，留待证据阶段**）。
 
-#### 2. SOC 七步工程化结构与起草规范
+#### 2. SOC 起草的七个步骤与规范
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -495,6 +502,8 @@ flowchart TD
 
 ## 0E. Defence、逐项回应与 Reply
 
+**此时案件处在什么状态？** 原告的 SOC 已经送达（§0D 的产物），Defence 的 28 天时钟已经开动（§0C 的算法），被告现在必须逐段决定：哪些承认、哪些否认、哪些说不掌握。**本制度在干嘛？** Defence 同时做两件事：对 SOC 的每项事实指控给出回应（admit／deny／not admit，即 traverse），并写明被告自己依赖的积极案情——只否认不写版本，审讯时就不能就相反事实举证。**和谁区分？** 回应与反击是两回事：要抵钱或反告，走 §0F 的 set-off／counterclaim；原告对 Defence 的回应叫 Reply，只在有新积极事实要反驳抗辩时才需要（§4.4）。**沉默的代价：**该否认而不否认的指称，按 O.18 r.13(1) 直接推定为承认，争点当场消失。 <small style="opacity: 0.55">〔CL10 L131 "The main functions of a Defence are to respond to"；LG4V L476 "Every allegation of fact … is deemed to be admitted in the defence unless it is expressly denied"〕</small>
+
 **原选择图的免责承认示例。** 承认违约事实，但提出时效、不可抗力、欺诈或挫败；这些属于原卡的分类提示，所依赖的积极事实仍须具体写出，不代表任何一项免责在本案已经成立。 <small style="opacity: 0.55">〔LG4V L320 "Matters to be pleaded specifically"〕</small>
 
 ### 4.1 从收到SoC到逐项回应
@@ -542,9 +551,9 @@ flowchart LR
 **Defence及抵销的共同规则已在本章及第5章集中；本节保留Reply的独有条件。**
 
 3. **答辩书（Reply）的必要性测试（2024 Jan Q5a 核心踩分点）**： <small style="opacity: 0.55">〔LG4V L508–L512 "if no reply is served by the plaintiff … there is no need to serve a reply"；MATRIX L107 "常见错误是认为不同意 Defence 就必须提交 Reply"〕</small>
-   - ❌ **常见错误观念**：以为收到 Defence 后必须提交 Reply，否则等于自认 Defence 的内容。 <small style="opacity: 0.55">〔MATRIX L107 "常见错误是认为不同意 Defence 就必须提交 Reply"；📄OLD-24JM p.4 "Wrong – need to file a Reply … if Wang disagreed with Defence" ·往届仅参考〕</small>
-   - ✅ **权威规则（O.18 r.14）**：若原告仅是不接受 Defence 的抗辩理由，**完全无需提交 Reply**，法律自动适用**争点默示成立（Implied Joinder of Issue）**，视同原告对 Defence 全部事实不予承认（Non-admission）。 <small style="opacity: 0.55">〔LG4V L512 "if all that the plaintiff wants to do is not admit everything in the defence, there is no need to serve a reply"；LG4V L510 "joinder of issue = a non-admission of every material allegation of fact made in the pleading"；📄OLD-24JM p.4 "Implied joinder of issues sufficient to disagree with the allegations … in the Defence" ·往届仅参考〕</small>
-   - ⚠️ **唯一必须提交 Reply 的情形**：被告在 Defence 中提出了免责承认（Confession & Avoidance，如时效届满或欺诈），原告欲提出**新的积极事实反驳该抗辩**（例如依据 Limitation Ordinance s.23(3) 证明被告曾书面确认债务、重新起算时效）。注：讲义原文只作「matters to be pleaded specifically」，「Confession & Avoidance」是本卡自拟的分类标签。 <small style="opacity: 0.55">〔MATRIX L107 "implied joinder of issues 已足够，除非有新的积极主张"；LG4V L320 "Matters to be pleaded specifically"；LG4V L322 "allegation of fraud (O.18 r.8(1))"；LG4V L328 "defence of limitation period (O.18 r.12(1)(a))"〕〔❓「Limitation Ordinance s.23(3) 书面确认债务重新起算时效」库内仅 06 Base Exam Notes／00 Official Templates／Civ Lit MARKING.md L16 提及，该文件夹届别未标·待核〕</small>
+   - ❌ **常见错误观念**：以为收到 Defence 后必须送达 Reply，否则等于自认 Defence 的内容。 <small style="opacity: 0.55">〔MATRIX L107 "常见错误是认为不同意 Defence 就必须提交 Reply"；📄OLD-24JM p.4 "Wrong – need to file a Reply … if Wang disagreed with Defence" ·往届仅参考〕</small>
+   - ✅ **权威规则（O.18 r.14）**：若原告仅是不接受 Defence 的抗辩理由，**完全无需送达 Reply**，法律自动适用**争点默示成立（Implied Joinder of Issue）**，视同原告对 Defence 全部事实不予承认（Non-admission）。 <small style="opacity: 0.55">〔LG4V L512 "if all that the plaintiff wants to do is not admit everything in the defence, there is no need to serve a reply"；LG4V L510 "joinder of issue = a non-admission of every material allegation of fact made in the pleading"；📄OLD-24JM p.4 "Implied joinder of issues sufficient to disagree with the allegations … in the Defence" ·往届仅参考〕</small>
+   - ⚠️ **唯一必须送达 Reply 的情形**：被告在 Defence 中提出了免责承认（Confession & Avoidance，如时效届满或欺诈），原告欲提出**新的积极事实反驳该抗辩**（例如依据 Limitation Ordinance s.23(3) 证明被告曾书面确认债务、重新起算时效）。注：讲义原文只作「matters to be pleaded specifically」，「Confession & Avoidance」是本卡自拟的分类标签。 <small style="opacity: 0.55">〔MATRIX L107 "implied joinder of issues 已足够，除非有新的积极主张"；LG4V L320 "Matters to be pleaded specifically"；LG4V L322 "allegation of fraud (O.18 r.8(1))"；LG4V L328 "defence of limitation period (O.18 r.12(1)(a))"〕〔❓「Limitation Ordinance s.23(3) 书面确认债务重新起算时效」库内仅 06 Base Exam Notes／00 Official Templates／Civ Lit MARKING.md L16 提及，该文件夹届别未标·待核〕</small>
 
 > **不做后果点题**：traverse 失败即推定自认、只笼统否认即禁传反证、无新事实滥交 Reply 拖延完结、前后不一致主张不得修改的代价归并 [§3.6 总表](#9.1%20%E7%8E%AF%E8%8A%82%C3%97%E4%B8%8D%E5%81%9A%E5%90%8E%E6%9E%9C%E9%93%BE%C3%97%E4%BE%9D%E6%8D%AE%E6%80%BB%E8%A1%A8) 行 4–6、16。
 
@@ -552,6 +561,8 @@ flowchart LR
 
 
 #### O.18 r.13 逐项抗辩与承认/否认规则
+
+这段规则回答一个实务问题：收到 SOC 后，每一段到底要写什么、漏写会怎样。**为什么不回应代价这么大？** O.18 r.13(1) 把「没有明确否认或不承认」直接推定为承认——漏答一段重要指称，争点当场消失，审讯时连争辩的机会都没有。**deny 与 not admit 怎么选？** 知道对方说错了就 deny 并给出自己的事实版本；只是无法核实才 not admit、要求对方举证；笼统一句「否认」而不说明理由，等于没答。**与后文的关系：**r.13(6) 保存条款、particulars 的回应方式与限时技巧在 §12.5–§12.7 展开。 <small style="opacity: 0.55">〔LG4V L476 "Every allegation of fact made in the statement of claim"；R10 L112 "state his reasons for doing so"〕</small>
 - **严禁笼统否认（No general denial）**：被告必须对原告 SoC 中的每一项重要指控作出具体回应：承认（Admit）、否认（Deny）或不予置评（Do not admit / Require plaintiff to prove）。
 - **未否认即推定承认（Deemed admission under O.18 r.13(1)）**：除损害赔偿金额依 O.18 r.13(4) 自动视为存疑（Put in issue without denial）外，任何在抗辩书中未被具体否认的实质事实，依法律推定一律视为被告已经承认！
 - **说明具体理由（Specific traverse）**：若否认某项事实，被告须给出自己的事实版本，不能仅简单写「否认原告第 5 段」。
@@ -574,7 +585,11 @@ flowchart LR
 
 ## 0F. Set-off、Counterclaim 与 Third Party Proceedings
 
+**此时案件处在什么状态？** Defence 的骨架已经成型（§0E），被告现在要决定三件事：能不能把对方的申索抵掉、要不要反过来告原告、要不要把案外人拉进来一起算账。**本制度在干嘛？** 本节把被告的三条「反击通道」一次讲清：set-off 是盾——用自己对原告的金钱债权把原告获判金额抵减；counterclaim 是矛——另立一个独立诉讼向原告索赔，与 Defence 合并在同一份文书；third party notice（TPN）是 sideways——按 O.16 把尚非当事人的第三人拉进程序，向其追偿或共同确定争点。**和谁区分？** set-off 与 counterclaim 最易混：抵销资格受 O.18 r.17 及液体债务／关联性／合同排除条款限制，反诉只要求独立诉因（O.15 r.2）；DCC 针对原告，TPN 针对尚非当事人的人（§6.1）。 <small style="opacity: 0.55">〔CL10 L321 "A set-off is where D has a claim"；CL10 L515 "Where D believes that another person should be liable for"〕</small>
+
 ### 5.1 Set-off与counterclaim：先核实体资格再谈合并
+
+先想清楚你要什么：只是把对方获判的金额减下来（盾），还是要在减完之外积极收回一笔钱（矛）？前者核 set-off 资格，后者必须 counterclaim；资格不满足时仍可另行反诉，只是不能扣住应付金额。下面一张表把各条抵销路径的门槛、边界与实战结果逐项拆开。
 
 O.18r.17允许把合资格的金钱交叉请求作为P全部或部分索赔的抗辩，无论是否另加counterclaim；它不把每项counterclaim自动变成可抵销项目。课堂新PPT29–32明确补了Notes没有的区分。 <small style="opacity: 0.55">〔R10 L128 "whether or not it is also added as a counterclaim"〕〔T10 L883 "this is not in your lecture note."〕〔📄P10 Slide 29–32〕</small>
 
@@ -602,6 +617,8 @@ O.15r.3先要求D有对P的counterclaim，再看额外人的责任／救济与�
 
 
 ### 6. 第三方通知、送达、directions与追偿
+
+**此时案件处在什么状态？** 被告已在 Defence 中摆出己方案件（§4.1），并认为真正的责任人是案外的某个人——例如上游供应商或另一肇事司机。**第三方通知（TPN）在干嘛？** 它让被告按 O.16 把这个人拉进同一诉讼：发出并送达通知、第三人认收（AOS）、法庭 directions，最后法院可在主案中一并处理被告与第三人之间的追偿。**和 counterclaim（DCC）怎么区分？** 反诉告的是原告本人；TPN 只能发给尚非当事人的人，且必须先满足 O.16 r.1 的三类实体入口之一——对已在案的其他当事人要用 contribution notice（O.16 r.8），不是因为「他也有错」就能发通知。 <small style="opacity: 0.55">〔R10 L146 "a person not already a party to the action"；R10 L246 "that claim could be made by him by counterclaim"〕</small>
 
 **原告直接请求与加入当事人的边界。** 已在诉讼中的一方与尚非当事人的第三人，所需通知不同；若对现有一方的请求能以counterclaim提出，要检查O.16 r.8(2)。原告希望直接向第三人求救济，亦不能仅因被告已发TPN就视为原告也已起诉，须考虑加入为被告。 <small style="opacity: 0.55">〔CL10 L557 "It is also possible that TP might in turn wish"〕〔CL10 L599 "Therefore if P wishes to obtain relief from a third"〕</small>
 
@@ -654,7 +671,7 @@ flowchart TD
 | 状态 | 法律／程序后果 | 关键限制与补救 |
 | --- | --- | --- |
 | TP不给抗辩意向／不交法院命的Defence | r5(1)(a)视为承认notice请求，并受主案相关判决（含consentjudgment）或决定约束。 <small style="opacity: 0.55">〔R10 L212 "including judgment by consent"〕</small> | 以notice范围及有关程度为限，不是所有无关事实一并承认。 |
-| 主案D被defaultjudgment，D向TP入判 | r5(1)(b)有特定条件：一般须D已履行主案判决；法院许可可在履行前，其他救济亦需leave。 <small style="opacity: 0.55">〔R10 L214 "at any time after satisfaction of that judgment"〕</small> | 本届Notes把该路径简化为只contribution过于绝对；依Reference完整原文，不说indemnity永远只能r7。 |
+| 主案D被defaultjudgment，D对TP取得判决 | r5(1)(b)有特定条件：一般须D已履行主案判决；法院许可可在履行前，其他救济亦需leave。 <small style="opacity: 0.55">〔R10 L214 "at any time after satisfaction of that judgment"〕</small> | 本届Notes把该路径简化为只contribution过于绝对；依Reference完整原文，不说indemnity永远只能r7。 |
 | D或TP未交命令所需pleading | r5(2)可由相对一方summons申请适当判决／命令。 <small style="opacity: 0.55">〔R10 L216 "makes default in serving any pleading which he is ordered to serve"〕</small> | r5(3)法院可按公正条件撤销或变更。 <small style="opacity: 0.55">〔R10 L218 "set aside or vary a judgment entered"〕</small> |
 | 审讯后或主案其他方式处理 | r7(1)法院可按案件性质为D对TP或TP对D判决。 <small style="opacity: 0.55">〔R10 L226 "for the defendant against the third party or for the third party against the defendant"〕</small> | 判决存在与可立即execution要分开。 |
 | 贡献／弥偿判决的执行 | r7(2)同一债务／损害责任未履行前，除leave外不得执行该追偿判决。 <small style="opacity: 0.55">〔R10 L228 "execution shall not issue on the judgment without the leave of the Court"〕</small> | 不能等TP先付再向P履行，除非获适当许可。 |
@@ -669,7 +686,7 @@ flowchart TD
   ① 补偿或分担（Contribution or Indemnity，如保证人追偿或侵权连带责任人分担）；
   ② 相同或实质关联救济（Relief substantially the same as that claimed by plaintiff）；
   ③ 共同问题需一并裁决（Question or issue should be determined between all parties）。
-- **发出令状前置（O.16 r.1(2)）**：被告必须在提交 Defence 之前或同时向法庭发出第三方通知（Third Party Notice），逾期须向法庭申请许可。第三方在被送达后享有与被告完全相同的认收和答辩权利。
+- **发出令状前置（O.16 r.1(2)）**：被告必须在送达 Defence 之前或同时向法庭发出第三方通知（Third Party Notice），逾期须向法庭申请许可。第三方在被送达后享有与被告完全相同的认收和答辩权利。
 
 > **Exam / Drafting Formulation:** "The Defendant counterclaims against the Plaintiff for [relief] arising from [material facts]."
 
@@ -714,6 +731,8 @@ O16可减少多重诉讼和相反裁断，但不让D无根据牵连他人。费�
 
 ## 0G. F&BP、amendment 与 strike-out
 
+**此时案件处在什么状态？** 双方诉答都已交付，开始互相挑毛病：对方的指控含糊、自己的文书要改、对方的诉答可能根本立不住。**本制度在干嘛？** 本节是诉答阶段的三件修复与对抗工具：F&BP——让对方把含糊处说清（O.18 r.12）；amendment——修改自己的诉答（O.20）；strike-out——申请法院剔除对方的诉答（O.18 r.19）。**和谁区分？** 三条路解决三种问题，不能互相替代：指控「看不懂」先走 F&BP；「法律上毫无胜算」才评估剔除（§7.1）；修自己文书是 amendment，剔对方文书是 strike-out（§7.5）。F&BP 问的是「你的诉答主张什么事实」；要证明文件走 discovery（CO08）。 <small style="opacity: 0.55">〔LG4V L402 "you should first by way of letter request the other side to provide you further and better particulars"；LG4V L654 "the Court’s power to strike out is “drastic”, to be used “sparingly”, and only in “plain and obvious” cases"〕</small>
+
 ### 7.1 请求Further and Better Particulars还是申请剔除
 
 若问题是指控不清楚，先辨明需要对方说明的具体事实，以便知道应答案件；F&BPs不应成为提前索取全部证据的替代程序。若问题是没有可成立的诉因/抗辩、明显无理或滥用程序，才另按strike-out的相应ground分析。 <small style="opacity: 0.55">〔LG4V L394 "example: if D is convicted of the criminal offence of"〕〔LG4V L628 "in other words, “the legal basis of the claim is"〕</small>
@@ -749,13 +768,15 @@ O16可减少多重诉讼和相反裁断，但不让D无根据牵连他人。费�
 
 ### 7.4 进一步及更详细详情（F&BP - O.18 r.12）
 
+F&BP 的制度目的只有一个：让对方把诉答里已经主张、但没说清的内容说清楚，让你知道该怎么应答。**和 discovery 怎么分？** F&BP 问「你的诉答到底在主张什么事实」，discovery（CO08）要「证明这些事实的文件」——用 F&BP 向对方索取证据是程序误用，法庭不会支持。**为什么必须先发函再申请？** 跳过函件催告径行传票申请，法庭可以拒绝（*Law Wing Ping*）；下图从函件、传票到制裁的递进路径，每一步的规则与判例都在下面的速查表里。 <small style="opacity: 0.55">〔LG4V L402 "you should first by way of letter request the other side to provide you further and better particulars"；LG4V L412 "the court may refuse such an application if there was no prior request by letter"〕</small>
+
 ```mermaid
 flowchart TD
     VaguePlead["发现对方诉答文书含糊、缺乏细节或定义不明<br>(Vague, Ambiguous, Missing particulars)"] --> Step1["【第一步: 先行函件催告】<br>依据 O.18 r.12(6) 发出详细 Letter Request<br>条列式明确要求对方在指定期限内补充细节<br>未先行催告者法庭可拒绝其申请 (Law Wing Ping)"]
     
     Step1 --> RespCheck{"对方是否配合回复？"}
     
-    RespCheck -->|"全面配合提供"| MergeFBP["【整合入卷】<br>对方提交 F&BP 回复 (O.18 r.12(7))<br>文书格式: 每一项请求下方紧跟对应回答"]
+    RespCheck -->|"全面配合提供"| MergeFBP["【整合入卷】<br>对方送达 F&BP 回复 (O.18 r.12(7))<br>文书格式: 每一项请求下方紧跟对应回答"]
     
     RespCheck -->|"拒绝提供 / 逾期不予理睬"| Step2["【第二步: 向法院申请传票】<br>依据 O.18 r.12(3A) 发出 Inter-partes Summons<br>证明要件: (1) 先行发信; (2) 公正审讯或节省讼费所必需"]
     
@@ -781,6 +802,8 @@ flowchart TD
 > **不做后果点题**：未先函件催告即发传票可被酌情拒绝、命令不遵从的递进制裁（unless→禁证→剔除）归并 [§3.6 总表](#9.1%20%E7%8E%AF%E8%8A%82%C3%97%E4%B8%8D%E5%81%9A%E5%90%8E%E6%9E%9C%E9%93%BE%C3%97%E4%BE%9D%E6%8D%AE%E6%80%BB%E8%A1%A8) 行 9–10。
 
 ### 7.5 诉答修改（O.20）与剔除诉答（O.18 r.19）终极博弈
+
+这一节把两条线放进同一张图对照：**修改（O.20）**解决「我方文书有错或有新事实要补」，**剔除（O.18 r.19）**解决「对方文书立不住」。**分界线在哪？** 动自己的文书走左边——先看是否还在无许可窗口（close 前一次）、时效过没过；动对方文书走右边——选对四类 ground，且 (a) 类严禁附誓章证据。**两边共同的时间敌人：**修改越晚，对方越难准备、既定审期可能被取消（*Subba Alvin*）；剔除则受 plain and obvious 严苛测试约束，不是「觉得对方理亏」就能动。 <small style="opacity: 0.55">〔LG4V L528 "A party may, without the leave of the Court, amend any pleading of his once at any time before the close of pleadings"；LG4V L562 "Subba Alvin v Houng Kee (Asia) Ltd [2012] 4 HKLRD 640"〕</small>
 
 ```mermaid
 flowchart TD
@@ -913,7 +936,7 @@ mindmap
 
 【核心数字清单】
   ★ 14 天   : 一般令状下收到 AOS 后送达 SOC 期限（O.18 r.1）；修改文书后对方应对期限（O.20 r.3）。
-  ★ 28 天   : 收到 SOC 后提交 Defence 期限（O.18 r.2(1)；受高院 8 月暑期休庭冻结！）。
+  ★ 28 天   : 收到 SOC 后存档并送达 Defence 期限（O.18 r.2(1)；受高院 8 月暑期休庭冻结！）。
   ★ 14 / 28 : Close of Pleadings 完结时钟（有 Reply = 14 天；无 Reply = 28 天）。
   ★ 3 Folios: 细节超过 216 字必须以独立附件送达（O.18 r.12(2)）。
   ★ 5 Days  : O.18 r.19 剔除听审前必须提前 5 个整工作日书面通知理由（PD 19.1 §10.）。
@@ -948,7 +971,9 @@ mindmap
 | Content | 每项重要指称有回应，积极事实齐；恰当counterclaim；请求由事实支持。 <small style="opacity: 0.55">〔T10 L1153 "setting out all the material facts to support the defense"〕</small> | 把non-admission当无事实基础的通用盾；漏自己的条款。 |
 | Overall | 显示理解pleading用途，论点自洽，结论从事实逻辑得出。 <small style="opacity: 0.55">〔T10 L1147 "avoiding internal contradictions"〕〔T10 L1189 "you wrote a lot of evidence inside"〕</small> | 把Defence当客户陈述或证人供词，正文只复述证据。 |
 
-## 0H. 申请与操作工程：文书、送达和期限
+## 0H. 实务操作清单：文书、送达与时限倒排
+
+**此时案件处在什么状态？** 规则都清楚了（§0B–§0G），现在要把全部动作排成一张按日期倒推的操作单：哪天必须交什么、交之前备齐哪些文件。**本节在干嘛？** 把每份文书（writ／SOC／Defence／Reply／TPN）的期限从目标日倒排成日历动作，并列出每一步的文书包；每一步的法律条件回到 §0B–§0G 对应小节，做错的后果在 §0J 总表。**和谁区分？** 这里只是操作排程，不新增规则；期限的法定依据见 §2.6 速查表，法院命令优先于普通规则。
 
 先以实际事件确定起算点，再核适用规则和个案命令。法院指定的期限、送达方式与普通规则不同时，按实际命令操作。下图从目标日期倒排；确定日期后，再按下表顺序办理。
 
@@ -978,6 +1003,8 @@ flowchart TD
 
 ## 0I. 攻防与执行前核对
 
+**此时案件处在什么状态？** 文书接近定稿，签发、送达或执行前需要最后一轮核对——这一步不产生新规则，只是把前面各节的要求过一遍清单。**本节在干嘛？** 按角色分三张核对单：原告方按每项救济倒推必要事实；被告方逐项回应并陈述己方版本；双方在签署与送达前核 Statement of Truth、送达方式与实际截止日期。**和谁区分？** 这是「交出去之前」的检查；交出去之后出了错的后果与补救在 §0J。 <small style="opacity: 0.55">〔LG4V L222 "Every pleading must be verified by a Statement of Truth"〕</small>
+
 ### 0I.1 申请人或原告的准备与核对
 
 原告以每项救济倒推必要事实；起草前核谁订约、谁履行、何时违约及损失计算依据。
@@ -993,9 +1020,11 @@ flowchart TD
 
 ## 0J. 程序失误及其后果
 
+**此时案件处在什么状态？** 前面各节都在讲「该怎么做」，本节把另一面集中起来：不做、做错、做晚了会发生什么，对方和法院会怎么利用这个失误。**本节在干嘛？** §9.1 总表逐行列出 20 多个失误点的自动后果、制裁暴露、举证负担与救济门槛，并指回对应章节；库内没有明文后果的项目如实标注「库内无明文」并登记文末 open 块，不臆造。**怎么用？** 起草或核对前按表逐行自查；表内行号就是正文的回点。
+
 ### 9.1 环节×不做后果链×依据总表
 
-> 对应 §18.6：把"不做／逾期／做错会怎样"集中在一张总表，正文各环节以其行号回点（1.1→行 1–3；3.1→行 1–3、18–20；4.1→行 4–5；7.1→行 9–10、14–15；7.2→行 11–13、16；8.1→行 17；§2.6→行 7–8；§3.2→行 1–3、18–20；§4.4→行 4–6、16；§7.4→行 9–10；§7.5→行 11–15；母题结构图 W1–W8 同此）。【自动后果】＝无需对方动作即发生；【制裁暴露】＝对方或法院可启动的不利程序；【举证负担】＝想止血者要证明什么；【救济门槛】＝按哪条规则求宽或补救。库内材料未写后果者如实标"库内无明文"并登记文末 open 块（O-P1–O-P3），不臆造。
+> 对应 §18.6：把"不做／逾期／做错会怎样"集中在一张总表，正文各环节以其行号回点（1.1→行 1–3；3.1→行 1–3、18–20；4.1→行 4–5；7.1→行 9–10、14–15；7.2→行 11–13、16；8.1→行 17；§2.6→行 7–8；§3.2→行 1–3、18–20；§4.4→行 4–6、16；§7.4→行 9–10；§7.5→行 11–15；本卡地图流程图的断点节点同此）。【自动后果】＝无需对方动作即发生；【制裁暴露】＝对方或法院可启动的不利程序；【举证负担】＝想止血者要证明什么；【救济门槛】＝按哪条规则求宽或补救。库内材料未写后果者如实标"库内无明文"并登记文末 open 块（O-P1–O-P3），不臆造。
 
 | # | 失误 | 后果及下一步 |
 | --- | --- | --- |
@@ -1034,6 +1063,8 @@ flowchart TD
 相关后果见本节总表的「诉答与第三方程序」行。
 
 ## 0K. SG 实务应用与导师口径
+
+**此时案件处在什么状态？** 规则卡到此收口，下面把本届 SG03–SG06 四场小课的具体题目与本卡章节对接——从「懂规则」到「会做题」。**本节在干嘛？** 每场 SG 给三样东西：法律关系与争点拆解、答题／起草要件落点、导师课堂口径与考场红线；§10.1 的真题解析表再往届回看同一考点的出法。**和谁区分？** 完整可交的答案、Word 与课堂稿在各 SG 文件夹（链接在各小节内），本节只做「知识→题目」的映射，不替代 SG 答案本身。
 
 ### 0K.1 SG03：Drafting Statement of Claim I (Contract)（商业买卖/服务合同索赔起草实战）
 
@@ -1111,7 +1142,7 @@ LG10课堂指出interest可由全案否认的性质及r13(6)覆盖，但单独�
 > **Exam / Drafting Formulation:** "The Defendant claims a contribution from the Third Party in respect of any liability established in this action."
 
 #### 3. 导师课堂口径与考场红线（Tutor's Takeaways）
-- **时效与申请前置**：严禁在提交 Defence 后不经法庭许可擅自发出第三方通知；第三方加入后须由法庭下达 Third Party Directions 统一步调。
+- **时效与申请前置**：严禁在送达 Defence 后不经法庭许可擅自发出第三方通知；第三方加入后须由法庭下达 Third Party Directions 统一步调。
 
 ---
 
@@ -1120,10 +1151,10 @@ LG10课堂指出interest可由全案否认的性质及r13(6)覆盖，但单独�
 
 | 考卷年份与题号 | 核心案情事实与模板 | 涉及考点 | 标准踩分点与解题路径 |
 | --- | --- | --- | --- |
-| **2024 Jan Q5a / Q5b**<br>（往届卷宗，仅参考）。 <small style="opacity: 0.55">〔MATRIX L107 "常见错误是认为不同意 Defence 就必须提交 Reply"；MATRIX L109 "新论点与现有抗辩在事实上互相矛盾（如车速前后不一致）时不得修改"〕〔D-MATRIXINC〕</small> | Chang v Wang 交通事故人身伤害案（半山区）：Defence 主张被告正以 **50 km/h 车速上限** driving、行人冲出过突然无法回避；事后被告发现网上片段称**该路段因路面设计不可能超过 30 km/h**、任何车辆均无法避开冲出之行人，欲把该论点加入 Defence 并披露该片段。 <small style="opacity: 0.55">〔📄OLD-24J p.7 "even though Chang was driving at the speed limit of 50 km/h … no reasonable driver could have avoided the accident" ·往届仅参考〕</small> | (1) Reply 的必要性；<br>(2) O.18 r.10(1)／r.12A 不一致修改禁止（*Goldon* 检验标准） | 1. 无需提交 Reply——O.18 r.14(1) 争点默示成立（往届 mark sheet Q5(a) 给分点即「No」，原告无新积极案情）；<br>2. **不能修改 Defence**：新论点与既有诉答「事实上不一致（车速不同）」——⚠️ 检验标准按本届讲义订正：不一致只须 new or different，无须互相排斥；<br>3. 出路：有合理依据且以 in the alternative 提出（O.18 r.12A、r.10(2)），或依 O.20 **申请许可**修改先前诉答（mark sheet 备注亦就「申请许可呈交车速专家证据」给分）；<br>4. 该网上片段**无须披露**——与诉答所示争点不相关，不符 *Peruvian Guano* 测试。 <small style="opacity: 0.55">〔LG4V L508 "if no reply is served by the plaintiff, there is an implied joinder of issue on the defence"〕〔📄OLD-24JM p.4 "No [1] … As there is no further positive case to be adduced by Wang" ·往届仅参考；📄OLD-24JM p.4 "Implied joinder of issues sufficient to disagree with the allegations … in the Defence" ·往届仅参考〕〔LG4V L432 "matters pleaded cannot be inconsistent with what had been pleaded in previous pleadings"；LG4V L434 "“inconsistent” = new or different, no need to be mutually exclusive"；📄OLD-24JM p.4 "The new argument is factually inconsistent with existing plea in the … Defence, as the speed was different" ·往届仅参考〕〔📄OLD-24JM p.4 "Marks are also given suggesting that leave should be applied to adduce expert evidence on speed" ·往届仅参考；LG4V L548 "The Court may at any stage of the proceedings allow any party to amend his pleadings … as may be just"〕〔LG8V L20 "discover documents relevant to the disputes as revealed from the pleadings"；📄OLD-24JM p.4 "Does not satisfy the Peruvian Guano test as not relevant to the … dispute as revealed by the pleadings" ·往届仅参考〕</small> |
+| **2024 Jan Q5a / Q5b**<br>（往届卷宗，仅参考）。 <small style="opacity: 0.55">〔MATRIX L107 "常见错误是认为不同意 Defence 就必须提交 Reply"；MATRIX L109 "新论点与现有抗辩在事实上互相矛盾（如车速前后不一致）时不得修改"〕〔D-MATRIXINC〕</small> | Chang v Wang 交通事故人身伤害案（半山区）：Defence 主张被告正以 **50 km/h 车速上限** driving、行人冲出过突然无法回避；事后被告发现网上片段称**该路段因路面设计不可能超过 30 km/h**、任何车辆均无法避开冲出之行人，欲把该论点加入 Defence 并披露该片段。 <small style="opacity: 0.55">〔📄OLD-24J p.7 "even though Chang was driving at the speed limit of 50 km/h … no reasonable driver could have avoided the accident" ·往届仅参考〕</small> | (1) Reply 的必要性；<br>(2) O.18 r.10(1)／r.12A 不一致修改禁止（*Goldon* 检验标准） | 1. 无需送达 Reply——O.18 r.14(1) 争点默示成立（往届 mark sheet Q5(a) 给分点即「No」，原告无新积极案情）；<br>2. **不能修改 Defence**：新论点与既有诉答「事实上不一致（车速不同）」——⚠️ 检验标准按本届讲义订正：不一致只须 new or different，无须互相排斥；<br>3. 出路：有合理依据且以 in the alternative 提出（O.18 r.12A、r.10(2)），或依 O.20 **申请许可**修改先前诉答（mark sheet 备注亦就「申请许可呈交车速专家证据」给分）；<br>4. 该网上片段**无须披露**——与诉答所示争点不相关，不符 *Peruvian Guano* 测试。 <small style="opacity: 0.55">〔LG4V L508 "if no reply is served by the plaintiff, there is an implied joinder of issue on the defence"〕〔📄OLD-24JM p.4 "No [1] … As there is no further positive case to be adduced by Wang" ·往届仅参考；📄OLD-24JM p.4 "Implied joinder of issues sufficient to disagree with the allegations … in the Defence" ·往届仅参考〕〔LG4V L432 "matters pleaded cannot be inconsistent with what had been pleaded in previous pleadings"；LG4V L434 "“inconsistent” = new or different, no need to be mutually exclusive"；📄OLD-24JM p.4 "The new argument is factually inconsistent with existing plea in the … Defence, as the speed was different" ·往届仅参考〕〔📄OLD-24JM p.4 "Marks are also given suggesting that leave should be applied to adduce expert evidence on speed" ·往届仅参考；LG4V L548 "The Court may at any stage of the proceedings allow any party to amend his pleadings … as may be just"〕〔LG8V L20 "discover documents relevant to the disputes as revealed from the pleadings"；📄OLD-24JM p.4 "Does not satisfy the Peruvian Guano test as not relevant to the … dispute as revealed by the pleadings" ·往届仅参考〕</small> |
 | **2025 Jan Q4a**<br>（往届卷宗，仅参考） | 原告提起简易判决（O.14），被告在誓章中指出原告 SOC 漏写了合同交付条款。 | 简易判决遇瑕疵 SOC 的程序救济策略 | 1. 援引 *Wong Chow Hoi Sze Elsie*，不可在 O.14 听审中硬撑；<br>2. 撤回 O.14 传票；<br>3. 依据 O.20 r.3(1) 无需法庭许可修改 SOC；<br>4. 送达 Amended SOC 后重新申请 O.14。 <small style="opacity: 0.55">〔LG4V L528 "A party may, without the leave of the Court, amend any pleading of his once at any time before the close of pleadings"〕〔📄OLD-25JM p.4 "Royal should withdraw the summary judgment summons [2] because summary judgment cannot be obtained on an incomplete statement of claim" ·往届仅参考；📄OLD-25JM p.4 "After withdrawal, Royal can amend the statement of claim without leave before pleadings are deemed to be closed (O.20 r.3)" ·往届仅参考〕</small> |
 | **2023 Jul Q3(a)**<br>（往届卷宗，仅参考） | Mandy Wong 诉 Trisha Tsang 借款案：借出 HK$2,500,000，**约定年利率 10%**、3 年后一次性还本付息，期满分文未还；问应在哪个法院起诉（5 分）。 <small style="opacity: 0.55">〔📄OLD-23L p.3 "she lent Trisha $2.5 million on the latter’s request, at an agreed interest rate of 10% per year" ·往届仅参考；📄OLD-23L p.3 "At which court should Mandy sue Trisha? Please explain your answer." ·往届仅参考〕</small> | 利息是否计入法院管辖额（DCO s.32 与 CFI 之分界）；约定利息之起草位置（「法定利息不计入」一面上文已标 ⚠️：本届讲义无正面明文，库内仅往届补考卷答案载之）。 <small style="opacity: 0.55">〔MATRIX L67 "合约利息计入、法定利息不计入"；OLD-25K L50 "The contract interest will be taken into account" ·往届仅参考；OLD-25K L52 "interest under the DCO/HCO will not be taken into account" ·往届仅参考〕</small> | 1. mark sheet 给分点：**约定利息属合约性质，计算管辖额时一并计入**——利息约 HK$750,000，合共约 HK$3.25m，**超出区域法院管辖限额 → 须于高等法院原讼法庭起诉**；<br>2. 起草面：**约定利息**所依赖之事实与计算基准必须写入**正文**（不能只写在 Prayer）；<br>3. 法定裁量利息（s.48 HCO／s.49 DCO）与约定利息须分别写明（仅主张法定裁量利息时，写正文或只写 Prayer 皆可）。 <small style="opacity: 0.55">〔📄OLD-23LM p.1 "Parties agreed interests at the rate of 10% per year. This is contractual which will be taken into" ·往届仅参考；📄OLD-23LM p.2 "account when considering jurisdiction." ·往届仅参考；📄OLD-23LM p.2 "the total interest payable is around 750k, so the total claim is for around 3.25m (2.5m + 0.75m)" ·往届仅参考；📄OLD-23LM p.2 "which exceeds District Court's jurisdiction [3]" ·往届仅参考〕〔LG5V L362 "all other claims for interest … must be pleaded in the body of the pleading and not only in the prayer"；LG4V L338 "claim for interest under section 48 of the High Court Ordinance / section 49 of the District Court Ordinance"〕〔LG5V L360 "some practitioners prefer to set it out only in the prayer. Both are acceptable"；LG5V L360 "Prague Enterprises Ltd v Chan Miu Cheung [1994] 3 HKC 175, CA"〕</small> |
-| **2023 Jul Q4(a)–(c)**<br>（往届卷宗，仅参考） | Small Island Ltd 诉 Bespoke Plaque Ltd：500 块 Magna Carta 纪念牌面片脱落；2022-06-10（周五）于**区域法院**发出并送达一般背书令状，被告 2022-06-16 提交 AOS 并拟抗辩，另反索加急运费 HK$100,000。 <small style="opacity: 0.55">〔📄OLD-23L p.4 "Small Island commenced a claim at the District Court against Bespoke on 10 June 2022 (Friday)" ·往届仅参考；📄OLD-23L p.4 "Bespoke filed and served its Acknowledgement of Service on 16 June 2022 (Thursday)" ·往届仅参考；📄OLD-23L p.4 "the face plate of all of the 500 plaques came off from the wooden shields" ·往届仅参考；📄OLD-23L p.5 "an extra HK$100,000.00 in delivery charges, payable on delivery of the plaques" ·往届仅参考；📄OLD-23L p.4 "Question 4 (30 marks)" ·往届仅参考〕</small> | 区院诉答时限表（O.18 r.1／r.2(1)／r.3(4)）；O.29 r.2 保存待检验；O.22 逾期接受 sanctioned payment 之讼费 | 1. Q4(a)：S/C 须于 A/S 提交后 14 天内（**2022-06-30**）；D&CC 取「送达 S/C 后 28 天」与「AOS 期限届满后 28 天」之**较后者**（07-28 与 07-21 → **2022-07-28**）；Plaintiff 之 Defence to Counterclaim 于送达 D&CC 后 28 天（**2022-08-25**），均须非假日；<br>2. **区院无暑期休庭**，8 月不停钟；<br>3. Q4(b)：依 **O.29 r.2** 申请保存涉案纪念牌以待 Inspection／examination，并就交付时之品质申请呈交专家证据；<br>4. Q4(c)：**O.22 r.15(3)** 之考量与 rr.23(2)-(6) 相若（*Or Siu Lung v Fu Hong Home*）→ 分段时间之讼费判令与利息。 <small style="opacity: 0.55">〔📄OLD-23L p.5 "When will Small Island and Bespoke have to file their respective pleadings" ·往届仅参考；📄OLD-23LM p.2 "Small Island would have to file the Statement of Claim before the expiration of 14 days after … the filing of A/S: O.18 r.1" ·往届仅参考；📄OLD-23LM p.2 "So the deadline to file S/C is 30 June 2022 (Thursday), provided that it is not a public holiday" ·往届仅参考〕〔📄OLD-23LM p.2 "within 28 days of being served the S/C or (ii) within 28 days after the last day for filing of the A/S: O.18 r.2(1)" ·往届仅参考；📄OLD-23LM p.2 "So the deadline to file D&CC is the later of (i) 28 July 2022, or (ii) 21 July 2022" ·往届仅参考；LG4V L690 "D to serve defence (and counterclaim) within 28 days"；LG4V L691 "28 days after service of the defence (and counterclaim)"〕〔📄OLD-23LM p.2 "Small Island would have to file a Defence to Counterclaim within 28 days of being served … with the D&CC: O.18 r.3(4)" ·往届仅参考；📄OLD-23LM p.2 "So the deadline to file the Defence to Counterclaim is 25 August 2022 (Thursday)" ·往届仅参考；LG4V L692 "P to serve reply and/or defence to counterclaim within 28 days"〕〔LG3V L229 "there is NO SUMMER VACATION in the District Court"；LG3V L225 "for serving, filing or amending pleadings, the counting of days excludes the Court’s summer vacation … 1-31 August"〕〔📄OLD-23LM p.2 "Apply for preservation of the plaques under O.29 r.2 pending inspection and examination" ·往届仅参考〕〔📄OLD-23LM p.2 "The court’s consideration under O.22 r.15(3) should be similar to O.22 rr.23(2)-(6): Or Siu Lung" ·往届仅参考；📄OLD-23LM p.2 "Costs to Small Island up to 18 May 2023 [3] … Costs to Bespoke on indemnity basis from 19 May 2023 to 5 June" ·往届仅参考〕</small> |
+| **2023 Jul Q4(a)–(c)**<br>（往届卷宗，仅参考） | Small Island Ltd 诉 Bespoke Plaque Ltd：500 块 Magna Carta 纪念牌面片脱落；2022-06-10（周五）于**区域法院**发出并送达一般背书令状，被告 2022-06-16 存档 AOS 并拟抗辩，另反索加急运费 HK$100,000。 <small style="opacity: 0.55">〔📄OLD-23L p.4 "Small Island commenced a claim at the District Court against Bespoke on 10 June 2022 (Friday)" ·往届仅参考；📄OLD-23L p.4 "Bespoke filed and served its Acknowledgement of Service on 16 June 2022 (Thursday)" ·往届仅参考；📄OLD-23L p.4 "the face plate of all of the 500 plaques came off from the wooden shields" ·往届仅参考；📄OLD-23L p.5 "an extra HK$100,000.00 in delivery charges, payable on delivery of the plaques" ·往届仅参考；📄OLD-23L p.4 "Question 4 (30 marks)" ·往届仅参考〕</small> | 区院诉答时限表（O.18 r.1／r.2(1)／r.3(4)）；O.29 r.2 保存待检验；O.22 逾期接受 sanctioned payment 之讼费 | 1. Q4(a)：S/C 须于 A/S 存档后 14 天内（**2022-06-30**）；D&CC 取「送达 S/C 后 28 天」与「AOS 期限届满后 28 天」之**较后者**（07-28 与 07-21 → **2022-07-28**）；Plaintiff 之 Defence to Counterclaim 于送达 D&CC 后 28 天（**2022-08-25**），均须非假日；<br>2. **区院无暑期休庭**，8 月不停钟；<br>3. Q4(b)：依 **O.29 r.2** 申请保存涉案纪念牌以待 Inspection／examination，并就交付时之品质申请呈交专家证据；<br>4. Q4(c)：**O.22 r.15(3)** 之考量与 rr.23(2)-(6) 相若（*Or Siu Lung v Fu Hong Home*）→ 分段时间之讼费判令与利息。 <small style="opacity: 0.55">〔📄OLD-23L p.5 "When will Small Island and Bespoke have to file their respective pleadings" ·往届仅参考；📄OLD-23LM p.2 "Small Island would have to file the Statement of Claim before the expiration of 14 days after … the filing of A/S: O.18 r.1" ·往届仅参考；📄OLD-23LM p.2 "So the deadline to file S/C is 30 June 2022 (Thursday), provided that it is not a public holiday" ·往届仅参考〕〔📄OLD-23LM p.2 "within 28 days of being served the S/C or (ii) within 28 days after the last day for filing of the A/S: O.18 r.2(1)" ·往届仅参考；📄OLD-23LM p.2 "So the deadline to file D&CC is the later of (i) 28 July 2022, or (ii) 21 July 2022" ·往届仅参考；LG4V L690 "D to serve defence (and counterclaim) within 28 days"；LG4V L691 "28 days after service of the defence (and counterclaim)"〕〔📄OLD-23LM p.2 "Small Island would have to file a Defence to Counterclaim within 28 days of being served … with the D&CC: O.18 r.3(4)" ·往届仅参考；📄OLD-23LM p.2 "So the deadline to file the Defence to Counterclaim is 25 August 2022 (Thursday)" ·往届仅参考；LG4V L692 "P to serve reply and/or defence to counterclaim within 28 days"〕〔LG3V L229 "there is NO SUMMER VACATION in the District Court"；LG3V L225 "for serving, filing or amending pleadings, the counting of days excludes the Court’s summer vacation … 1-31 August"〕〔📄OLD-23LM p.2 "Apply for preservation of the plaques under O.29 r.2 pending inspection and examination" ·往届仅参考〕〔📄OLD-23LM p.2 "The court’s consideration under O.22 r.15(3) should be similar to O.22 rr.23(2)-(6): Or Siu Lung" ·往届仅参考；📄OLD-23LM p.2 "Costs to Small Island up to 18 May 2023 [3] … Costs to Bespoke on indemnity basis from 19 May 2023 to 5 June" ·往届仅参考〕</small> |
 
 > **脚注（2023 Jul 题号订正，附录 G 第 12 项）**：原表把「Small Island 货物买卖＋利息起草／合同利息计入 CFI 门槛」挂在 **Q2 与 Q4** 名下。据往届（2023 JUL）入库之试卷与 mark sheet 原文：**利息计入管辖额是 Q3(a)（Mandy v Trisha）**；**Q4（Small Island）考的是区院诉答时限、O.29 r.2 保全与 O.22 讼费**，与利息起草无关；**Q2**（Wong 诉 In-Vogue 漏水案）考 CMC 后租金证据之取得方式（单一联合专家或双方协议租金）与证人陈述书延期（非里程碑日期），亦与本卡诉答主题无关，故自本表移出，仅在此留痕。 <small style="opacity: 0.55">〔📄OLD-23L p.3 "Question 3 (15 marks)" ·往届仅参考；📄OLD-23L p.3 "At which court should Mandy sue Trisha? Please explain your answer." ·往届仅参考〕〔📄OLD-23L p.4 "Question 4 (30 marks)" ·往届仅参考；📄OLD-23LM p.2 "Apply for preservation of the plaques under O.29 r.2 pending inspection and examination" ·往届仅参考〕〔📄OLD-23L p.3 "What is/are the possible way(s) the parties may adduce evidence on the … monthly rental of the house during the 3-month delay" ·往届仅参考〕</small>
 
@@ -1350,6 +1381,8 @@ O16不创造indemnity。Walter向Clement付300,000、向Ann收800,000、假瓶�
 <!-- === AUDIT_ZONE_START (DO NOT SEND BELOW THIS LINE TO GPT) === -->
 > [!abstract]- 审计留痕：材料矩阵、待核事项与历史修订记录
 > 
+> **2026-11-15 修订（可读性重构：接通逻辑断头路＋还原制度真实功能＋清除伪黑话）。** ①17 个主节＋小节新增三问式导语（0D SOC 进攻文书、0E Defence 沉默即推定自认、0F set-off=盾／counterclaim=矛／TPN=sideways、7.4 F&BP 与 discovery 切割、7.5 修改 vs 剔除共同时间敌人等），原导语合并保留；②清除「起草工程学/七步工程化/母题结构图」表述；③file 类动词统一 25 处（提交 AOS→存档 AOS、提交 Reply→送达 Reply 等）、「取判→取得判决」；④改后自锚断链 0，SG04／SG05 及 output 旧→新对照表共 5 条入站锚已集中同步；⑤引注守恒 518→531，旧引注逐条比对 0 缺失。改名 3 条：`3.2 申索陈述书（SOC）起草工程学（…） → 3.2 申索陈述书（SOC）逐项起草要求与范例（…）`；`2. SOC 七步工程化结构与起草规范 → 2. SOC 起草的七个步骤与规范`；`0H. 申请与操作工程：文书、送达和期限 → 0H. 实务操作清单：文书、送达与时限倒排`。门禁：cite_check error 0／warn 63（与基线持平）；check_one non-ok 0（与基线持平）。备份：`_workspace/backup-2026-11-15-co-readable-batch/`。
+>
 > **本轮修订**：按现行节号统一正文及跳转标签，归并高阶模型表，补全程序行动句，并将原引注移至段末、列表项末或相应单元格末。
 > 
 > 本轮统一操作、攻防、后果与实务应用的章节编号，并保留原有资料与历史核对记录。

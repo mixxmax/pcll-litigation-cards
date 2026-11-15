@@ -6,7 +6,7 @@ type: derived
 created: "2026-09-27 前（既有卡；该日前序会话已在修订，具体创建日不可考）"
 material_snapshot: "2026-10-23"
 enrichment_snapshot: "2026-10-23"
-enriched: "2026-10-23"
+enriched: "2026-11-15"
 status: "2026-10-10 按主规范 §18 整卡重构：新增速读定位层、本卡地图、§2.3 后果链总表并富化本 frontmatter；既有 §0–§7、修订记录、字幕校核、open 块全部保留"
 preservation: "整卡重构零删减；编辑前备份于 _workspace/backup-2026-10-10-8010-institutions/ 同相对路径"
 涵盖LG:
@@ -30,10 +30,7 @@ LG课表安排:
 本轮更新: "2026-10-23：已入库材料回流；Moodle新增按用户选择后续接入"
 SG06本届关联: "Q1–Q4具体关联见本卡末2026-10-28应用节"
 ---
-
-
-
-# 08 专题卡片 — 非正审传票起草、非正审申请与命令、讼费担保全景实务精要（Drafting Summonses, Interlocutory Applications, Orders & Security for Costs）
+# 非正审传票、中间申请、命令与讼费担保（Drafting Summonses, Interlocutory Applications, Orders & Security for Costs）
 
 ## 速读定位层
 
@@ -42,7 +39,7 @@ SG06本届关联: "Q1–Q4具体关联见本卡末2026-10-28应用节"
 ### 适用范围
 
 **覆盖（按程序时序）**——自中间程序需求发生到命令盖印、再到讼费担保攻防与上诉阶段延伸的完整链：
-1. **传票起草与定性（O.32 r.1–r.3）**：非正审申请的法定介质——标准抬头、左栏 margin note 叙文（载明依据，缺失者登记处可拒绝受理或盖印）、relief 命令项须达"法官可原样签成令"的精度；传票入禀后非经法庭许可不得修改或撤回（O.32 r.2(2)）；。 <small style="opacity: 0.55">〔LG7V L104 "provide in the left column the “margin note” that indicates on what legislation"；LG7V L106 "the Court via the Registrar may reject the filing and/or sealing of the summons"；LG7V L112 "a summons may not be amended after issue without leave of the Court as per O.32, r.2"〕</small>
+1. **传票起草与定性（O.32 r.1–r.3）**：非正审申请的法定介质——标准抬头、左栏 margin note 叙文（载明依据，缺失者登记处可拒绝受理或盖印）、relief 命令项须达"法官可原样签成令"的精度；传票经登记处存档盖印发出（issue）后，非经法庭许可不得修改或撤回（O.32 r.2(2)）。 <small style="opacity: 0.55">〔LG7V L104 "provide in the left column the “margin note” that indicates on what legislation"；LG7V L106 "the Court via the Registrar may reject the filing and/or sealing of the summons"；LG7V L112 "a summons may not be amended after issue without leave of the Court as per O.32, r.2"〕</small>
 2. **送达时限（O.32 r.3＋O.3 r.2＋O.65 r.7）**：一般传票须于聆讯前至少 **2 clear days** 送达每一其他方；仅申请延长／缩短期限的时间传票可在聆讯前一日送达；O.14 简易判决传票须 **10 clear days**；下午 4 点后（或指定日）送达视为下一非指定日送达；。 <small style="opacity: 0.55">〔LG7V L114 "A summons must be filed not less than 2 clear days ahead of the date specified for the hearing"；LG7V L78 "may be served on the day before the day specified in the summons for the hearing"；LG3V L523 "will be deemed served the next day that is not a specified day"〕</small>
 3. **管辖分流与聆讯（PD 14.2 Part A＋O.32 r.5）**：除另有规定外一切非正审申请以传票向**聆案官**提出（禁制令保留予法官：O.32 r.11(1)(d)／O.29 Pt I）；聆案官内庭传票通常只列 3 分钟 call over（Law Society Circular 03-141）；一方缺席时法庭可在其缺席下审理，但以**已送达**传票为前提、不得免除送达（*Westminster*）；。 <small style="opacity: 0.55">〔LG7V L841 "all interlocutory applications should be made by summons to a Master"；LG7V L110 "Inter partes summonses to a Master in chambers are usually listed for 3 minutes only"；LG7V L118 "the Court may only do so where a party fails to attend the hearing after being served with the summons"；LG13V L78 "The power to grant an injunction resides with a judge as per O 32 r 11(1)(d) and excludes the Registrar and masters"〕</small>
 4. **命令文书流（O.42＋PD 16.1）**：carriage 归**发起申请的一方**（7 日内未起草→其他受影响方可起草，r.5(5)）；律师亲自签署、宣判后 7 日内提交批核；须起草的命令通常盖印后才送达正式文本／使用（r.5(6)）；**同意命令**（r.5A：By Consent＋各方律师背书、无须到庭）与**同意传票**（r.5A 以外事项、仍须排 inter partes 聆讯）之分，及 Tomlin Order；Penal Notice 背书在**命令**上而非传票上；。 <small style="opacity: 0.55">〔LG7V L250 "must be drawn up by the party initiating the application upon which the order was made"；LG7V L935 "not later than 7 days after the pronouncement of the order"；LG7V L260 "Only after sealing is the order effective and fit to be served / used"；LG7V L130 "where all the parties to a cause or matter are agreed upon the terms"〕</small>
@@ -58,8 +55,8 @@ SG06本届关联: "Q1–Q4具体关联见本卡末2026-10-28应用节"
 | --- | --- |
 | 非正审传票（Summons） | 当事人提出中间申请的法定传票：在诉讼进行过程中，当事人向法庭正式提出程序性诉求的法定文书；须载明标准抬头、左栏标注、逐项命令条款及聆讯引导语，经登记处盖印排期后送达对方当事人。  [§0C](#0C.%20Summons%20%E8%B5%B7%E8%8D%89%E3%80%81%E8%AF%81%E6%8D%AE%E4%B8%8E%202%20clear%20days)。 <small style="opacity: 0.55">〔LG7V L102 "any application made to the Court will normally will be by inter partes summons supported by an affidavit / affirmation"〕</small> |
 | 内庭聆讯（hearing in Chambers） | 法官或聆案官审理程序性申请的审理方式：依据 RHC O.32 r.1，法官或聆案官在内庭处理中间传票申请（不当然排除公众旁听，须与闭门审讯 in camera 区分）；聆案官内庭的常规双方传票首次通常仅排 3 分钟提讯（call over），若无法当庭解决则押后另定正式聆讯期日并下达誓章证据交换方向。  [§0B](#0B.%20%E4%B8%AD%E9%97%B4%E7%94%B3%E8%AF%B7%E3%80%81%E5%91%BD%E4%BB%A4%E4%B8%8E%20security%20for%20costs%20%E6%80%BB%E6%A1%86%E6%9E%B6)。 <small style="opacity: 0.55">〔LG7V L110 "Inter partes summonses to a Master in chambers are usually listed for 3 minutes only"〕</small> |
-| 净日（clear days） | 法定送达与通知期限的严密计算规则：计算期限时行为发生日与指定到期日均不计入、期间必须完整间隔的法定天数；如要求 2 clear days，则送达日、聆讯日及周日公假均须扣除。  [§0H](#0H.%20%E7%94%B3%E8%AF%B7%E4%B8%8E%E6%93%8D%E4%BD%9C%E5%B7%A5%E7%A8%8B%EF%BC%9A%E6%96%87%E4%B9%A6%E3%80%81%E9%80%81%E8%BE%BE%E5%92%8C%E6%9C%9F%E9%99%90)。 <small style="opacity: 0.55">〔LG3S L76 "at least that number of days must intervene between the day on which the act is done and that date"〕</small> |
-| 指定日（specified day） | 期间为 7 日或以下时须扣除的周六、一般假期（含周日与公众假期）、八号风球日、黑雨日及法院休署日。  [§0H](#0H.%20%E7%94%B3%E8%AF%B7%E4%B8%8E%E6%93%8D%E4%BD%9C%E5%B7%A5%E7%A8%8B%EF%BC%9A%E6%96%87%E4%B9%A6%E3%80%81%E9%80%81%E8%BE%BE%E5%92%8C%E6%9C%9F%E9%99%90)。 <small style="opacity: 0.55">〔LG3S L98-L101 "Saturday … General holiday (including Sunday and public holidays) … Black rainstorm warning day"〕</small> |
+| 净日（clear days） | 法定送达与通知期限的严密计算规则：计算期限时行为发生日与指定到期日均不计入、期间必须完整间隔的法定天数；如要求 2 clear days，则送达日、聆讯日及周日公假均须扣除。  [§0H](#0H.%20%E5%AE%9E%E5%8A%A1%E6%93%8D%E4%BD%9C%E6%B8%85%E5%8D%95%EF%BC%9A%E6%96%87%E4%B9%A6%E3%80%81%E9%80%81%E8%BE%BE%E4%B8%8E%E6%97%B6%E9%99%90%E5%80%92%E6%8E%92)。 <small style="opacity: 0.55">〔LG3S L76 "at least that number of days must intervene between the day on which the act is done and that date"〕</small> |
+| 指定日（specified day） | 期间为 7 日或以下时须扣除的周六、一般假期（含周日与公众假期）、八号风球日、黑雨日及法院休署日。  [§0H](#0H.%20%E5%AE%9E%E5%8A%A1%E6%93%8D%E4%BD%9C%E6%B8%85%E5%8D%95%EF%BC%9A%E6%96%87%E4%B9%A6%E3%80%81%E9%80%81%E8%BE%BE%E4%B8%8E%E6%97%B6%E9%99%90%E5%80%92%E6%8E%92)。 <small style="opacity: 0.55">〔LG3S L98-L101 "Saturday … General holiday (including Sunday and public holidays) … Black rainstorm warning day"〕</small> |
 | 左栏叙文（margin note） | 传票左栏的法定授权条文标注：在传票左栏必须明确载明申请人据以提出该项申请的具体条例及法例规则依据；若遗漏标注或法条援引错误，法院登记处有权直接拒绝受理或拒绝盖印。  [§0C](#0C.%20Summons%20%E8%B5%B7%E8%8D%89%E3%80%81%E8%AF%81%E6%8D%AE%E4%B8%8E%202%20clear%20days)。 <small style="opacity: 0.55">〔LG7V L104 "provide in the left column the “margin note” that indicates on what legislation"；LG7V L106 "the Court via the Registrar may reject the filing and/or sealing of the summons"〕</small> |
 | 同意命令（Consent Order，O.42 r.5A） | 双方合意达成的法定判决或命令：属于 RHC O.42 r.5A(2) 所列范围且各方当事人已达成合意的命令；注明“By Consent”并由各方代理律师签署背书后即可向登记处提交盖印，无需当事人出庭聆讯，其效力完全等同于由法官或聆案官当庭作出的正式命令。  [§0D](#0D.%20Consent%20Order%20%E4%B8%8E%20Tomlin%20Order)。 <small style="opacity: 0.55">〔LG7V L130 "where all the parties to a cause or matter are agreed upon the terms"；LG7V L168 "it must be indorsed by solicitors acting for each of the parties"；LG7V L180 "A consent order has the same effect as if made by a Judge or Master"〕</small> |
 | 同意传票（Consent Summons） | 超出简易合意范围的传票申请：当双方达成的和解或程序条款超出 RHC O.42 r.5A 的法官免到庭签字范围时，当事人须以传票形式向排期聆案官（Practice Master）提出；通常由法院直接书面批核并撤销原定开庭期日。  [§0D](#0D.%20Consent%20Order%20%E4%B8%8E%20Tomlin%20Order)。 <small style="opacity: 0.55">〔LG7V L188 "A consent summons is used where the terms of settlement fall outside O 42 r 5A"；LG7V L194 "a consent summons should be made to the Practice Master with the appropriate reference"〕</small> |
@@ -119,7 +116,7 @@ flowchart TD
 | Court Order 起草、审批与盖印 | [§0E](#0E.%20Court%20Order%20%E8%B5%B7%E8%8D%89%E3%80%81%E5%AE%A1%E6%89%B9%E4%B8%8E%E7%9B%96%E5%8D%B0) |
 | Security for Costs 申请与裁量 | [§0F](#0F.%20Security%20for%20Costs%20%E7%94%B3%E8%AF%B7%E4%B8%8E%E8%A3%81%E9%87%8F) |
 | 攻防、案例边界与实务暗礁 | [§0G](#0G.%20%E6%94%BB%E9%98%B2%E3%80%81%E6%A1%88%E4%BE%8B%E8%BE%B9%E7%95%8C%E4%B8%8E%E5%AE%9E%E5%8A%A1%E6%9A%97%E7%A4%81) |
-| 文书与期限倒排 | [§0H](#0H.%20%E7%94%B3%E8%AF%B7%E4%B8%8E%E6%93%8D%E4%BD%9C%E5%B7%A5%E7%A8%8B%EF%BC%9A%E6%96%87%E4%B9%A6%E3%80%81%E9%80%81%E8%BE%BE%E5%92%8C%E6%9C%9F%E9%99%90) |
+| 文书与期限倒排 | [§0H](#0H.%20%E5%AE%9E%E5%8A%A1%E6%93%8D%E4%BD%9C%E6%B8%85%E5%8D%95%EF%BC%9A%E6%96%87%E4%B9%A6%E3%80%81%E9%80%81%E8%BE%BE%E4%B8%8E%E6%97%B6%E9%99%90%E5%80%92%E6%8E%92) |
 | 提交前核对 | [§0I](#0I.%20%E6%94%BB%E9%98%B2%E4%B8%8E%E6%89%A7%E8%A1%8C%E5%89%8D%E6%A0%B8%E5%AF%B9) |
 | 失误、制裁与补救 | [§0J](#0J.%20%E7%A8%8B%E5%BA%8F%E5%A4%B1%E8%AF%AF%E5%8F%8A%E5%85%B6%E5%90%8E%E6%9E%9C) |
 | SG 实务应用 | [§0K](#0K.%20SG%20%E5%AE%9E%E5%8A%A1%E5%BA%94%E7%94%A8%E4%B8%8E%E5%AF%BC%E5%B8%88%E5%8F%A3%E5%BE%84) |
@@ -179,7 +176,11 @@ flowchart TD
 
 ## 0B. 中间申请、命令与 security for costs 总框架
 
-### 流程图一：非正审传票起草、送达、聆讯与命令盖印全景流（Summonses & Orders Lifecycle）
+**此时案件处在什么状态？** 诉讼已经开案进行（令状已送达、诉答在推进），中途冒出需要法院处理的程序性请求：文书来不及交要延期、诉答含混要批注、起诉无理要剔除、文件要透露、被告要向境外或空壳原告索讼费担保。**传票制度在干嘛？** 传票（summons）就是当事人提出这类中间申请的法定介质——写明请求、依据与聆讯安排，经登记处盖印后送达对方，再由聆案官或法官在内庭裁决；聆案官内庭的双方传票首次通常只排 3 分钟 call over，3 分钟内处理不了才押后为正式聆讯并定证据方向。**和谁区分？** 它不是开案文书——开案走令状 writ／原诉传票 originating summons 等 originating process（由送达与诉答各卡承担）；双方合意时不走对席聆讯，按 §0D 分流到 consent order／consent summons／Tomlin order。 <small style="opacity: 0.55">〔LG7V L102 "any application made to the Court will normally will be by inter partes summons supported by an affidavit / affirmation"；LG7V L110 "Inter partes summonses to a Master in chambers are usually listed for 3 minutes only"〕</small>
+
+### 流程图一：非正审传票起草、送达、聆讯与命令盖印全流程（Summonses & Orders Lifecycle）
+
+下图把一张传票从起草、存档盖印、送达、聆讯到命令盖印的全过程串成一条线；每个环节“不做会怎样”，回 §2.3 后果链总表按行号查。
 
 ```mermaid
 flowchart TD
@@ -196,8 +197,8 @@ flowchart TD
         Affidavit["证据准备：宣誓誓章 (Affidavit/Affirmation)<br>由事务律师/当事人作出，陈述事实与附连物料 (O.38 / O.41)"]:::action
     end
 
-    subgraph Step2 ["【第二阶段：入禀盖印与严苛送达时限】"]
-        Issue["向登记处入禀并获排期盖印 (Sealing of Summons)<br>[O.32 r.2]"]:::init
+    subgraph Step2 ["【第二阶段：存档盖印与严苛送达时限】"]
+        Issue["向登记处存档并获排期盖印 (Sealing of Summons)<br>[O.32 r.2]"]:::init
         ServiceCheck{"送达给对方之时间？(O.32 r.3)"}:::check
         ClearDays["【硬性规则：至少提前 2 Clear Days】<br>普通传票：除首尾两天外必须整整间隔 2 个工作日！<br>下午 4 点后送达视为次一日送达 (O.65 r.7)<br>(例外：仅申请延长/缩短期限的传票可在聆讯前一日送达 O.32 r.3；<br>O.14 简易判决须提前整整 10 Clear Days)"]:::clock
         ShortService["⚠️ 送达不合规 (Short Service)<br>构成程序瑕疵；除非对方自愿放弃或法庭批准缩短时限，否则不得强行推进"]:::warn
@@ -242,6 +243,8 @@ flowchart TD
 ### 流程图二：讼费担保（Security for Costs）双轨分流与审查裁量决策树
 
 > 2026-09-27 更正（2026-09-29 复核并补出处）：原图"个人走 O.23、公司走 s.905"的双轨划分有误。O.23 r.1(1)(a) 对个人与公司原告均适用，s.905 仅就公司原告另设一条依据，两者可并列援引。标题保留原文以免断链。 <small style="opacity: 0.55">〔LG7V L1115 "the plaintiff is ordinarily resident out of the jurisdiction"；LG7V L1121 "Whether a plaintiff (company) is"；LG7B2 L70 "An overseas companies which is not ordinarily resident in Hong Kong is covered"〕〔LG7V L1096 "This Order is without prejudice to the provisions of any written law"〕</small>
+
+**这张图在干嘛？** 从“被告预判赢了也追不回讼费”出发，先过事由门槛（O.23 四门与 s.905 可并列援引），再进“having regard to all the circumstances”的综合裁量，最后落到判令后的金额、期限、中止与违令处理——每个分支的依据都挂在图后正文与 §3.4 各步。 <small style="opacity: 0.55">〔LG7V L1115 "the plaintiff is ordinarily resident out of the jurisdiction"；LG7V L1096 "This Order is without prejudice to the provisions of any written law"〕</small>
 
 ```mermaid
 flowchart TD
@@ -322,9 +325,11 @@ flowchart TD
 
 ### 2. 构成要件与核心控制闸门（Control Gates & Elements）
 
+**此时案件处在什么状态？** 传票写完、证据备好，接下来要连过四道闸门才算合规：送达时限、聆讯权限、同意程序核验、担保法定门槛——每一道都是登记处或对方律师可以拦下你的检查点。**这一节在干嘛？** 逐闸门列触发条件、拦截机制与避坑规则；“不做／做错”的后果统一回 §2.3 总表对应行。
+
 ### 2.1 四大控制闸门（Control Gates）
 
-| 闸门 | 触发条件与依据 | 物理拦截机制 | 避坑/硬性规则 |
+| 闸门 | 触发条件与依据 | 拦截机制（谁会拦下你） | 避坑/硬性规则 |
 | --- | --- | --- | --- |
 | **闸门 1：传票送达与 2 Clear Days 阀** | O.32 r.3。 <small style="opacity: 0.55">〔LG7V L78 "A summons asking only for the extension or abridgement of any period of time"；LG7V L114 "A summons must be filed not less than 2 clear days ahead of the date specified for the hearing"〕</small> | Registry 审查送达证书与开庭排期。传票送达必须在聆讯日前**至少整整 2 Clear Days** 送达其他各方（O.3 r.2(4)）。**例外**：仅申请延长或缩短期限的传票，可在聆讯前一日送达（O.32 r.3；LG7V L114 "save for a time summons seeking an extension or abridgement of time which may be served only a day before"）；O.14 传票须 10 clear days。 <small style="opacity: 0.55">〔LG3S L76 "at least that number of days must intervene between the day on which the act is done and that date"〕〔LG7V L78 "may be served on the day before the day specified in the summons for the hearing"〕〔LG7V L114 "most notably a summons for summary judgment which requires not less than 10 clear days before the return date"〕</small> | ⚠️ **首尾两天均严格排除！** 若周五开庭，最迟必须在周二**下午 4 点前**送达（周三、周四为净日；下午 4 点后送达视为次一日送达，O.65 r.7）；若送达不足（Short Service），除非法庭另有命令（O.32 r.3 "unless the Court otherwise orders"，且法庭对此有裁量——裁量因素见 O.62 r.3(2)，其条文出处在本层只有往届讼费讲义转述），聆讯不能照常进行。 <small style="opacity: 0.55">〔LG3V L521 "If served on a specified day or after 4pm O. 65 r. 7"；LG3V L523 "served on a specified day or after 4 p.m. on a business day will be deemed served the next day"〕〔LG7V L78 "except as aforesaid and unless the Court otherwise orders"〕〔OLD-LG17 L288 "which the Court shall take into account in exercise of its discretion under O 62 r 3(2)"·往届仅参考〕〔❓时间传票之「前一日」若恰逢指定日（周末／假期）如何计算，库内无明文·待核，已登记文末 open 块〕</small> |
 | **闸门 2：聆讯权限与法官分流阀** | PD 14.2 Part A 与 RHC O.32。 <small style="opacity: 0.55">〔LG7V L841 "Unless otherwise required by the Rules of the High Court or any other enactment"；LG7V L102 "requires all interlocutory applications are to be made by summons to a Master save where to be heard by a Judge"〕</small> | 除规则或其他成文法另有规定外，**所有非正审申请一律以传票向聆案官（Master）提出**（PD 14.2 Part A 第 1 段；另有 PD 5.4 适用），登记处据此排期分流。聆案官内庭传票通常仅列 **3 分钟 call over**，未能于 3 分钟内处理或有争议者押后另定聆讯日并附证据方向（Law Society Circular 03-141）。 <small style="opacity: 0.55">〔LG7V L841 "Practice Direction 5.4 shall apply to such summonses"〕〔LG7V L110 "Inter partes summonses to a Master in chambers are usually listed for 3 minutes only"〕〔LG7V L110 "Pursuant to Law Society Circular 03-141, the parties' solicitors should attempt to agree"〕</small> | ⚠️ 禁制令属**法官**权限：颁发禁制令的权力依 **O.32 r.11(1)(d)** 保留予法官，并依 **O.29 Part I** 排除司法常务官与聆案官；LG7 讲义亦指出 Master 无权处理禁制令，故同意传票不向之提出。⚠️ 原稿另列"藐视法庭起诉许可、司法复核属法官专有管辖"：本层材料（LG7／LG13 讲义与幻灯）未见明文，仅保留 O.52 与禁制令之关系。延期、文件透露、批注、诉答剔除及 S4C 讼费担保一律依 PD 14.2 Part A 向聆案官提出。 <small style="opacity: 0.55">〔LG13V L78 "The power to grant an injunction resides with a judge as per O 32 r 11(1)(d) and excludes the Registrar and masters"〕〔LG7V L194 "save where a Master has no such jurisdiction to hear the matter such as those relating to injunctions"〕〔❓藐视法庭起诉许可与司法复核属法官专有管辖，LG7／LG13 材料无明文·待核〕〔LG13V L620 "Breach of an injunction is subject to a contempt of Court as per O 52"〕〔LG7V L841 "all interlocutory applications should be made by summons to a Master"〕</small> |
@@ -337,7 +342,7 @@ flowchart TD
 
 ### 2.2 即席讼费评定与反馈回路（Summary Assessment & Costs Feedback）
 
-在非正审传票聆讯中，司法机构全面贯彻民事司法改革（CJR）精神，杜绝当事人滥用传票拖延诉讼：
+在非正审传票聆讯中，司法机构全面贯彻民事司法改革（CJR）精神，杜绝当事人滥用传票拖延诉讼：**易混点先划清：** 即席评定（summary assessment）是裁决后当庭定价、限期限付；详细评税（taxation）是事后按讼费清单逐项评——两者（加上 provisional summary assessment）是 PD 14.3 下的不同选项，不是同一程序的两个名字（出处全在往届 LG17 讲义，本届未讲，仅供参照）。 <small style="opacity: 0.55">〔OLD-LG17 L576 "various options open to order a (a) summary assessment of costs"·往届仅参考；OLD-LG17 L609 "Payment of the said sum pursuant to an order of the Court would need to be paid within 14 days of the order"·往届仅参考〕</small>
 
 1. **即席讼费评定（Summary Assessment of Costs under O.62 r.9A & PD 14.3）**——此项规则之出处全在**往届** LG17 讼费讲义（本届未讲，仅供参照）： <small style="opacity: 0.55">〔OLD-LG17 L607 "the old rules relating to gross sum assessments will be replaced by a summary assessment of costs"·往届仅参考〕</small>
    * 依 O.62 r.9A（O.62 r.9C 所列情形除外，如须处理实质理由、涉及受助人或无行为能力人等），非正审申请裁决后，法庭可即席评定讼费，命令败诉方支付一笔确定金额以代替评税；PD 14.3 另有 summary assessment／provisional summary assessment／taxation 三种选择，并要求拟申请即席评定一方预备讼费陈述书（以上均为**往届**讲义所述）。 <small style="opacity: 0.55">〔OLD-LG17 L607 "cases where substantive grounds are raised and the matter cannot be dealt with summarily"·往届仅参考；OLD-LG17 L574 "PD 14.3 is for costs only proceedings in the High Court, District Court and Lands Tribunal"·往届仅参考；OLD-LG17 L576 "various options open to order a (a) summary assessment of costs"·往届仅参考〕</small>
@@ -362,6 +367,8 @@ flowchart TD
 
 ## 0C. Summons 起草、证据与 2 clear days
 
+**此时案件处在什么状态？** §0B 定了走传票这条路，现在把传票真正做出来：写成合规格式、备好誓章证据、算对送达日——任何一步出错，轻则登记处拒收或退回，重则开庭当天因送达不足被押后。**本节在干嘛？** 按“起草六要素 → 誓章举证 → 2 clear days 算日”三步走完整张传票的制作与送出。**和谁区分？** 一般非正审传票只需提前 2 clear days 送达；O.14 简易判决传票是例外，须提前整整 10 clear days（讲义 L114）——别把两套时限背混。 <small style="opacity: 0.55">〔LG7V L102 "any application made to the Court will normally will be by inter partes summons supported by an affidavit / affirmation"；LG7V L114 "A summons must be filed not less than 2 clear days ahead of the date specified for the hearing"；LG7V L114 "most notably a summons for summary judgment which requires not less than 10 clear days before the return date"〕</small>
+
 #### 第一步：传票起草标准结构（Six Indispensable Elements）
 起草非正审传票（Summons）必须严格符合法定格式，遗漏任何核心要素均可能导致登记处拒收或开庭受挫： <small style="opacity: 0.55">〔LG7V L176 "it shall have the “standard” heading of the action as seen generally for pleadings"；LG7A1 L58 "Without the correct “margin note”, the Court via the Registrar may reject the filing"〕</small>
 
@@ -385,12 +392,18 @@ flowchart TD
    * 标明受送达各方：`TO: Messrs. [XYZ & Co.], Solicitors for the [Respondent]`
 
 #### 第二步：誓章支持与事实举证（Affidavit Evidence under O.38 / O.41）
+
+传票解决“请求什么、凭什么规则”，誓章解决“事实靠什么成立”：本节三点——何时必须附誓章、传闻内容怎么注明来源、证物怎么钉上去。
+
 1. **原则**：非正审申请除纯法律争议外，涉及事实陈述、财务状况或诉讼理由者，**必须附连支持誓章（Affidavit / Affirmation in Support）**。 <small style="opacity: 0.55">〔LG7V L102 "any application made to the Court will normally will be by inter partes summons supported by an affidavit / affirmation"〕</small>
 2. **传闻证据例外（Hearsay in Interlocutory Affidavits）**：
    * 依 O.41 r.5(2)（⚠️ 库内仅见往届 LG16 讲义 L183、L225 引 "O 41 r 5"：誓章只陈述能凭亲身知悉或所述来源证明的事实、须指明传闻来源；"(2)" 款号及"非正审"限定库内无出处），在非正审申请的誓章中，**允许宣誓人陈述其“基于知悉与确信”（Information and belief）之事实**，但**前提是必须明确注明该信息的消息来源（Sources）与确信理由（Grounds）**！若仅泛泛而谈传闻而不注明来源，法庭可直接剔除该段证据！ <small style="opacity: 0.55">〔OLD-LG16O L183 "Contain only such facts as the deponent is able to prove, either from his own knowledge or from the sources stated"·往届仅参考；OLD-LG16O L225 "clearly identify the source (e.g. person, document) of this ‘hearsay’ information"·往届仅参考〕〔❓O.41 r.5 之「(2)」款号与「非正审」限定，库内只见往届讲义引「O 41 r 5」而无该款号·待核，已登记文末 open 块〕</small>
 3. **附连证物（Exhibits）**：所有支持性函件、审计报告、财务清单必须制作规范的证物证书（Certificate of Exhibit），并在宣誓日前完成宣誓。
 
 #### 第三步：严密计算 2 Clear Days 送达规则（O.32 r.3）
+
+算日是本节最容易失分也最容易翻车的一步：算错一天就是 Short Service，除非法庭另有命令或对方放弃，聆讯不得照常进行（后果细节见 §2.3 总表行 2）。下面把扣除规则合成一个可复算的模型，再做一道实战推演。 <small style="opacity: 0.55">〔LG7V L114 "A summons must be filed not less than 2 clear days ahead of the date specified for the hearing"；LG7V L78 "except as aforesaid and unless the Court otherwise orders"〕</small>
+
 ```
 【2 Clear Days 计算模型】
 送达日 (Service Date) ➔ [净日 1 (Clear Day 1)] ➔ [净日 2 (Clear Day 2)] ➔ 聆讯日 (Hearing Date)
@@ -432,6 +445,8 @@ flowchart TD
 
 #### 0C.4.1 传票和命令的三个必须相合点
 
+**这张表在干嘛？** 传票、誓章、命令三份文书必须互相咬合：margin note 对准正文依据、誓章支撑事实、命令逐字对齐宣读结果——哪一环错位，登记处或法庭都会打回。
+
 | 节点 | 操作 | 不做的实际后果 |
 | --- | --- | --- |
 | Margin note | 写所依Order／rule；与正文具体relief同一制度。 | 规则栏写specificdiscovery、正文却要AP搜查，Registry可能退回或法院要求改。 <small style="opacity: 0.55">〔CAP-C7 L1588 "they have to match the margin note with the body"〕</small> |
@@ -447,7 +462,7 @@ flowchart TD
 
 ## 0D. Consent Order 与 Tomlin Order
 
-当双方就非正审事项（如互相同意延期、自愿披露特定文件、达成和解）达成共识时，无需耗费司法资源实际开庭：
+**此时案件处在什么状态？** 双方已谈拢，正要把共识落成有法律效力的文书。**三种文书在干嘛、怎么分？** 当双方就非正审事项（如互相同意延期、自愿披露特定文件、达成和解）达成共识时，无需耗费司法资源实际开庭，但要用对文书：**Consent order**（O.42 r.5A）是双方同意的判决／命令本身——注明 “By Consent”、各方律师背书即可提交盖印，无须到庭，效力等同法官／聆案官当庭作出的命令；**Consent summons** 用在 r.5A 清单之外的事项（如对方事后同意你已发出的延期／文件透露申请），仍须排 inter partes 聆讯；**Tomlin order** 是双层和解命令——正文只载中止诉讼＋保留申请执行权（liberty to apply），保密的商业条款放在附表，对方违约时凭预留条款回原案直接申请执行，无须重新立案。**一句话分流：** 清单内 → consent order；清单外 → consent summons；分期付款类和解要保密＋保执行 → Tomlin order。 <small style="opacity: 0.55">〔LG7V L180 "A consent order has the same effect as if made by a Judge or Master"；LG7V L188 "A consent summons is used where the terms of settlement fall outside O 42 r 5A"；LG7V L147 "terms which are scheduled to the order but which are not otherwise part of it"〕</small>
 
 #### 1. 同意命令（Consent Order，O.42 r.5A）与同意传票（Consent Summons）之分
 > 2026-09-27 更正：本小标题原为"普通同意传票（Consent Summons under O.42 r.5A）"，把两种程序混为一谈，已改。 
@@ -470,7 +485,7 @@ flowchart TD
 
 ## 0E. Court Order 起草、审批与盖印
 
-依据 **RHC O.42 与 Practice Direction 16.1**，在聆讯结束法庭口头宣读命令后，必须将口头命令固化为正式的密封令状（Sealed Order）： <small style="opacity: 0.55">〔LG7V L256 "The draft order must be drawn up by a solicitor personally and submitted to the Registrar or judge’s clerk for approval"；LG7V L260 "Only after sealing is the order effective and fit to be served / used"〕</small>
+**此时案件处在什么状态？** 聆讯结束、法庭口头宣告了命令（pronouncement）——但口头宣告还不是能送人、能执行的命令；这一步走不完，后面所有“按命令办事”都落空。**本制度在干嘛？** 把胜诉结果落成一份对手无法抵赖的盖印文书。依据 **RHC O.42 与 Practice Direction 16.1**，在聆讯结束法庭口头宣读命令后，必须将口头命令固化为正式的密封令状（Sealed Order）：发起申请的一方起草（carriage）→ 律师亲自签署、宣判后 7 日内呈批 → 登记处盖印 → 盖印后方可送达／使用。 <small style="opacity: 0.55">〔LG7V L256 "The draft order must be drawn up by a solicitor personally and submitted to the Registrar or judge’s clerk for approval"；LG7V L260 "Only after sealing is the order effective and fit to be served / used"〕</small>
 
 ```mermaid
 sequenceDiagram
@@ -513,6 +528,8 @@ sequenceDiagram
 > **Exam / Drafting Formulation:** "The order must state precisely who must do what, by when, and the consequence of non-compliance."
 
 ## 0F. Security for Costs 申请与裁量
+
+**此时案件处在什么状态？** 被告已预判“即使赢了也可能向原告收不回讼费”（原告通常居境外，或原告公司没有资产），准备申请讼费担保（security for costs，S4C）。**本制度在干嘛？** 让法庭命令原告先向法院缴存担保、否则诉讼中止——把“赢了官司赔光律师费”的风险在开审前对冲掉。**两条申请轨道怎么分？** 依据有两条且可并列援引：RHC O.23 r.1(1)(a)–(d)（个人与公司原告均适用）与 Cap. 622 s.905（仅公司原告，须以誓章可信显示无力支付）；先过事由门槛，再进“是否公正”与金额的裁量。**原告一侧的对位武器**（五大抗辩）见 §4.2。 <small style="opacity: 0.55">〔LG7V L1083 "Where, on the application of a defendant to an action or other proceeding"；LG7V L1141 "a company is a plaintiff in an action or other legal proceedings"；LG7V L1153 "supported by an affidavit which credibly and reasonably shows"；LG7V L1072 "the winning party may be unable to recover costs from a losing party"〕</small>
 
 #### 第一步：必须发出前置催告函（Letter Before Summons）
 * **实务做法（一审）**：申请以被告传票加誓章提出；实务上**通常**先致函原告律师，说明依据并要求自愿提供担保（往届 Set 3 笔记 L250–252："Usually a demand by letter before the summons is issued"）。原稿"必须""通常 7 至 14 天"及"不发函即受讼费惩罚"于一审阶段库内无出处，已改。 <small style="opacity: 0.55">〔OLD-SET3L7 L252 "Usually a demand by letter before the summons is issued"·往届仅参考〕</small>
@@ -573,6 +590,9 @@ O.23 r.1 与 s.905 均赋予法庭**完全裁量**（讲义 L1076、L1099），�
 
 
 #### *Sir Lindsay Parkinson v Triplan* [1973] 讼费担保裁量八大原则
+
+> ⚠️ **出处警示（先读再往下看）**：*Sir Lindsay Parkinson* 一名经全库检索无文，以下内容属旧稿遗留、库内无依据（见 §3.5 判例出处对照末行）；仅供了解旧稿曾主张的框架，考试与实务**不得引用**本节。
+
 ① 申索真实性（Bona fides of Plaintiff's claim）：原告申索是否真诚而非虚假滥诉；
 ② 胜诉概率（Prospect of success）：原告是否有极高胜诉几率，若胜诉几率高则倾向于不命令担保；
 ③ 被告自认或有实质还款（Admission or open offer）：被告是否已承认部分款项；
@@ -582,6 +602,8 @@ O.23 r.1 与 s.905 均赋予法庭**完全裁量**（讲义 L1076、L1099），�
 
 
 ### 0F.1 Security for costs：先问事由，再问是否公正及金额
+
+**这张表在干嘛？** 把担保申请的判断顺序压成五行：先过 O.23 四门与 s.905 事由（门槛），再问是否公正（裁量），最后定金额、时限与违令后果。每行右栏标明来源边界，防止把课堂个案数字（如 14 日、700k）当公式背。 <small style="opacity: 0.55">〔R23 L18 "ordinarily resident out of the jurisdiction"；CAP-C7 L3073 "it appears by credible testimony"〕</small>
 
 | 判断 | D需证明及P回应 | 来源边界 |
 | --- | --- | --- |
@@ -622,11 +644,13 @@ O.23 r.1 与 s.905 均赋予法庭**完全裁量**（讲义 L1076、L1099），�
 
 ## 0G. 攻防、案例边界与实务暗礁
 
+**此时案件处在什么状态？** 规则骨架齐了，换到实战视角：客户带着具体目标上门——怕收不回讼费、怕被担保令停摆、要保密和解、开庭在即才发现送达不足——规则要倒过来用。**本节在干嘛？** §4.1 把客户目标映射到程序打法，§4.2 站原告一侧拆五大抗辩，§4.3 列七条暗礁，每条都写清“谁会怎么利用你的失误”。**先记两个高频易错：** 2 clear days 不是普通 48 小时（暗礁 1）；担保申请未先发函并不会“必然”受讼费惩罚——明文后果只在上诉阶段 O.59 r.10(5)（暗礁 2）。 <small style="opacity: 0.55">〔LG7V L114 "A summons must be filed not less than 2 clear days ahead of the date specified for the hearing"；LG7V L1179 "The respondent should first write to the appellant seeking security for costs before applying"〕</small>
+
 ### 4.1 客户诉求与程序打法反向映射表
 
 | 客户当下的真实目标 | 顺向对应制度 | 逆向实务进路与暗礁防范 |
 | --- | --- | --- |
-| **客户（被告）被身处海外或空壳公司起诉，担心打赢官司拿不回百万律师费** | 讼费担保 O.23 / s.905 | **先定性、再入禀，切勿裸发传票**：第一步：全面调查原告在港财产与资信，确定可援引的法定事由（O.23 r.1(1)(a)–(d) 和/或 s.905，见 §3.4 第二步矩阵）；第二步：**实务上通常**先致函原告律师要求自愿提供担保（往届 Set 3 笔记 L252："usually"，非义务）；第三步：在**尽早**（抗辩阶段、远早于 PTR）入禀传票＋誓章，担保金额按"计至排上审讯（setting down）"估算并为评税与可能和解打折（*Dongguan Harris* 第 27 段；*Charter View* 第 11–12 段）。 <small style="opacity: 0.55">〔LG7V L1083 "Where, on the application of a defendant to an action or other proceeding"；LG7V L1096 "This Order is without prejudice to the provisions of any written law"；OLD-SET3L7 L252 "Usually a demand by letter before the summons is issued"·往届仅参考；LG7V L1078 "The time for applying for security for costs should be made as soon as reasonably practicable"；LG7B2 L50 "it would normally be ordered up to the stage of setting-down the action for trial"；LG7V L1167 "it is rare that the full amount being sought by the defendant would be granted without deduction"〕</small> |
+| **客户（被告）被身处海外或空壳公司起诉，担心打赢官司拿不回百万律师费** | 讼费担保 O.23 / s.905 | **先定性、再申请，切勿裸发传票**：第一步：全面调查原告在港财产与资信，确定可援引的法定事由（O.23 r.1(1)(a)–(d) 和/或 s.905，见 §3.4 第二步矩阵）；第二步：**实务上通常**先致函原告律师要求自愿提供担保（往届 Set 3 笔记 L252："usually"，非义务）；第三步：在**尽早**（抗辩阶段、远早于 PTR）存档并送达传票＋誓章，担保金额按"计至排上审讯（setting down）"估算并为评税与可能和解打折（*Dongguan Harris* 第 27 段；*Charter View* 第 11–12 段）。 <small style="opacity: 0.55">〔LG7V L1083 "Where, on the application of a defendant to an action or other proceeding"；LG7V L1096 "This Order is without prejudice to the provisions of any written law"；OLD-SET3L7 L252 "Usually a demand by letter before the summons is issued"·往届仅参考；LG7V L1078 "The time for applying for security for costs should be made as soon as reasonably practicable"；LG7B2 L50 "it would normally be ordered up to the stage of setting-down the action for trial"；LG7V L1167 "it is rare that the full amount being sought by the defendant would be granted without deduction"〕</small> |
 | **客户（原告）突遭被告发传票索要巨额讼费担保，公司资金紧张面临被停摆** | 阻击讼费担保抗辩 | **组织证据链打出"组合拳"**：<br>1. 举证被告行为与原告贫困之间的因果链（讲义 L1169，作为 stifling 论证的一环）；<br>2. 证明香港境内有可执行资产（营运资金／固定资产，*AG v Vianini Lavori*，L1107）或该法域与港有相互执行安排（*Tronic*，L1111）；<br>3. 主张以替代性担保方式提供（bond、股份押记、保证、就货物设押，L1159）；<br>4. 主张 Stifling 时**对自身财务资源坦白**（L1169），并就"能否从自身以外的资源筹款"举证（s.905 因素 (3)，L1171）。⚠️ 原稿"必须证明背后的股东、母公司、亲友、第三方法资方均无法出资"是 *Keary* 式标准，库内**未见**该等主体穷尽举证的要求（见 §4.2 抗辩 1）。 <small style="opacity: 0.55">〔LG7V L1169 "it is for the plaintiff to be candid about his financial resources"；LG7V L1169 "particularly where the plaintiff’s impecuniosity was caused by the defendant’s conduct establishing a causal link"；LG7V L1107 "Security is unlikely to be ordered by the Court if the plaintiff has substantial assets within Hong Kong"；LG7V L1111 "if there is a reciprocal enforcement regime in place between Hong Kong and the related jurisdiction"；LG7V L1159 "occasionally by bond, by charging of shares, guarantee, or even over goods"；LG7V L1171 "whether the plaintiff can raise funds outside its own resources to continue litigation"〕</small> |
 | **客户（原告）起诉后发现需要紧急保护商业秘密，防止离职员工继续篡改数据** | 传票申请单方面/即时非正审禁制令（O.29 r.1） | ⚠️ **Penal Notice 背书在命令上，不在传票上**（见 §3.3 与流程图一第四阶段；O.45 r.7 ⚠️ 库内无出处）。单方面申请的要害是：法庭未听取对方即作命令，故申请人须作出**全面坦白披露（full and frank disclosure）**，包括申请前已作充分查询，否则命令可**不问实体胜败即被撤销**（本届 LG13 讲义／Slide 2-4 L20–21、L32）；并须备妥**损害赔偿之反承诺（cross-undertaking as to damages）**（LG13 讲义 L250–264），法庭可要求以 bond 或付款入庭加以强化（L264）。⚠️ 原稿"取得口头命令后 24 小时内完成盖印送达"库内无出处，属自拟，待核。 <small style="opacity: 0.55">〔LG13V L78 "The power to grant an injunction resides with a judge as per O 32 r 11(1)(d) and excludes the Registrar and masters"；LG13S2 L20 "the applicant must make “full and frank disclosure” of all material facts"；LG13S2 L21 "the duty to make full and frank disclosure requires the plaintiff to make sufficient enquiries"；LG13S2 L32 "an ex parte injunction is subject to the highest good faith and a requirement to make full and frank disclosure"；LG13V L252 "the plaintiff to give an undertaking to pay damages to the defendant for any loss suffered"；LG13V L264 "the Court may require the fortification of the undertaking by giving security"〕</small> |
 | **双方经过数轮拉锯决定和解分期付款，客户（债权人）要求绝对保密且违约即执** | 汤姆林命令（Tomlin Order） | **绝对不要签普通的终止诉讼通知（Notice of Discontinuance）！** 必须起草标准 Tomlin Order：主文载明 Stay of action + Liberty to apply；附表将分期金额及加速到期违约金设为保密附件，一旦对方赖账可直接在原案申请强制执行。⚠️ 注意 **dismissal 与 discontinuance 的实体差别**：以同意命令**驳回**起诉后，即使被告日后违约，原告亦不得就同一诉因再行起诉，仅得就同意命令条款提契约之诉；**撤回／终止**则视条款而定，未必禁止再诉（讲义 L186）。 <small style="opacity: 0.55">〔LG7V L147 "the stay of proceedings upon terms which are scheduled to the order but which are not otherwise part of it"；LG7V L186 "the plaintiff may not sue on the same cause of action even if the defendant defaults"；LG7V L186 "Whereas discontinuation or withdrawing a claim does not prohibit a plaintiff from subsequent action"〕</small> |
@@ -667,10 +691,10 @@ O.23 r.1 与 s.905 均赋予法庭**完全裁量**（讲义 L1076、L1099），�
 
 * [ ] **暗礁 1：把 2 Clear Days 当作普通 48 小时计算**  
   *破局*：严守”除送达日与聆讯日外，中间必须完整间隔 2 日”（O.3 r.2(4)：at least that number of days must intervene）；期间为 7 日或以下时，周六、一般假期（含周日与公众假期）、八号风球日、黑雨日及法院休署日一律扣除（O.3 r.2(5)(6)）；下午 4 点后送达视为次日送达（O.65 r.7），故原稿”周二**下班前**”须收紧为”**下午 4 点前**”。实例推演见本节 §3.1 第三步（周一聆讯 → 上周三下午 4 点前）。 <small style="opacity: 0.55">〔LG3S L76 "at least that number of days must intervene between the day on which the act is done and that date"；LG3S L98-L101 "Saturday … General holiday (including Sunday and public holidays) … Black rainstorm warning day"；LG3V L523 "served on a specified day or after 4 p.m. on a business day will be deemed served the next day"〕</small>
-* [ ] **暗礁 2：讼费担保申请未先发函即入禀，误以为”必然”受讼费惩罚**  
+* [ ] **暗礁 2：讼费担保申请未先发函即径行提交传票，误以为”必然”受讼费惩罚**  
   *破局*：区分两个阶段——**一审**：实务上”通常”先致函要求自愿提供担保（往届 Set 3 笔记 L252：”Usually a demand by letter before the summons is issued”），库内**并无**”未发函即必受不利讼费命令”的规则；原稿”给予 7–14 天””未发函即受罚”均无出处。**上诉阶段**才有明文后果：答辩人应先致函上诉人要求提供担保，再向上诉庭申请，否则**申请的讼费可能不获判给**（O.59 r.10(5)；讲义 L1179）。 <small style="opacity: 0.55">〔OLD-SET3L7 L252 "Usually a demand by letter before the summons is issued"·往届仅参考〕〔LG7V L1179 "The respondent should first write to the appellant seeking security for costs before applying"〕</small>
 * [ ] **暗礁 3：传票主文用词含混，留待法官替律师起草命令**  
-  *破局*：传票申请项必须达到”精准代入即为最终法庭命令”的精密度。严禁写”申请法庭作出适宜命令”，必须逐项载明确切日期、具体文件名称及法定法例编号。⚠️ 另注意**左栏叙文（margin note）**须载明依据，否则登记处可拒绝受理或盖印传票（讲义 L104–106）；传票一经入禀非经法庭许可不得修改（O.32 r.2(2)），亦不得未经许可撤回（讲义 L112）。 <small style="opacity: 0.55">〔LG7V L104 "provide in the left column the “margin note” that indicates on what legislation, sub-legislation, and/or basis the applicant is entitled"；LG7V L106 "the Court via the Registrar may reject the filing and/or sealing of the summons"；LG7V L112 "a summons may not be amended after issue without leave of the Court as per O.32, r.2"；LG7V L112 "A summons may not be withdrawn without leave of the Court"〕</small>
+  *破局*：传票申请项必须达到”精准代入即为最终法庭命令”的精密度。严禁写”申请法庭作出适宜命令”，必须逐项载明确切日期、具体文件名称及法定法例编号。⚠️ 另注意**左栏叙文（margin note）**须载明依据，否则登记处可拒绝受理或盖印传票（讲义 L104–106）；传票一经存档盖印发出（issue）非经法庭许可不得修改（O.32 r.2(2)），亦不得未经许可撤回（讲义 L112）。 <small style="opacity: 0.55">〔LG7V L104 "provide in the left column the “margin note” that indicates on what legislation, sub-legislation, and/or basis the applicant is entitled"；LG7V L106 "the Court via the Registrar may reject the filing and/or sealing of the summons"；LG7V L112 "a summons may not be amended after issue without leave of the Court as per O.32, r.2"；LG7V L112 "A summons may not be withdrawn without leave of the Court"〕</small>
 * [ ] **暗礁 4：把 Penal Notice 当作传票的必备盖印内容，或反之遗漏在命令上的背书**  
   *破局*：Penal Notice 是**命令（order）**上的醒目背书，不是传票（summons）上的（见 §3.3；O.45 r.7 ⚠️ 库内无出处，未外部核实）。原稿”传票遗漏加盖 Penal Notice””盖印本第一页必须”两处表述已按此改正。凡要求当事人作为或不作为、拟于违约时提起藐视法庭程序者，须在命令上作该背书；库内实例为往届 LG18 讲义 L241（O.49B 程序草拟命令背书 penal notice）。 <small style="opacity: 0.55">〔LG13V L734 "If you disobey this Order you may be found guilty of contempt of court and you may be fined or your assets may be seized"〕〔OLD-LG18 L241 "draft order (endorsed with appointment i.e. for date of call-over hearing and penal notice"·往届仅参考〕</small>
 * [ ] **暗礁 5：和解时误用普通终止诉讼（Discontinuance）代替 Tomlin Order**  
@@ -689,9 +713,9 @@ O.23 r.1 与 s.905 均赋予法庭**完全裁量**（讲义 L1076、L1099），�
 
 > **Exam / Drafting Formulation:** "The order should protect recoverable costs without stifling a genuine claim or delaying the action disproportionately."
 
-## 0H. 申请与操作工程：文书、送达和期限
+## 0H. 实务操作清单：文书、送达与时限倒排
 
-先以实际事件确定起算点，再核适用规则和个案命令。法院指定的期限、送达方式与普通规则不同时，按实际命令操作。下图从目标日期倒排；确定日期后，再按下表顺序办理。
+**此时案件处在什么状态？** 前面各节讲完“为什么”，本节是动手清单：申请已定性（§0B）、文书内容已知（§0C–§0F），现在把每一步落到日历上。**别跳步的原因：** 每一步的产出是下一步的输入——文书没对齐就没法算送达，送达没算对聆讯就要押后，宣读没记准就起草不出可执行的命令。先以实际事件确定起算点，再核适用规则和个案命令。法院指定的期限、送达方式与普通规则不同时，按实际命令操作。下图从目标日期倒排；确定日期后，再按下表顺序办理。
 
 ```mermaid
 flowchart TD
@@ -719,6 +743,8 @@ flowchart TD
 
 ## 0I. 攻防与执行前核对
 
+**此时案件处在什么状态？** 文书备好、期限排定，进入交件前的最后一道核对。**本节在干嘛？** 分三个视角列核对单：申请人核对请求是否逐项可执行；答辩人核对可挑战的点（时限、证据来源、权限、金额）；双方在签署、送达或执行前核对命令与宣读内容一致。
+
 ### 0I.1 申请人或原告的准备与核对
 
 申请人先把请求逐项写成可执行条款；担保申请附法定事由、费用估算和对方立场。
@@ -734,13 +760,15 @@ flowchart TD
 
 ## 0J. 程序失误及其后果
 
+**本节在干嘛？** 把散在各环节的“不做／做错会怎样”收进一张总表：答题或自查时先背表下“点题三条”，再按“使用口径”的行号回对应章节展开。
+
 ### 2.3 不做或做错的后果链总表（环节·后果·依据 索引）
 
 > 2026-10-10 按主规范 §18.6 新增：把全卡各环节"不做／做错会怎样"集中在一张总表，正文各环节以行号回点（§2.1→行 1、2、6、9–12；§3.1→行 1–3；§3.2→行 6–7；§3.3→行 4–5、8；§3.4→行 9–11；§4.2→行 9、11；§5.2→行 10）。【自动后果】＝无需对方动作即发生；【制裁暴露】＝对方或法院可启动的不利命令／费用后果；【举证负担】＝想止血者要证明什么；【救济门槛】＝按哪条规则求宽。库内无明文者如实标"库内无明文"并进文末 open 块（本轮新增 O-1、O-2 两项），不臆造。
 
 | # | 失误 | 后果及下一步 |
 | --- | --- | --- |
-| 1 | 传票起草载明 margin note 与六要素：左栏叙文缺失、依据不准或命令项含混 | 【制裁暴露】登记处可拒绝受理或盖印该传票；命令项含混则聆讯受阻。【救济门槛】传票一经入禀，非经法庭许可不得修改、不得撤回（O.32 r.2(2)），只能申请许可修正后重新送达并重算送达期限。 <small style="opacity: 0.55">〔LG7V L104 "provide in the left column the “margin note” that indicates on what legislation"；LG7V L106 "the Court via the Registrar may reject the filing and/or sealing of the summons"；LG7V L112 "a summons may not be amended after issue without leave of the Court as per O.32, r.2"〕</small> |
+| 1 | 传票起草载明 margin note 与六要素：左栏叙文缺失、依据不准或命令项含混 | 【制裁暴露】登记处可拒绝受理或盖印该传票；命令项含混则聆讯受阻。【救济门槛】传票一经存档盖印发出（issue），非经法庭许可不得修改、不得撤回（O.32 r.2(2)），只能申请许可修正后重新送达并重算送达期限。 <small style="opacity: 0.55">〔LG7V L104 "provide in the left column the “margin note” that indicates on what legislation"；LG7V L106 "the Court via the Registrar may reject the filing and/or sealing of the summons"；LG7V L112 "a summons may not be amended after issue without leave of the Court as per O.32, r.2"〕</small> |
 | 2 | 聆讯前至少 2 clear days 送达传票：送达不足（short service）／算错净日／下午 4 点后才送达 | 【自动后果】程序瑕疵：除非法庭另有命令（O.32 r.3 "unless the Court otherwise orders"）或被申请方放弃／同意延押，聆讯不得照常进行；缺席聆讯以已送达为前提，法庭不得借 O.32 r.5 免除送达（*Westminster*）。【制裁暴露】讼费不当然随败方：CJR 后非正审讼费不再当然随诉讼结果，归 O.62 r.3(2) 裁量（往届仅参考）。【救济门槛】立即联络对方同意延押／撤销聆讯并重新送达。 <small style="opacity: 0.55">〔LG7V L114 "A summons must be filed not less than 2 clear days ahead of the date specified for the hearing"；LG7V L78 "except as aforesaid and unless the Court otherwise orders"；LG7V L118 "the Court may only do so where a party fails to attend the hearing after being served with the summons"；OLD-LG17 L270 "no longer the prescribed usual order"·往届仅参考〕</small> |
 | 3 | 誓章传闻注明来源与确信理由：支持誓章包含无来源的 information and belief | 【制裁暴露】该段传闻证据可被法庭直接剔除（往届 LG16 讲义口径）。【举证负担】申请的事实基础随之落空；剔除后申请是否必然被驳回，库内无明文 → 文末 open 块 O-2。【救济门槛】以亲身知悉事实重作誓章；传闻段落逐处注明 source 与 grounds。 <small style="opacity: 0.55">〔OLD-LG16O L183 "Contain only such facts as the deponent is able to prove, either from his own knowledge or from the sources stated"·往届仅参考；OLD-LG16O L225 "clearly identify the source (e.g. person, document) of this 'hearsay' information"·往届仅参考〕</small> |
 | 4 | 命令起草：carriage 与两个 7 日窗：发起方不起草；或宣判后逾 7 日未提交批核 | 【自动后果】发起方 7 日内不起草 → 其他受影响方取得起草权（O.42 r.5(5)）。【制裁暴露】逾 PD 16.1 七日提交批核的直接后果，库内无明文 → 文末 open 块 O-1。【举证负担】草稿不周（须作超过轻微修改）会被法庭退回重拟（PD 16.1 第 5 段）。【救济门槛】尽快提交（"as soon as practicable"）；对批核修改不服：不同意法官／聆案官书记的修改→预约该法官席前处理（第 3 段）；不同意登记处的修改→预约 Practice Master（第 4 段）。 <small style="opacity: 0.55">〔LG7V L250 "must be drawn up by the party initiating the application upon which the order was made"；LG7V L935 "submitted for approval as soon as practicable but in any case not later than 7 days"；LG7V L943 "it is their duty to submit a well-considered draft for approval"〕</small> |
@@ -762,6 +790,8 @@ flowchart TD
 ---
 
 ## 0K. SG 实务应用与导师口径
+
+**此时案件处在什么状态？** 制度规则已经完整，最后落到本届 SG 的具体任务：SG06 起草延期传票、SG07 从申请证据走到可执行的送达命令、SG08 与 Mareva 传票衔接。**本节在干嘛？** 每场先拆争点，再给答题要件映射与导师课堂口径，并挂直达 SG 完整答案的链接。
 
 ### 0K.1 SG06：Summons Drafting & Time Extension（中间传票起草、延期申请与法庭命令拟定）
 
@@ -851,6 +881,8 @@ flowchart TD
 
 ## 1. 第一性原理
 
+**这张表在干嘛？** 把本卡两个制度的“为什么存在”压成四问——先控制什么风险、对方怎样暴露错误、相近程序怎么区分、结果怎么变成下一步；深节论证见 §0B 的第一性原理一节。
+
 | 问题 | 比较方法 |
 | --- | --- |
 | 本阶段先控制什么风险？ | 申请人先把请求逐项写成可执行条款；担保申请附法定事由、费用估算和对方立场。 |
@@ -859,6 +891,8 @@ flowchart TD
 | 如何把结果变成下一步？ | 登记法院指定日期、实际付款及例外；必要时按命令申请 variation 或执行 |
 
 ## 2. 顺向推进
+
+**这张表在干嘛？** 按时间正序列出一张中间申请从确认目标到执行补救的七步交接物——相当于把 §0H 的倒排清单反过来读。
 
 | 步骤 | 参与者完成的工作 | 交接物 |
 | --- | --- | --- |
@@ -873,12 +907,16 @@ flowchart TD
 
 ## 3. 本届规则与操作边界
 
+**这张表在干嘛？** 提醒两条最容易踩的操作边界：同意文书必须走对通道（§0D 三分法）；提交担保申请本身不会自动中止诉讼，想暂停其他步骤要另求命令（§5.2）。 <small style="opacity: 0.55">〔LG7V L1159 "It is usually also a part of the order that security for costs first be given otherwise the proceedings shall be stayed"；LG7V L1146 "stay all proceedings until the security is given"〕</small>
+
 | 客户所求 / 核心规则节点 | 与本卡主制度的区别及操作边界 |
 | --- | --- |
 | 同意与履行 | O.42 r.5A 的同意令限列明事项；Tomlin order 中 stay 与附表义务的执行途径不同。 |
 | 担保与进度 | 单提交 security for costs 申请不会自动中止；如需暂停其他步骤须另求命令。 |
 
 ## 4. 办案流程控制与关键节点核查（Procedural Control & Case Verification）
+
+**这张表在干嘛？** 把 §0I 的核对单按“核对项 → 怎么核对 → 发现缺口怎么办”重排，缺口行动直接对准对方最可能攻击的点。
 
 | 核对项 | 当事人如何核对 | 发现缺口后的行动 |
 | --- | --- | --- |
@@ -887,6 +925,8 @@ flowchart TD
 | 遵令或执行 | 登记法院指定日期、实际付款及例外；必要时按命令申请 variation 或执行 | 核命令主文、附表、costs、liberty to apply 及 penal notice 所在文书；签署前与宣读内容逐项对照。 |
 
 ## 5. 横向程序联动与机制衔接（Inter-Procedural Coordination & Interface）
+
+**这一节在干嘛？** 先列两行接口表，再用图挂出与简易判决、诉答、禁制令、上诉程序和讼费评定各环节的联动；最后重点讲讼费担保与简易判决的时序博弈，以及“S4C 申请不产生自动中止”这条致命盲区。
 
 | 接口 | 两个程序如何衔接 |
 | --- | --- |
@@ -905,13 +945,15 @@ flowchart TD
                      └── O.62 r.9A & PD 14.3 ──► 非正审裁决后可即席评定讼费（r.9C 情形除外），该笔款项须于命令后 14 日内付清
 ```
 > 2026-09-27 更正：原图末项"O.62 & PD 14.1 ──► 1 日内非正审聆讯必须即席评定讼费"与库内文件不符：即席评定的依据是 **O.62 r.9A**（排除 r.9C 情形）与 **PD 14.3**（summary assessment／provisional summary assessment／taxation 三选一，并要求预备讼费陈述书），见往届 LG17 讲义 L572–576、L607–609；"聆讯一日以内即必须即席评定"及"PD 14.1"于库内**无出处**，已删。O.24 项下"阶段性担保估算之分水岭"亦改回 *Dongguan Harris* 第 27 段／*Charter View* 第 12 段的"计至 setting down"（见 §3.4 第三步）。 <small style="opacity: 0.55">〔OLD-LG17 L607 "the old rules relating to gross sum assessments will be replaced by a summary assessment of costs"·往届仅参考；OLD-LG17 L574 "PD 14.3 is for costs only proceedings in the High Court, District Court and Lands Tribunal"·往届仅参考；OLD-LG17 L576 "various options open to order a (a) summary assessment of costs"·往届仅参考；OLD-LG17 L609 "Payment of the said sum pursuant to an order of the Court would need to be paid within 14 days of the order"·往届仅参考〕</small>
-* **库内可核点 1（时限差异）**：O.14 简易判决传票须于回院日前不少于 **10 clear days** 送达（讲义 L114）；一般非正审传票只需 2 clear days（O.32 r.3）。故 S4C 传票通常可更早入禀。 <small style="opacity: 0.55">〔LG7V L114 "most notably a summons for summary judgment which requires not less than 10 clear days before the return date"；LG7V L114 "A summons must be filed not less than 2 clear days ahead of the date specified for the hearing"；LG7V L78 "A summons asking only for the extension or abridgement of any period of time"〕</small>
+* **库内可核点 1（时限差异）**：O.14 简易判决传票须于回院日前不少于 **10 clear days** 送达（讲义 L114）；一般非正审传票只需 2 clear days（O.32 r.3）。故 S4C 传票的存档与送达可安排得更贴近聆讯日。 <small style="opacity: 0.55">〔LG7V L114 "most notably a summons for summary judgment which requires not less than 10 clear days before the return date"；LG7V L114 "A summons must be filed not less than 2 clear days ahead of the date specified for the hearing"；LG7V L78 "A summons asking only for the extension or abridgement of any period of time"〕</small>
 * **库内可核点 2（merits 的审查方式）**：S4C 程序中法庭对胜算只作 **broad-brush** 审查，原告须显示"high degree of probability of success"，法庭不预先裁断本案成败（*Carmon Reestrutura* 第 38–48 段引 *Hannelore de Lasala-Debring* 第 8 段，Slide B 1-2 Slide 9）；换言之，法庭不会因"O.14 一定赢"而在担保程序中直接判决本案。 <small style="opacity: 0.55">〔LG7B1 L72 "the plaintiff would need to demonstrate that it has a high degree of probability of success"；LG7B1 L73 "this is to be approached in a broad-brush manner"；LG7B1 L73 "It is not the function of the court to make a preliminary run at deciding the ultimate success or failure of the claim"〕</small>
 * **库内可核点 3（排期分流的权限）**：所有非正审申请一律以传票向聆案官提出，除非法庭应由法官聆讯（PD 14.2、讲义 L102）；聆案官内庭传票通常仅列 3 分钟 call over，未能于 3 分钟内处理或有争议者押后另定聆讯日并附方向（讲义 L110；两造应先以往来函件商定证据方向，并以 consent summons 或 consent order 落实，Law Society Circular 03-141）。两纸传票的审理次序实务上由法庭在排期／方向阶段裁量，**库内无"O.14 优先"或"担保优先"的规则**。 <small style="opacity: 0.55">〔LG7V L841 "all interlocutory applications should be made by summons to a Master"；LG7V L102 "any application made to the Court will normally will be by inter partes summons supported by an affidavit / affirmation"；LG7V L110 "Inter partes summonses to a Master in chambers are usually listed for 3 minutes only"；LG7V L110 "the parties’ solicitors should attempt to agree to such directions on the filing of evidence by way of correspondence"〕</small>
-* ⚠️ **致命盲区**：提出 S4C 申请（入禀或送达传票）**本身不产生任何自动中止（automatic stay）效力**，交付抗辩书的期限不会因此暂停。⚠️ 分层提示：此结论依"库内无自动中止之条文"而立（属推论式表述），讲义未就此明文，答题时建议同时引 §3.4 第三步第 4 项——**法庭判令担保时通常同时规定"未提供担保前诉讼中止"（讲义 L1159；s.905(2)(b) L1146）**，那是"命令造成的中止"，与"申请本身的中止"完全不同。 <small style="opacity: 0.55">〔LG7V L1159 "It is usually also a part of the order that security for costs first be given otherwise the proceedings shall be stayed"；LG7V L1146 "stay all proceedings until the security is given"〕</small>
+* ⚠️ **致命盲区**：提出 S4C 申请（存档发出或送达传票）**本身不产生任何自动中止（automatic stay）效力**，交付抗辩书的期限不会因此暂停。⚠️ 分层提示：此结论依"库内无自动中止之条文"而立（属推论式表述），讲义未就此明文，答题时建议同时引 §3.4 第三步第 4 项——**法庭判令担保时通常同时规定"未提供担保前诉讼中止"（讲义 L1159；s.905(2)(b) L1146）**，那是"命令造成的中止"，与"申请本身的中止"完全不同。 <small style="opacity: 0.55">〔LG7V L1159 "It is usually also a part of the order that security for costs first be given otherwise the proceedings shall be stayed"；LG7V L1146 "stay all proceedings until the security is given"〕</small>
 * **破局要诀**：被告在 S4C 传票中（或另以时间传票）**同时包含一项独立申请项**，请求延长交付抗辩书期限，例如：`The Defendant's time for filing and serving its Defence be extended until 28 days after the Plaintiff provides the security ordered by this Court.` 延期申请可由聆案官处理（O.42 r.4(2)：仅延长期限、无特别条款的命令无须起草；讲义 L208–238），且**仅申请延长或缩短期限的传票可在聆讯前一日送达**（O.32 r.3）。从而合法锁定抗辩时限，避免自身落入 O.19／O.13 未抗辩的默认判决陷阱（另见 [CO06 默认判决卡](./%5BCO06-09%5D%20Pre-Trial%20Judgments,%20Admissions%20and%20Interim%20Payment.md)）。 <small style="opacity: 0.55">〔LG7V L78 "A summons asking only for the extension or abridgement of any period of time"；LG7V L221 "need not be drawn up unless the Court otherwise directs"〕</small>
 
 ## 6. 目标倒推与实务应对策略（Goal-Driven Strategy & Strategic Remedies）
+
+**这张表在干嘛？** 从客户目标倒推所需材料与行动——逆向视角收束全卡：想要什么结果，就往前推要证明什么、申请什么、何时申请。
 
 | 客户目标 | 从目标倒推所需材料与行动 |
 | --- | --- |
@@ -938,6 +980,8 @@ flowchart TD
 <!-- === AUDIT_ZONE_START (DO NOT SEND BELOW THIS LINE TO GPT) === -->
 > [!abstract]- 审计留痕：材料矩阵、待核事项与历史修订记录
 > 
+> **2026-11-15 修订（可读性重构：接通逻辑断头路＋还原制度真实功能＋清除伪黑话）。** ①16 处＋§1–§6 六处新增三问式导语（0B 传票=中间申请法定介质、0D consent order/consent summons/Tomlin 三分法、0F S4C 两条申请轨道等），原导语合并保留；②清除「专题卡片/全景流/物理拦截机制」表述；③「入禀」修正 10 处（传票/同意程序语境改「存档盖印发出（issue）／存档并送达」）；④无出处遗留块 *Sir Lindsay Parkinson v Triplan* 补挂出处警示框；⑤改后自锚断链 0，引注守恒 281→291 旧引注 0 缺失。改名 3 条：`H1 08 专题卡片旧 branding → 非正审传票、中间申请、命令与讼费担保（Drafting Summonses, Interlocutory Applications, Orders & Security for Costs）`；`流程图一：…全景流（Summonses & Orders Lifecycle） → …全流程（…）`；`0H. 申请与操作工程：文书、送达和期限 → 0H. 实务操作清单：文书、送达与时限倒排`。门禁：cite_check error 0／warn 53（与基线持平）；check_one non-ok 3（#5. 横向耦合×2 与 Master Overview 跨链锚，均既有，未恶化未修复）。备份：`_workspace/backup-2026-11-15-co-readable-batch/`。
+>
 > **本轮修订**：按现行节号统一正文及跳转标签，归并高阶模型表，补全程序行动句，并将原引注移至段末、列表项末或相应单元格末。
 > 
 > 本轮统一操作、攻防、后果与实务应用的章节编号，并保留原有资料与历史核对记录。
@@ -1070,7 +1114,7 @@ flowchart TD
 > 本轮在以下主题稿的0A节新增具体规则、条件、证据、程序选择、后果和演练示例。此页原有正文及引注保留；同一细节从下列入口阅读，避免另复制一份。
 > 
 > - [🗺️ 本卡地图](%5BCO13%5D%20Interim%20Relief%20and%20Risk%20Protection%20System.md#%F0%9F%97%BA%EF%B8%8F%20%E6%9C%AC%E5%8D%A1%E5%9C%B0%E5%9B%BE)
-> - [0A. 从管理命令到可开审案件：时限、补救和庭审准备](%5BCO11%5D%20Case%20Management%20and%20Trial%20Organisation%20System.md#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%B8%89%E6%96%87%E4%B9%A6%E3%80%81%E4%B8%A4%E4%BC%9A%E8%AE%AE%E3%80%81%E4%B8%89%E9%87%8C%E7%A8%8B%E7%A2%91)
+> - [0A. 从管理命令到可开审案件：时限、补救和庭审准备](%5BCO11%5D%20Case%20Management%20and%20Trial%20Organisation%20System.md#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%BB%8E%E8%AF%89%E7%AD%94%E5%AE%8C%E7%BB%93%E5%88%B0%E6%8E%92%E6%9C%9F%E5%BC%80%E5%AE%A1%E6%80%8E%E4%B9%88%E8%B5%B0)
 > 
 > **留痕**：2026-10-06新增本入口；未将导航页/清单改造成另一份重复主题稿。
 > 

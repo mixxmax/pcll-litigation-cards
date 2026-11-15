@@ -4,7 +4,7 @@ description: "香港民事诉讼接案面谈、诉前尽职调查、管辖与时
 cohort: "2026-27"
 type: derived
 enrichment_snapshot: "2026-10-23"
-enriched: "2026-10-23"
+enriched: "2026-11-15"
 status: "2026-10-10 已并入 [LG01-02] Topic Supplement 全部实质内容（接案面谈 0A 节等）；原卡正文零删减；材料边界见正文"
 preservation: "原有凝结正文保留；Supplement 原址留重定向存根；双备份见 _workspace/backup-2026-10-10-8010-institutions/ 与 backup-2026-10-09-8010-condensation/"
 涵盖LG:
@@ -41,14 +41,11 @@ SG课表安排:
 字幕校核范围: "定向补充与交叉核对；非整卷逐句审核"
 本轮更新: "2026-10-23：已入库材料回流；Moodle新增按用户选择后续接入"
 ---
-
-
-
 # [CO01] Taking Instructions, Pre-Action Conduct & Drafting LBA
 
 ## 速读定位层
 
-> 本层为 2026-10-10 §18 整卡重构新增的开篇导引（同日 [LG01-02] Supplement 并主）。各环节的规则、条件、例外与逐条引注见下方 §0（溯源库）、0A–0C（并入与新增深节）及 §一–§七（既有主体，零删减）。
+> 本层为 2026-10-10 §18 整卡重构新增的开篇导引（同日 [LG01-02] Supplement 并主）。各环节的规则、条件、例外与逐条引注见下方 0B–0K 各深节；溯源库与修订日志在文末审计区。正文中残留的旧编号按此对照读：§一→0B、§二→0C、§三→0D、§四→0E、§五→0F、§六→0G、§七→「七、 往届真题与期末考点回溯」；原 Supplement 0A 深节已并入 0B（0A.4 记录格式→0B.3、0A.5 意见分界→0B.4、0A.6 功能性段落→0E.1）。
 
 ### 适用范围
 
@@ -57,7 +54,7 @@ SG课表安排:
 2. **接案审查与授权**：利益冲突检索、Retainer、公司客户的董事会书面决议——授权谁委托律师、谁代表公司给指示。 <small style="opacity: 0.55">〔📄BATCH-A p.33 "THAT solicitors be instructed to act on behalf of the Company"；📄BATCH-A p.33 "THAT George Po be authorised to represent the Company to give instructions"〕</small>
 3. **诉前尽职调查**：PG-FLAP 五阶段、五层案情分析（area→cause of action→ingredients→material facts→evidence）、八项查册／取证手段（车辆登记、商业登记、公司注册处、裁判法院控罪书（MO s.35A(1)(h)）、私营查册代理、土地查册、破产清盘查册、CCTV／员工供词／损毁证据保存）。 <small style="opacity: 0.55">〔LG1V L325 "The 5-stage Process Model of Legal Problem Solving (PG-FLAP)"；LG1V L195 "the material facts for each legal ingredient"〕</small>
 4. **程序三核验**：管辖（SCT ≤HK$75,000／DC ≤HK$3 million（净额）／CFI $3 million 以上＋DCO s.43(3) 移交）、时效（Cap. 347：合同与一般侵权 6 年、盖印契约 12 年、人身伤害 3 年）＋保护性令状（O.6 r.8 十二个月送达期）、当事人适格（独资／合伙 O.81／公司 O.5A r.2／直接受损主体／共同被告 O.15 r.4）。 <small style="opacity: 0.55">〔INTRO1 L147 "Money claims: up to $3 million: DC Ordinance (Cap.336)"；INTRO2 L100 "Other tort claims (e.g. nuisance, trespass to land, conversion): 6 years from when the damage was sustained"；INTRO3 L114 "Validity of a writ: 12 months from the date of issue: O.6 r.8(1)"〕</small>
-5. **LBA 起草与发出**：六步解剖、双版本金标准模板、合理期限 14–28 天（无法定答复期）、PD 18.1 仅限人身伤害、O.62 r.5(1)(e)/(2)(d) 诉前行为进入讼费裁量。 <small style="opacity: 0.55">〔LG1V L431 "Reasonable time limit: 14 – 28 days"；LG1V L407 "Generally “no”; Exception: Personal Injury claims (see Practice Direction 18.1)"〕</small>
+5. **LBA 起草与发出**：六段结构写法、双版本完整范本、合理期限 14–28 天（无法定答复期）、PD 18.1 仅限人身伤害、O.62 r.5(1)(e)/(2)(d) 诉前行为进入讼费裁量。 <small style="opacity: 0.55">〔LG1V L431 "Reasonable time limit: 14 – 28 days"；LG1V L407 "Generally “no”; Exception: Personal Injury claims (see Practice Direction 18.1)"〕</small>
 6. **等待回应与分流决断**：对方沉默无程序后果；和解终结／保护性令状锁时效／正式向区域法院立案。 <small style="opacity: 0.55">〔LG1V L433-L435 "What if the other side fails to respond to a letter before action … No specific implications"〕</small>
 7. **攻防与 SG 应用**：七大红线与 0B 后果总表、SG01（起草 LBA）／SG02（SCIA 面谈）／SG03（面谈所得转 SoC）挂接、材料矩阵与 open 待补（见 0B／0C 与文末 open 块）。
 
@@ -126,7 +123,7 @@ flowchart TD
 | Letter Before Action 起草 | [§0E](#0E.%20Letter%20Before%20Action%20%E8%B5%B7%E8%8D%89) |
 | PD 18.1 与诉前行为 | [§0F](#0F.%20PD%2018.1%20%E4%B8%8E%E8%AF%89%E5%89%8D%E8%A1%8C%E4%B8%BA) |
 | 费用、执行风险与诉前红线 | [§0G](#0G.%20%E8%B4%B9%E7%94%A8%E3%80%81%E6%89%A7%E8%A1%8C%E9%A3%8E%E9%99%A9%E4%B8%8E%E8%AF%89%E5%89%8D%E7%BA%A2%E7%BA%BF) |
-| 文书与期限倒排 | [§0H](#0H.%20%E7%94%B3%E8%AF%B7%E4%B8%8E%E6%93%8D%E4%BD%9C%E5%B7%A5%E7%A8%8B%EF%BC%9A%E6%96%87%E4%B9%A6%E3%80%81%E9%80%81%E8%BE%BE%E5%92%8C%E6%9C%9F%E9%99%90) |
+| 文书与期限倒排 | [§0H](#0H.%20%E5%AE%9E%E5%8A%A1%E6%93%8D%E4%BD%9C%E6%B8%85%E5%8D%95%EF%BC%9A%E6%96%87%E4%B9%A6%E3%80%81%E9%80%81%E8%BE%BE%E4%B8%8E%E6%97%B6%E9%99%90%E5%80%92%E6%8E%92) |
 | 提交前核对 | [§0I](#0I.%20%E6%94%BB%E9%98%B2%E4%B8%8E%E6%89%A7%E8%A1%8C%E5%89%8D%E6%A0%B8%E5%AF%B9) |
 | 失误、制裁与补救 | [§0J](#0J.%20%E7%A8%8B%E5%BA%8F%E5%A4%B1%E8%AF%AF%E5%8F%8A%E5%85%B6%E5%90%8E%E6%9E%9C) |
 | SG 实务应用 | [§0K](#0K.%20SG%20%E5%AE%9E%E5%8A%A1%E5%BA%94%E7%94%A8%E4%B8%8E%E5%AF%BC%E5%B8%88%E5%8F%A3%E5%BE%84) |
@@ -174,7 +171,7 @@ flowchart TD
 
 ## 0B. 接案、Retainer 与 PG-FLAP 事实调查
 
-本制度卡将立案前（Pre-Action）的一切繁杂规则，完全还原并锚定在民事诉讼的**五大第一性原则**中：
+**此时案件处在什么状态？** 客户刚走进律所，案件还没有案号：上一刻他只是讲了一段遭遇，此刻你要决定接不接、能不能告、向谁告，以及先写信还是先发令状——这一步没做稳，后面所有文书都建立在错误的地基上。**本制度在干嘛？** 现实执业中，接案阶段回答三件事：能不能接（利益冲突检索、公司客户要董事会决议固定授权）、告不告得了（时效、管辖、当事人适格，见 0C）、怎么开局（PG-FLAP 五阶段的事实调查、查册取证与发出 LBA）。**和谁区分？** Retainer 是客户与律所之间的聘用委托关系，不等于「谁有权代表公司给指示」——后者靠董事会决议解决（本案 A17 决议授权 Po 委托律师并代表公司发指示）；本节的时效核查只是「查诉权还剩多久」，真正先发令状冻结时效的保护性令状（发出后有 12 个月送达有效期）在 0C 展开。 <small style="opacity: 0.55">〔📄BATCH-A p.33 "THAT solicitors be instructed to act on behalf of the Company"〕〔INTRO3 L114 "Validity of a writ: 12 months from the date of issue: O.6 r.8(1)"〕</small> 本制度卡将立案前（Pre-Action）的一切繁杂规则，完全还原并锚定在民事诉讼的**五大第一性原则**中：
 
 | 维度 | 阶段一制度映射与实务逻辑 |
 | --- | --- |
@@ -225,7 +222,7 @@ flowchart TD
   - **诉前行为负反馈**：发 LBA **一般并非强制**，唯一例外是人身伤害申索（依 PD 18.1；本届幻灯同义）；本案是财产损失，PD 18.1 不适用。但法庭裁量讼费「须考虑各方诉前及诉讼中的行为」（*O.62 r.5(1)(e)、r.5(2)(d)* RHC (Cap. 4A)），若认定某方诉前行为不合理，**可判令该方以弥偿基准（indemnity basis）支付对方讼费**；「未发 LBA 即剥夺利息」这一制裁在本届讲义／幻灯片中**无依据** →。 <small style="opacity: 0.55">〔LG1V L407 "Generally “no”; Exception: Personal Injury claims (see Practice Direction 18.1)"〕〔📄LG1P Slide 30 "Letter Before Action = Must? … advisable to send letter before action"〕〔LG1V L409 "the Court in exercising its discretion as to costs shall take into account all the parties' conduct"〕〔❓「突袭起诉即剥夺利息」库内无依据·待核〕</small>
   - **和解正反馈**：LBA 证据扎实并抄送保险公司，直接促成理赔员在立案前达成商业和解。
 
-**办案流程全周期控制链（2026-10-10 实质化展开：案件状态 → 触发事实 → 审查决策 → 申请行动 → 程序反馈 → 补救手段）**。分析目的：将讲义规则转化为实务可操作检查步骤；法定条件见 0A.8 与 §二／§五，本表记录信息输入、门槛核查及失败后的救济动作：
+**办案流程全周期检查表（2026-10-10 实质化展开：案件状态 → 触发事实 → 审查决策 → 申请行动 → 程序反馈 → 补救手段）**。分析目的：将讲义规则转化为实务可操作检查步骤；法定条件见 0A.8 与 §二／§五，本表记录信息输入、门槛核查及失败后的救济动作：
 
 | 状态变量 | 触发事实（输入信号） | 决策点 | 行动 | 反馈（失手代价） | 补救 |
 | --- | --- | --- | --- | --- | --- |
@@ -288,7 +285,7 @@ flowchart TD
 - **客户诉前止损诉求：节约成本、快速拿钱** $\longrightarrow$ 逆推在 LBA 中把发票明细和司机过失证据固定死，迫使保险公司理赔员在诉前主动提出和解方案。 <small style="opacity: 0.55">〔LG1V L439 "Save costs – the other side might not dispute liability"〕</small>
 - **客户时效安全诉求：调查未完但时效临近** $\longrightarrow$ 逆推使用**保护性令状（Protective Writ）**先行锁定诉权，争取 12 个月调查缓冲期。⚠️ 但导修大纲把「gathering evidence」列为申请延展的 **bad reason**，且延展每次不超过 12 个月、须在届满前申请——保护性令状不能当作无限期拖延的工具。 <small style="opacity: 0.55">〔INTRO3 L114 "Validity of a writ: 12 months from the date of issue: O.6 r.8(1)"〕〔INTRO3 L132 "Bad reasons: (i) negotiations were going on; (ii) legal aid application is pending; (iii) gathering evidence"〕〔INTRO3 L134 "the writ can only be extended for no more than 12 months starting from the date of expiry"〕</small>
 
-**目标倒推链（2026-10-10 实质化展开；并入原 Supplement §6 三目标并补第四条）**。从客户目标倒推工具；工具名称不是结论——用 0A.8／§二 逐项检查准入、证据与后果，避免先选招式再拼事实：
+**目标倒推检查表（2026-10-10 实质化展开；并入原 Supplement §6 三目标并补第四条）**。从客户目标倒推工具；工具名称不是结论——用 0A.8／§二 逐项检查准入、证据与后果，避免先选招式再拼事实：
 
 | 客户目标 | 从终点向回数 | 最易断的环与对策 | 引注 |
 | --- | --- | --- | --- |
@@ -370,7 +367,9 @@ flowchart TD
 图是上述PG-FLAP和五层分析的结合；“足以给阶段性意见”并不表示法庭事实已经证明。 <small style="opacity: 0.55">〔LG1V L325 "The 5-stage Process Model of Legal Problem Solving (PG-FLAP):"〕</small>
 
 
-### 0B.6 从客户目标开始的五步控制环
+### 0B.6 从客户目标出发的五步循环（PG-FLAP 课堂应用）
+
+PG-FLAP 在课堂上被拆成五步走：先听清客户要什么，再查事实，逐要件做法律分析，给出利弊让客户选择，最后落实计划；任何一步冒出新事实就回到查事实那一格。下图是这一循环的走法：
 
 ```mermaid
 flowchart LR
@@ -396,6 +395,8 @@ PG-FLAP课堂五步并非只填标题：首步把“要求赔设备”与“担�
 > **Exam / Drafting Formulation:** "The solicitor should identify the client's objective, the material facts still missing, and the evidence required before giving final advice."
 
 ## 0C. 管辖、时效与当事人适格
+
+**此时案件处在什么状态？** 0B 完成了接案与初步事实调查，此刻在动笔写信或发令状之前，还有三道准入审查没过：向哪家法院告、诉权还剩多久、被告有没有告对——三关任一失守，轻则案件被移交或讼费不利，重则诉状被剔除、诉权永久灭失。**本制度在干嘛？** 本节的三张矩阵就是这三关的检查表：管辖矩阵按标的净额把案件分流到 SCT／DC／CFI；时效矩阵按诉因类型给出 6 年／12 年／3 年及其起算点；当事人矩阵解决原告是否适格、被告是否齐全。**和谁区分？** 时效核验是查 Cap. 347 还剩多少时间，保护性令状则是时效迫近时抢先发出令状、用 O.6 r.8 的 12 个月有效期换取调查与谈判时间——一个是「查表」，一个是「抢时间」，不能混用。 <small style="opacity: 0.55">〔INTRO1 L235 "the CFI must transfer to DC unless the complexity of the case warrants it to be heard at CFI"〕〔INTRO3 L114 "Validity of a writ: 12 months from the date of issue: O.6 r.8(1)"〕〔LG4V L626 "discloses no reasonable cause of action or defence"〕</small>
 
 > **总表索引（2026-10-10）**：本节三矩阵对应「不做／做错」的完整后果链，集中见 [§0J 后果总表](#0J.%20%E7%A8%8B%E5%BA%8F%E5%A4%B1%E8%AF%AF%E5%8F%8A%E5%85%B6%E5%90%8E%E6%9E%9C)——时效与保护性令状↔行 5、6；告错原告↔行 7；错选法院↔行 8。
 
@@ -437,7 +438,7 @@ PG-FLAP课堂五步并非只填标题：首步把“要求赔设备”与“担�
 | --- | --- | --- | --- |
 | **独资经营者 (Sole Proprietor)** | 须以个人名义起诉，格式为：`[个人姓名] trading as [商号名称]`。 <small style="opacity: 0.55">〔INTRO3 L174 "must sue in the sole proprietor's own name – the business has no separate legal entity"〕</small> | *Common Law* | 商号（Business name）不是法人，不能单独作为原告起诉（作被告时可按商业登记名称送达）。 <small style="opacity: 0.55">〔INTRO3 L176 "allows the sole proprietor to be sued in the name of the business only"〕</small> |
 | **合伙企业 (Partnerships)** | 可直接以合伙商号名义起诉或应诉 | *RDC Order 81* | 需随时准备披露全体合伙人真实姓名与住址清单（以商号名义起诉可省去逐一送达合伙人）。 <small style="opacity: 0.55">〔INTRO3 L182 "easier to effect service on the defendant, as there is no need to serve each of the partners individually"〕</small> |
-| **有限公司 (Corporation)** | 必须以公司完整全称起诉（如 Greenhouse Effective Petroleum Co. Ltd.） | *RDC Order 5A Rule 2*（⚠️ 见下注） | **强制律师代理**：公司原则上必须由事务律师出庭；董事亲自代表必须取得**董事会书面决议案（Board Resolution）**并提交宣誓书。<br/>⚠️ **规则号出处待核**：本届 LG1 讲义、幻灯片与 Intro 讲义均**未出现 O.5A r.2** 的规则号；该条文本（(1) 公司非由事务律师不得开始或继续进行诉讼；第(2)款允许董事在 (a) 无律师代理、(b) 获董事会正式授权、(c) 已作出并向登记处提交宣誓书 时代表公司）见于**往届（2025-26）官方 SG1 Activity Plan L184-198**，以及本届案卷内区域法院 Acknowledgment of Service（Form No. 14）随附 Notes for Guidance 第 6 项（同一要件的表格版表述），属**往届官方／案卷文本**，引用前须核对 RDC 现行文本（案卷内区域法院 Form No. 14 随附说明亦以同一思路要求公司由律师或获授权人签署）。<br/>⚠️ **本案卷的决议案并不用于 O.5A r.2**：A17 的董事会书面决议是**授权 Po 委托律师并代表公司发出指示**（另见 §一 2「授权状态」），而非「董事不经律师自行诉讼」的宣誓书要件。 <small style="opacity: 0.55">〔SG1AP L186 "a corporation may not begin or carry on any such proceedings in the Court otherwise than by a solicitor" ·往届仅参考〕〔📄BATCH-A p.84 "Not applicable if the defendant is a company served at its registered office"〕</small> |
+| **有限公司 (Corporation)** | 必须以公司完整全称起诉（如 Greenhouse Effective Petroleum Co. Ltd.） | *RDC Order 5A Rule 2*（⚠️ 见下注） | **强制律师代理**：公司原则上必须由事务律师出庭；董事亲自代表必须取得**董事会书面决议案（Board Resolution）**并向法院存档宣誓书。<br/>⚠️ **规则号出处待核**：本届 LG1 讲义、幻灯片与 Intro 讲义均**未出现 O.5A r.2** 的规则号；该条文本（(1) 公司非由事务律师不得开始或继续进行诉讼；第(2)款允许董事在 (a) 无律师代理、(b) 获董事会正式授权、(c) 已作出并向登记处存档宣誓书 时代表公司）见于**往届（2025-26）官方 SG1 Activity Plan L184-198**，以及本届案卷内区域法院 Acknowledgment of Service（Form No. 14）随附 Notes for Guidance 第 6 项（同一要件的表格版表述），属**往届官方／案卷文本**，引用前须核对 RDC 现行文本（案卷内区域法院 Form No. 14 随附说明亦以同一思路要求公司由律师或获授权人签署）。<br/>⚠️ **本案卷的决议案并不用于 O.5A r.2**：A17 的董事会书面决议是**授权 Po 委托律师并代表公司发出指示**（另见 §一 2「授权状态」），而非「董事不经律师自行诉讼」的宣誓书要件。 <small style="opacity: 0.55">〔SG1AP L186 "a corporation may not begin or carry on any such proceedings in the Court otherwise than by a solicitor" ·往届仅参考〕〔📄BATCH-A p.84 "Not applicable if the defendant is a company served at its registered office"〕</small> |
 | **侵权直接受害人 vs 集团关联公司** | 必须由**直接遭受财产损害/承担最终经济损失的主体**起诉 | *Locus Standi*; *RDC O.18 r.19*。 <small style="opacity: 0.55">〔LG4V L626 "discloses no reasonable cause of action or defence"〕〔LG4V L656 "The Court may order a strike out on its own motion or an application of parties"〕</small> | 姊妹公司开票仅为内部债权，若以姊妹公司起诉会被以“无诉因”直接剔除诉状（本案实际受损与经营油站者为 Greenhouse，见 A1；发票则由关联的 Supplies Ltd. 开具）。 <small style="opacity: 0.55">〔📄BATCH-A p.1 "The petrol service station in Shatin is owned and operated by Greenhouse"〕〔📄BATCH-A p.27 "GREENHOUSE EFFECTIVE PETROLEUM Supplies Ltd."〕</small> |
 | **直接侵权人 vs 雇主** | 直接侵权人（Primary Tortfeasor）+ 雇主转承责任（Vicarious Liability） | *RDC Order 15 Rule 4*。 <small style="opacity: 0.55">〔📄INTRO3P Slide 7〕</small> | 雇员受雇履职行为，雇主承担连带责任；合并起诉防范互相推诿（连带但不分割的责任另受 *O.15 r.4(3)* 限制；本案律师意见认为加列司机的额外成本极低）。 <small style="opacity: 0.55">〔📄INTRO3P Slide 7〕〔📄BATCH-A p.67 "the extra costs in adding the driver as a defendant should be minimal"〕</small> |
 
@@ -473,6 +474,8 @@ PG-FLAP课堂五步并非只填标题：首步把“要求赔设备”与“担�
 > **Exam / Drafting Formulation:** "The claim should be issued in the court with monetary and subject-matter jurisdiction before the applicable limitation period expires."
 
 ## 0D. 诉前调查与行动分流
+
+**此时案件处在什么状态？** 授权与三道准入审查已过（0B／0C），案件进入「把调查做完、把行动选对」的阶段：还差哪些证据、先发信还是先发令状、对方不理会怎么办。**本制度在干嘛？** 本节用两张图把诉前阶段的时序走完整：接案授权 → 资力与证据查册 → 发出 LBA 并等合理期限（14–28 天）→ 对方回应后分流为和解、保护性令状或正式发令状三条出路。**和谁区分？** 这里的「分流」是诉前行动决策，不是立案后的案件管理；对方逾期不回信本身没有程序后果，律师要不要推进诉讼，靠的是自己的时效与证据判断。 <small style="opacity: 0.55">〔LG1V L431 "Reasonable time limit: 14 – 28 days"〕〔LG1V L433-L435 "What if the other side fails to respond to a letter before action … No specific implications"〕</small>
 
 ```mermaid
 flowchart LR
@@ -553,7 +556,9 @@ stateDiagram-v2
 
 ## 0E. Letter Before Action 起草
 
-### 1. LBA 结构解剖学（Appendix B & C 评分要素）
+**此时案件处在什么状态？** 三道准入审查已过、客户同意先行索赔，现在要把「事实＋诉因＋金额」压成一封可以挂号寄出的信。**本制度在干嘛？** LBA（诉前催告函）在执业中承担三重功能：以最低成本试探和解（对方可能照付或转交保险人处理）、把责任与损失固定成书面、并在讼费裁量上留下「我方诉前行为合理」的记录；香港民事程序原则上不强制发函，人身伤害申索按 PD 18.1 另走 Letter of Claim 时序。**和谁区分？** LBA 不是普通催款函——它须写明当事人、事实、诉因、金额、答复期限与诉讼警告，发出后本身就是未来呈堂的证据；它也不是法院文书，没有标准格式、无法定答复期，与发出令状后「存档并送达」的程序完全两回事。 <small style="opacity: 0.55">〔LG1V L407 "Generally “no”; Exception: Personal Injury claims (see Practice Direction 18.1)"〕〔LG1V L427-L431 "Is there a specific time limit for responding to a letter before action … Reasonable time limit: 14 – 28 days"〕</small>
+
+### 1. LBA 六段结构与评分要素（Appendix B & C）
 
 | 段落模块                       | 核心起草要件（Appendix B/C 评分要素）    | 实务规范与标准表达                                                        |
 | -------------------------- | ---------------------------- | ---------------------------------------------------------------- |
@@ -599,6 +604,8 @@ LBA须说明代表谁、有关背景、诉因、损失及金额、符合客户�
 
 ### 0E.2 LBA 如何选择、写清及设期限
 
+起草一封 LBA 要先做四个决定：要不要先发、写什么内容、给对方多久、发这封信图什么。下表把这四个决定落成可直接执行的起草动作，课堂限定一栏写明每条的边界。
+
 | 判断 | 可直接执行的起草动作 | 课堂限定 |
 | --- | --- | --- |
 | 是否先发 | 一般并非法定每案必需；personalinjury有PD18.1专项，且须区分案型与适用期。 | 预警对方可能转移资产时，先评保全与LBA的先后；不是一律发信或一律不发。 <small style="opacity: 0.55">〔CAP-C1B L1396 "he might transfer the money away to another bank account."〕</small> |
@@ -607,7 +614,7 @@ LBA须说明代表谁、有关背景、诉因、损失及金额、符合客户�
 | 为什么 | 让对方通知保险人、调查并回答，缩争及避免可省的程序费用；诉前行为影响O62费用裁量。 | 不回LBA本身没有直接自动defaultjudgment；先起诉可能仍合理。 <small style="opacity: 0.55">〔CAP-C1B L1282 "They can alert their insurers"〕</small> |
 | 形式与WP | 没有通用固定LBA表格；若含谈判建议，依目的决定open／WP／WPsavecosts，不能把所有正式通知标WP。 | 客户授权、身份及目标决定是否向两名可能D各寄；课堂未替SG01直接给统一答案。 <small style="opacity: 0.55">〔CAP-C1B L1429 "is there a standard form for letter before action?"〕</small> |
 
-### 2. 双版本金标准实战模板
+### 2. 双版本完整范本：致雇主版与致司机版
 
 #### **版本 A：致车主 / 雇主 Inn Convenient（主打 Vicarious Liability）**
 
@@ -763,6 +770,8 @@ Solicitors for the Claimant
 
 ## 0F. PD 18.1 与诉前行为
 
+**此时案件处在什么状态？** LBA 在起草或已寄出，此刻要回答两个诉前程序问题：法院会不会因为诉前步骤影响讼费，以及人身伤害案还要多做哪些动作。**本制度在干嘛？** PD 18.1 是人身伤害申索的诉前程序指引——按 Appendix A 寄 Letter of Claim、对方一个月内作实质答复（constructive reply）、其后三个月交换责任与金额材料；本案是财产损失，PD 18.1 不适用，诉前行为只通过 O.62 r.5 进入讼费裁量。**和谁区分？** 别把「发 LBA」当成 PD 18.1 的义务——普通财产案发不发函是商业与讼费考量；也别把「对方不回复」当成有程序后果的事件，讲义明文 No specific implications。 <small style="opacity: 0.55">〔LG1V L407 "Generally “no”; Exception: Personal Injury claims (see Practice Direction 18.1)"〕〔LG1V L433-L435 "What if the other side fails to respond to a letter before action … No specific implications"〕〔LG1V L409 "the Court in exercising its discretion as to costs shall take into account all the parties' conduct"〕</small>
+
 > ⚠️ **本节标题按「标题契约」保留原文（含「PD 18.1」与「制裁」二词），但内容已于 2026-09-28 依本届讲义更正**：PD 18.1 **只适用于人身伤害申索**，本案（财产损失）不适用；本届讲义对该环节的措词是**讼费裁量（discretion as to costs）**，而非独立的「诉前行为制裁」。 <small style="opacity: 0.55">〔LG1V L407 "Generally “no”; Exception: Personal Injury claims (see Practice Direction 18.1)"〕〔LG1V L409 "the Court in exercising its discretion as to costs shall take into account all the parties' conduct"〕</small>
 
 ### 1. PD 18.1 诉前核心指引要求
@@ -778,11 +787,11 @@ Solicitors for the Claimant
 | 诉前行为的讼费依据？ | 法庭裁量讼费时须考虑各方诉前及诉讼中的行为：*O.62 r.5(1)(e)、r.5(2)(d)* RHC (Cap. 4A)；认为该方诉前行为不合理的，**可判令其以弥偿基准支付对方讼费** | 见本节 2。 <small style="opacity: 0.55">〔LG1V L409 "if the Court considers a party to have acted unreasonably before action, it may order that party to pay the other party's costs"〕</small> |
 | 有无不宜发 LBA 的情形？ | 「Fear that a potential defendant may dissipate assets ahead of action?」。 <small style="opacity: 0.55">〔LG1V L415 "Fear that a potential defendant may dissipate assets ahead of action"〕</small> | 若担心对方转移资产，宜先采取保全／直接起诉（另见 LG13 Mareva，非本卡范围） |
 | 谁可以发 LBA？ | Anyone。 <small style="opacity: 0.55">〔LG1V L417-L419 "Who can send a letter before action … Anyone"〕</small> | 律师代发并非效力要件 |
-| 有无标准格式或强制内容？ | No；惟须参照 **Drafting Letters Before Action Skills Guide（Appendix 2）** | 见 §四 1 与。 <small style="opacity: 0.55">〔LG1V L425 "Drafting Letters Before Action Skills Guide (Appendix 2)"〕〔LG1V L471-L473 "Presentation (30%) … Contents (40%)"〕</small> |
+| 有无标准格式或强制内容？ | No；惟须参照 **Drafting Letters Before Action Skills Guide（Appendix 2）** | 见 0E.1。 <small style="opacity: 0.55">〔LG1V L425 "Drafting Letters Before Action Skills Guide (Appendix 2)"〕〔LG1V L471-L473 "Presentation (30%) … Contents (40%)"〕</small> |
 | 有无指定答复期？ | No；Reasonable time limit: **14 – 28 days**。 <small style="opacity: 0.55">〔LG1V L431 "Reasonable time limit: 14 – 28 days"〕</small> | 函件以 14 天为合理下限 |
 | 对方不回复有何后果？ | **No specific implications** | 不回复本身不产生程序效果；案卷于逾 14 天无回音后建议起诉（A45 p.75）。 <small style="opacity: 0.55">〔LG1V L433-L435 "What if the other side fails to respond to a letter before action … No specific implications"〕〔📄BATCH-A p.75 "More than 14 days have elapsed and we have received no response from the"〕</small> |
 | 发 LBA 的目的？ | Save costs（对方可能不争议责任）；Save costs（对方可能愿意探索和解）；Iron out issues in dispute；Test the waters | 另见本届幻灯；「让对方及早准备」逐行可检于往届同稿幻灯，通知其保险人、自行调查同一页列出。 <small style="opacity: 0.55">〔📄LG1P Slide 29 "Purpose … To save costs … Test the waters"〕〔LG1B L226 "Inform the other side of your claim, so that they can, where appropriate start their own preparation" ·往届仅参考〕</small> |
-| LBA 内容（Skills Guide）？ | 说明受谁委托；充分交代索赔背景；载明诉因；概述损失／伤害；处理赔偿额；提出符合客户目标的明确和解建议；（如获指示）表明对方不遵守即提起法律程序 | 见 §四 1 六步解剖 |
+| LBA 内容（Skills Guide）？ | 说明受谁委托；充分交代索赔背景；载明诉因；概述损失／伤害；处理赔偿额；提出符合客户目标的明确和解建议；（如获指示）表明对方不遵守即提起法律程序 | 见 0E.1 六段结构表 |
 
 
 #### PD 18.1：Letter of Claim、constructive reply 与起诉时序
@@ -815,6 +824,8 @@ Solicitors for the Claimant
 
 ## 0G. 费用、执行风险与诉前红线
 
+**此时案件处在什么状态？** 信件定稿、令状备发，风险从「程序走对没有」转到「钱」：客户要付多少、赢了能追回多少、哪些措辞会变成对方日后攻击的材料。**本制度在干嘛？** 本节把诉前阶段的七条操作红线列成一张表——告错原告、错过时效、选错法院、情绪化用词、误引 PD 18.1、授权瑕疵、讼费揭示不足——每条写明违背后果与正确操作；0G.1 另收教授的方法指引与考核口径。**和谁区分？** 讼费「裁量」（O.62 r.5：谁付、是否因诉前行为不合理而加重）与讼费「评定基准」（O.62 r.28 的 party and party／common fund／indemnity 三档，决定实际可追回比例；三档条文文本本库仅见往届 LG17 讲义，展开见 0F.3）是两套规则，别混为一谈。 <small style="opacity: 0.55">〔LG1V L409 "if the Court considers a party to have acted unreasonably before action, it may order that party to pay the other party's costs"〕</small>
+
 > **总表索引（2026-10-10）**：本表 7 条红线与 [§0J 后果总表](#0J.%20%E7%A8%8B%E5%BA%8F%E5%A4%B1%E8%AF%AF%E5%8F%8A%E5%85%B6%E5%90%8E%E6%9E%9C) 一一对应（红线 1↔行 7、红线 2↔行 5、红线 3↔行 8、红线 4/5↔行 9/10、红线 6↔行 1、红线 7↔行 3）；两表口径一致，0B 表另附「执业暴露／救济门槛」分栏与依据列。
 
 
@@ -825,7 +836,7 @@ Solicitors for the Claimant
 | **3** | **标的额 57 万故意去高等法院起诉** | 依 *DCO s.43(3)* 原讼法庭须把案件移交区域法院（除非案情复杂），并可能仅按地院标准核定（Taxation on DC scale）。 <small style="opacity: 0.55">〔INTRO1 L235 "the CFI must transfer to DC unless the complexity of the case warrants it to be heard at CFI"〕〔❓「错向高院起诉即按地院标准核定讼费」本届讲义与幻灯均无明文·待核〕</small> | 本案标的 HK$571,300 在区域法院金钱申索上限之内，严格向**区域法院（District Court）**申请令状。 <small style="opacity: 0.55">〔INTRO1 L147 "Money claims: up to $3 million: DC Ordinance (Cap.336)"〕</small> |
 | **4** | **LBA 充斥主观攻击与情绪化用词**（如「violently」「dangerous」） | 违反法律文书起草规范（客观动词），损害律所专业形象，并在日后成为对方攻击函件诚意的材料 | 保持客观、专业、坚定（Firm but respectful），让事实与发票明细说话；定性词语只用于法律责任段落（negligent / in the course of employment）。 |
 | **5** | **在财产损失案的 LBA 里援引 PD 18.1，或反过来完全不提和解可能** | 援引 PD 18.1 属**法律错误**（该指引只适用于人身伤害申索，本届 LG1 讲义 L407 明写）；只催款不提和解则丧失诉前促和解、节省讼费的主动。 <small style="opacity: 0.55">〔LG1V L407 "Generally “no”; Exception: Personal Injury claims (see Practice Direction 18.1)"〕</small> | 正确写法：表达愿考虑和解／分期提案，并以 **O.62 r.5(1)(e)、r.5(2)(d)**（法庭须考虑诉前行为）作为敦促回应的依据；答复期用「within the next 14 days」（**往届**官方范本（2025-26）即如此写），不要写死日历日。 <small style="opacity: 0.55">〔LG1V L409 "if the Court considers a party to have acted unreasonably before action, it may order that party to pay the other party's costs"〕〔SAMPLE L55 "compensate our client by paying HK$571,300 to us on behalf of our client within the next 14 days" ·往届仅参考〕</small> |
-| **6** | **未核验公司授权即对外签署发函** | 授权瑕疵抗辩，甚至引发程序滥用争议（**往届**（2025-26）官方 SG1 Activity Plan：「If there is no proper authorisation, it could be regarded as abuse of process」）。 <small style="opacity: 0.55">〔SG1AP L182 "If there is no proper authorisation, it could be regarded as abuse of process" ·往届仅参考〕</small> | 接案时核验**董事会书面决议案（Board Resolution）**：本案 A17 决议解决的是**授权律师代表公司**（决议原文），另见 O.5A r.2「董事代表公司须经董事会授权并递交宣誓书」的适用边界（§二 3 ⚠️ 注）。 <small style="opacity: 0.55">〔📄BATCH-A p.33 "THAT solicitors be instructed to act on behalf of the Company"〕〔📄BATCH-A p.84 "the director has been authorized by the board of directors of the Company"〕</small> |
+| **6** | **未核验公司授权即对外签署发函** | 授权瑕疵抗辩，甚至引发程序滥用争议（**往届**（2025-26）官方 SG1 Activity Plan：「If there is no proper authorisation, it could be regarded as abuse of process」）。 <small style="opacity: 0.55">〔SG1AP L182 "If there is no proper authorisation, it could be regarded as abuse of process" ·往届仅参考〕</small> | 接案时核验**董事会书面决议案（Board Resolution）**：本案 A17 决议解决的是**授权律师代表公司**（决议原文），另见 O.5A r.2「董事代表公司须经董事会授权并存档宣誓书」的适用边界（§二 3 ⚠️ 注）。 <small style="opacity: 0.55">〔📄BATCH-A p.33 "THAT solicitors be instructed to act on behalf of the Company"〕〔📄BATCH-A p.84 "the director has been authorized by the board of directors of the Company"〕</small> |
 | **7** | **未向客户揭示讼费不可全额追偿的风险** | 违反 *Solicitors' Guide to Professional Conduct* **§4.01(8)**（须就胜败两面说明潜在讼费责任；**往届**（2025-26）官方 AP 同一表述），并引发后续拒付律师费纠纷。 <small style="opacity: 0.55">〔INTRO2 L168 "It is the duty of a solicitor to explain to his client the potential liability of costs in commencing any action"〕〔SG1AP L238 "The solicitor has to explain the extent of liability for both winning and losing the contemplated action" ·往届仅参考〕</small> | 诉前书面告知：对等基准下通常仅能追回 **60–70%**／案卷致客户函作 **60 to 80%**——两口径并列，⚠️ 不裁决；败诉时另须支付对方讼费。 <small style="opacity: 0.55">〔INTRO2 L170 "even if a party wins a case, it is usually impossible to recover all legal costs in commencing an action. Normal figure is 60-70%"〕〔📄BATCH-A p.21 "the court will normally require the losing party to pay 60 to 80% of the costs"〕</small> |
 
 ---
@@ -853,9 +864,9 @@ LG1A反复强调sample用于尝试之后的自我比较，skills guide是可迁�
 
 > **Exam / Drafting Formulation:** "The client must be advised on recoverability, enforcement risk and potential adverse costs before litigation begins."
 
-## 0H. 申请与操作工程：文书、送达和期限
+## 0H. 实务操作清单：文书、送达与时限倒排
 
-先以实际事件确定起算点，再核适用规则和个案命令。法院指定的期限、送达方式与普通规则不同时，按实际命令操作。下图从目标日期倒排；确定日期后，再按下表顺序办理。
+**此时案件处在什么状态？** 0B–0G 的规则已齐，现在把它们排成一张从目标日期往回倒推的操作时间表，供实际办案与考试作答直接照用。**本制度在干嘛？** 本节把接案授权、立案门槛、诉前函件、等待答复、令状有效期五个步骤的应备文书与时限一次列齐：每一步先定起算点，再核适用规则与个案命令。**和谁区分？** 时效（limitation）管「还能不能起诉」，令状有效期（O.6 r.8：自发出起 12 个月）管「起诉后多久要送达」，两条时钟独立起算——发过 LBA 不会让任何一条暂停。先以实际事件确定起算点，再核适用规则和个案命令。法院指定的期限、送达方式与普通规则不同时，按实际命令操作。下图从目标日期倒排；确定日期后，再按下表顺序办理。 <small style="opacity: 0.55">〔INTRO3 L114 "Validity of a writ: 12 months from the date of issue: O.6 r.8(1)"〕</small>
 
 ```mermaid
 flowchart TD
@@ -883,6 +894,8 @@ flowchart TD
 
 ## 0I. 攻防与执行前核对
 
+**此时案件处在什么状态？** 文书与时限已排好（0H），发出信件或令状之前做最后一轮双向核对：我方有没有漏项、对方会从哪里打过来。**本制度在干嘛？** 本节从原告侧、被告侧各给一张简明核对单——原告侧核拟告对象、公司授权与请求内容；被告侧预判对方会争实体责任、损害承担人、时效与金额估算。**和谁区分？** 这是发文前的自查动作，不是 0J 那张「失误—后果—补救」总表：本节列「核对什么」，0J 列「错了会怎样」。
+
 ### 0I.1 申请人或原告的准备与核对
 
 发信前记清拟告谁、为何告他及要求什么；代表公司时先核委托人与给指示者的授权。
@@ -897,6 +910,8 @@ flowchart TD
 
 
 ## 0J. 程序失误及其后果
+
+**此时案件处在什么状态？** 前面各节讲的是「应该怎么做」，本节回答反面问题：哪一步不做或做错，现实里会发生什么、对方或法庭会怎样利用。**本制度在干嘛？** 这张总表把全卡十二个环节加五条诉前补充串成后果链：每行写明是自动生效的后果（如时效届满诉权灭失）、对方或法院可启动的不利结果（如剔除诉状、授权瑕疵抗辩），还是律师自身的执业风险，并给出补救门槛。**和谁区分？** 【自动后果】无需对方动作即发生；【制裁暴露】要靠对方或法院启动；【执业暴露】是律所自身的职业风险——三者机制不同，补救方式也不同。
 
 > 对应主规范 §18.6：把本卡各环节「不做／做错／逾期会怎样」集中在一张总表，正文各环节以「总表索引」回点（§一 2→行 1–4、§二→行 5–8、§四／§五→行 9–12、§六→全表、0A.3→行 2、0A.5→行 3）。【自动后果】＝无需对方动作即发生；【制裁暴露】＝对方或法院可启动的不利结果；【执业暴露】＝对律所／律师自身的执业风险；【救济门槛】＝按什么补救。库内无明文者如实标注并进 open 块，不臆造。
 
@@ -929,6 +944,8 @@ flowchart TD
 
 
 ## 0K. SG 实务应用与导师口径
+
+**此时案件处在什么状态？** 前面的规则与操作层讲完，现在把知识落回本届三门 SG 的真实任务：任务是什么、评分看什么、导师在课堂上点过哪些红线。**本制度在干嘛？** SG01 的任务是起草 LBA（0E 的应用场）、SG02 是客户面谈取指示（SCIA，0B.1 的应用场）、SG03 是把面谈事实转成 Statement of Claim；本节把每门的争点、答题要件与导师口径对回前面章节。**和谁区分？** SG01 的案件是财产损失，PD 18.1 不适用，别把 0F 的人身伤害诉前时序搬进去；SG02 的评分口径是沟通技巧考核，不等于实体法的对错标准。 <small style="opacity: 0.55">〔LG1V L407 "Generally “no”; Exception: Personal Injury claims (see Practice Direction 18.1)"〕</small>
 
 ### 0K.1 SG01：Drafting LBA（车祸/人身伤害诉前催告函与附录 BC 评分标准）
 
@@ -964,7 +981,7 @@ flowchart TD
 
 #### 2. 答题/起草要件映射与操作落点
 - **WASP 阶段化四步模型实战映射**：
-#### 0E.1 WASP的行动与时间
+#### WASP 四步的行动与时间
 
 ```mermaid
 flowchart LR
@@ -989,7 +1006,7 @@ flowchart LR
 
 #### 3. 导师课堂口径与考场红线（Tutor's Takeaways）
 - **八项评分指标与导师实战评价口径**：
-#### 0E.2 八项评分与讲师真正的示范评价
+#### 八项评分指标与讲师对示范学生的评价
 
 | rubric项目 | 可观察最低口径及提升点 | 示范视频与导师反馈 |
 | --- | --- | --- |
@@ -1013,7 +1030,7 @@ flowchart LR
 
 ---
 
-### 0K.3 SG03：Drafting Statement of Claim I (Contract)（面谈事实向诉答实质事实转换接口）
+### 0K.3 SG03：Drafting Statement of Claim I (Contract)（面谈事实如何转成诉状的实质事实）
 
 #### 1. 法律关系与核心争点拆解
 - **商业合同索赔实体结构**：双方当事人签约能力 → 合同订立（Offer, Acceptance, Consideration, Written/Oral Agreement） → 核心条款（Express terms / Implied terms） → 违约行为（Breach） → 因果关系与损失（Loss & Damage）。
@@ -1030,6 +1047,8 @@ flowchart LR
 
 ## 1. 第一性原理
 
+从这里到下面第 6 节是全卡的快速对照区：把前面各章的要点压成自查表，答题或办案前各过一遍。本表先问四个比较问题——本阶段控制什么风险、对方怎样暴露错误、相近程序如何区分、结果如何接成下一步。
+
 | 问题 | 比较方法 |
 | --- | --- |
 | 本阶段先控制什么风险？ | 发信前记清拟告谁、为何告他及要求什么；代表公司时先核委托人与给指示者的授权。 |
@@ -1038,6 +1057,8 @@ flowchart LR
 | 如何把结果变成下一步？ | 发出令状与送达各用自己的时钟；核 O.6 r.8 的令状有效期并倒排实际送达 |
 
 ## 2. 顺向推进
+
+下表按办理顺序列出每一步谁做什么、交接什么产物；执行时逐行留档，跳步前先确认上一步的交接物已在手。
 
 | 步骤 | 参与者完成的工作 | 交接物 |
 | --- | --- | --- |
@@ -1052,12 +1073,16 @@ flowchart LR
 
 ## 3. 本届规则与操作边界
 
+下表区分本卡主制度与相邻规则的操作边界，防止把名字相近的工具混用。
+
 | 客户所求 / 核心规则节点 | 与本卡主制度的区别及操作边界 |
 | --- | --- |
 | 期限管理 | 诉讼时效约束何时起诉，令状有效期约束起诉后何时送达；分别登记并指定负责人。 |
 | 保全与沟通 | 若发信会促成资产转移，先核 CO13 的保全门槛及通知风险。 |
 
 ## 4. 办案流程控制与关键节点核查（Procedural Control & Case Verification）
+
+下表是发文与立案前的节点核查表：每个节点核对什么、发现缺口后做什么。
 
 | 核对项 | 当事人如何核对 | 发现缺口后的行动 |
 | --- | --- | --- |
@@ -1067,12 +1092,16 @@ flowchart LR
 
 ## 5. 横向程序联动与机制衔接（Inter-Procedural Coordination & Interface）
 
+下表列出本阶段与相邻程序的衔接点：期限管理、保全与沟通各在哪里相接。
+
 | 接口 | 两个程序如何衔接 |
 | --- | --- |
 | 期限管理 | 诉讼时效约束何时起诉，令状有效期约束起诉后何时送达；分别登记并指定负责人。 |
 | 保全与沟通 | 若发信会促成资产转移，先核 CO13 的保全门槛及通知风险。 |
 
 ## 6. 目标倒推与实务应对策略（Goal-Driven Strategy & Strategic Remedies）
+
+下表从客户的两个典型目标——收回损失、保住即将届满的申索——倒推所需的材料与行动，供对齐客户目的时使用。
 
 | 客户目标 | 从目标倒推所需材料与行动 |
 | --- | --- |
@@ -1086,6 +1115,8 @@ flowchart LR
 <!-- === AUDIT_ZONE_START (DO NOT SEND BELOW THIS LINE TO GPT) === -->
 > [!abstract]- 审计留痕：材料矩阵、待核事项与历史修订记录
 > 
+> **2026-11-15 修订（可读性重构：接通逻辑断头路＋还原制度真实功能＋清除伪黑话）。** ①14 个主节＋小节新增三问式导语（承上启下／制度真身／易混切割），原导语合并保留；②清除「解剖学／金标准/控制环/控制链/转换接口」等黑话并修复悬空指针与旧编号断头路（速读层新增旧编号对照行）；③file 类动词错译修正 3 处（提交→存档宣誓书）；④改后自锚断链 0，全库入站锚已集中同步；⑤引注守恒 411→426，旧引注逐条比对 0 缺失，新增 15 处均为同章节既有引注复用。遗留：正文历史 §一–§六/0A.x 旧编号引用未逐一改写（速读层已置对照路标，断链为零）。改名 7 条：`0H. 申请与操作工程：文书、送达和期限 → 0H. 实务操作清单：文书、送达与时限倒排`；`0B.6 从客户目标开始的五步控制环 → 0B.6 从客户目标出发的五步循环（PG-FLAP 课堂应用）`；`1. LBA 结构解剖学（Appendix B & C 评分要素） → 1. LBA 六段结构与评分要素（Appendix B & C）`；`2. 双版本金标准实战模板 → 2. 双版本完整范本：致雇主版与致司机版`；`0E.1 WASP的行动与时间 → WASP 四步的行动与时间`；`0E.2 八项评分与讲师真正的示范评价 → 八项评分指标与讲师对示范学生的评价`；`0K.3 …（面谈事实向诉答实质事实转换接口） → …（面谈事实如何转成诉状的实质事实）`。门禁：cite_check error 0／warn 61（与基线持平）；check_one non-ok 1（审计区内指向 Master 的既有坏锚，按纪律未动）。备份：`_workspace/backup-2026-11-15-co-readable-batch/`。
+>
 > **本轮修订**：按现行节号统一正文及跳转标签，归并高阶模型表，补全程序行动句，并将原引注移至段末、列表项末或相应单元格末。
 > 
 > 本轮统一操作、攻防、后果与实务应用的章节编号，并保留原有资料与历史核对记录。
@@ -1292,6 +1323,7 @@ flowchart LR
 > - **往届 [LG02] 夹 LG2 Lecture Outline 仅 PDF（库内无 md 伴生）**：未逐页核读；若需与本届 LG2 大纲逐段比对，须先转换或按 📄 页码引用，不伪造行号。
 > - **0B 总表行 8「错向高院起诉的讼费核减机制」**：与上方既有 open 项（§一 1 L94 两条）同源，维持「本届无明文＋往届学生稿一说」并列，不裁决。
 > 
+> - **【O-R1】O-R1｜2026-11-15｜正文仍残留历史编号 §一–§六／0A.x 交叉引用（未逐一改写，速读定位层已加新旧对照行作路标）；如需彻底统一编号另行批量处理。**
 > <!-- END:open -->
 > ## 2026-10-06 实质内容入口
 > 
