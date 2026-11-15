@@ -43,7 +43,7 @@ SG课表安排:
 - PCLL8010 SG4：2026-10-15 19:00–21:00；出处 工作表7!E13:E27
 - PCLL8010 SG5：2026-10-22 19:00–21:00；出处 工作表8!E13:E33
 - PCLL8010 SG6：2026-10-29 19:00–21:00；出处 工作表9!E15:E29
-课表来源: '[PCLL PT Yr1 (General)/2026-27 1st Sem PT YR1 PCLL Timetable (24.08.2026).xlsx](obsidian://open?vault=3b1e77255f6c6e29&file=PCLL%20PT%20Yr1%20%28General%29%2F2026-27%201st%20Sem%20PT%20YR1%20PCLL%20Timetable%20%2824.08.2026%29.xlsx)'
+课表来源: 'PCLL PT Yr1 (General)/2026-27 1st Sem PT YR1 PCLL Timetable (24.08.2026).xlsx'
 课表版本: 24.08.2026
 课表核对日期: '2026-10-01'
 课表说明: 按用户指定原课表登记，不代表材料已齐或课程已上；时区Asia/Hong_Kong。预录周次不是固定授课日期；未据后续通知改写。
@@ -56,7 +56,7 @@ SG课表安排:
 
 
 
-# 诉答文书、抗辩、反申索与第三方程序
+# CO04–05–10 — 诉答、抗辩、反申索与第三方程序
 
 ## 速读定位层
 
@@ -129,7 +129,7 @@ flowchart TD
 > | SG3DK | [SG03 Classroom & Desk（本届 SG 主控；原「00 Classroom」与「01 Desk」已正名合并，2026-10-10 改指，§7 第 13 项留痕）](../../01%20SG/SG03%20Drafting%20SoC%20I%20-%20Contract/00%20Classroom%20&%20Desk.md) | 凝结层 | 2026-27 |
 > | SG4CL | [SG04 Classroom & Desk（本届 SG 主控·任务总览与作业 DDL；原「00 Classroom」已正名，2026-10-10 改指）](../../01%20SG/SG04%20Drafting%20SoC%20II%20-%20Negligence/00%20Classroom%20&%20Desk.md) | 凝结层 | 2026-27 |
 > | SG4RS | [SG04当前TQ主答案（SG4RS旧Research已退役；只承接案卷身份核对）](../../01%20SG/SG04%20Drafting%20SoC%20II%20-%20Negligence/01%20Exercise%201%20-%20Timetabling%20Questionnaire.md) | 凝结层 | 2026-27 |
-> | MATRIX | [03 真题矩阵与解析（凝结层·本库自撰）](../00%20Master/03%20Past%20Paper%20Matrix%20and%20Analysis.md) | 凝结层 | 2026-27 |
+> | MATRIX | [03 真题矩阵与解析（凝结层·本库自撰）](../_meta/Master%20Archive%202026-11-14/03%20Past%20Paper%20Matrix%20and%20Analysis.md) | 凝结层 | 2026-27 |
 > | OLD-LG10 | [LG10 - Drafting DCC and TP（往届讲义·L14 自署 2025-2026）](../../04%20Base%20Lectures/%5BLG10%5D%20Drafting%20Defence%20and%20Counterclaim%20and%20Third%20Party%20Procedure/LG10%20-%20Drafting%20DCC%20and%20Third%20Party%20Procedure%20%28VC%29.md) | 往届官方 | 2025-26 |
 > | OLD-SET3P | [Set 3「LG5 Pleadings」学生笔记（往届）](../../06%20Base%20Exam%20Notes/Set%203/LG5%20Pleadings.md) | 往届学生稿 | 2025-26 |
 > | OLD-SET3S | [Set 3「LG6 SOC」学生笔记（往届）](../../06%20Base%20Exam%20Notes/Set%203/LG6%20SOC.md) | 往届学生稿 | 2025-26 |
@@ -277,7 +277,7 @@ LG4讲授一般endorsement（随后另送SoC）及特别endorsement（SoC随writ
 
 一般endorsement可在临近时效时以摘要先签发，但随后SoC仍须按程序送；“避免公众见到商业秘密”的课堂动机不等于免于最终plead materialfacts或获得永久保密。需另核真正有权申请的保密方向，不能靠writ类型许诺。 <small style="opacity: 0.55">〔CAP-C4 L679 "there's less information."〕</small>
 
-### 2.2 状态机模型（State Variables）
+### 2.2 诉答阶段流转与法定死线（Pleadings Timeline & Milestones）
 
 ```mermaid
 stateDiagram-v2
@@ -321,7 +321,7 @@ stateDiagram-v2
 | **Gate 1** | **实质事实排他闸门** | O.18 r.7(1)<br>*Ng Kam Chuen* | **只陈述构成诉由所必需的实质事实（Material Facts），严禁陈述证据（Evidence）与法律论辩（Legal Arguments）**。违者构成冗赘与程序尴尬，面临被剔除风险。 | <br><br>。 <small style="opacity: 0.55">〔LG4V L260 "Every pleading must contain only a statement in a summary form of the material facts"〕〔LG4V L264 "material facts = facts necessary … complete cause of action (Bruce v Odhams Press"〕〔LG4V L268 "do NOT plead evidence that use to prove material facts"〕</small> |
 | **Gate 2** | **答辩回应与争点防线** | O.18 r.13／r.14 | 依r.13(1)、(3)、(5)、(6)具体回应；否认给理由及拟依赖的版本。r.13(4)已废除，不以旧“赔偿金额自动否认”代替回应；无新积极事实时，Reply与joinder另按本卡第4章。 | <small style="opacity: 0.55">〔CL10R L108 "(4) (Repealed)"〕〔CL10R L120 "the nature of his case in relation to the issue"〕</small> |
 | **Gate 3** | **矛盾主张与诚信闸门** | O.18 r.10(1) / r.12A<br>O.41A RHC | **严禁在后续诉答或修改中提出与先前诉答「不一致」之主张**；按 *Goldon Investment*，「不一致」指**新的事实或不同的事实（new or different），无须达到互相排斥（no need to be mutually exclusive）**；例外：有合理依据且以替代表述提出（O.18 r.12A、r.10(2)），或依 O.20 申请许可修改先前诉答（r.10(2)）。文书必须经由具名授权人士签署真实陈述书（Statement of Truth），虚假陈述构成藐视法庭罪。 | <br><br>。 <small style="opacity: 0.55">〔LG4V L432 "matters pleaded cannot be inconsistent with what had been pleaded in previous pleadings"；LG4V L434 "“inconsistent” = new or different, no need to be mutually exclusive"〕〔LG4V L438 "reasonable grounds for so doing and the allegations are made in the alternative"；LG4V L454 "apply for “leave to amend previous pleading” under O.20"〕〔LG4V L222 "Every pleading must be verified by a Statement of Truth"；LG4V L232 "The person signing must state his/her office or position in the Statement of Truth"；LG4V L254 "if made a false statement = contempt of court"〕</small> |
-| **Gate 4** | **诉答完结与里程碑闭环闸门** | O.18 r.20<br>O.18 r.2 / r.3 | 诉答在送达 Reply 后 **14 天**（或无 Reply 时送达 Defence 后 **28 天**）自动完结。该时点触发相应案件管理与披露程序；它不使事实争议永远不可修改，之后拟改诉答须按O.20取得适当许可并满足相关条件。 | <br>。 <small style="opacity: 0.55">〔LG4V L697 "14 days after the service of the reply … close of pleadings (O.18 r.20(1))"；LG4V L691 "28 days after service of the defence (and counterclaim)"〕〔LG4V L690 "D to serve defence (and counterclaim) within 28 days"；LG4V L692 "P to serve reply and/or defence to counterclaim within 28 days"〕</small> |
+| **Gate 4** | **诉答完结与后续程序准入审查（Close of Pleadings & Milestone Stage）** | O.18 r.20<br>O.18 r.2 / r.3 | 诉答在送达 Reply 后 **14 天**（或无 Reply 时送达 Defence 后 **28 天**）自动完结。该时点触发相应案件管理与披露程序；它不使事实争议永远不可修改，之后拟改诉答须按O.20取得适当许可并满足相关条件。 | <br>。 <small style="opacity: 0.55">〔LG4V L697 "14 days after the service of the reply … close of pleadings (O.18 r.20(1))"；LG4V L691 "28 days after service of the defence (and counterclaim)"〕〔LG4V L690 "D to serve defence (and counterclaim) within 28 days"；LG4V L692 "P to serve reply and/or defence to counterclaim within 28 days"〕</small> |
 
 ### 2.4 顺向推进：从收案到诉答攻防的触发→行动→产出
 
@@ -857,7 +857,7 @@ LG5明确作业和draftingpaper以Pleadings Drafting Guide核：Presentation30%�
 
 ### 8.3 建模闸门表
 
-> 本表自原 Supplement §8.4「工程控制论」并入，与 §2.2 状态机、§2.3 四闸门互补：状态机看流转、四闸门看法律要件、本表看办案检查动作。**建模目的**：把"读过讲义"变成可检查的状态；法定条件见 §1.1 各 playbook，本表记录信息输入、闸门及失败后的反馈动作。
+> 本表自原规范结构并入，与 §2.2 诉答阶段流转、§2.3 四大准入门槛互补：流程图看程序推进、准入门槛看实体要件、本表看实务办案核查动作。**核查目的**：将讲义规则转化为实务可操作检查步骤；法定条件见 §1.1 各 playbook，本表记录信息输入、准入要件及未通过时的补救动作。
 
 | 状态变量 | 检查闸门 | 未通过时的反馈 |
 | --- | --- | --- |
@@ -1116,7 +1116,7 @@ LG10课堂指出interest可由全案否认的性质及r13(6)覆盖，但单独�
 ---
 
 #### 课堂实务演练要点精炼（自原第 10 节归拢）：
-#### 10.1 历年真题标准考核模型穿透
+#### 10.1 历年真题标准考核点深度拆解（Past Paper In-Depth Analysis）
 
 | 考卷年份与题号 | 核心案情事实与模板 | 涉及考点 | 标准踩分点与解题路径 |
 | --- | --- | --- | --- |
@@ -1187,7 +1187,7 @@ LG10课堂指出interest可由全案否认的性质及r13(6)覆盖，但单独�
 
 备位s37(4)须有经过合理时间保留而未通知拒绝，按s37(5)考虑检查机会；不等于没有搬回货物自动接受。2022→2026实际超过四年，不把案卷概数three years当算式。接受影响拒货，不自动消灭所有违约damages或价款抵减，仍分别查真实条款、违约、损失、因果。完整法源访问与版本限制在SG05Shared分析登记，不称已读2026在线整编全文。（往届仅参考方法及研究线索）。 <small style="opacity: 0.55">〔SG5OLD L30 "s.37(4) SOGO"·往届仅参考〕</small>
 
-#### 10.7 E. 取证、后果与反馈闭环
+#### 10.7 E. 取证、违规后果与救济反馈机制（Evidence, Sanctions & Relief）
 
 | 想达到的结果 | 倒推需核什么 | 影响的答案／文件 |
 | --- | --- | --- |
@@ -1249,7 +1249,7 @@ O16不创造indemnity。Walter向Clement付300,000、向Ann收800,000、假瓶�
 | 回应与主动申索 | Set-off 用于抵减申索；独立要求法院判给救济应考虑 counterclaim。 |
 | 诉答与披露 | 先用 pleadings 界定争点，再用 CO08 的规则判断哪些文件与争点相关。 |
 
-## 4. 工程控制论
+## 4. 办案流程控制与关键节点核查（Procedural Control & Case Verification）
 
 | 核对项 | 当事人如何核对 | 发现缺口后的行动 |
 | --- | --- | --- |
@@ -1257,7 +1257,7 @@ O16不创造indemnity。Walter向Clement付300,000、向Ann收800,000、假瓶�
 | 逐项回应 | Defence 从 SoC 送达及 AOS 期限届满两者较迟日起算；另核书面延期及法院命令 | 被告逐项 admit、deny 或 not admit，并陈述自己的事实版本；应特别诉答的抗辩及时列明。 |
 | 诉答终结 | 按 O.18 r.20 确认 deemed close，交接 CO11 的 timetable 与 CO08 的 discovery | 区分 particulars、amendment 与 striking out；核 Statement of Truth、送达及实际截止日期。 |
 
-## 5. 横向耦合
+## 5. 横向程序联动与机制衔接（Inter-Procedural Coordination & Interface）
 
 | 接口 | 两个程序如何衔接 |
 | --- | --- |
@@ -1273,7 +1273,7 @@ O16不创造indemnity。Walter向Clement付300,000、向Ann收800,000、假瓶�
 | **SOC 瑕疵 → O.14 简易判决** | 不完整 SOC 上不能取得简易判决，应撤回传票、改完再申请。 <small style="opacity: 0.55">〔📄OLD-25JM p.4 "summary judgment cannot be obtained on an incomplete statement of claim" ·往届仅参考；LG4V L528 "A party may, without the leave of the Court, amend any pleading of his once at any time before the close of pleadings"〕</small> |
 | **诉答完结 → 案件管理与披露** | close of pleadings 开动排期问卷（→ [CO11 案件管理卡](%5BCO11%5D%20Case%20Management%20and%20Trial%20Organisation%20System.md)）与 14 日交换文件清单（→ [CO08 证据准备卡](%5BCO08%5D%20Evidence%20Preparation%20System%20-%20Discovery%20Witnesses%20and%20Experts.md)）。 <small style="opacity: 0.55">〔LG8V L25 "within 14 days of the close of the pleadings"〕</small> |
 
-## 6. 逆向选择
+## 6. 目标倒推与实务应对策略（Goal-Driven Strategy & Strategic Remedies）
 
 | 客户目标 | 从目标倒推所需材料与行动 |
 | --- | --- |
@@ -1339,20 +1339,15 @@ O16不创造indemnity。Walter向Clement付300,000、向Ann收800,000、假瓶�
 
 材料矩阵、来源及修订记录见紧接的折叠审计区。
 
-###### 11.1 横向耦合：诉答与相邻程序的相互牵动
+###### 11.1 横向程序联动：诉答与相邻程序的相互牵动
 
-见 [现行章节](#5.%20%E6%A8%AA%E5%90%91%E8%80%A6%E5%90%88)。
+见 [现行章节](#5.%20%E6%A8%AA%E5%90%91%E7%A8%8B%E5%BA%8F%E8%81%94%E5%8A%A8%E4%B8%8E%E6%9C%BA%E5%88%B6%E8%A1%94%E6%8E%A5%EF%BC%88Inter-Procedural%20Coordination%20&%20Interface%EF%BC%89)。
 
-###### 11.2 逆向选择：从客户目标倒推诉答工具
+###### 11.2 目标倒推：从客户目标倒推诉答工具选择
 
-见 [现行章节](#6.%20%E9%80%86%E5%90%91%E9%80%89%E6%8B%A9)。
+见 [现行章节](#6.%20%E7%9B%AE%E6%A0%87%E5%80%92%E6%8E%A8%E4%B8%8E%E5%AE%9E%E5%8A%A1%E5%BA%94%E5%AF%B9%E7%AD%96%E7%95%A5%EF%BC%88Goal-Driven%20Strategy%20&%20Strategic%20Remedies%EF%BC%89)。
 
 <!-- === AUDIT_ZONE_START (DO NOT SEND BELOW THIS LINE TO GPT) === -->
-
----
-
-## 审计留痕：材料矩阵、待核事项与历史修订记录
-
 > [!abstract]- 审计留痕：材料矩阵、待核事项与历史修订记录
 > 
 > **本轮修订**：按现行节号统一正文及跳转标签，归并高阶模型表，补全程序行动句，并将原引注移至段末、列表项末或相应单元格末。
@@ -1403,7 +1398,7 @@ O16不创造indemnity。Walter向Clement付300,000、向Ann收800,000、假瓶�
 > | `SG3DK` | **凝结层·SG03 Classroom & Desk（本届 SG 主控）** | [00 Classroom & Desk.md](../../01%20SG/SG03%20Drafting%20SoC%20I%20-%20Contract/00%20Classroom%20&%20Desk.md) | 现行文件列两道本届题：Exercise 1 自动售货机违约案（Collectors Corner v Milliontech）、Exercise 2 房屋装修延误案（Ng Ho Choi v Mo See Chun）；原「00 Classroom」与「01 Desk」2026-10 正名合并为本件，旧版所注「Contract Batch A–D＝2021-22 ATF v Runway、非 SG3 题面」未随新件保留（2026-10-10 撤回改引，见 §5.2 SG03 注与 §7 第 13 项）
 > | `SG4CL` | **凝结层·SG04 Classroom & Desk（本届 SG 主控）** | [00 Classroom & Desk.md](../../01%20SG/SG04%20Drafting%20SoC%20II%20-%20Negligence/00%20Classroom%20&%20Desk.md) | 现行主控：Exercise 1＝Contract 案排期问卷（模拟 2021-10-11）、Exercise 2＝Aurora 疏忽 SoC（Assignment 1 必交，DDL 2026-10-27 17:30）；原「00 Classroom」2026-10 正名为本件，旧版「Activity Plan 尚未入库」快照作废留痕
 > | `SG4RS` | **凝结层·SG04 底层研究（2026-10-10 新登，接替已失效的 `SG4DK`）** | [03 Research - Questions, Facts & Evidence.md](../../01%20SG/SG04%20Drafting%20SoC%20II%20-%20Negligence/01%20Exercise%201%20-%20Timetabling%20Questionnaire.md) | Contract Case File 案卷对应：HCA 3388/2021，ATF Limited v Runway Fashion Limited（原告 v 被告）；SG04 两 Exercise 的原题、证据链与法理分析主述
-> | `MATRIX` | **凝结层·本库自撰** | [03 真题矩阵与解析](../00%20Master/03%20Past%20Paper%20Matrix%20and%20Analysis.md) | 2022–2025 各题踩分点的横向整理（本卡与之互校；原始出处一律回指试卷／mark sheet 原件） 
+> | `MATRIX` | **凝结层·本库自撰** | [03 真题矩阵与解析](../_meta/Master%20Archive%202026-11-14/03%20Past%20Paper%20Matrix%20and%20Analysis.md) | 2022–2025 各题踩分点的横向整理（本卡与之互校；原始出处一律回指试卷／mark sheet 原件） 
 > | `OLD-LG10` | **往届官方·LG10 抗辩与反诉讲义（670 行，L14 自署 2025-2026）** | [md](../../04%20Base%20Lectures/%5BLG10%5D%20Drafting%20Defence%20and%20Counterclaim%20and%20Third%20Party%20Procedure/LG10%20-%20Drafting%20DCC%20and%20Third%20Party%20Procedure%20%28VC%29.md) | 本届 Moodle 未发放对应讲次，故抗辩／反诉之补强出处只能用它，引用一律带「·往届仅参考」。L319 O.18 r.17 set-off、L323「shield, not sword」、L327–333 O.15 r.2／r.3 反诉（L329 反诉有独立生命）、L147／L161 traverse 与积极案情要求 
 > | `OLD-SET3P` | **往届学生稿·Set 3「LG5 Pleadings」笔记（710 行）** | [md](../../06%20Base%20Exam%20Notes/Set%203/LG5%20Pleadings.md) | ⚠️ 编号陷阱：往届把诉答讲次叫作「LG5」，而**本届的叫 LG4**；本卡引用它只作互校，不作规则出处 
 > | `OLD-SET3S` | **往届学生稿·Set 3「LG6 SOC」笔记（1537 行）** | [md](../../06%20Base%20Exam%20Notes/Set%203/LG6%20SOC.md) | 起诉状七步工程、违约／疏忽标准 particulars、约定利息 vs s.48 HCO 对比、欺诈／信托／心智之细节指明（与 LG4／LG5 讲义有出入处以本届讲义为准） 
@@ -1415,7 +1410,7 @@ O16不创造indemnity。Walter向Clement付300,000、向Ann收800,000、假瓶�
 > 
 > > ⚠️ **学年与编号边界提示（2026-09-29 引注改造时复核）**：
 > > 1. `OLD-LG10`／`OLD-SET3P`／`OLD-SET3S`／`OLD-24*`／`OLD-23*`／`OLD-25JM` 为**往届材料**，本卡引用其出处一律带「·往届仅参考」，行文亦须点明届别（检查器 C7／C8）。
-> > 2. **讲次编号错位**：本届 LG4 = 旧 `[LG05] Pleadings`，本届 LG5 = 旧 `[LG06] Drafting SOC`，本届 LG6 = 旧 `[LG04] Default Judgments`（对照见 [Structure Map](../00%20Master/Structure%20Map.md)）。本卡文件名 `[LG04-05]` 用的是**旧**编号，其内容对应**本届 LG4＋LG5**；往届 Set 3 笔记把诉答叫「LG5」、把起草 SoC 叫「LG6」，引用时不得与本届同号讲义混同。
+> > 2. **讲次编号错位**：本届 LG4 = 旧 `[LG05] Pleadings`，本届 LG5 = 旧 `[LG06] Drafting SOC`，本届 LG6 = 旧 `[LG04] Default Judgments`（对照见 [Structure Map](../00%20Master/00%20Master%20Overview%20&%20Flowcharts.md#1.%20%E5%8D%81%E4%B8%89%E5%BC%A0%E4%B8%BB%E5%8D%A1%E7%9A%84%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6)）。本卡文件名 `[LG04-05]` 用的是**旧**编号，其内容对应**本届 LG4＋LG5**；往届 Set 3 笔记把诉答叫「LG5」、把起草 SoC 叫「LG6」，引用时不得与本届同号讲义混同。
 > > 3. ⚠️ **两处 HCO s.31 之出处**：原 `[S-STATUTE]` 行把 HCO s.31 挂在 LG4 讲义名下，实则 LG4 全文只论 s.48（利息）；暑期休庭规则出处在本届 LG3 讲义 L225–231，本卡已改挂 `LG3V`。§3.1 小标题文字（含「& HCO s.31」）依「标题契约」未改 
 > > 4. **2026-10-23订正**：原损害赔偿额“自动否认”说法撤回；本届LG10 Reference载该款已废除，见§3.3及本轮修订记录。旧“不作库外核验”口径已由固定规范§15／§3.4取代。〔CL10R L108 "(4) (Repealed)"〕
 > ---
@@ -1451,7 +1446,7 @@ O16不创造indemnity。Walter向Clement付300,000、向Ann收800,000、假瓶�
 > | SG3DK／SG4CL／SG4RS：SG03／SG04 现行主控与底层研究 | 凝结层（本届） | 2026-10 正名后改指；SG 答案与作业入口 |
 > | MATRIX：03 真题矩阵与解析 | 凝结层（本库自撰） | 互校；D-MATRIXINC 口径冲突并列中（以本届讲义为准） |
 > | OLD-SET3P／OLD-SET3S：Set 3「LG5 Pleadings」「LG6 SOC」学生笔记 | 往届学生稿 | 全读（往届仅参考）；编号错位警示与起草细目互校 |
-> | OLD-24J／24JM／23L／23LM／25JM／25K：往届真题与评分表 | 往届官方 | §10.1 穿透（往届仅参考） |
+> | OLD-24J／24JM／23L／23LM／25JM／25K：往届真题与评分表 | 往届官方 | §10.1 深度解析（往届仅参考） |
 > | LG8V：本届 LG8 Discovery 大纲 | 本届讲义 | Peruvian Guano 相关性接口与 close-of-pleadings 时钟两处 |
 > | SG05／SG06 现行主控 | 本届 SG | SG05：2026-10-22已核完整AP及课堂稿，见文末应用；SG06仍仅辐射定位 |
 > | LG4 Reference Material 其他附件；O.18／O.20／O.41A／O.15／O.16／PD 19.1 条文官方原文 | 库外／未到 | **未读**；本卡条文内容均沿本届讲义转述，旧“不作库外核实”口径已撤回（固定规范§15）；2026-10-23取得RHC O15／16／18／41A再刊，O20／PD19.1仍须核，不能以已取得部分声称全覆盖；后果链三处"库内无明文"登记 open 块 O-P1–O-P3 |

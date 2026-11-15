@@ -33,7 +33,7 @@ SG课表安排:
   - "PCLL8010 SG2 Interviewing Exercise (A)：2026-09-17 09:00–21:30；全日面谈安排／教室预约窗口，不是个人上课时段；须另看通知；出处 工作表3!E13:E23"
   - "PCLL8010 SG2 Interviewing Exercise (B)：2026-09-18 09:00–21:30；全日面谈安排／教室预约窗口，不是个人上课时段；须另看通知；出处 工作表3!F13:F23"
   - "PCLL8010 SG3：2026-10-08 19:00–21:00；出处 工作表6!E13:E27"
-课表来源: "[PCLL PT Yr1 (General)/2026-27 1st Sem PT YR1 PCLL Timetable (24.08.2026).xlsx](obsidian://open?vault=3b1e77255f6c6e29&file=PCLL%20PT%20Yr1%20%28General%29%2F2026-27%201st%20Sem%20PT%20YR1%20PCLL%20Timetable%20%2824.08.2026%29.xlsx)"
+课表来源: "PCLL PT Yr1 (General)/2026-27 1st Sem PT YR1 PCLL Timetable (24.08.2026).xlsx"
 课表版本: "24.08.2026"
 课表核对日期: "2026-10-01"
 课表说明: "按用户指定原课表登记，不代表材料已齐或课程已上；时区Asia/Hong_Kong。预录周次不是固定授课日期；未据后续通知改写。"
@@ -44,7 +44,7 @@ SG课表安排:
 
 
 
-# 接案指示、诉前行为与诉前催告函
+# [CO01] Taking Instructions, Pre-Action Conduct & Drafting LBA
 
 ## 速读定位层
 
@@ -162,7 +162,7 @@ flowchart TD
 > | OLD-24JM | [4. 2024 JAN - Mark Sheet.pdf（库内仅 pdf）](../../02%20Past%20Papers/2024-01%20Jan/4.%202024%20JAN%20-%20Mark%20Sheet.pdf) | 往届官方 | 2023-24 |
 > | OLD-24L | [5. 2024 JULY.pdf（库内仅 pdf）](../../02%20Past%20Papers/2024-07%20Jul/5.%202024%20JULY.pdf) | 往届官方 | 2023-24 |
 > | OLD-23JM | [3. 2023 JULY - Mark Sheet.pdf（库内仅 pdf）](../../02%20Past%20Papers/2023-07%20Jul/3.%202023%20JULY%20-%20Mark%20Sheet.pdf) | 往届官方 | 2022-23 |
-> | MASTER1 | [01 时限表（凝结层·本库自撰）](../00%20Master/01%20Deadlines%20and%20Time%20Limits.md) | 凝结层 | 2026-27 |
+> | MASTER1 | [01 时限表（凝结层·本库自撰）](../_meta/Master%20Archive%202026-11-14/01%20Deadlines%20and%20Time%20Limits.md) | 凝结层 | 2026-27 |
 > | CAP-C1A | [PCLL8010 LG1A FT](../../99%20Moodle%20Mirror/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG1%20-%20LG1A%20and%20LG1B/Panopto%20Captions%20%28local%20export%29/8010_LG01A_FT.md) | 本届讲义 | 2026-27 |
 > | CAP-C1B | [PCLL8010 LG1B PT](../../99%20Moodle%20Mirror/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG1%20-%20LG1A%20and%20LG1B/Panopto%20Captions%20%28local%20export%29/8010_LG01B_PT.md) | 本届讲义 | 2026-27 |
 > | LG2V | [LG2 Lecture Outline（本届大纲·内页自署 2025-2026，授课日期 2026）](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG2%20Lecture%20Outline.md) | 本届讲义 | 2026-27 |
@@ -176,13 +176,13 @@ flowchart TD
 
 本制度卡将立案前（Pre-Action）的一切繁杂规则，完全还原并锚定在民事诉讼的**五大第一性原则**中：
 
-| 维度 | 阶段一制度映射与控制逻辑 |
+| 维度 | 阶段一制度映射与实务逻辑 |
 | --- | --- |
 | **1. 第一性原理** | **告知 (Notice)** · **界定 (Define)** · **证明 (Prove)** · **效率与代价 (Cost & Efficiency)** |
-| **2. 工程控制论** | **状态变量**（时效倒计时、被告资力、董事授权）$\longrightarrow$ **闸门控制**（时效闸门、适格闸门、管辖闸门）$\longrightarrow$ **反馈回路**（诉前行为影响 O.62 r.5 讼费裁量、和解正反馈）。 <small style="opacity: 0.55">〔LG1V L409 "the Court in exercising its discretion as to costs shall take into account all the parties' conduct"〕</small> |
+| **2. 办案流程控制** | **关键考量变量**（时效倒计时、被告资力、董事授权）$\longrightarrow$ **法定准入审查**（时效审查、当事人适格审查、法院管辖审查）$\longrightarrow$ **程序后果与反馈**（诉前行为影响 O.62 r.5 讼费裁量、和解正向激励）。 <small style="opacity: 0.55">〔LG1V L409 "the Court in exercising its discretion as to costs shall take into account all the parties' conduct"〕</small> |
 | **3. 竖向主干** | 会见接案 $\longrightarrow$ 事实与资力调查 $\longrightarrow$ 发送 LBA $\longrightarrow$ 保护性令状 $\longrightarrow$ 区域法院正式立案（全流程时间线） |
-| **4. 横向耦合** | LBA 异步牵动数月后法庭依 O.62 r.5(1)(e)、r.5(2)(d) 的讼费裁量；保护性令状锁定诉权但解耦送达时钟；雇主转承责任与司机个人过失合并审理。 <small style="opacity: 0.55">〔LG1V L409 "if the Court considers a party to have acted unreasonably before action, it may order that party to pay the other party's costs"〕</small> |
-| **5. 逆向推导** | 终极追讨损失 $\longrightarrow$ 逆推必须查册车险与雇主资力（防空判）；调查未完 $\longrightarrow$ 逆推使用保护性令状（防时效灭失） |
+| **4. 横向程序联动** | LBA 发送牵动数月后法庭依 O.62 r.5(1)(e)、r.5(2)(d) 的讼费裁量；保护性令状锁定诉权但暂不启动送达时钟；雇主转承责任与司机个人过失合并审理。 <small style="opacity: 0.55">〔LG1V L409 "if the Court considers a party to have acted unreasonably before action, it may order that party to pay the other party's costs"〕</small> |
+| **5. 目标倒推推导** | 终极追讨损失 $\longrightarrow$ 逆推必须查册车险与雇主资力（防空判）；调查未完 $\longrightarrow$ 逆推使用保护性令状（防时效灭失） |
 
 ### 1. 原则一：第一性原理（First Principles — 诉讼不可再拆的底层需求）
 
@@ -190,7 +190,7 @@ flowchart TD
 
 - **告知（Notice）**：通过正式的索赔函（LBA）与令状背书（Indorsement of Claim），向对方充分披露侵权/违约事实与法律依据，满足程序知情权；
 - **界定（Define）**：准确界定适格原告（Greenhouse 油站拥有人）与责任主体（司机个人直接过失 + 雇主转承责任 *Vicarious Liability*）；
-- **证明（Prove）**：构建“最终经济损失承担闭环”（油站权属 + 事故因果 + Supplies 发票与债务承担凭证 + 董事会授权决议案）；
+- **证明（Prove）**：构建“最终经济损失承担证据链条”（油站权属 + 事故因果 + Supplies 发票与债务承担凭证 + 董事会授权决议案）；
 - **效率与代价（Cost & Efficiency）**：严格依 HK$571,300 标的额选择区域法院（*DCO s.32*；发票金额见），防范把 300 万以下的申索投入高院而触发 **DCO s.43(3)** 的移交（原讼法庭须移交区域法院，除非案情复杂宜在高院审理）及**可能**按地院标准评定讼费（⚠️ 「按地院标准核定讼费／Taxation on DC scale」这一机制本身在本届讲义与幻灯中无明文，与本卡 §二 1 表 CFI 行、§一 2 管辖闸门、§六 红线 3 同一「可能」口径；参见 [00 Classroom §4 Q1](../../01%20SG/SG01%20Drafting%20LBA/00%20Classroom%20&%20Desk.md) 末两说并列）；「核减 35%–40%」这一具体比例**库内无本届依据**，只见于往届（2025-26）Set 1 学生稿，该生稿同段并有「the court can have the cost to be taxed on a DC level」一语（[往届 Set 1 SG1 学生稿](../../05%20Base%20Prior-year%20SG/%5BSG01%5D%20Introduction%20to%20Civil%20Litigation%20&%20Drafting%20LBA/Set%201/Civil%20Litigation_SG1.md) L24，学生答案・非官方，其语义为「高院评定标准比地院高 35–40%」，与本卡「跨级起诉即被核减 35%–40%」并非同一命题）→。 <small style="opacity: 0.55">〔INTRO1 L147 "Money claims: up to $3 million: DC Ordinance (Cap.336)"〕〔📄BATCH-A p.27 "Invoice No: SP 999666 … HK$289,500"〕〔INTRO1 L235 "the CFI must transfer to DC unless the complexity of the case warrants it to be heard at CFI"〕〔❓「错向高院起诉即按地院标准核定讼费」本届讲义与幻灯均无明文·待核〕〔OLD-SET1 L24 "The cost at HC is 35-40% more than DC" ·往届仅参考〕〔OLD-SET1 L24 "the court can have the cost to be taxed on a DC level" ·往届仅参考〕〔❓「核减 35%–40%」这一比例无任何届别明文·待核〕</small>
 
 
@@ -212,20 +212,20 @@ flowchart TD
 
 客户与证人不是同一对象：证人未必主动求助、可能不愿参与；不要因其版本与客户不同就认定说谎。应适当测试矛盾并评估可靠性，而不是替客户重写证人记忆。 <small style="opacity: 0.55">〔LG2V L209 "There are numerous differences between interviewing a client and interviewing"〕</small>
 
-### 2. 原则二：工程控制论（Cybernetic Control — 状态 · 闸门 · 反馈回路）
-- **状态变量（State Variables）**：
+### 2. 原则二：办案流程控制（Procedural Control — 案件状态 · 准入门槛 · 程序反馈）
+- **关键考量变量（Key Case Variables）**：
   - 时效剩余时钟（Limitation clock）：2020-01-13 事故，6 年侵权时效倒计时；
   - 被告资力与保险状态（Solvency / Insurance）：司机是否为 "Straw Man"，雇主是否有有效商用车险；
   - 授权状态（Corporate Authority）：董事会书面决议案是否已签署——**案卷内该决议的功能是「THAT solicitors be instructed to act on behalf of the Company」与「THAT George Po be authorised to represent the Company to give instructions」**，即**授权 Po 委托律师并代表公司向律师发出指示**（案卷 A17 董事会书面决议，三名董事均于 13.04.2020 签署，同页；接案会谈记录为 A1）。它与 *RDC* O.5A r.2「董事不经律师而代表公司开始或继续进行诉讼」的三要件**不是同一件事**（见 §二 3「有限公司」行 ⚠️ 注）。 <small style="opacity: 0.55">〔📄BATCH-A p.33 "THAT solicitors be instructed to act on behalf of the Company"〕〔📄BATCH-A p.33 "THAT George Po be authorised to represent the Company to give instructions"〕〔📄BATCH-A p.1 "Attendance Note … asking for advice in relation to an accident which took place at Greenhouse’s petrol service station in Shatin"〕</small>
-- **闸门控制（Gatekeepers — 错一步即出局）**：
+- **准入门槛控制（Gatekeepers — 错一步即出局）**：
   - **时效闸门**：时效届满前必须完成“发出令状（Issue Writ）”，否则诉权永久灭失；
   - **适格闸门**：若错误以开票姊妹公司起诉，触发 *RDC O.18 r.19* 被告申请直接剔除诉状（本届 LG4 讲义所列事由：）。 <small style="opacity: 0.55">〔LG4V L626 "discloses no reasonable cause of action or defence"〕〔LG4V L650 "abuse of the process of the Court"〕</small>
   - **管辖闸门**：标的额未超 300 万不可滥入高院，否则依 *DCO s.43(3)* 原讼法庭须把案件移交区域法院（除非案情复杂），并可能仅按地院标准核定讼费（Taxation on DC scale，⚠️ 本届讲义无明文，惟往届（2025-26）学生稿有此说）。 <small style="opacity: 0.55">〔INTRO1 L235 "the CFI must transfer to DC unless the complexity of the case warrants it to be heard at CFI"〕〔OLD-SET1 L24 "the court can have the cost to be taxed on a DC level" ·往届仅参考〕〔❓机制本身无本届依据·待核〕</small>
-- **反馈回路（Feedback Loops）**：
+- **程序反馈机制（Feedback Loops）**：
   - **诉前行为负反馈**：发 LBA **一般并非强制**，唯一例外是人身伤害申索（依 PD 18.1；本届幻灯同义）；本案是财产损失，PD 18.1 不适用。但法庭裁量讼费「须考虑各方诉前及诉讼中的行为」（*O.62 r.5(1)(e)、r.5(2)(d)* RHC (Cap. 4A)），若认定某方诉前行为不合理，**可判令该方以弥偿基准（indemnity basis）支付对方讼费**；「未发 LBA 即剥夺利息」这一制裁在本届讲义／幻灯片中**无依据** →。 <small style="opacity: 0.55">〔LG1V L407 "Generally “no”; Exception: Personal Injury claims (see Practice Direction 18.1)"〕〔📄LG1P Slide 30 "Letter Before Action = Must? … advisable to send letter before action"〕〔LG1V L409 "the Court in exercising its discretion as to costs shall take into account all the parties' conduct"〕〔❓「突袭起诉即剥夺利息」库内无依据·待核〕</small>
   - **和解正反馈**：LBA 证据扎实并抄送保险公司，直接促成理赔员在立案前达成商业和解。
 
-**主闭环（2026-10-10 实质化展开：状态 → 触发 → 决策 → 行动 → 反馈 → 补救；并入原 Supplement §4 四个状态变量）**。建模目的：把「读过讲义」变成可检查的状态；法定条件见 0A.8 与 §二／§五，本表记录信息输入、闸门及失败后的反馈动作：
+**办案流程全周期控制链（2026-10-10 实质化展开：案件状态 → 触发事实 → 审查决策 → 申请行动 → 程序反馈 → 补救手段）**。分析目的：将讲义规则转化为实务可操作检查步骤；法定条件见 0A.8 与 §二／§五，本表记录信息输入、门槛核查及失败后的救济动作：
 
 | 状态变量 | 触发事实（输入信号） | 决策点 | 行动 | 反馈（失手代价） | 补救 |
 | --- | --- | --- | --- | --- | --- |
@@ -271,12 +271,12 @@ flowchart TD
 4. 律师比较诉前函、谈判和紧急保全。如果发信可能促使对手转移资产，应先向客户解释保全条件、费用及发函后果，见 §0J 行 3、12。 <small style="opacity: 0.55">〔LG1V L415 "Fear that a potential defendant may dissipate assets ahead of action"〕</small>
 5. 客户选定方案后，律师确认下一步、负责人员及所需文件，并记录授权。准备 LBA 或和解指示时另核 limitation；时效迫近时，先核能否发出 protective writ。 
 
-### 4. 原则四：横向耦合（Horizontal Coupling — 模块异步联动与牵动）
+### 4. 原则四：横向程序联动（Inter-Procedural Coordination — 诉前与诉中各阶段衔接）
 - **LBA ↔ 最终讼费归属**：LBA 的行文专业度直接影响数月甚至数年后法庭的讼费裁量——**裁量**依据是 *O.62 r.5(1)(e)、r.5(2)(d)*（考虑诉前行为，可判弥偿基准），**评定（taxation）基准**依据是 *O.62 r.28*（party and party／common fund／indemnity 三档，⚠️ 该三档条文文本在本库只见于**往届（2025-26）**讼费讲义）；ADR／和解条款在财产损失案中属**商业选择**而非 PD 18.1 的强制要求。 <small style="opacity: 0.55">〔LG1V L409 "if the Court considers a party to have acted unreasonably before action, it may order that party to pay the other party's costs"〕〔LG17 L590 "costs to which this rule applies shall be taxed on the party and party basis" ·往届仅参考〕〔LG17 L593 "being a more generous basis than that provided for by paragraph (2)" ·往届仅参考〕〔LG17 L595 "all costs shall be allowed except insofar as they are of an unreasonable amount or have been unreasonably incurred" ·往届仅参考〕</small>
-- **保护性令状 ↔ 送达时钟解耦**：发出令状仅冻结时效，**并不立即启动被告 14 天确认送达（AOS）的倒计时**；只有当原告正式送达令状时，才启动 *Order 10 / Order 12* 的应诉时钟（案卷内区域法院 Acknowledgment of Service 随附说明即以 14 天为 AOS 期，惟令状并非由原告完全掌控送达时点）。 <small style="opacity: 0.55">〔📄BATCH-A p.84 "the period of 14 days for acknowledging service"〕〔INTRO3 L116 "It does not mean that P is in complete control as to when service of the writ should occur within the 12 months"〕</small>
-- **共同被告连带责任耦合（*RDC O.15 r.4*）**：司机个人过失与雇主转承责任在同一诉讼中合并审理，避免分案判决事实冲突（合并要件；法庭仍可依 *O.15 r.5(1)* 裁量分案）。 <small style="opacity: 0.55">〔📄INTRO3P Slide 7〕〔📄INTRO3P Slide 7〕</small>
+- **保护性令状 ↔ 送达时钟独立起算**：发出令状仅冻结时效，**并不立即启动被告 14 天确认送达（AOS）的倒计时**；只有当原告正式送达令状时，才启动 *Order 10 / Order 12* 的应诉时钟（案卷内区域法院 Acknowledgment of Service 随附说明即以 14 天为 AOS 期，惟令状并非由原告完全掌控送达时点）。 <small style="opacity: 0.55">〔📄BATCH-A p.84 "the period of 14 days for acknowledging service"〕〔INTRO3 L116 "It does not mean that P is in complete control as to when service of the writ should occur within the 12 months"〕</small>
+- **共同被告连带责任与合并审理（*RDC O.15 r.4*）**：司机个人过失与雇主转承责任在同一诉讼中合并审理，避免分案判决事实冲突（合并要件；法庭仍可依 *O.15 r.5(1)* 裁量分案）。 <small style="opacity: 0.55">〔📄INTRO3P Slide 7〕〔📄INTRO3P Slide 7〕</small>
 
-**并入耦合（2026-10-10，LG2 面谈 ↔ 下游文书，原 Supplement §5 四项）**。以下为跨程序的学习分析；先沿 0A.8／§二／§五 查清各工具的边界，再处理相互影响：
+**程序联动关系（2026-10-10，LG2 面谈 ↔ 下游诉讼文书，原 Supplement §5 四项）**。以下为跨程序的学习分析；先沿 0A.8／§二／§五 查清各工具的边界，再处理相互影响：
 
 - **面谈 → 诉状（LG2 × LG4-05）**：客户故事中的细节不全部成为 material facts；诉状缺要件应回到面谈补问——五层分析 Level 4 的落点是 SoC（SG03 即此转换的实战场，0C.1），不从模板倒填事实。 <small style="opacity: 0.55">〔LG5V L138 "help you plan a logical and effective draft Statement"〕</small>
 - **LBA → 保全（LG13）**：发信可能提醒对方采取行动（转移资产），诉前通信与临时保障互相牵动——「担心转移资产」是讲义明文的不宜发信情形；保全本体在 [CO13 临时救济卡](%5BCO13%5D%20Interim%20Relief%20and%20Risk%20Protection%20System.md)。 <small style="opacity: 0.55">〔LG1V L415 "Fear that a potential defendant may dissipate assets ahead of action"〕</small>
@@ -292,7 +292,7 @@ flowchart TD
 
 | 客户目标 | 从终点向回数 | 最易断的环与对策 | 引注 |
 | --- | --- | --- | --- |
-| **尽快拿到赔偿** | 拿到钱 → 对方有偿付能力（资力查册）→ 责任与金额可证（证据链闭环）→ 对方愿意谈（LBA 扎实）→ 客户已授权该口径 | 断环 1：未证金额或过强威胁削弱可信度；断环 2：胜诉后对方无资力＝空头判决。对策：查册先行、函件客观 | <small style="opacity: 0.55">〔📄LG1P Slide 19 "Land Search"；LG1V L439 "Save costs – the other side might not dispute liability"〕</small> |
+| **尽快拿到赔偿** | 拿到钱 → 对方有偿付能力（资力查册）→ 责任与金额可证（完整证据链条）→ 对方愿意谈（LBA 扎实）→ 客户已授权该口径 | 断环 1：未证金额或过强威胁削弱可信度；断环 2：胜诉后对方无资力＝空头判决。对策：查册先行、函件客观 | <small style="opacity: 0.55">〔📄LG1P Slide 19 "Land Search"；LG1V L439 "Save costs – the other side might not dispute liability"〕</small> |
 | **维持商业关系** | 关系存续 → 函件不激怒对方 → 采用能让收件人理解的行动建议（明确、可照办） | 断环：含糊措辞使对方不知道要做什么。对策：功能性段落＋明确期限与支付方式（0A.6） | <small style="opacity: 0.55">〔LG1V L471 "Presentation (30%) Contains appropriate opening and closing formalities (visual cues"〕</small> |
 | **立即起诉** | 判得回 → 打赢 → 立得上（管辖／时效／当事人三核验过闸）→ 资料与目标已核 | 断环：为赶进度猜事实、跳过三核验——时效、适格、管辖任一出错即翻车（0B 行 5、7、8）。对策：三核验不过就不发 | ；§二 三矩阵。 <small style="opacity: 0.55">〔LG2V L195 "You must not start giving the client your"〕</small> |
 | **守住时效再调查** | 令状有效 → 12 个月内送达 → 调查在送达期内完成 | 断环：把保护性令状当无限拖延——「gathering evidence」是延展 bad reason。对策：令状发出日即排调查日历（0B 行 6） | <small style="opacity: 0.55">〔INTRO3 L132 "Bad reasons: (i) negotiations were going on; (ii) legal aid application is pending; (iii) gathering evidence"〕</small> |
@@ -488,7 +488,7 @@ flowchart LR
         B1["1. 核查诉讼时效 (Limitation 6年)"]
         B2["2. 锁定区域法院 (DCO s.32 标的57万)"]
         B3["3. 资力查册 (Worth Suing / 车险)"]
-        B4["4. 证据链闭环 (发票 / 警方报告)"]
+        B4["4. 证据链条完整 (发票 / 警方报告)"]
     end
 
     subgraph P3 ["【阶段三：发出 LBA 诉前互动】"]
@@ -518,7 +518,7 @@ flowchart LR
     style P4 fill:#E8F5E9,stroke:#2E7D32,stroke-width:2px
 ```
 
-**阶段一状态机**（Audit 2026-09-27 M5 指出的 Level B 缺口；本图节点与转移条件一律取自本卡已核实的事实：授权节点＝董事会决议；查册节点；合理期限；对方沉默；保护性令状 12 个月；区域法院门槛；寄发方式（往届官方范本））。 <small style="opacity: 0.55">〔📄BATCH-A p.33 "THAT solicitors be instructed to act on behalf of the Company"〕〔📄BATCH-A p.33 "THAT George Po be authorised to represent the Company to give instructions"〕〔LG1V L355 "whether (and if so, what) additional information/documents and/or further searches/investigations are required"〕〔LG1V L431 "Reasonable time limit: 14 – 28 days"〕〔LG1V L433-L435 "What if the other side fails to respond to a letter before action … No specific implications"〕〔INTRO3 L114 "Validity of a writ: 12 months from the date of issue: O.6 r.8(1)"〕〔INTRO1 L147 "Money claims: up to $3 million: DC Ordinance (Cap.336)"〕〔SAMPLE L25-L26 "[ON FIRM LETTERHEAD] … BY REGISTERED POST" ·往届仅参考〕</small>
+**阶段一诉前程序推进图（Stage 1 Pre-Action Progression）**（Audit 2026-09-27 M5 指出的 Level B 缺口；本图节点与转移条件一律取自本卡已核实的事实：授权节点＝董事会决议；查册节点；合理期限；对方沉默；保护性令状 12 个月；区域法院门槛；寄发方式（往届官方范本））。 <small style="opacity: 0.55">〔📄BATCH-A p.33 "THAT solicitors be instructed to act on behalf of the Company"〕〔📄BATCH-A p.33 "THAT George Po be authorised to represent the Company to give instructions"〕〔LG1V L355 "whether (and if so, what) additional information/documents and/or further searches/investigations are required"〕〔LG1V L431 "Reasonable time limit: 14 – 28 days"〕〔LG1V L433-L435 "What if the other side fails to respond to a letter before action … No specific implications"〕〔INTRO3 L114 "Validity of a writ: 12 months from the date of issue: O.6 r.8(1)"〕〔INTRO1 L147 "Money claims: up to $3 million: DC Ordinance (Cap.336)"〕〔SAMPLE L25-L26 "[ON FIRM LETTERHEAD] … BY REGISTERED POST" ·往届仅参考〕</small>
 
 ```mermaid
 stateDiagram-v2
@@ -1057,7 +1057,7 @@ flowchart LR
 | 期限管理 | 诉讼时效约束何时起诉，令状有效期约束起诉后何时送达；分别登记并指定负责人。 |
 | 保全与沟通 | 若发信会促成资产转移，先核 CO13 的保全门槛及通知风险。 |
 
-## 4. 工程控制论
+## 4. 办案流程控制与关键节点核查（Procedural Control & Case Verification）
 
 | 核对项 | 当事人如何核对 | 发现缺口后的行动 |
 | --- | --- | --- |
@@ -1065,14 +1065,14 @@ flowchart LR
 | 诉前函件 | 按案型决定 open Letter Before Action 或另发 without prejudice offer；人身伤害另核 PD 18.1 | 对方可争实体责任、损害承担人、时效及估算；若有保险或资力疑问，应分别核承保与执行资产。 |
 | 期限接力 | 发出令状与送达各用自己的时钟；核 O.6 r.8 的令状有效期并倒排实际送达 | 信件应列明依据、损失及合理答复期限；需要威胁起诉时先取得客户指示。 |
 
-## 5. 横向耦合
+## 5. 横向程序联动与机制衔接（Inter-Procedural Coordination & Interface）
 
 | 接口 | 两个程序如何衔接 |
 | --- | --- |
 | 期限管理 | 诉讼时效约束何时起诉，令状有效期约束起诉后何时送达；分别登记并指定负责人。 |
 | 保全与沟通 | 若发信会促成资产转移，先核 CO13 的保全门槛及通知风险。 |
 
-## 6. 逆向选择
+## 6. 目标倒推与实务应对策略（Goal-Driven Strategy & Strategic Remedies）
 
 | 客户目标 | 从目标倒推所需材料与行动 |
 | --- | --- |
@@ -1084,11 +1084,6 @@ flowchart LR
 见 [现行章节](#0B.%20%E6%8E%A5%E6%A1%88%E3%80%81Retainer%20%E4%B8%8E%20PG-FLAP%20%E4%BA%8B%E5%AE%9E%E8%B0%83%E6%9F%A5)。
 
 <!-- === AUDIT_ZONE_START (DO NOT SEND BELOW THIS LINE TO GPT) === -->
-
----
-
-## 审计留痕：材料矩阵、待核事项与历史修订记录
-
 > [!abstract]- 审计留痕：材料矩阵、待核事项与历史修订记录
 > 
 > **本轮修订**：按现行节号统一正文及跳转标签，归并高阶模型表，补全程序行动句，并将原引注移至段末、列表项末或相应单元格末。
@@ -1099,7 +1094,7 @@ flowchart LR
 > 
 > > **定位：** PCLL8010 Civil Litigation · 阶段一制度凝结卡（立案前与接案）  
 > > **服务环节：** [SG01 Drafting LBA](../../01%20SG/SG01%20Drafting%20LBA/00%20Classroom%20&%20Desk.md)（2026-10-10 修正：原链接文件名 `00 Classroom.md` 已按 SG-NAV 正名为 `00 Classroom & Desk.md`） · 期末知识卷第一题（Question 1）常考的立案前环节（往届试卷**无「Part A」分段**，见 §七 复核注） · 诉讼启动前置条件  
-> > **上游宏观索引：** [00 Master Overview §3.1](../00%20Master/00%20Master%20Overview.md#3.1%20主干一：立案前（决定生死）) · [01 时限表](../00%20Master/01%20Deadlines%20and%20Time%20Limits.md) · [02 流程图（阶段一）](../00%20Master/02%20Procedural%20Flowcharts.md)
+> > **上游宏观索引：** [00 Master Overview §3.1](../00%20Master/00%20Master%20Overview%20&%20Flowcharts.md#2.1%20%E8%AF%89%E5%89%8D%E3%80%81%E9%80%81%E8%BE%BE%E3%80%81%E8%AF%89%E7%AD%94%E4%B8%8E%E5%AE%A1%E5%89%8D%E6%8B%A6%E6%88%AA) · [01 时限表](../00%20Master/01%20Master%20Deadlines%20&%20Case%20Matrix.md) · [02 流程图（阶段一）](../00%20Master/00%20Master%20Overview%20&%20Flowcharts.md#2.%20%E5%85%A8%E6%B5%81%E7%A8%8B%E7%8A%B6%E6%80%81%E6%9C%BA)
 > 
 > 
 > ---
@@ -1130,7 +1125,7 @@ flowchart LR
 > | `OLD-24JM` | **往届官方·2024 Jan 评卷表（库内仅 pdf）** | [4. 2024 JAN - Mark Sheet.pdf](../../02%20Past%20Papers/2024-01%20Jan/4.%202024%20JAN%20-%20Mark%20Sheet.pdf) | p.1 Q1(a)：*Limitation Ordinance* s.23(3) 承认债务产生新诉因（2017 年 5 月 email） |
 > | `OLD-24L` | **往届官方·2024 Jul 补考卷（库内仅 pdf）** | [5. 2024 JULY.pdf](../../02%20Past%20Papers/2024-07%20Jul/5.%202024%20JULY.pdf) | p.7 Q5 题干：同一「ignore Practice Direction 18.1 … personal injuries claim」措辞 |
 > | `OLD-23JM` | **往届官方·2023 Jul 评分标准（库内仅 pdf）** | [3. 2023 JULY - Mark Sheet.pdf](../../02%20Past%20Papers/2023-07%20Jul/3.%202023%20JULY%20-%20Mark%20Sheet.pdf) | p.1 Q1(a)：*Limitation Ordinance* s.22——精神无行为能力者（MIP）期间时效不起算 |
-> | `MASTER1` | **凝结层·本库自撰** | [01 时限表](../00%20Master/01%20Deadlines%20and%20Time%20Limits.md) | 阶段一各项期限的横向总表（本卡数字与该行文互校） |
+> | `MASTER1` | **凝结层·本库自撰** | [01 时限表](../_meta/Master%20Archive%202026-11-14/01%20Deadlines%20and%20Time%20Limits.md) | 阶段一各项期限的横向总表（本卡数字与该行文互校） |
 > | `LG2V` | **本届讲义·LG2 Client Interviewing 大纲（573 行；2026-10-10 随 [LG01-02] 并主新增）** | [md](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG2%20Lecture%20Outline.md) | 封面授课日期 2026、内页自署「CIVIL LITIGATION 2025-2026」（并列记录，见 open 块并入条）；L160-203 面谈结构与各阶段、L209-217 客户与证人面谈之别、L289-297 漏斗提问、L385-450 意见与决定、L477-495 全文引述 Solicitors' Guide Principal 4.01（讼费告知）、L507 起 SCIA 评分准则；原 Supplement 的 `CL2` 码并入本码，行号未动 |
 > | `CAP-C2` | **本届字幕·LG2 PT（Panopto 本地导出；2026-10-10 随并主新增）** | [md](../../99%20Moodle%20Mirror/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG2%20-%20Client%20Interviewing/Panopto%20Captions%20%28local%20export%29/8010_LG02_PT.md) | L970-976 结尾用封闭问题核对的课堂口径；L400 SCIA 考核重 soft skills 的定位；原 Supplement 同码沿用 |
 > 

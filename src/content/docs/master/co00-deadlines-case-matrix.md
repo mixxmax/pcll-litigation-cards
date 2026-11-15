@@ -1,6 +1,6 @@
 ---
 title: "CO00 · 期限与判例矩阵"
-description: "香港大学 PCLL8010 Civil Litigation 全局时钟体系：六列全流程时限精算法规速查与全科核心判例深度穿透矩阵。"
+description: "香港大学 PCLL8010 Civil Litigation 全局时钟体系：六列全流程时限精算法规速查与全科核心判例深度拆解矩阵。"
 cohort: "2026-27"
 type: "master-deadlines-case-matrix"
 layer: "master"
@@ -8,7 +8,7 @@ layer: "master"
 
 > [!note] 宏观总控与全景时钟定位（Master Layer）
 >
-> 本文档属于 **全景总括与全案工具层（Master Layer）**，从「第一性原理、工程控制论、全流程图谱与法定程序时钟」对民事诉讼进行跨专题顶层统摄，与下方的 **[制度凝结层（Institutions 单卡）](/pcll-litigation-cards/institutions/co01-taking-instructions/)** 构成【总括 ↔ 分论】与【全局时钟 ↔ 专题实操】的映射关系。
+> 本文档属于 **全景总括与全案工具层（Master Layer）**，从「第一性原理、办案流程控制、全流程图谱与法定程序时钟」对民事诉讼进行跨专题顶层统摄，与下方的 **[制度凝结层（Institutions 单卡）](/pcll-litigation-cards/institutions/co01-taking-instructions/)** 构成【总括 ↔ 分论】与【全局时钟 ↔ 专题实操】的映射关系。
 >
 > 如需深入查阅某一具体阶段（如 O.10 送达、O.18 诉答、O.14 简易判决、O.24 披露、O.29 禁令等）的深度实体规则与实务攻防，请直接跳转至对应制度凝结卡。
 

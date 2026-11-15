@@ -1,7 +1,6 @@
 ---
 title: "CO13 · 临时救济与风险保障体系"
 description: "香港民事诉讼正审前救济：Interlocutory Injunction, Mareva, Anton Piller 与 Security for Costs"
-
 cohort: "2026-27"
 type: derived
 created: "2026-10-01"
@@ -34,7 +33,7 @@ SG课表安排:
   - "PCLL8010 SG9：2026-11-19 19:00–21:00；出处 工作表12!E13:E33"
   - "PCLL8010 SG10：2026-11-26 19:00–21:00；Gp71–74及76–80；Gp75改到Nov20；出处 工作表13!E12:E26"
   - "PCLL8010 SG10：2026-11-20 19:00–21:00；仅Gp75；出处 工作表12!F13:F18"
-课表来源: "[PCLL PT Yr1 (General)/2026-27 1st Sem PT YR1 PCLL Timetable (24.08.2026).xlsx](obsidian://open?vault=3b1e77255f6c6e29&file=PCLL%20PT%20Yr1%20%28General%29%2F2026-27%201st%20Sem%20PT%20YR1%20PCLL%20Timetable%20%2824.08.2026%29.xlsx)"
+课表来源: "PCLL PT Yr1 (General)/2026-27 1st Sem PT YR1 PCLL Timetable (24.08.2026).xlsx"
 课表版本: "24.08.2026"
 课表核对日期: "2026-10-01"
 课表说明: "按用户指定原课表登记，不代表材料已齐或课程已上；时区Asia/Hong_Kong。预录周次不是固定授课日期；未据后续通知改写。"
@@ -43,6 +42,7 @@ SG课表安排:
 本轮更新: "2026-11-13：LG13 PT 实录四段（1246条）回流，O-L1 PT 侧解除；SG08 范文另记 CO16"
 SG06本届关联: "Question 4 见 §0K.1"
 ---
+
 
 # 临时救济与风险保障体系
 
@@ -831,7 +831,7 @@ LG7、LG9 与 LG13 均把本课禁制令制度指向 Civil Advocacy SG3；Civil 
 | **Interim payment。** 原告已经送达 writ 且 AOS 期限届满，才可按 O.29 r.10 以 summons 和 affidavit 申请；原告须于 return day 前不少于 10 clear days 送达 summons、支持誓章和证物。 | O.29 r.11(1) 要求被告已承认责任、已有判决而损害额待评定，或法院信纳原告在审讯中可取得 substantial damages，三者择一。资金困难不能代替门槛。法院考虑 contributory negligence、set-off、cross-claim 及 counterclaim，只可预付最终赔偿中合理的比例；人身伤害另须依 r.11(2) 核对保险、公共机构或足够财力。给予 unconditional leave to defend 与命令作 interim payment 不相容。见 CO06–09。 <small style="opacity: 0.55">〔CL9 L475 "the time limited for him to acknowledge service has expired"；CL9 L499 "would obtain judgment for substantial damages"〕〔CL9 L501 "exceeding a reasonable proportion of the damages which"〕〔CL9 L486 "not less than 10 clear days before the return day"；CL9 L512 "a person whose means and resources are such as to enable him to make the interim payment"；CL9 L148 "will not grant an order for interim payment where it gives unconditional leave to defend"〕</small> |
 | **Security for costs。** 被告可按 O.23 r.2 等规则申请，原告 ordinarily resident out of the jurisdiction 是一项 ground；若原告是公司，且可信证据显示公司可能无力支付被告胜诉时的讼费，被告可依 Companies Ordinance s.905 申请。 | 有 ground 后，法院仍须判断命令是否公正。被告主张费用难以追回时，法院同时审查原告实际能否筹款、诉因的 merits，以及命令会否 stifle a genuine claim。该笔款项保障讼费；fortification 则保障禁令造成的损失。见 CO07。 <small style="opacity: 0.55">〔CL7 L1088 "then if, having regard to all the circumstances of the"〕〔CL7 L1115 "plaintiff is ordinarily resident out of the jurisdiction, per RHC"〕〔CL7 L1153 "An application for security for costs under s.905 would need to be supported by"〕〔CL7 L1169 "For O.23, r.2, if the plaintiff argues that an order for security for costs"〕</small> |
 
-## 4. 工程控制论
+## 4. 办案流程控制与关键节点核查（Procedural Control & Case Verification）
 
 申请人以可核查的材料确认每一项程序要求，并在发现缺口时调整申请或执行安排。 <small style="opacity: 0.55"></small>
 
@@ -845,7 +845,7 @@ LG7、LG9 与 LG13 均把本课禁制令制度指向 Civil Advocacy SG3；Civil 
 | 通知 | 申请人用送达记录核对银行身份、通知日期、条款及变更权。 | 漏送时立即补送并核查受影响账户；若有处置，另查知悉时间及实际行为。 <small style="opacity: 0.55">〔CL13 L718 "A Mareva injunction should normally be served immediately against not just the defendant but also"〕〔CL13S3 L73 "- (1) Effect of this Order. It is a contempt of court for any person"〕</small> |
 | 执行和推进 | 执行方以记录证明时段、在场、清单、使用限制及报告；申请人另记复讯和实体进度。 | 执行过程若发生任何程序偏差，执行律师须立即书面记录并向法庭申请进一步指示；当临时命令处于存续期间，申请人必须同步履行持续披露义务，并积极加速推进正审诉讼程序。 <small style="opacity: 0.55">〔📄CL13AX p.48〕〔📄CL13AX p.28〕〔CL13 L616 "It is trite law to assert that a plaintiff must proceed with its action expeditiously"〕</small> |
 
-## 5. 横向耦合
+## 5. 横向程序联动与机制衔接（Inter-Procedural Coordination & Interface）
 
 | 接口 | 两个程序如何衔接 |
 |---|---|
@@ -859,7 +859,7 @@ LG7、LG9 与 LG13 均把本课禁制令制度指向 Civil Advocacy SG3；Civil 
 | 权属与最终救济 | 衡平权益人可先求临时保护；若求 permanent injunction，申请人须在诉答中提出，并按 Takmay 加入法律业权人。 <small style="opacity: 0.55">〔CL13 L428 "cannot obtain a final order unless he joins those who are the legal owners"〕</small> |
 | 中期付款、最终评定与推进义务 | 法院评定最终损害时须处理已付金额；保全令则要由原告及时推进实体诉讼。MGA 所示责任见 §0H.6。 <small style="opacity: 0.55">〔CL13 L616 "It is trite law to assert that a plaintiff must proceed with its action expeditiously"〕</small> |
 
-## 6. 逆向选择
+## 6. 目标倒推与实务应对策略（Goal-Driven Strategy & Strategic Remedies）
 
 | 客户目标 | 从目标倒推所需材料与行动 |
 |---|---|

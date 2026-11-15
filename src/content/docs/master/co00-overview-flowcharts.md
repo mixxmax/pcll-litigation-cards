@@ -1,6 +1,6 @@
 ---
 title: "CO00 · 全科总览与程序图"
-description: "香港大学 PCLL8010 Civil Litigation 宏观总控层：十三张主卡坐标系、两段式流程状态机与四组横向参数深度对比。"
+description: "香港大学 PCLL8010 Civil Litigation 宏观总控层：十三张主卡坐标系、全流程诉讼推进主线与四组横向参数深度对比。"
 cohort: "2026-27"
 type: "master-overview-flowcharts"
 layer: "master"
@@ -8,7 +8,7 @@ layer: "master"
 
 > [!note] 宏观总控与全景时钟定位（Master Layer）
 >
-> 本文档属于 **全景总括与全案工具层（Master Layer）**，从「第一性原理、工程控制论、全流程图谱与法定程序时钟」对民事诉讼进行跨专题顶层统摄，与下方的 **[制度凝结层（Institutions 单卡）](/pcll-litigation-cards/institutions/co01-taking-instructions/)** 构成【总括 ↔ 分论】与【全局时钟 ↔ 专题实操】的映射关系。
+> 本文档属于 **全景总括与全案工具层（Master Layer）**，从「第一性原理、办案流程控制、全流程图谱与法定程序时钟」对民事诉讼进行跨专题顶层统摄，与下方的 **[制度凝结层（Institutions 单卡）](/pcll-litigation-cards/institutions/co01-taking-instructions/)** 构成【总括 ↔ 分论】与【全局时钟 ↔ 专题实操】的映射关系。
 >
 > 如需深入查阅某一具体阶段（如 O.10 送达、O.18 诉答、O.14 简易判决、O.24 披露、O.29 禁令等）的深度实体规则与实务攻防，请直接跳转至对应制度凝结卡。
 
@@ -38,7 +38,7 @@ layer: "master"
 | 底座 2 誓章及证物 | <span style="opacity: 0.85; border-bottom: 1px dotted var(--sl-color-gray-3); cursor: help;" title="CO16 · 誓章、非誓声明与证物（待接入）">CO16</span> | 须以书面宣誓材料举证 | 核 deponent、sources and grounds、jurat、exhibits | 可提交的 affidavit／affirmation 与证物册 |
 | 底座 3 讼费 | <span style="opacity: 0.85; border-bottom: 1px dotted var(--sl-color-gray-3); cursor: help;" title="CO17 · 诉讼费用、分项评估与评税（待接入）">CO17</span> | 中间裁定、终局费用或议定失败 | 成本归属、basis、summary assessment、taxation 和非当事人费用 | Costs order、statement of costs、bill、allocatur |
 
-## 2. 全流程状态机
+## 2. 全流程诉讼推进主线与程序图（Overall Procedural Progression & Flowcharts）
 
 ### 2.1 诉前、送达、诉答与审前拦截
 

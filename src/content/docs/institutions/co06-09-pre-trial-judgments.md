@@ -31,7 +31,7 @@ SG课表安排:
 - PCLL8010 SG4：2026-10-15 19:00–21:00；出处 工作表7!E13:E27
 - PCLL8010 SG6：2026-10-29 19:00–21:00；出处 工作表9!E15:E29
 - PCLL8010 SG9：2026-11-19 19:00–21:00；出处 工作表12!E13:E33
-课表来源: '[PCLL PT Yr1 (General)/2026-27 1st Sem PT YR1 PCLL Timetable (24.08.2026).xlsx](obsidian://open?vault=3b1e77255f6c6e29&file=PCLL%20PT%20Yr1%20%28General%29%2F2026-27%201st%20Sem%20PT%20YR1%20PCLL%20Timetable%20%2824.08.2026%29.xlsx)'
+课表来源: 'PCLL PT Yr1 (General)/2026-27 1st Sem PT YR1 PCLL Timetable (24.08.2026).xlsx'
 课表版本: 24.08.2026
 课表核对日期: '2026-10-10'
 课表说明: 按用户指定原课表登记，2026-10-10 实机核读 xlsx 上述坐标（行值一致）；登记不代表材料已齐或课程已上；时区Asia/Hong_Kong。未据后续通知改写。
@@ -116,7 +116,7 @@ flowchart TD
 > | LG3V | [LG3 - Service and Acknowledgement of Service (REV)（本届讲义·AOS 14 日出处）](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG3%20-%20Service%20and%20Acknowledgement%20of%20Service%20%28REV%29.md) | 本届讲义 | 2026-27 |
 > | LG3R | [LG3 - Reference Material（本届官方·RHC O.3 r.6／O.10／O.12 r.5・r.6 原文·866 行）](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG3%20-%20Reference%20Material.md) | 本届官方 | 2026-27 |
 > | LG4V | [LG4 - Pleadings（本届讲义·O.18 r.2(1) 抗辩书 28 日出处）](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG4%20-%20Pleadings.md) | 本届讲义 | 2026-27 |
-> | MATRIX | [03 真题矩阵与解析（凝结层·本库自撰）](../00%20Master/03%20Past%20Paper%20Matrix%20and%20Analysis.md) | 凝结层 | 2026-27 |
+> | MATRIX | [03 真题矩阵与解析（凝结层·本库自撰）](../_meta/Master%20Archive%202026-11-14/03%20Past%20Paper%20Matrix%20and%20Analysis.md) | 凝结层 | 2026-27 |
 > | OLD-SET3DJ | [Set 3「LG4 O13A + Default Judgment」学生笔记（往届·460 行）](../../06%20Base%20Exam%20Notes/Set%203/LG4%20O13A%20+%20Default%20Judgment.md) | 往届学生稿 | 2025-26 |
 > | OLD-SET3L3 | [Set 3「LG3 Service and acknowledgement of service」学生笔记（往届·702 行）](../../06%20Base%20Exam%20Notes/Set%203/LG3%20Service%20and%20acknowledgement%20of%20service.md) | 往届学生稿 | 2025-26 |
 > | CAP-C6 | [PCLL8010 LG6 PT](../../99%20Moodle%20Mirror/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG6%20-%20Default%20Judgment%20and%20Admissions%20O13%20O13A/Panopto%20Captions%20%28local%20export%29/8010_LG06_PT.md) | 本届讲义 | 2026-27 |
@@ -232,7 +232,7 @@ flowchart TD
 
 ### 1.3 第一性原理：自然公正、程序效益与违约失权
 
-默认判决（Default Judgment）与自认和解（Admission under O.13A）是民事诉讼控制论中最重要的**程序加速与惩戒减负机制**，本届讲义的两条学习目标恰各指其一： <small style="opacity: 0.55">〔LG6V L33 "Distinguish between the procedures for obtaining default judgment under O.13 (failure to acknowledge service) and O.19 (failure to file a defence)"；LG6V L35 "Apply the rules governing admissions and proposals for payment by instalments under O.13A"〕</small>
+默认判决（Default Judgment）与自认和解（Admission under O.13A）是民事诉讼程序中最重要的**加速审结与惩治拖延机制**，本届讲义的两条学习目标恰各指其一： <small style="opacity: 0.55">〔LG6V L33 "Distinguish between the procedures for obtaining default judgment under O.13 (failure to acknowledge service) and O.19 (failure to file a defence)"；LG6V L35 "Apply the rules governing admissions and proposals for payment by instalments under O.13A"〕</small>
 
 1. **违约推定失权与司法效率（Default as Forfeiture & Proportionality）**： <small style="opacity: 0.55">〔LG6V L251 "If D fails to file any A/S within 14 days of being served … P may obtain judgment as of right against D"〕</small>
    - 民事诉讼奉行对抗制与当事人处分原则。若被告在获得合法通知后消极不作为（既不认收亦不抗辩），法律推定其放弃抗辩权，赋予原告**直接依权利取得判决（Judgment as of right）**的救济，防止司法资源被无端拖延；至于「践行 O.1A 相称性目标」，本届 LG6 三件材料均未援引 O.1A。 <small style="opacity: 0.55">〔LG6R L730 "if that defendant fails to give notice of intention to defend … the plaintiff may, after the prescribed time, enter final judgment"〕〔❓「O.1A 相称性目标」库内无出处·待核，已登记文末 open 块〕</small>
@@ -241,7 +241,7 @@ flowchart TD
 3. **纠纷早期自愿和解与分期减负（Early Dispute Resolution & Mitigation）**： <small style="opacity: 0.55">〔LG6V L139 "O.13A provides the mechanism for early settlement of disputes"；LG6V L141 "Only available for monetary claim; both liquidated and unliquidated"〕</small>
    - 对于无实体抗辩但暂时缺乏即时偿付能力的被告，O.13A 创设了“承认债务换取分期还款（Instalments）”的法定快速和解通道，促使当事人无需经历全套诉答与审讯，直接以极低固定讼费结案并由法庭确立还款计划。 <small style="opacity: 0.55">〔LG6V L173 "D may propose the time for repayment (i.e. by instalment), if he is not proposing to pay the claim immediately: O.13A r.9"；LG6V L177 "P can accept D's proposal for repaying by instalments, or asks the Court to decide whether the proposal should be accepted"〕</small>
 
-### 1.4 状态机模型（State Variables）
+### 1.4 审前判决申请程序流转（Pre-Trial Judgment Progression）
 
 ```mermaid
 stateDiagram-v2
@@ -342,7 +342,7 @@ flowchart TD
 10. 原告有现金需要时，另按 O.29 核准入及合理比例，可以在同一传票提出替代请求。就同一争议已准 unconditional leave 时，须核这与 interim payment 的证据门槛是否相容。 <small style="opacity: 0.55">〔CL9 L477 "may be included in a summons for summary judgment under Order 14 or Order 86"；CL9 L499 "the plaintiff would obtain judgment for substantial damages against the respondent"；CL9 L501 "not exceeding a reasonable proportion of the damages"；CL9 L148 "the Court will not grant an order for interim payment where it gives unconditional leave to defend"〕</small>
 11. 一方拟上诉时，先分清命令属 interlocutory 或 final，再核许可、期限及 fresh evidence 的标准，见 Asia TV 和 Grade One 的相应规则。 <small style="opacity: 0.55">〔CL9 L448 "can seek leave to adduce new evidence"；CL9 L450 "set aside the summary judgment"〕</small>
 
-### 1.9 工程控制论
+### 1.9 办案流程控制与关键节点核查（Procedural Control & Case Verification）
 
 **建模目的**：把“读过讲义”变成可检查的状态。法定条件见第3节；这里记录信息输入、闸门及失败后的反馈动作。
 
@@ -353,7 +353,7 @@ flowchart TD
 | 争议强度 | 是否真实可审争议 | 不能用不可信的简写取代证据审查 |
 | 判决正规性 | 服务和程序是否正确 | 撤销判断先分regular/irregular |
 
-**主闭环（2026-10-10 深化）：状态 → 触发 → 决策 → 行动 → 反馈 → 补救**（O.14 申请人与被告双面）：
+**办案全流程控制链（End-to-End Procedural Control Cycle）：状态 → 触发 → 决策 → 行动 → 后果 → 补救**（O.14 申请人与被告双面）：
 
 | 状态变量 | 触发（输入信号） | 决策点 | 行动 | 反馈（不做／做错的后果） | 补救 |
 | --- | --- | --- | --- | --- | --- |
@@ -364,7 +364,7 @@ flowchart TD
 | **M＝金钱条件**（conditional leave 金额与期限） | 法院示意附条件 | 接受还是主张 impecuniosity？ | 谈判金额×时间；无资力则全披露证"不可能" | 到期不履＝自动入判（8.12 行 6）。 <small style="opacity: 0.55">〔CAP-C9 L2071 "Failure which judgment be entered for the plaintiff?"〕</small> | 证成无资力 → 改无条件（Unic）。 <small style="opacity: 0.55">〔CL9 L372 "the correct order would then be unconditional leave to defend even if the defence is shadowy"〕</small> |
 | **P＝判后组合**（反申索、残部、临付、上诉） | 判了但反申索未了／原告等钱用 | stay execution？O.29？上诉？ | r.3(2)／r.8／r.6 方向；O.29 三准入核查 | unconditional leave＋临付＝不相容（8.12 行 7）。 <small style="opacity: 0.55">〔CL9 L148 "the Court will not grant an order for interim payment where it gives unconditional leave to defend"〕</small> | 上诉可添新证据（Asia TV；Grade One）。 <small style="opacity: 0.55">〔CL9 L448 "can seek leave to adduce new evidence"〕</small> |
 
-**四类反模式（该闭环专门捕）**：(1) 把 writ 当 SoC（断在 S）；(2) 誓章只喊结论（断在 A）；(3) 被告以为"否认即应审"（断在 C）；(4) 拿了无条件许可还想要临付（断在 P）。
+**四类常见实务失误与应对**：(1) 把 writ 当 SoC（断在 S）；(2) 誓章只喊结论（断在 A）；(3) 被告以为"否认即应审"（断在 C）；(4) 拿了无条件许可还想要临付（断在 P）。
 
 > **Exam / Drafting Formulation:** "The procedural route depends on the defendant's default, any admission, and whether a triable defence remains."
 
@@ -601,11 +601,11 @@ Summons须附支持affidavit/affirmation，核实请求事实并说明相信没�
 | 其他救济 | 清晰的 declaration（Leco）／specific performance（Verrall）可判；禁令救济须法官内庭；declaratory／injunctive relief 涉"被告自身行为与所求救济"争点时可被拒（Baillieu）。 <small style="opacity: 0.55">〔CL9 L119 "Summary judgment can be invoked for other relief such as a declaration or specific performance of a contract where the case is clear"；CL9 L121 "denied where there remains a triable issue as to whether the defendant’s own conduct relates to the plaintiff’s sought relief(s)"〕</small> | 大纲 |
 | 只按诉状判 | 只就 SoC 载明的请求与事实判（Wong Chow Hoi Sze）；prayer 写 "further or other relief" 兜不住未诉救济（Chang Man）。 <small style="opacity: 0.55">〔CL9 L131 "Summary judgment will only be granted on the claims set out and facts pleaded in the statement of claim"；CL9 L133 "if a plaintiff’s application is for relief which is not pleaded in its statement of claim, the plaintiff’s claim will be dismissed"〕</small> | 判例（大纲引） |
 
-### 5.9 O.14 r.5 反申索上的简易判决 ＋ 全景状态机
+### 5.9 O.14 r.5 反申索上的简易判决与程序推进流转图
 
 - **r.5 反申索简易判决**：被告就反申索享有与原告镜像的权利——以原告对反申索无抗辩为由申请判决；rr.2–4 经角色置换后适用；但被告须先 **serve 反申索**才能申请，且原告 SoC 请求若非站不住或与反申索全不相连，被告未必能借此取得救济；含 r.1(2) 类请求的反申索不适用（r.5(3)）。 <small style="opacity: 0.55">〔CL9 L405 "the defendant may, on the ground that the plaintiff has no defence to a claim made in the counterclaim"；CL9 L415 "The defendant must serve the “counterclaim” before it can seek summary judgment."〕〔CL9 L413 "This rule shall not apply to a counterclaim which includes any such claim as is referred to in rule 1(2)"〕</small>
 
-**O.14 全景状态机（含"不做→后果"回路，2026-10-10）**：
+**O.14 简易判决程序推进流转图（含违令后果与补救回路，2026-10-10）：**
 
 ```mermaid
 stateDiagram-v2
@@ -932,21 +932,21 @@ SG06 Q3 Kennedy的Clinton只有baredenials，是考虑O14的有利线索，但�
 
 > **Exam / Drafting Formulation:** "The Plaintiff seeks an interim payment not exceeding a reasonable proportion of the likely final judgment."
 
-### 8.3 深度耦合机制详解
+### 8.3 跨程序深度联动机制详解（Inter-Procedural Interfaces）
 
-1. **与【送达效力 O.10 / s.827 CO】的决定性耦合**：
+1. **与【送达效力 O.10 / s.827 CO】的程序衔接**：
    - 送达并非孤立环节，送达的合法与否是决定后续默认判决是“绝对撤销（Irregular）”还是“裁量撤销（Regular）”的**唯一物理依据**。 <small style="opacity: 0.55">〔LG6S L351 "Validity of service determines whether default judgment obtained regularly or irregularly"〕</small>
    - 在 *C&S Dental Care Ltd v Premier Asia Medical Centre Ltd* DCCJ 6089/2019, [2020] HKDC 1023（HH Judge Leung；19.11.2020）案：令状以挂号邮寄送被告注册地址，**该信件在送达声明书（affirmation of service）拟备之后、原告取得默认判决之前被退回为无法投递**，而该声明书看上去仍系依 O.10 r.1(3) 声称「信件并未被退回」。裁判官并指出：O.10 r.1 与《公司条例》s.827 是**两种互斥的替代送达途径，依赖其中一种即须承担该途径的后果**；既然声明书依赖 O.10 r.1，而已有证据推翻被告「被视为知悉令状存在」的推定，**送达即属 irregular**。讲义与判例摘要均只记载退件发生于「声明书拟备之后、入判之前」，**未**谓原告「明知」退件，亦**未**记载讼费判给。 <small style="opacity: 0.55">〔LG6V L343 "sent to D's registered address by registered post"；LG6V L343 "returned as unsuccessfully delivered after the affirmation of service was prepared"；LG6V L343 "The affirmation of service looked like it relied on O.10 r.1(3) to say that the letter was not returned"；LG6V L343 "O.10 r.1 & CO s.827 are alternative modes"；LG6V L343 "the service must be irregular because there was evidence"〕</small>
-2. **与【逾期认收 O.12 r.6】的时间竞速耦合（*Kwan Tat Chung* 规则）**：
+2. **与【逾期认收 O.12 r.6】的时间竞速机制（*Kwan Tat Chung* 规则）**：
    - 依据 O.12 r.6，虽然被告超过 14 天提交 AOS，但**只要原告的默认判决尚未经法院正式盖印（Before judgment is obtained/sealed），被告的逾期 AOS 依然合法有效**！ <small style="opacity: 0.55">〔LG3R L724 "a defendant may not give notice of intention to defend in an action after judgment has been obtained"；LG3R L726 "nothing in these rules … shall be construed as precluding a defendant from acknowledging service in an action after the time limited"〕</small>
    - *Kwan Tat Chung v Ho Cheuk Kwan [2003]* 确立权威先例：原告虽在到期后递交了入判申请，但由于法庭登记处盖印时被告已先一步递交了 AOS，该默认判决即属违法签发，构成 Irregular Judgment，被告有权撤销。 <small style="opacity: 0.55">〔LG6S L304 "Kwan Tat Chung v. Ho Cheuk Kwan (HCPI 381/2002, [2003] HKEC 36)"；LG6S L304 "successfully applied to set aside a default judgment … was only sealed by the court after the two defendants had actually acknowledged service"〕</small>
-3. **与【诉讼停滞一年 O.3 r.6】的预警耦合**：
+3. **与【诉讼停滞一年 O.3 r.6】的预警机制**：
    - 默认判决虽可在时限届满后随时签署，但若原告自令状送达后**已整整一年未采取任何诉讼步骤（No step taken for one year）**，原告在签署默认判决前，**必须先给被告整整一个月的推进意向通知（One month's notice of intention to proceed）**，否则入判程序违法。 <small style="opacity: 0.55">〔LG3R L90 "the party who desires to proceed must give to every other party not less than one month's notice of his intention to proceed"；LG6S L306 "if a year has elapsed since writ was served, and the plaintiff has taken no step … must be given before signing the judgment"〕</small>
-4. **与【多被告及土地收回 O.13 r.4(5)】的强制隔离耦合**：
+4. **与【多被告及土地收回 O.13 r.4(5)】的强制规则限制**：
    - 普通金钱索赔中，对共同被告（Joint & several debtors）中的一人取得默认判决，原告仍可继续对其余被告推进审判（O.13 r.1）。 <small style="opacity: 0.55">〔LG6R L730 "enter final judgment against that defendant for a sum not exceeding that claimed by the writ"；LG6R L730 "and proceed with the action against the other defendants, if any"〕</small>
    - **但是，收回土地占有存在绝不容逾越的法定红线**：依据 O.13 r.4(5) 及 O.19 r.5(5)（两款文字相同："Where there is more than one defendant, judgment entered under this rule shall not be enforced against any defendant unless and until judgment for possession of the land has been entered against all the defendants."），如果案件存在多名被告，在原告**针对全部被告均取得收回土地占有的判决之前，绝对不得对任何单独一名被告执行该判决**！ <small style="opacity: 0.55">〔LG6R L758 "Where there is more than one defendant, judgment entered under this rule shall not be enforced against any defendant"；LG6R L872 "judgment for possession of the land has been entered against all the defendants"〕</small>
 
-**总表索引**：送达效力耦合 ↔ [§8 行 1](#8.7%20%E4%B8%8D%E5%81%9A%E6%88%96%E9%80%BE%E6%9C%9F%E7%9A%84%E5%90%8E%E6%9E%9C%E9%93%BE%E6%80%BB%E8%A1%A8%EF%BC%88%E7%8E%AF%E8%8A%82%20%C3%97%20%E4%B8%8D%E5%81%9A%E5%90%8E%E6%9E%9C%20%C3%97%20%E4%BE%9D%E6%8D%AE%EF%BC%89)；认收竞速耦合 ↔ 行 10；一年停滞一月通知 ↔ 行 4；收地全员入判红线 ↔ 行 9。
+**总表索引**：送达效力衔接 ↔ [§8 行 1](#8.7%20%E4%B8%8D%E5%81%9A%E6%88%96%E9%80%BE%E6%9C%9F%E7%9A%84%E5%90%8E%E6%9E%9C%E9%93%BE%E6%80%BB%E8%A1%A8%EF%BC%88%E7%8E%AF%E8%8A%82%20%C3%97%20%E4%B8%8D%E5%81%9A%E5%90%8E%E6%9E%9C%20%C3%97%20%E4%BE%9D%E6%8D%AE%EF%BC%89)；认收竞速机制 ↔ 行 10；一年停滞一月通知 ↔ 行 4；收地全员入判红线 ↔ 行 9。
 
 ## 0H. 申请与操作工程：文书、送达和期限
 
@@ -1245,7 +1245,7 @@ Sam10月1日至28日在旅途，儿子10月8日发现writ、9日电话告知，�
 - 阅读入口（案卷原件目前唯一所在为 Moodle 镜像文件夹，同夹另有 Batch C / D）：[Negligence Batch A PDF](../../99%20Moodle%20Mirror/2026-09-02_Downloads-PCLL8010/Case%20Files/Negligence_Batch_A.pdf) · [Negligence Batch B PDF](../../99%20Moodle%20Mirror/2026-09-02_Downloads-PCLL8010/Case%20Files/Negligence_Batch_B.pdf)；讲义附录节选版见上表 [LG6 附录 PDF](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG6%20-%20Appendices.pdf)（本届官方）。
 - SG04 位置：[01 SG/SG04 Drafting SoC II – Negligence/00 Classroom & Desk](../../01%20SG/SG04%20Drafting%20SoC%20II%20-%20Negligence/00%20Classroom%20&%20Desk.md)。**本届 SG04 Activity Plan 尚未到库**（该页顶部即标注「本届题面：Activity Plan 尚未从 Moodle 入库」），故本小节只登记讲义点名的案卷阅读任务与争点线索，**不构成「本届题面已定」的表述**；题目级映射待 AP 到库后由主审／后续任务补齐。
 
-#### 7.4 考题与实战穿透矩阵（Exam & Practice Matrix）
+#### 7.4 考核要点与标准答题分析矩阵（Exam & Practice Matrix）
 
 | 考题 / 演练场景 | 典型考查形式 | 核心踩分点与法定依据 | 往届失分盲点警示 |
 | --- | --- | --- | --- |
@@ -1322,7 +1322,7 @@ O29r11(1)(c)不以D admission为必要；若审讯会获substantial damages，�
 | 取判与预付 | O.14 判定无需审讯的申索；interim payment 预付合理比例，不决定最终损害额。 |
 | 取判与执行 | 仅申请 set aside 不等于获准 stay；查法院是否另令暂缓，及现有执行步骤。 |
 
-## 4. 工程控制论
+## 4. 办案流程控制与关键节点核查（Procedural Control & Case Verification）
 
 | 核对项 | 当事人如何核对 | 发现缺口后的行动 |
 | --- | --- | --- |
@@ -1330,7 +1330,7 @@ O29r11(1)(c)不以D admission为必要；若审讯会获substantial damages，�
 | 备证据与通知 | O.14 与 O.29 的申请分别备 summons、affidavit 和 draft order，并按各自规则核不少于 10 clear days | 被告撤销前先核程序瑕疵；若入判合规，及时提交实体抗辩、迟延说明和支持资料。 |
 | 入判及交接 | 核获判部分、待评定损失、残余争点及执行状态 | 核实通知已送达及答辩期限已届满；未算定损害通常仍须评定，不可直接填作最终金额。 |
 
-## 5. 横向耦合
+## 5. 横向程序联动与机制衔接（Inter-Procedural Coordination & Interface）
 
 | 接口 | 两个程序如何衔接 |
 | --- | --- |
@@ -1338,14 +1338,14 @@ O29r11(1)(c)不以D admission为必要；若审讯会获substantial damages，�
 | 取判与执行 | 仅申请 set aside 不等于获准 stay；查法院是否另令暂缓，及现有执行步骤。 |
 | O.14 ↔ 默认判决（[CO06 卡](./%5BCO06-09%5D%20Pre-Trial%20Judgments,%20Admissions%20and%20Interim%20Payment.md)） | 被告未给抗辩意向 → 走默认判决（更简单）；已给 → 才能 O.14；O.14 不排除以 O.19 r.7 之外取得简易判决的可能（往届学生稿，往届仅参考）。 <small style="opacity: 0.55">〔CL9 L125 "rule (1) specifically requires acknowledgement of service of the writ"〕〔OLD-SET3L9 L198 "does not prohibit a plaintiff from obtaining a summary judgment instead of a default judgment"·往届仅参考〕</small> |
 | O.14 ↔ 剔除（[CO04-05 卡](./%5BCO04-05-10%5D%20Pleadings,%20Defence,%20Counterclaims%20and%20Third%20Party%20Proceedings.md)） | 剔除要求 plain and obvious、drastic 慎用；O.14 要求无可信抗辩——两套测试不混用；SoC 缺陷在 O.14 里是"原告死法"，在剔除里是"被告武器"。 <small style="opacity: 0.55">〔CL4 L654 "only in “plain and obvious” cases"〕〔CL9 L129 "the statement of claim must be complete and without any substantial defect"〕</small> |
-| O.14 ↔ O.22 付款入庭体系 | 高院行动接受 O.22 付款的评税刻度（Wellegant）；conditional leave 的"payment into court"与 O.22 sanctioned payment 是不同制度件，不混用。 <small style="opacity: 0.55">〔CL9 L446 "the plaintiff is entitled to taxed costs on a High Court scale"〕</small> |
+| O.14 ↔ O.22 付款入庭体系 | 高院行动接受 O.22 付款的评税刻度（Wellegant）；conditional leave 的"payment into court"与 O.22 sanctioned payment 是不同程序机制，不混用。 <small style="opacity: 0.55">〔CL9 L446 "the plaintiff is entitled to taxed costs on a High Court scale"〕</small> |
 | O.14 ↔ 传票与命令起草（[CO07 卡](./%5BCO07%5D%20Drafting%20Summonses,%20Interlocutory%20Applications,%20Orders%20&%20Security%20for%20Costs.md)） | O.14 传票的草拟、Consent Summons 替代 callover 方向、命令完善表格（Forms PF 13/15/16/17/19）与盖印全流在 LG07 卡。 <small style="opacity: 0.55">〔CAP-C9 L583 "they can agree to the directions that would normally happen at the call over hearing"〕〔CL9 L711 "Forms PF 13, 15, 16, 17, 19 – for perfection of order(s)"〕</small> |
 | O.14 ↔ 案件管理（[CO11 卡](%5BCO11%5D%20Case%20Management%20and%20Trial%20Organisation%20System.md)） | O.14 r.6 把 O.25 rr.2–7 拟为 summons for directions——判决或许可后直接进入 CM 时表；speedy trial 与 O.14 的不自洽也是 CM 口径；往届学生稿提示不当迟延在 CJR 下招制裁。 <small style="opacity: 0.55">〔CL9 L425 "the Court shall give directions as to the further conduct of the action"〕〔CL9 L166 "a defence being filed out of time but consented to by a plaintiff does not preclude the plaintiff"〕〔OLD-SET3L9 L470 "any undue delay would likely attract severe criticism and sanctions from the Court"·往届仅参考〕</small> |
 | O.14 ↔ 誓章法（LG16 脉络） | PD 10.1 合规、hearsay 的来源根据、本人签署原则在 LG9 具体化；偽证刑责由本人承担（Betts）。 <small style="opacity: 0.55">〔CL9 L150 "compliance with PD 10.1 is required"；CL9 L143 "statements of information or belief with the sources and grounds thereof"；CL9S2 L35 "When they swear or affirm to those stories they can and will be prosecuted for perjury"〕</small> |
 | O.14 ↔ LG13 临时救济 | 被告以无力履行拟议 conditional leave 条件为由反对时，须披露其财力和可用融资；without notice 禁令中的 full and frank disclosure 则要求申请人主动提出重大不利事实及合理可预见的抗辩。迟延在禁令申请可直接削弱紧急性，在 O.14 则影响程序选择及排期。 <small style="opacity: 0.55">〔CAP-C9 L2923 "In an ex parte injunction situation, you must give full and frank disclosure."；CAP-C9 L1642 "Unlike an injunction, delay can be seriously fatal."〕</small> |
 | O.29 ↔ PI 保险体系 | r.11(2) 把 PI 临付锁在保险／公共机构／有资力被告三类——与 Cap.272 汽车三者险、MIB 协议咬合。 <small style="opacity: 0.55">〔CL9 L502 "No order shall be made under paragraph (1) in an action for personal injuries"〕</small> |
 
-## 6. 逆向选择
+## 6. 目标倒推与实务应对策略（Goal-Driven Strategy & Strategic Remedies）
 
 | 客户目标 | 从目标倒推所需材料与行动 |
 | --- | --- |
@@ -1393,28 +1393,23 @@ O29r11(1)(c)不以D admission为必要；若审讯会获substantial damages，�
 
 材料矩阵、来源及修订记录见紧接的折叠审计区。
 
-###### 8.2 七大制度横向耦合图景
+###### 8.2 七大制度横向联动与机制衔接
 
-见 [现行章节](#5.%20%E6%A8%AA%E5%90%91%E8%80%A6%E5%90%88)。
+见 [现行章节](#5.%20%E6%A8%AA%E5%90%91%E7%A8%8B%E5%BA%8F%E8%81%94%E5%8A%A8%E4%B8%8E%E6%9C%BA%E5%88%B6%E8%A1%94%E6%8E%A5%EF%BC%88inter-procedural%20coordination%20&%20interface%EF%BC%89)。
 
-###### 8.13 横向耦合
+###### 8.13 横向程序联动
 
-见 [现行章节](#5.%20%E6%A8%AA%E5%90%91%E8%80%A6%E5%90%88)。
+见 [现行章节](#5.%20%E6%A8%AA%E5%90%91%E7%A8%8B%E5%BA%8F%E8%81%94%E5%8A%A8%E4%B8%8E%E6%9C%BA%E5%88%B6%E8%A1%94%E6%8E%A5%EF%BC%88inter-procedural%20coordination%20&%20interface%EF%BC%89)。
 
-###### 8.14 逆向选择
+###### 8.14 目标倒推与实务策略
 
-见 [现行章节](#5.%20%E6%A8%AA%E5%90%91%E8%80%A6%E5%90%88)。
+见 [现行章节](#5.%20%E6%A8%AA%E5%90%91%E7%A8%8B%E5%BA%8F%E8%81%94%E5%8A%A8%E4%B8%8E%E6%9C%BA%E5%88%B6%E8%A1%94%E6%8E%A5%EF%BC%88inter-procedural%20coordination%20&%20interface%EF%BC%89)。
 
 ###### 8.4 逆向目标索引（Client Objective $\rightarrow$ Procedural Strategy）
 
-见 [现行章节](#6.%20%E9%80%86%E5%90%91%E9%80%89%E6%8B%A9)。
+见 [现行章节](#6.%20%E7%9B%AE%E6%A0%87%E5%80%92%E6%8E%A8%E4%B8%8E%E5%AE%9E%E5%8A%A1%E5%BA%94%E5%AF%B9%E7%AD%96%E7%95%A5%EF%BC%88goal-driven%20strategy%20&%20strategic%20remedies%EF%BC%89)。
 
 <!-- === AUDIT_ZONE_START (DO NOT SEND BELOW THIS LINE TO GPT) === -->
-
----
-
-## 审计留痕：材料矩阵、待核事项与历史修订记录
-
 > [!abstract]- 审计留痕：材料矩阵、待核事项与历史修订记录
 > 
 > **本轮修订**：按现行节号统一正文及跳转标签，归并高阶模型表，补全程序行动句，并将原引注移至段末、列表项末或相应单元格末。
@@ -1440,13 +1435,13 @@ O29r11(1)(c)不以D admission为必要；若审讯会获substantial damages，�
 > | `LG3V` | **本届讲义·LG3 送达与认收（REV）** | [md](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG3%20-%20Service%20and%20Acknowledgement%20of%20Service%20%28REV%29.md) | 本卡只取 AOS 期限：L727「14 days after service of the writ (including the day of service) O. 12 r. 5(a)」与 L729 之速算「Service Date + 13」 
 > | `LG3R` | **本届官方·LG3 参考法规（RHC O.3／O.10／O.11／O.12 原文）** | [md](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG3%20-%20Reference%20Material.md) | O.3 r.6 L90（一年以上的迟延须给予其他各方不少于一个月的通知方可继续）；O.12 r.5 L714–720（境内送达者认收时限＝送达后 14 日，**含送达当日**）；O.12 r.6 L722–724（判决后非经许可不得再给意向抗辩通知） 
 > | `LG4V` | **本届讲义·LG4 诉答大纲** | [md](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG4%20-%20Pleadings.md) | 本卡只取抗辩书期限：L690 时限表「D to serve defence (and counterclaim) within 28 days of being served statement of claim (O.18 r.2(1)) … or … within 28 days of the time limited for giving notice of intention to defend」 
-> | `MATRIX` | **凝结层·本库自撰** | [03 真题矩阵与解析](../00%20Master/03%20Past%20Paper%20Matrix%20and%20Analysis.md) | L38「默认判决 O.13／O.13A」与 L39「撤销默认判决＋附条件付款入法院」两条踩分点登记（原始出处一律回指卷宗） 
+> | `MATRIX` | **凝结层·本库自撰** | [03 真题矩阵与解析](../_meta/Master%20Archive%202026-11-14/03%20Past%20Paper%20Matrix%20and%20Analysis.md) | L38「默认判决 O.13／O.13A」与 L39「撤销默认判决＋附条件付款入法院」两条踩分点登记（原始出处一律回指卷宗） 
 > | `OLD-SET3DJ` | **往届学生稿·Set 3「LG4 O13A + Default Judgment」笔记（460 行）** | [md](../../06%20Base%20Exam%20Notes/Set%203/LG4%20O13A%20+%20Default%20Judgment.md) | ⚠️ 编号陷阱：往届把默认判决讲次叫「LG4」，本届叫 LG6。L156 固定讼费四项数字、L220 2 clear days、L222 *Ho Yuen Tsan v Hop Wing Transportation*（无须待 28 日届满即可送达入判意向通知）、L224 与 L232–236 两种 r.8A(2) 例外表述、L238 入判程序（传票＋誓章） 
 > | `OLD-SET3L3` | **往届学生稿·Set 3「LG3 Service and acknowledgement of service」笔记（702 行）** | [md](../../06%20Base%20Exam%20Notes/Set%203/LG3%20Service%20and%20acknowledgement%20of%20service.md) | L103 *Barclays Bank of Swaziland v Hahn* [1989] 1 WLR 506（被告于送达时不在境内，则替代送达之知悉推定不适用）——本卡仅在撤销判决一节作互校，规则出处仍以本届讲义／条文为准 
 > 
 > > ⚠️ **学年与编号边界提示（2026-09-29 引注改造时复核）**：
 > > 1. `OLD-SET3DJ`／`OLD-SET3L3` 为**往届学生稿**，本卡引用其出处一律带「·往届仅参考」，行文亦须点明届别（检查器 C7／C8）。
-> > 2. **讲次编号错位**：本届 LG6 = 旧 `[LG04] Default Judgments`，本届 LG4 = 旧 `[LG05] Pleadings`，本届 LG5 = 旧 `[LG06] Drafting SOC`（对照见 [Structure Map](../00%20Master/Structure%20Map.md)）。本卡文件名 `[LG06]` 与标题「07 专题卡片」用的是**旧**编号体系，内容对应**本届 LG6**；往届 Set 3 笔记把默认判决讲次叫「LG4」，引用时不得与本届同号讲义混同。
+> > 2. **讲次编号错位**：本届 LG6 = 旧 `[LG04] Default Judgments`，本届 LG4 = 旧 `[LG05] Pleadings`，本届 LG5 = 旧 `[LG06] Drafting SOC`（对照见 [Structure Map](../00%20Master/00%20Master%20Overview%20&%20Flowcharts.md#1.%20%E5%8D%81%E4%B8%89%E5%BC%A0%E4%B8%BB%E5%8D%A1%E7%9A%84%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6)）。本卡文件名 `[LG06]` 与标题「07 专题卡片」用的是**旧**编号体系，内容对应**本届 LG6**；往届 Set 3 笔记把默认判决讲次叫「LG4」，引用时不得与本届同号讲义混同。
 > > 3. **旧 `[S-STATUTE]`／`[S-CASE]` 两码已并入**：法条出处按其**实际所在文件**分挂 `LG6R`（O.13／O.13A／O.19）、`LG3R`（O.3 r.6／O.12 r.5・r.6）；O.18 r.2(1)、O.62 附表二第二部与 PD 24.1 第 8 段则分别挂 `LG4V`／`LG6V`。判例出处按其**在本库内的转述所在文件**分挂 `LG6V`／`LG6S`，案卷事实挂 `📄LG6APP`；判例报告原文不在本库，故本卡只引「讲义如何转述」，按用户 2026-09-29 口径不到库外核实。
 > > 4. ⚠️ **条文号标注与原文不符三处**（内容无误，本卡一律按 `LG6R` 原文标号）：①讲义 L311 把 prescribed time 写作「O. 13 r. 6」，幻灯 L218 则作 r.6A，原文为 **O.13 r.6A**（L772–774）；②幻灯把收地判决「须对所有被告入判方可执行」列为 r.4／r.5 的「(2)」，原文作 **(5)**（L758／L872）；③幻灯把 O.19 r.7「申请须以传票提出」列为「(2)」，原文作 **(3)**（L888）。
 > > 5. ⚠️ **O.19 r.8A(2)「免除入判意向通知」的例外情形，本届材料两侧口径不一致**：讲义 L321 与幻灯 L224／L226 述为「D 未交 A/S，或未委托律师且无香港送达地址」；而条文原文 L906–L910 述为「法庭已裁定／延展抗辩书期限」或「无诉讼记录律师且未在程序中指明境内地址」，**并未**把「未交 AOS」列为例外。两侧皆属本届材料，本卡**并列不裁决**〔D-R8AEXC〕。

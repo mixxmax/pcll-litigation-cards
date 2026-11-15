@@ -20,7 +20,7 @@ LG课表安排:
   - "PCLL8010 SG01（LG3 为其程序背景铺垫，见 Structure Map §4；非直接覆盖）"
 SG课表安排:
   - "Civil Litigation SG7（课程代码待核）：2026-11-05 19:00–21:00；原表E15=PCLL8050、E16=Civil Litigation、E17=SG7: Drafting Affidavits 1；并列记录，不擅改归属；出处 工作表10!E13:E17"
-课表来源: "[PCLL PT Yr1 (General)/2026-27 1st Sem PT YR1 PCLL Timetable (24.08.2026).xlsx](obsidian://open?vault=3b1e77255f6c6e29&file=PCLL%20PT%20Yr1%20%28General%29%2F2026-27%201st%20Sem%20PT%20YR1%20PCLL%20Timetable%20%2824.08.2026%29.xlsx)"
+课表来源: "PCLL PT Yr1 (General)/2026-27 1st Sem PT YR1 PCLL Timetable (24.08.2026).xlsx"
 课表版本: "24.08.2026"
 课表核对日期: "2026-10-10"
 课表说明: "按用户指定原课表登记，不代表材料已齐或课程已上；时区Asia/Hong_Kong。SG7 条目课程代码与名称在原表中不一致，并列留痕不裁决。"
@@ -32,7 +32,7 @@ SG06本届关联: "Q1–Q4具体关联见本卡末2026-10-28应用节"
 
 
 
-# 送达、诉讼认收与管辖权异议
+# LG03 专题卡片 — 送达、认收与管辖权异议全景实务精要（Service, AOS & Jurisdictional Challenges）
 
 ## 速读定位层
 
@@ -41,7 +41,7 @@ SG06本届关联: "Q1–Q4具体关联见本卡末2026-10-28应用节"
 ### 适用范围
 
 **覆盖（按程序时序）**——自令状签发到诉答开启的完整「送达 → 认收 → 管辖权分流」链：
-1. **程序起点与分流**：令状签发（Registry 盖印，O.6 r.7，见 §2.1 状态机）→ 按被告身在何处、主体性质分流域内／域外与主体专用路径（见 §00 全景图）。 <small style="opacity: 0.55">〔LG3V L265 "Service is effected when D has notice of the proceedings"〕</small>
+1. **程序起点与分流**：令状签发（Registry 盖印，O.6 r.7，见 §2.1 送达与认收程序流转）→ 按被告身在何处、主体性质分流域内／域外与主体专用路径（见 §00 全景图）。 <small style="opacity: 0.55">〔LG3V L265 "Service is effected when D has notice of the proceedings"〕</small>
 2. **域内送达（O.10 r.1 & O.65）**：亲自送达（*Cheung Ping* 三要件）、挂号邮寄／投信箱（O.10 r.1(2)，第 7 日推定＋誓章两项陈述）、律师背书代收（O.10 r.1(4)）、AOS 治愈（O.10 r.1(5)）、海外主体在港代理人（O.10 r.2）、合同约定送达（O.10 r.3）、收回土地诉讼（O.10 r.4）（§3.2、§3.3）。 <small style="opacity: 0.55">〔LG3R L172 "A writ for service on a defendant within the jurisdiction may, instead of being served personally on him, be served"〕</small>
 3. **特殊主体送达**：本地有限公司（s.827 CO 路径甲 ∥ O.10 r.1(2) 配 O.65 r.3(2) 路径乙——*Stevenson Wong*）、海外注册公司（s.803 CO 四级瀑布流）、合伙商号（O.81 r.3 三选一）、无行为能力人（O.80 r.2）、普通文件（O.65 r.5／r.7）（§3.3）。 <small style="opacity: 0.55">〔LG3A L94 "S827 service and O10 r1(2) are alternative methods of service"〕</small>
 4. **替代送达（O.65 r.4）**：常规方式 impracticable 时的 ex parte 申请＋誓章＋法庭指定方式（§3.3 替代送达行）。 <small style="opacity: 0.55">〔LG3R L262 "it appears to the Court that it is impracticable for any reason to serve that document in the manner prescribed"〕</small>
@@ -50,7 +50,7 @@ SG06本届关联: "Q1–Q4具体关联见本卡末2026-10-28应用节"
 7. **AOS 认收与 O.12 r.8 管辖权异议**：域内 14 日含送达日（r.5(a)）／域外依命令所定期限（r.5(b)）、保留异议三步（Form14表态并保留异议→抗辩期内r8传票→*Spiliada*／*Noble Power*／仲裁三进路）、O.12 r.8A 未送达反制（§3.5、§4）。 <small style="opacity: 0.55">〔LG3R L718 "(a) in the case of a writ served within the jurisdiction … to that time as so extended"〕</small>
 8. **下游分流**：无条件 AOS → 28 日抗辩书（O.18 r.2）；逾期未认收 → 原告可依 O.13／O.13A 申请默认判决（入口见 §2.1／§3.5，规则主体在 LG06 卡）。
 
-**不覆盖（边界声明，相关主卡承担）**：① **时限计算详表**——各级死线的全年历级对照与跨制度时限总账 → [01 时限表](../00%20Master/01%20Deadlines%20and%20Time%20Limits.md)；本卡 §3.1 只给送达／AOS 自身的算法规则与高频算例，教师对期间计算的操作要求见 2026-10-05 字幕校核；② 默认判决的申请要件、四类索赔与 irregular／regular 撤销规则主体（→ [CO06 默认判决卡](./%5BCO06-09%5D%20Pre-Trial%20Judgments,%20Admissions%20and%20Interim%20Payment.md)；本卡只供「送达瑕疵 → irregular 撤销」的接口）；③ AOS 之后抗辩书与诉答文书的起草主体（→ [CO04-05 诉答卡](./%5BCO04-05-10%5D%20Pleadings,%20Defence,%20Counterclaims%20and%20Third%20Party%20Proceedings.md)）；④ 替代送达誓章与命令草案的逐段起草作业（→ [SG07 Classroom & Desk](../../01%20SG/SG07%20Drafting%20Affidavit%20and%20Order%20%28Affirmation%20of%20Service%29/00%20Classroom%20&%20Desk.md)，Assignment 2 DDL 2026-11-17 12:00 noon）；⑤ 历年真题的全库坐标（→ [03 真题矩阵](../00%20Master/03%20Past%20Paper%20Matrix%20and%20Analysis.md)；本卡 §5 只收送达／AOS 题位）。 <small style="opacity: 0.55">〔CAP-C3 L286 "Please bring a standard calendar"〕</small>
+**不覆盖（边界声明，相关主卡承担）**：① **时限计算详表**——各级死线的全年历级对照与跨制度时限总账 → [01 时限表](../00%20Master/01%20Master%20Deadlines%20&%20Case%20Matrix.md)；本卡 §3.1 只给送达／AOS 自身的算法规则与高频算例，教师对期间计算的操作要求见 2026-10-05 字幕校核；② 默认判决的申请要件、四类索赔与 irregular／regular 撤销规则主体（→ [CO06 默认判决卡](./%5BCO06-09%5D%20Pre-Trial%20Judgments,%20Admissions%20and%20Interim%20Payment.md)；本卡只供「送达瑕疵 → irregular 撤销」的接口）；③ AOS 之后抗辩书与诉答文书的起草主体（→ [CO04-05 诉答卡](./%5BCO04-05-10%5D%20Pleadings,%20Defence,%20Counterclaims%20and%20Third%20Party%20Proceedings.md)）；④ 替代送达誓章与命令草案的逐段起草作业（→ [SG07 Classroom & Desk](../../01%20SG/SG07%20Drafting%20Affidavit%20and%20Order%20%28Affirmation%20of%20Service%29/00%20Classroom%20&%20Desk.md)，Assignment 2 DDL 2026-11-17 12:00 noon）；⑤ 历年真题的全库坐标（→ [03 真题矩阵](../00%20Master/02%20Exam%20&%20SG%20Decision%20Router.md#2.2%20%E7%9C%9F%E9%A2%98%E5%A4%8D%E5%90%88%E8%B7%AF%E7%BA%BF)；本卡 §5 只收送达／AOS 题位）。 <small style="opacity: 0.55">〔CAP-C3 L286 "Please bring a standard calendar"〕</small>
 
 ### 术语
 
@@ -77,14 +77,14 @@ SG06本届关联: "Q1–Q4具体关联见本卡末2026-10-28应用节"
 
 | 环节 | 实际操作 |
 | --- | --- |
-| 令状签发 | 把「谁告谁、告什么」固定成法院盖印的启动文书，诉讼从此有了形体与案号（O.6 r.7 盖印，见 §2.1 状态机）。 §2.1 |
+| 令状签发 | 把「谁告谁、告什么」固定成法院盖印的启动文书，诉讼从此有了形体与案号（O.6 r.7 盖印，见 §2.1 送达与认收程序流转）。 §2.1 |
 | 送达 | 把诉讼启动有效告知被告、确立对人管辖的程序系属；**送达一完成，被告的应诉时钟才开始走**——AOS 死线、默认判决门槛全部以送达日为原点。 O.10／O.11。 <small style="opacity: 0.55">〔LG3V L265 "Service is effected when D has notice of the proceedings"〕</small> |
 | 送达誓章 | 解决「法院凭什么相信你送达了」：原告取默认判决的前置证据，7 日知悉陈述＋未退件陈述是其两枚印章。 O.10 r.1(3)(b)。 <small style="opacity: 0.55">〔LG3R L184 "will have come to the knowledge of the defendant within 7 days thereafter"；LG3R L186 "the copy of the writ has not been returned to the plaintiff through the post undelivered to the addressee"〕</small> |
 | AOS | 解决「被告诉答意愿的第一次表态」：是进实体打法（无条件）还是抢管辖打法（保留异议），一步定调全案攻防。 O.12。 <small style="opacity: 0.55">〔LG3A L114 "the Defendant first goes on record in the proceedings by filing this acknowledgement of service"〕</small> |
 | O.12 r.8 管辖权异议 | 解决「跑线之争」：在哪打这场官司的 upfront 决战——成立则香港程序中止／撤销，不成立则视为服从管辖进实体。 O.12 r.8。 <small style="opacity: 0.55">〔LG3V L661 "the filing of an A/S unconditionally is taken to have submitted to the jurisdiction of Hong Kong Courts"；LG3V L667 "there is another available forum which is clearly or distinctly more appropriate than Hong Kong"〕</small> |
 | O.11 许可审查 | 解决「香港法院凭什么把手伸到辖区外的人」：三关过滤，把对人管辖的域外扩张限定于连接点充分且法院合适者。 O.11 r.4。 <small style="opacity: 0.55">〔LG3V L559–L563 "good arguable case … serious issue to be tried … most appropriate forum to try the case"〕</small> |
 | 替代送达／追溯许可 | 解决「程序被躲避者或不完美执行卡死」：在被告实际知悉不确定前不让案件停摆。 O.65 r.4／O.2 r.1。 <small style="opacity: 0.55">〔LG3V L481–L487 "Examples where sub-service may be considered … Evasion of service"；LG3V L631 "the court is empowered to grant retrospective leave under O.2 r.1 to rectify the irregularity, if good cause is shown"〕</small> |
-| 算日规则 | 把日历风险变成确定死线：时间计算是民诉第一道绝对红线，算错一日即导致 AOS、默认判决、抗辩书连环位移（§3.1 首句）。 O.3／Cap.1 s.71／HCO s.31。 <small style="opacity: 0.55">〔LG3R L38 "being a period of 7 days or less, would include a specified day, that day shall be excluded"〕</small> |
+| 算日规则 | 把日历风险变成确定死线：时间计算是民诉第一道绝对红线，算错一日即导致后续 AOS、默认判决及抗辩书死线连环错位与逾期（§3.1 首句）。 O.3／Cap.1 s.71／HCO s.31。 <small style="opacity: 0.55">〔LG3R L38 "being a period of 7 days or less, would include a specified day, that day shall be excluded"〕</small> |
 | 默认判决 | 被告消极时原告的推进权：把「不理」从拖延策略变成败诉风险（入口；规则主体在 LG06 卡）。 O.13／O.13A |
 
 
@@ -144,8 +144,8 @@ flowchart TD
 > | OLD-25K | [2025 Aug Knowledge Paper（往届补充考卷连同答案表）](../../02%20Past%20Papers/2025-08%20Aug/1.%20Knowledge%20Paper%20%28Aug%202025%29.md) | 往届官方 | 2024-25 |
 > | OLD-23J | [2023 Jan Mark Sheet（往届知识考评语，库内仅 pdf）](../../02%20Past%20Papers/2023-01%20Jan/2.%202023%20JAN%20-%20Mark%20Sheet.pdf) | 往届官方 | 2022-23 |
 > | OLD-24J | [2024 Jul Review PPT（往届知识考复习幻灯，库内仅 pdf）](../../02%20Past%20Papers/2024-07%20Jul/5.%202024%20JULY%20-%20Review%20PPT.pdf) | 往届官方 | 2024-25 |
-> | MATRIX | [03 真题矩阵与解析（凝结层，本库自撰）](../00%20Master/03%20Past%20Paper%20Matrix%20and%20Analysis.md) | 凝结层 | 2026-27 |
-> | XSET | [04 三人对比与 SG 脉络（凝结层，本库自撰）](../00%20Master/04%20Cross-Set%20Comparison%20and%20SG%20Progression.md) | 凝结层 | 2026-27 |
+> | MATRIX | [03 真题矩阵与解析（凝结层，本库自撰）](../_meta/Master%20Archive%202026-11-14/03%20Past%20Paper%20Matrix%20and%20Analysis.md) | 凝结层 | 2026-27 |
+> | XSET | [04 三人对比与 SG 脉络（凝结层，本库自撰）](../_meta/Master%20Archive%202026-11-14/04%20Cross-Set%20Comparison%20and%20SG%20Progression.md) | 凝结层 | 2026-27 |
 > | CAP-C3 | [PCLL8010 LG3 PT](../../99%20Moodle%20Mirror/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG3%20-%20Service%20and%20Acknowledgement%20of%20Service/Panopto%20Captions%20%28local%20export%29/8010_LG03_PT.md) | 本届讲义 | 2026-27 |
 
 
@@ -225,7 +225,7 @@ flowchart TD
 
 #### 0B.2 顺向五环：从签发令状到进入诉答
 
-> 五原则之**顺向**落点（另四线：横向→0C、逆向→0D、第一性→§1、控制论→§2；五环见 0B，横向耦合见 0C，倒推链见 0D）。把 §00 全景图拆成五环，每环给「触发 → 行动 → 产出」；引注回 §3 对应 playbook，不重复抄写。
+> （五原则之顺向落点；另四线：横向程序联动→0C、目标倒推→0D、第一性→§1、流程控制→§2；五环见 0B，联动见 0C，倒推链见 0D）。把 §00 全景图拆成五环，每环给「触发 → 行动 → 产出」；引注回 §3 对应 playbook，不重复抄写。
 
 **环一：签发与路径分流**
 - 客户已授权起诉并核过时效后，Registry 按 O.6 r.7 盖印发出 writ。原告先查被告所在地及其身份，再决定采用域内、域外或特殊主体规则；送达函可写明实际采用的方式。见 §§0D–0F。 <small style="opacity: 0.55">〔LG3V L407 "To avoid confusion, it is good practice to indicate the method of service in the covering letter"〕</small>
@@ -259,7 +259,7 @@ flowchart TD
 
 ## 0C. 时间计算与 deemed service
 
-时间计算是民诉第一道绝对红线，算错一日即导致后续 AOS、默认判决、抗辩书连环位移。
+时间计算是民诉第一道绝对红线，算错一日即导致后续 AOS、默认判决、抗辩书死线连环错位与逾期。
 
 ```mermaid
 flowchart TD
@@ -580,7 +580,7 @@ flowchart TD
   1. **域内送达**：认收期限 = 令状送达后 **14 日（含送达日当天）**；该期限若因规则本身（如 O.3 r.4 届满日关门顺延）而延展，则以延展后的期限为准。 <small style="opacity: 0.55">〔LG3A L74 "fourteen days after service of the writ (including the day of service)"〕</small>
   2. **域外送达**：**不存在 14 日这个默认数字**——期限由 **O.10 r.2(2)**（诉讼代理人送达）、**O.11 r.1(3)**（免许可域外送达时命令所定）、**O.11 r.4(4)**（许可域外送达命令所定）另行指定；实务上**法庭准许域外送达的命令会直接写明 AOS 应于何时提交**。 <small style="opacity: 0.55">〔LG3A L76 "the time limited under Order 10, rule 2(2), Order 11, rule 1(3), or Order 11, rule 4(4)"；LG3A L80 "the order given by the Court allowing service out of jurisdiction will indicate when the acknowledgement of service is required to be filed"〕</small>
 - **考试后果**：往届 2023 Jan Q1b 官方 mark sheet 另以 **2 分**考核「按许可令状域外送达所定期限提交认收」，只答「14 天」不能取分（见本卡 §5.1）。 <small style="opacity: 0.55">〔📄OLD-23J p.1 "File the A/S according to the time given in the order giving leave to serve Writ out of jurisdiction. [2]" ·往届仅参考〕</small>
-- ⚠️ 旧文在本节把域外送达情形一并写作「送达日 + 13 天」，已按 r.5(b) 双轨改写（§3.5 流程图、§2.1 状态机同步）。
+- ⚠️ 旧文在本节把域外送达情形一并写作「送达日 + 13 天」，已按 r.5(b) 双轨改写（§3.5 流程图、§2.1 送达与认收程序流转同步）。
 
 **总表索引**：AOS 逾期未交、误选 defend generally／异议程序逾期的后果链归并 [§0E 后果链总表](#0J.%20%E7%A8%8B%E5%BA%8F%E5%A4%B1%E8%AF%AF%E5%8F%8A%E5%85%B6%E5%90%8E%E6%9E%9C) 行 7–8；被告方反推链见 [0D](#6.%20%E4%B8%80%E9%A1%B5%E6%9E%81%E9%80%9F%E8%AE%B0%E5%BF%86%E4%B8%8E%E9%80%9F%E6%9F%A5%E5%85%AC%E5%BC%8F%EF%BC%88One-Page%20Exam%20Cheat%20Sheet%EF%BC%89) 链 B／链 C。
 
@@ -711,7 +711,7 @@ flowchart TD
 
 > **Exam / Drafting Formulation:** "The proposed method is likely to bring the originating process to the defendant’s attention."
 
-### 2.1 状态机模型（State Variables）
+### 2.1 送达与认收程序流转（Service & AOS Progression）
 
 ```mermaid
 stateDiagram-v2
@@ -800,9 +800,9 @@ stateDiagram-v2
 | 4 | 合伙送达未用 O.81 r.3 三法之一：对合伙商号用三法以外方式送达 | 【自动后果】送达不生效力（*3D-Gold v PwC* 之排他说；与 O.2 r.1 追认说并列未裁决，见 open 块 D-3DGOLD）。【延伸制裁】未被送达的合伙人个人财产**不能**被直接执行。 <small style="opacity: 0.55">〔LG3V L453 "One of the above methods must be used to effect service on partnerships; otherwise the service is ineffective"；LG3V L455 "the rules on enforcing a judgment against the personal assets of partners depend (partly) on whether the partners were served"〕</small> |
 | 5 | 未经 O.65 r.4 批准私发电邮／即时通讯当送达：以电邮／WhatsApp 等直接发送令状，未取得替代送达命令 | 【自动后果】法律上完全无效（null and void）：不能启动 AOS 时钟，更不可据此申请默认判决。【救济门槛】唯一出路：ex parte 传票＋誓章申请 O.65 r.4，须证已尽力搜寻＋建议方式合理可能达致知悉（*Chan Yeuk Mui*）。 （WhatsApp 一项库内无出处，见 open 块待核实）。 <small style="opacity: 0.55">〔LG3R L266 "is effected by taking such steps as the Court may direct to bring the document to the notice of the person to be served"；XSET L73 "三人对电邮送达的定性一致：未经 O.65 r.4 事先批准的替代送达无效"；LG3V L473 "it’s impracticable to effect service in the usual methods which gives rise to the Court’s discretion"〕</small> |
 | 6 | 未先取 O.11 许可即域外送达：疏忽或侥幸直接向境外被告送达 | 【自动后果】严重程序瑕疵——管辖权基础崩塌：无许可的域外送达不构成对人管辖的程序系属。【救济门槛】唯一补救：O.2 r.1 追溯许可（retrospective leave），须证 good cause shown，属裁量不保证获准（*China Medical v Paul Weiss*）。 <small style="opacity: 0.55">〔LG3V L537 "Generally, leave is required to serve writ out of jurisdiction"；LG3V L631 "the court is empowered to grant retrospective leave under O.2 r.1 to rectify the irregularity, if good cause is shown"；LG3R L462 "Service of a writ out of the jurisdiction is permissible without the leave of the Court"〕</small> |
-| 7 | AOS 逾期未交：域内送达日＋13（共 14 日含送达日）届满未认收；域外按命令所定期限届满未认收 | 【制裁暴露】原告有权依 O.13／O.13A 申请默认判决（入口见 §2.1 状态机；规则主体在 LG06 卡）。【追加后果】逾期补交 AOS **不顺延**抗辩期限（O.12 r.6(2)，§4 mindmap）。【举证负担】原告方须先证送达有效（行 1–6 全链），否则所取 DJ 属 irregular（行 1–3）。 <small style="opacity: 0.55">〔LG3A L74 "fourteen days after service of the writ (including the day of service)"；LG3A L76 "the time limited under Order 10, rule 2(2), Order 11, rule 1(3), or Order 11, rule 4(4)"；LG3R L718 "(a) in the case of a writ served within the jurisdiction … to that time as so extended"；LG3R L720 "(b) in the case of a writ served out of the jurisdiction"〕</small> |
+| 7 | AOS 逾期未交：域内送达日＋13（共 14 日含送达日）届满未认收；域外按命令所定期限届满未认收 | 【制裁暴露】原告有权依 O.13／O.13A 申请默认判决（入口见 §2.1 送达与认收程序流转；规则主体在 LG06 卡）。【追加后果】逾期补交 AOS **不顺延**抗辩期限（O.12 r.6(2)，§4 mindmap）。【举证负担】原告方须先证送达有效（行 1–6 全链），否则所取 DJ 属 irregular（行 1–3）。 <small style="opacity: 0.55">〔LG3A L74 "fourteen days after service of the writ (including the day of service)"；LG3A L76 "the time limited under Order 10, rule 2(2), Order 11, rule 1(3), or Order 11, rule 4(4)"；LG3R L718 "(a) in the case of a writ served within the jurisdiction … to that time as so extended"；LG3R L720 "(b) in the case of a writ served out of the jurisdiction"〕</small> |
 | 8 | 拟异议但未在抗辩期内作r8申请：未按规则申请或异议程序逾期 | 【自动后果】视为服从香港管辖，管辖权异议失权（往届 2023 Jan Q1b 官方点名扣分区；误引 O.12 r.7 同被点名）。【救济门槛】仅余 O.21 r.1 经法庭许可撤回认收（r.8(7) 但书）——须经许可，非自由撤回。 <small style="opacity: 0.55">〔LG3R L776 "A defendant who makes an application under paragraph (1) or (2) shall not be treated as having submitted to the jurisdiction of the court"；LG3R L780 "unless the acknowledgment is withdrawn by leave of the Court under Order 21, rule 1"；📄OLD-23J p.1 "Wrong application of O.12 r.7 – O.12 r.8(6),(7)" ·往届仅参考；MATRIX L99 "另外考生常错用 O.12 r.7，应为 O.12 r.8(6)、(7)"〕</small> |
-| 9 | 算错 AOS／期间死线：误用 ≤7 日剔除规则、把普通工作日当假日、误以为暑期 AOS 暂停 | 【自动后果】死线位移：AOS／默认判决／抗辩书连环错位（§3.1 首句「算错一日即导致后续连环位移」）。【举证负担】教师明示考期间计算及假期处理——写得出具体到期日才算完成，只答「14 日内」不算数。 <small style="opacity: 0.55">〔LG3V L197–L201 "if the period is 7 days or less … General holidays (i.e. Sunday and public holidays)"；LG3V L211–L223 "arrange for inspection within 7 days from exchange of list of documents … = 12 October"；LG3R L160 "nothing in this section shall be deemed to extend the time for entering appearance to any writ endorsed with a statement of claim"；CAP-C3 L286 "Please bring a standard calendar"〕</small> |
+| 9 | 算错 AOS／期间死线：误用 ≤7 日剔除规则、把普通工作日当假日、误以为暑期 AOS 暂停 | 【自动后果】死线错位与逾期：AOS、默认判决及抗辩书期限连环错位（§3.1 首句「算错一日即导致后续连环错位与逾期」）。【举证负担】教师明示考期间计算及假期处理——写得出具体到期日才算完成，只答「14 日内」不算数。 <small style="opacity: 0.55">〔LG3V L197–L201 "if the period is 7 days or less … General holidays (i.e. Sunday and public holidays)"；LG3V L211–L223 "arrange for inspection within 7 days from exchange of list of documents … = 12 October"；LG3R L160 "nothing in this section shall be deemed to extend the time for entering appearance to any writ endorsed with a statement of claim"；CAP-C3 L286 "Please bring a standard calendar"〕</small> |
 | 10 | 收回土地诉讼只做入口张贴而省却对被告的送达：把 r.4(2) 张贴当成替代送达；或未许可径贴 | 【自动后果】张贴系「in addition to, and not in substitution for」其他送达方式，单独张贴不生效（§5.1 2025 Aug Q1b 张贴大门应置不顾同例）。【救济门槛】r.4(1) 追认须法庭 satisfied 两前提（无人占有＋无法以其他方式送达）。 <small style="opacity: 0.55">〔LG3R L232 "in addition to, and not in substitution for any other mode of service"；LG3R L228 "if satisfied on an ex parte application that no person appears to be in possession of the premises or land"；OLD-25S L26 "Posting up the Writ is not a proper method of service and should be ignored [2]" ·往届仅参考〕</small> |
 | 11 | O.10 r.2 代理送达获准后，未把令状与命令挂号寄海外被告：只送达在港代理人，漏掉条文要求的后续寄送 | 【自动后果】库内无明文 → open 块 O-N1（条文用 must，但库内未载违反的明文后果）。【规则面】法庭命令会限定 AOS 期限，令状与命令副本须邮寄域外被告。 <small style="opacity: 0.55">〔LG3R L208 "must limit a time within which the defendant must acknowledge service"；LG3R L210 "a copy of the order and of the writ must be sent by post to the defendant at his address out of the jurisdiction"〕</small> |
 | 12 | 公司送达 covering letter 未注明所采方法：公函没写走 s.827 还是 O.10 r.1(2)／O.65 r.3 | 【自动后果】无明文制裁——讲义口径为 good practice（非强制）。【实务后果】推定送达日锁定争议（第 7 日 vs 留置当日 vs PD 19.2 第 4·第 2 工作日之争，§5.1 2025 Aug Q1b 即此型冲突的土壤）。 <small style="opacity: 0.55">〔LG3V L407 "To avoid confusion, it is good practice to indicate the method of service in the covering letter"〕</small> |
@@ -896,7 +896,7 @@ O-N2旧“只看期间一段”已由本节全文阅读记录替代；Moodle后�
 - **核心争议**：涉及跨国域外送达（O.11 r.1(1) Gateways）、送达令状的有效性及被告提出管辖权异议（O.12 r.8）的胜算评估。
 
 #### 2. 答题/起草要件映射与操作落点
-#### 5.1 历年真题标准考核模型穿透
+#### 5.1 历年真题考核要点与标准答题路径（Past Paper In-Depth Analysis）
 
 | 考卷年份与题号 | 核心案情事实与模板 | 涉及考点 | 标准踩分点与解题路径 |
 | --- | --- | --- | --- |
@@ -918,7 +918,7 @@ flowchart TD
         DeemedDate --> AOS_A["O.12 r.5(a) AOS 期限:<br>含送达日共14天 (6月19日 + 13天)<br>= 2026年7月2日 (周四)"]
     end
 
-    subgraph PartB ["【情境 (b) 境外属地例外穿透】"]
+    subgraph PartB ["【情境 (b) 境外属地例外审查要点】"]
         Tokyo["6月11-21日 Bill 身在东京"] --> HahnRule["Barclays Bank v Hahn 规则适用:<br>寄发令状时被告不在香港法域内<br>→ O.10 r.1(3) 7日推定送达完全不生效！"]
         HahnRule --> ActualKnow["6月22日 (周一) 返港开信箱实际知悉<br>→ 实际知悉日 (6月22日) 确立为法定送达日"]
         ActualKnow --> AOS_B["重新计算 AOS 截止日:<br>6月22日 + 13天<br>= 2026年7月5日 (周日)"]
@@ -931,7 +931,7 @@ flowchart TD
   2. 挂号信签收/投递记录（确认信件是否妥投信箱且未被退回）。 <small style="opacity: 0.55">〔LG3V L449 "Affidavit of service to contain the deponent's opinion … and was not returned to P undelivered"〕</small>
   3. 原告送达誓章内容（是否满足 O.10 r.1(3)(b) 诚信知悉陈述）。 <small style="opacity: 0.55">〔LG3V L291 "An affidavit proving service must contain a statement … the copy of the writ so sent will have come to knowledge of the defendant"；LG3R L180 "the date of service shall, unless the contrary is shown, be deemed to be the seventh day"〕</small>
 
-**总表索引**：Exercise 1(b) 的境外反证穿透（*Barclays Bank v Hahn*）与 2023 Jan Q5a 的 irregular 撤销，分别对应 [0E 总表](#0J.%20%E7%A8%8B%E5%BA%8F%E5%A4%B1%E8%AF%AF%E5%8F%8A%E5%85%B6%E5%90%8E%E6%9E%9C) 行 2 与行 1–3；原告防线的完整倒推链见 [0D](#6.%20%E4%B8%80%E9%A1%B5%E6%9E%81%E9%80%9F%E8%AE%B0%E5%BF%86%E4%B8%8E%E9%80%9F%E6%9F%A5%E5%85%AC%E5%BC%8F%EF%BC%88One-Page%20Exam%20Cheat%20Sheet%EF%BC%89) 链 A。
+**总表索引**：Exercise 1(b) 的境外反证审查（*Barclays Bank v Hahn*）与 2023 Jan Q5a 的 irregular 撤销，分别对应 [0E 总表](#0J.%20%E7%A8%8B%E5%BA%8F%E5%A4%B1%E8%AF%AF%E5%8F%8A%E5%85%B6%E5%90%8E%E6%9E%9C) 行 2 与行 1–3；原告防线的完整倒推链见 [0D](#6.%20%E4%B8%80%E9%A1%B5%E6%9E%81%E9%80%9F%E8%AE%B0%E5%BF%86%E4%B8%8E%E9%80%9F%E6%9F%A5%E5%85%AC%E5%BC%8F%EF%BC%88One-Page%20Exam%20Cheat%20Sheet%EF%BC%89) 链 A。
 
 ---
 
@@ -969,7 +969,7 @@ flowchart TD
 | 送达与认收 | Affirmation of Service 证明原告怎样送达；Form 14 是被告向法院认收，两份文书证明不同事实。 |
 | 缺席判决 | CO06–09 的 O.13／O.19 取判以有效送达及相应期限届满为前提。 |
 
-## 4. 工程控制论
+## 4. 办案流程控制与关键节点核查（Procedural Control & Case Verification）
 
 | 核对项 | 当事人如何核对 | 发现缺口后的行动 |
 | --- | --- | --- |
@@ -977,7 +977,7 @@ flowchart TD
 | 完成送达证明 | 记载实际行为、日期和地点；另算 deemed service，不能用发信日替代 | 被告以出境纪录、地址和送达证据挑战有效性；若争管辖，须按期限申请，不能只在 Form 14 勾选。 |
 | 管辖异议 | 先按规定交 AOS；在 Defence 期限届满前依 O.12 r.8 发 summons 并提交证据 | 送达记录分清亲自交付、寄出、投入信箱与法定推定日；把承认送达与管辖异议分开记录。 |
 
-## 5. 横向耦合
+## 5. 横向程序联动与机制衔接（Inter-Procedural Coordination & Interface）
 
 | 接口 | 两个程序如何衔接 |
 | --- | --- |
@@ -991,16 +991,16 @@ flowchart TD
 | **送达 × 默认判决（O.13／O.13A）** | 送达是默认判决的前置审查点：送达无效 → irregular 默认判决，作为权利撤销且不问实体；送达有效＋AOS 逾期 → regular 轨道，其撤销规则主体在 [CO06 卡](./%5BCO06-09%5D%20Pre-Trial%20Judgments,%20Admissions%20and%20Interim%20Payment.md)；2023 Jan Q5a：10 楼走廊交予自称员工者，既非「留置于注册办事处」（不合 s.827）亦非 O.10 r.1 授权方式 → as of right 撤销。 <small style="opacity: 0.55">〔📄OLD-23J p.3 "The court will set aside the default judgment as a right without considering the merits of the claim. [5]" ·往届仅参考；LG3V L305 "there is still no good service"〕</small> |
 | **送达誓章 × AOS（一文一答）** | 原告以 affirmation of service **证明**送达、被告以 AOS **回应**送达；SG07 Assignment 2（DDL 2026-11-17 12:00 noon）正考此前者；[SG07 Classroom & Desk](../../01%20SG/SG07%20Drafting%20Affidavit%20and%20Order%20%28Affirmation%20of%20Service%29/00%20Classroom%20&%20Desk.md)。 <small style="opacity: 0.55">〔LG3A L116 "the plaintiff proves service by filing an affirmation of service, and the defendant responds to service by filing the acknowledgement of service"〕</small> |
 | **AOS × 抗辩死线（O.18 r.2／O.12 r.6(2)）** | O18r2以AOS法定期限／SoC送达取较后起算28日，并非以实际提早AOS日启动；**交了逾期 AOS 不能顺延抗辩期**（O.12 r.6(2)，§4 mindmap）——抗辩死线是另一台独立的钟；诉答主体在 [CO04-05 卡](./%5BCO04-05-10%5D%20Pleadings,%20Defence,%20Counterclaims%20and%20Third%20Party%20Proceedings.md)；§6 秘籍「28 天」条；§4 mindmap「以为交了逾期 AOS 能顺延抗辩书」 |
-| **算日 × 暑期休庭（HCO s.31）** | 高院 8 月 1–31 日暂停 pleadings 送达／存档／修改期间，区院无暑期休庭；但**令状附有 SOC 时的 AOS 期限不暂停**——「暑期」不是万能停牌器；全年历级总账 → [01 时限表](../00%20Master/01%20Deadlines%20and%20Time%20Limits.md)。 <small style="opacity: 0.55">〔LG3V L225 "the counting of days excludes the Court’s summer vacation (i.e. 1-31 August"；LG3V L229 "there is NO SUMMER VACATION in the District Court"；LG3R L160 "nothing in this section shall be deemed to extend the time for entering appearance to any writ endorsed with a statement of claim"〕</small> |
+| **算日 × 暑期休庭（HCO s.31）** | 高院 8 月 1–31 日暂停 pleadings 送达／存档／修改期间，区院无暑期休庭；但**令状附有 SOC 时的 AOS 期限不暂停**——「暑期」不是万能停牌器；全年历级总账 → [01 时限表](../00%20Master/01%20Master%20Deadlines%20&%20Case%20Matrix.md)。 <small style="opacity: 0.55">〔LG3V L225 "the counting of days excludes the Court’s summer vacation (i.e. 1-31 August"；LG3V L229 "there is NO SUMMER VACATION in the District Court"；LG3R L160 "nothing in this section shall be deemed to extend the time for entering appearance to any writ endorsed with a statement of claim"〕</small> |
 | **O.11 × 内地↔香港新安排** | 2026 年 4 月新安排已签署但 Article 19 明定未生效（须最高法司法解释＋香港修例）；答题与执业仍走 O.11 r.5A——时间维度上两套制度并存；§3.4 新安排对照表。 <small style="opacity: 0.55">〔LG3A L60 "the provisions of this new Arrangement are not yet in effect"；LG3A L62 "legal practitioners must continue to use the existing, less flexible system"；LG3R L532 "the writ must be served through the judicial authorities of the Mainland or Macao"〕</small> |
-| **O.2 r.1 追认裁量（瑕疵补救引擎）** | 域内瑕疵（*HSBC v Ong* 前台代收、*3D Gold* 总法律顾问——纯技术瑕疵无损害）与域外无许可（*China Medical v Paul Weiss* 追溯许可 good cause）共用的补救引擎；但 D-3DGOLD 并列之 O.81 r.3 方式排他说**未裁决**（open 块）。 <small style="opacity: 0.55">〔LG3V L315 "the Court may still exercise its powers under O.2 r.1 to confirm the validity of the service"；LG3V L321 "Court does not tend to look favorably toward declarations of irregularity where the irregularity was purely technical"；LG3V L631 "the court is empowered to grant retrospective leave under O.2 r.1 to rectify the irregularity, if good cause is shown"〕</small> |
+| **O.2 r.1 追认裁量（瑕疵救济与追认裁量权）** | 域内瑕疵（*HSBC v Ong* 前台代收、*3D Gold* 总法律顾问——纯技术瑕疵无损害）与域外无许可（*China Medical v Paul Weiss* 追溯许可 good cause）共用的补救机制；但 D-3DGOLD 并列之 O.81 r.3 方式排他说**未裁决**（open 块）。 <small style="opacity: 0.55">〔LG3V L315 "the Court may still exercise its powers under O.2 r.1 to confirm the validity of the service"；LG3V L321 "Court does not tend to look favorably toward declarations of irregularity where the irregularity was purely technical"；LG3V L631 "the court is empowered to grant retrospective leave under O.2 r.1 to rectify the irregularity, if good cause is shown"〕</small> |
 | **O.65 r.4 × O.10 失灵** | 替代送达是常规方式 impracticable 时的后备闸：须证明已尽力搜寻、穷尽常规手段，且建议方式合理可能使被告获悉（*Chan Yeuk Mui*）；未经命令先电邮／即时通 = null and void。 <small style="opacity: 0.55">〔LG3R L262 "it is impracticable for any reason to serve that document in the manner prescribed"；LG3V L473 "it’s impracticable to effect service in the usual methods which gives rise to the Court’s discretion"；XSET L73 "三人对电邮送达的定性一致：未经 O.65 r.4 事先批准的替代送达无效"〕</small> |
-| **O.12 r.8 × 送达瑕疵** | 撤销送达／宣告未妥为送达是被告对瑕疵送达的主动武器（O.12 r.8(1)，§2.1 状态机）；前提：拟抗辩通知＋抗辩期内r8申请及誓章；保留异议文字不代替申请；§3.5。 <small style="opacity: 0.55">〔LG3R L776 "A defendant who makes an application under paragraph (1) or (2) shall not be treated as having submitted to the jurisdiction of the court"；LG3V L657 "File an Acknowledgement of Service with an express reservation that D only submits to the jurisdiction"〕</small> |
+| **O.12 r.8 × 送达瑕疵** | 撤销送达／宣告未妥为送达是被告对瑕疵送达的主动武器（O.12 r.8(1)，§2.1 送达与认收程序流转）；前提：拟抗辩通知＋抗辩期内r8申请及誓章；保留异议文字不代替申请；§3.5。 <small style="opacity: 0.55">〔LG3R L776 "A defendant who makes an application under paragraph (1) or (2) shall not be treated as having submitted to the jurisdiction of the court"；LG3V L657 "File an Acknowledgement of Service with an express reservation that D only submits to the jurisdiction"〕</small> |
 | **O.12 r.8A × 未送达** | 被点名而从未被送达者的主动反制：发 notice 限原告不少于 14 日内要么送达、要么撤回；逾期可求驳回；补送后仍须在法定认收期限内认收；§4 清单 5。 <small style="opacity: 0.55">〔LG3R L786 "a notice requiring him within a specified period not less than 14 days after service of the notice"；LG3R L788 "order the action to be dismissed"；LG3R L792 "the defendant must acknowledge service within the time limited for so doing"〕</small> |
 
-**耦合使用提示**：横向上每条都不是独立法条，而是「一条规则如何进另一环节的死线」——SG 场景问「送达有瑕疵，对方取的默认判决稳不稳」，答在「送达 × 默认判决」行；问「8 月放假 AOS 算不算日子」，答在「算日 × 暑期休庭」行。
+**联动机制提示**：横向关系中每条都不是孤立条文，而是「一条规则如何进另一环节的死线」——SG 场景问「送达有瑕疵，对方取的默认判决稳不稳」，答在「送达 × 默认判决」行；问「8 月放假 AOS 算不算日子」，答在「算日 × 暑期休庭」行。
 
-## 6. 逆向选择
+## 6. 目标倒推与实务应对策略（Goal-Driven Strategy & Strategic Remedies）
 
 | 客户目标 | 从目标倒推所需材料与行动 |
 | --- | --- |
@@ -1022,14 +1022,9 @@ flowchart TD
 **链 C（被告防）：我方不能掉进默认判决**
 - 终点：AOS 死线错过，原告依 O.13／O.13A 取默认判决（规则主体在 LG06 卡）。
 - 回数：①死线已正确算出（域内 14 日含送达日；域外按命令所定期限；≤7 日剔指明日；暑期对附 SOC 令状的 AOS 不暂停）→ ②送达日是否正确（第 7 日推定？留置当日？反证推翻？）→ ③送达是否真的到了我方手上（根本未送达 → r.8A 反制；瑕疵送达 → r.8 异议）。 <small style="opacity: 0.55">〔LG3A L74 "fourteen days after service of the writ (including the day of service)"；LG3V L197–L201 "if the period is 7 days or less … General holidays (i.e. Sunday and public holidays)"；LG3R L792 "the defendant must acknowledge service within the time limited for so doing"〕</small>
-- 断点：算错一日＝死线连环位移（§3.1 首句）。对策：收到令状当日立日历卡、经办两人独立算再对数——教师明示考期间计算，写得出具体到期日才算完成。→ 0E 行 7、9、13。 <small style="opacity: 0.55">〔LG3A L76 "the time limited under Order 10, rule 2(2), Order 11, rule 1(3), or Order 11, rule 4(4)"；LG3R L160 "nothing in this section shall be deemed to extend the time for entering appearance to any writ endorsed with a statement of claim"；LG3R L786 "a notice requiring him within a specified period not less than 14 days after service of the notice"；CAP-C3 L286 "Please bring a standard calendar"〕</small>
+- 断点：算错一日＝导致死线连环错位与逾期风险（§3.1 首句）。对策：收到令状当日立日历卡、经办两人独立算再对数——教师明示考期间计算，写得出具体到期日才算完成。→ 0E 行 7、9、13。 <small style="opacity: 0.55">〔LG3A L76 "the time limited under Order 10, rule 2(2), Order 11, rule 1(3), or Order 11, rule 4(4)"；LG3R L160 "nothing in this section shall be deemed to extend the time for entering appearance to any writ endorsed with a statement of claim"；LG3R L786 "a notice requiring him within a specified period not less than 14 days after service of the notice"；CAP-C3 L286 "Please bring a standard calendar"〕</small>
 
 <!-- === AUDIT_ZONE_START (DO NOT SEND BELOW THIS LINE TO GPT) === -->
-
----
-
-## 审计留痕：材料矩阵、待核事项与历史修订记录
-
 > [!abstract]- 审计留痕：材料矩阵、待核事项与历史修订记录
 > 
 > **本轮修订**：按现行节号统一正文及跳转标签，归并高阶模型表，补全程序行动句，并将原引注移至段末、列表项末或相应单元格末。
@@ -1041,13 +1036,13 @@ flowchart TD
 > > **2026-10-23本轮更新**：新增／校准落点 §0G；当前材料链见[全科当前进度](../_meta/Current%20Progress%20and%20Material%20Uptake.md)。下方带日期的旧快照保留为历史。
 > 
 > > **定位**：PCLL8010 民事诉讼核心制度专题凝结卡片（Level B 七位一体深度下沉版 / 黄金范本）  
-> > **整课互指**：[00 Master Overview §3.2 / §2](../00%20Master/00%20Master%20Overview.md) · [Structure Map](../00%20Master/Structure%20Map.md) · [01 时限表](../00%20Master/01%20Deadlines%20and%20Time%20Limits.md) · [02 流程图](../00%20Master/02%20Procedural%20Flowcharts.md) · [03 真题矩阵](../00%20Master/03%20Past%20Paper%20Matrix%20and%20Analysis.md) · [04 三人对比](../00%20Master/04%20Cross-Set%20Comparison%20and%20SG%20Progression.md) · [07 默认判决卡片](./%5BCO06-09%5D%20Pre-Trial%20Judgments,%20Admissions%20and%20Interim%20Payment.md) · [SG01 Classroom](../../01%20SG/SG01%20Drafting%20LBA/00%20Classroom%20&%20Desk.md)
+> > **整课互指**：[00 Master Overview §3.2 / §2](../00%20Master/00%20Master%20Overview%20&%20Flowcharts.md) · [Structure Map](../00%20Master/00%20Master%20Overview%20&%20Flowcharts.md#1.%20%E5%8D%81%E4%B8%89%E5%BC%A0%E4%B8%BB%E5%8D%A1%E7%9A%84%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6) · [01 时限表](../00%20Master/01%20Master%20Deadlines%20&%20Case%20Matrix.md) · [02 流程图](../00%20Master/00%20Master%20Overview%20&%20Flowcharts.md#2.%20%E5%85%A8%E6%B5%81%E7%A8%8B%E7%8A%B6%E6%80%81%E6%9C%BA) · [03 真题矩阵](../00%20Master/02%20Exam%20&%20SG%20Decision%20Router.md#2.2%20%E7%9C%9F%E9%A2%98%E5%A4%8D%E5%90%88%E8%B7%AF%E7%BA%BF) · [04 三人对比](../00%20Master/02%20Exam%20&%20SG%20Decision%20Router.md#2.1%20SG01%E2%80%93SG10%20%E8%BF%9B%E9%98%B6%E6%98%A0%E5%B0%84) · [07 默认判决卡片](./%5BCO06-09%5D%20Pre-Trial%20Judgments,%20Admissions%20and%20Interim%20Payment.md) · [SG01 Classroom](../../01%20SG/SG01%20Drafting%20LBA/00%20Classroom%20&%20Desk.md)
 > 
 > ---
 > 
 > ## 0. 底层材料溯源库与代码表（Source Provenance Index）
 > 
-> 为确保凝结层每一项法定规则、判例要旨、实务操作与时间算法均可**无缝反向穿透到原始材料与证据链**，本文统一采用下列精确溯源码（点击代码可直接跳转至对应底层文件）：
+> 为确保凝结层每一项法定规则、判例要旨、实务操作与时间算法均可**无缝反向回溯至原始材料与证据链**，本文统一采用下列精确溯源码（点击代码可直接跳转至对应底层文件）：
 > 
 > > **行号说明（2026-09-27；2026-09-29 更新）**：正文引注（出处码、L 行号、原文摘录三段，以全角方括号包裹）的行号一律按 **REV 版** outline；原版 outline 第 11 行以后的行号 = REV 行号 + 2（REV 只改了 L405、L407 两行的措辞）。2026-09-29 起改用《PCLL Provenance Manual 2026-09-29》§2.2 的行内引注；旧式方括号溯源码及其新旧对照，已按用户 2026-09-29 的决定抹除，本表只保留材料说明（码→文件→层级→学年见文首引注图例）。
 > 
@@ -1058,8 +1053,8 @@ flowchart TD
 > | **`LG3A`** | **本届官方·课后补充** | [LG3 Additional Information after Lecture](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG3%20-%20Additional%20Information%20after%20Lecture.md) | Matter 1 黑雨指明日；Matter 2 内地↔香港送达新安排（未生效）；Matter 3 O.12 r.5 全文；Matter 4 公司送达 s.827 与 O.10 r.1(2) 并行（*Stevenson Wong*）；Matter 5 送达誓章 vs AOS |
 > | **`LG3P`** | **本届讲义·幻灯片（REV）** | [LG3 ppt (REV)](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG3%20ppt%20%28REV%29.md) | 按 Slide 编号引用 |
 > | **（案卷附录·本卡未设引注码）** | **本届案卷实务附录** | [LG3 - Appendices.pdf](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG3%20-%20Appendices.pdf) | 合约案卷（A6 令状、A9 替代送达誓章、A10 替代送达命令、A31 AOS 表格）、侵权案卷（A50 令状、A51–55 往来信件、A59 D2 送达誓章） |
-> | **`MATRIX`** | **历年真题矩阵（凝结层二手整理）** | [03 真题矩阵](../00%20Master/03%20Past%20Paper%20Matrix%20and%20Analysis.md) · 原件：[2025 Aug Answer Scoresheet](../../02%20Past%20Papers/2025-08%20Aug/Answer%20Scoresheet.md) · [2023 Jan Mark Sheet](../../02%20Past%20Papers/2023-01%20Jan/2.%202023%20JAN%20-%20Mark%20Sheet.pdf) · [2024 Jul Review PPT](../../02%20Past%20Papers/2024-07%20Jul/5.%202024%20JULY%20-%20Review%20PPT.pdf) | 2022–2025 八届考题中送达、AOS 期限计算、不方便法院异议评分标准与踩分点 |
-> | **`XSET`** | **往届研讨对比（凝结层）** | [04 三人对比](../00%20Master/04%20Cross-Set%20Comparison%20and%20SG%20Progression.md) | 往届三人组在电邮送达、实收推翻推定、送达誓章草拟等争议点上的最佳实务共识 |
+> | **`MATRIX`** | **历年真题矩阵（凝结层二手整理）** | [03 真题矩阵](../00%20Master/02%20Exam%20&%20SG%20Decision%20Router.md#2.2%20%E7%9C%9F%E9%A2%98%E5%A4%8D%E5%90%88%E8%B7%AF%E7%BA%BF) · 原件：[2025 Aug Answer Scoresheet](../../02%20Past%20Papers/2025-08%20Aug/Answer%20Scoresheet.md) · [2023 Jan Mark Sheet](../../02%20Past%20Papers/2023-01%20Jan/2.%202023%20JAN%20-%20Mark%20Sheet.pdf) · [2024 Jul Review PPT](../../02%20Past%20Papers/2024-07%20Jul/5.%202024%20JULY%20-%20Review%20PPT.pdf) | 2022–2025 八届考题中送达、AOS 期限计算、不方便法院异议评分标准与踩分点 |
+> | **`XSET`** | **往届研讨对比（凝结层）** | [04 三人对比](../00%20Master/02%20Exam%20&%20SG%20Decision%20Router.md#2.1%20SG01%E2%80%93SG10%20%E8%BF%9B%E9%98%B6%E6%98%A0%E5%B0%84) | 往届三人组在电邮送达、实收推翻推定、送达誓章草拟等争议点上的最佳实务共识 |
 > | **`OLD-SET3`** | **往届学生笔记（Tier 3，非官方）** | [Set 3 LG3 笔记](../../06%20Base%20Exam%20Notes/Set%203/LG3%20Service%20and%20acknowledgement%20of%20service.md) | 往届学生 LG3 专题复习笔记：O.3 算期法则、O.10 r.1 替代送达境内要件、*Barclays Bank v Hahn* 判例、*India Videogram* 返港知悉反证 |
 > | **（并入 `LG3R`）** | **法定法例规程** | [LG3 Reference Material](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG3%20-%20Reference%20Material.md)（法条原文库） | 香港法例《高等法院规则》(Cap. 4A RHC)、《释义及通则条例》(Cap. 1)、《高等法院条例》(Cap. 4 HCO)、《公司条例》(Cap. 622 CO) |
 > | **（并入 `LG3V`／`LG3R`）** | **权威司法先例（出处为讲义正文，非案卷附录）** | outline REV L117-121、L307、L317-319、L373-383、L399、L413-417、L453、L473、L631、L661-705 · [本卡 §3.2 判例要点](#实战核心要件与判例攻防要点) | *Barclays Bank v Hahn*, *Chan Yeuk Mui*, *3D Gold v PwC*, *China Medical*, *The Spiliada*, *Lanka Muditha*, *Noble Power* |

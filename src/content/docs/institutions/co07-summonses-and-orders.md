@@ -21,7 +21,7 @@ LG课表安排:
 覆盖SG:
   - "PCLL8010 SG4（经 Negligence 案卷指定阅读锚点：Batch B pp.110–114、127–128 即席评定与附条件撤销默认判决；Batch C pp.41–65 区院 CMC 问卷 Item I1 申报 S4C 意图；SG04 主述卡为 [LG04-05] 与 [LG15]，本卡只承担中间程序侧面）"
   - "PCLL8010 SG7（Affirmation of Service & Draft Order 作业的知识底座：本卡 §3.1 誓章要素＋§3.3 命令起草—批核—盖印；SG07 上课 2026-11-05、作业 DDL 2026-11-17 12:00 noon；出处 SG07 Classroom & Desk L9–L11）"
-课表来源: "[PCLL PT Yr1 (General)/2026-27 1st Sem PT YR1 PCLL Timetable (24.08.2026).xlsx](obsidian://open?vault=3b1e77255f6c6e29&file=PCLL%20PT%20Yr1%20%28General%29%2F2026-27%201st%20Sem%20PT%20YR1%20PCLL%20Timetable%20%2824.08.2026%29.xlsx)"
+课表来源: "PCLL PT Yr1 (General)/2026-27 1st Sem PT YR1 PCLL Timetable (24.08.2026).xlsx"
 课表版本: "24.08.2026"
 课表核对日期: "2026-10-01"
 课表说明: "LG7 坐标自 [LG15] 卡 frontmatter 已核记录转录（2026-10-01 核对原 xlsx）；不代表材料已齐或课程已上；时区 Asia/Hong_Kong。"
@@ -159,7 +159,7 @@ flowchart TD
 > | LG3S | [跨讲次本届课堂幻灯·LG3 ppt REV（697 行·Slides 11-13 clear days 与指定日扣除）](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG3%20ppt%20%28REV%29.md) | 本届讲义 | 2026-27 |
 > | BATCH-B | [本届案卷·Negligence Batch B（PDF·库内无 md 伴生·pp.110-114／127-128 为讲义指定页）](../../99%20Moodle%20Mirror/Case%20Files/Negligence%20Case%20File/Negligence_Batch_B.pdf) | 本届官方 | 2026-27 |
 > | BATCH-C | [本届案卷·Negligence Batch C（PDF·库内无 md 伴生·pp.41-65 为讲义指定页）](../../99%20Moodle%20Mirror/Case%20Files/Negligence%20Case%20File/Negligence_Batch_C.pdf) | 本届官方 | 2026-27 |
-> | MATRIX | [凝结层·本库自撰 03 真题矩阵与解析（134 行）](../00%20Master/03%20Past%20Paper%20Matrix%20and%20Analysis.md) | 凝结层 | 2026-27 |
+> | MATRIX | [凝结层·本库自撰 03 真题矩阵与解析（134 行）](../_meta/Master%20Archive%202026-11-14/03%20Past%20Paper%20Matrix%20and%20Analysis.md) | 凝结层 | 2026-27 |
 > | OLD-LG16O | [往届讲义·LG16 Drafting Afidavits Lecture Outline（413 行·O.41 r.5 传闻证据规则所在）](../../04%20Base%20Lectures/%5BLG16%5D%20Drafting%20Affidavits/LG16%20Drafting%20Afidavits%20Lecture%20Outline.md) | 往届官方 | 2025-26 |
 > | OLD-LG17 | [往届讲义·LG17 Costs (Substantive)（1232 行·O.62 r.9A／PD 14.3／常规讼费命令术语所在）](../../04%20Base%20Lectures/%5BLG17%5D%20Costs%20%28Substantive%29/LG17%20-%20Costs%20%28Substantive%29.md) | 往届官方 | 2025-26 |
 > | OLD-LG18 | [往届讲义·LG18 Enforcement Lecture Outline（941 行·判令后执行程序）](../../04%20Base%20Lectures/%5BLG18%5D%20Enforcement/LG18%20Lecture%20Outline.md) | 往届官方 | 2025-26 |
@@ -824,7 +824,7 @@ flowchart TD
 
 #### 2. 答题/起草要件映射与操作落点
 [四问的程序与复讯](../../01%20SG/SG08%20Drafting%20Affidavit%20and%20Order%20%28Mareva%29/01%20Exercise%201%20-%20Mareva%20Knowledge%20Questions.md) · [CO13 临时救济](./%5BCO13%5D%20Interim%20Relief%20and%20Risk%20Protection%20System.md)。原告在紧急情形可凭誓章申请；通常先发令状，未发而要求先听须把紧急性和立即发令状条款交法院。短通知要写对象、时间、方式、文件和回应，法官决定能否先给窄期限保全。区院由 Listing Officer 接洽（PD27 ¶30、30A）。备拟令写明受令方及资产范围、上限、许可开支、承诺、复讯／变更与通常保留讼费；获令后向被告及银行实际通知。费用预存、银行合理遵令开支、法院赔偿承诺各自承担不同风险。题目只要求口述拟令及交一份四节支持誓章。 <small style="opacity: 0.55">〔P27 L145 "The functions of the Clerk of Court will be discharged by the Listing Officer"〕〔P111 L141 "a draft minute of the Order sought"〕〔P111 L161 "for the costs to be reserved"〕</small>
-- **案卷与穿透考题精析（自原第 6、7 节归拢）**：
+- **案卷与核心考题精析（自原第 6、7 节归拢）**：
 | 考题 / 演练场景 | 典型考查形式 | 核心踩分点与法定依据 | 往届失分盲点警示 |
 | --- | --- | --- | --- |
 | **商业秘密侵权演练案**<br>(HCA 9999/2024 Trade Secrets：HAL Research Ltd 及 C&E Investment Ltd v Dave Bowman Lam) | 要求起草一份申请非正审禁制令／交付（deliver up）或特定透露的规范传票，并据对方部分让步起草命令 | 1. 严格书写法院抬头、案号、当事人全称与聆讯排期引导语；<br>2. 准确引用法定规则（左栏叙文须载明依据，否则登记处可拒绝受理：讲义 L104–106）；<br>3. 精准起草命令主文与讼费申请项（'standard terms' relating to costs，讲义 L276 第 (4) 项）；<br>4. ⚠️ **Penal Notice 背书在（禁制令）命令上，不在传票上**——见 §3.3 与暗礁 4。 | 遗漏命令上的 Penal Notice；漏引／叙文错误；命令主文用词模糊（如仅写"要求被告提供信息"而未限定范围和期限）；未把对方让步期限（restraint 仅至 30 September 2025、deliver up 需 21 天，讲义 L276）写入条款。⚠️ 讲义 Annex 之作 HCA 9999/**2024**，A 2-2 幻灯则作 ACTION NO. 9999 OF **2023**，两处不一致，未择一。 <small style="opacity: 0.55">〔LG7V L106 "the Court via the Registrar may reject the filing and/or sealing of the summons"；LG7V L276 "the duration of 'restraint' against the Defendant be only to 30 September 2025"；LG7V L276 "that ‘standard terms’ relating to costs be given"〕〔D-9999YR〕</small> |
@@ -878,7 +878,7 @@ flowchart TD
 | 同意与履行 | O.42 r.5A 的同意令限列明事项；Tomlin order 中 stay 与附表义务的执行途径不同。 |
 | 担保与进度 | 单提交 security for costs 申请不会自动中止；如需暂停其他步骤须另求命令。 |
 
-## 4. 工程控制论
+## 4. 办案流程控制与关键节点核查（Procedural Control & Case Verification）
 
 | 核对项 | 当事人如何核对 | 发现缺口后的行动 |
 | --- | --- | --- |
@@ -886,7 +886,7 @@ flowchart TD
 | 送达与排期 | O.32 r.3 通常留 2 clear days；纯延期或缩期传票及特别规则另核 | 对方可挑战时限、证据来源、权限和金额；原告若主张 stifling，应坦白财务与外部筹资能力。 |
 | 遵令或执行 | 登记法院指定日期、实际付款及例外；必要时按命令申请 variation 或执行 | 核命令主文、附表、costs、liberty to apply 及 penal notice 所在文书；签署前与宣读内容逐项对照。 |
 
-## 5. 横向耦合
+## 5. 横向程序联动与机制衔接（Inter-Procedural Coordination & Interface）
 
 | 接口 | 两个程序如何衔接 |
 | --- | --- |
@@ -911,7 +911,7 @@ flowchart TD
 * ⚠️ **致命盲区**：提出 S4C 申请（入禀或送达传票）**本身不产生任何自动中止（automatic stay）效力**，交付抗辩书的期限不会因此暂停。⚠️ 分层提示：此结论依"库内无自动中止之条文"而立（属推论式表述），讲义未就此明文，答题时建议同时引 §3.4 第三步第 4 项——**法庭判令担保时通常同时规定"未提供担保前诉讼中止"（讲义 L1159；s.905(2)(b) L1146）**，那是"命令造成的中止"，与"申请本身的中止"完全不同。 <small style="opacity: 0.55">〔LG7V L1159 "It is usually also a part of the order that security for costs first be given otherwise the proceedings shall be stayed"；LG7V L1146 "stay all proceedings until the security is given"〕</small>
 * **破局要诀**：被告在 S4C 传票中（或另以时间传票）**同时包含一项独立申请项**，请求延长交付抗辩书期限，例如：`The Defendant's time for filing and serving its Defence be extended until 28 days after the Plaintiff provides the security ordered by this Court.` 延期申请可由聆案官处理（O.42 r.4(2)：仅延长期限、无特别条款的命令无须起草；讲义 L208–238），且**仅申请延长或缩短期限的传票可在聆讯前一日送达**（O.32 r.3）。从而合法锁定抗辩时限，避免自身落入 O.19／O.13 未抗辩的默认判决陷阱（另见 [CO06 默认判决卡](./%5BCO06-09%5D%20Pre-Trial%20Judgments,%20Admissions%20and%20Interim%20Payment.md)）。 <small style="opacity: 0.55">〔LG7V L78 "A summons asking only for the extension or abridgement of any period of time"；LG7V L221 "need not be drawn up unless the Court otherwise directs"〕</small>
 
-## 6. 逆向选择
+## 6. 目标倒推与实务应对策略（Goal-Driven Strategy & Strategic Remedies）
 
 | 客户目标 | 从目标倒推所需材料与行动 |
 | --- | --- |
@@ -923,9 +923,9 @@ flowchart TD
 
 见 [现行章节](#0C.4.1%20%E4%BC%A0%E7%A5%A8%E5%92%8C%E5%91%BD%E4%BB%A4%E7%9A%84%E4%B8%89%E4%B8%AA%E5%BF%85%E9%A1%BB%E7%9B%B8%E5%90%88%E7%82%B9)。
 
-###### 5. 横向联动与制度耦合（Horizontal Interlocking & System Coupling）
+###### 5. 横向程序联动与机制衔接（Horizontal Inter-Procedural Interface）
 
-见 [现行章节](#5.%20%E6%A8%AA%E5%90%91%E8%80%A6%E5%90%88)。
+见 [现行章节](#5.%20%E6%A8%AA%E5%90%91%E7%A8%8B%E5%BA%8F%E8%81%94%E5%8A%A8%E4%B8%8E%E6%9C%BA%E5%88%B6%E8%A1%94%E6%8E%A5%EF%BC%88inter-procedural%20coordination%20&%20interface%EF%BC%89)。
 
 ###### 5.1 讼费担保与简易判决（O.14）的时序博弈与冲突化解
 
@@ -936,11 +936,6 @@ flowchart TD
 见 [现行章节](#5.%20%E6%A8%AA%E5%90%91%E8%80%A6%E5%90%88)。
 
 <!-- === AUDIT_ZONE_START (DO NOT SEND BELOW THIS LINE TO GPT) === -->
-
----
-
-## 审计留痕：材料矩阵、待核事项与历史修订记录
-
 > [!abstract]- 审计留痕：材料矩阵、待核事项与历史修订记录
 > 
 > **本轮修订**：按现行节号统一正文及跳转标签，归并高阶模型表，补全程序行动句，并将原引注移至段末、列表项末或相应单元格末。
@@ -952,13 +947,13 @@ flowchart TD
 > > **2026-10-23本轮更新**：新增／校准落点 §0A；当前材料链见[全科当前进度](../_meta/Current%20Progress%20and%20Material%20Uptake.md)。下方带日期的旧快照保留为历史。
 > 
 > > **定位**：PCLL8010 民事诉讼核心制度专题凝结卡片（Level B 七位一体深度下沉版；原"黄金范本"系本卡自拟标签，非官方评级）  
-> > **整课互指**：[00 Master Overview §2 / §3.3](../00%20Master/00%20Master%20Overview.md) · [Structure Map](../00%20Master/Structure%20Map.md) · [01 时限表](../00%20Master/01%20Deadlines%20and%20Time%20Limits.md) · [02 流程图](../00%20Master/02%20Procedural%20Flowcharts.md) · [03 真题矩阵](../00%20Master/03%20Past%20Paper%20Matrix%20and%20Analysis.md) · [05 送达与AOS卡片](%5BCO03%5D%20Service%20and%20AOS.md) · [06 诉答文书卡片](./%5BCO04-05-10%5D%20Pleadings,%20Defence,%20Counterclaims%20and%20Third%20Party%20Proceedings.md) · [07 默认判决卡片](./%5BCO06-09%5D%20Pre-Trial%20Judgments,%20Admissions%20and%20Interim%20Payment.md)
+> > **整课互指**：[00 Master Overview §2 / §3.3](../00%20Master/00%20Master%20Overview%20&%20Flowcharts.md) · [Structure Map](../00%20Master/00%20Master%20Overview%20&%20Flowcharts.md#1.%20%E5%8D%81%E4%B8%89%E5%BC%A0%E4%B8%BB%E5%8D%A1%E7%9A%84%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6) · [01 时限表](../00%20Master/01%20Master%20Deadlines%20&%20Case%20Matrix.md) · [02 流程图](../00%20Master/00%20Master%20Overview%20&%20Flowcharts.md#2.%20%E5%85%A8%E6%B5%81%E7%A8%8B%E7%8A%B6%E6%80%81%E6%9C%BA) · [03 真题矩阵](../00%20Master/02%20Exam%20&%20SG%20Decision%20Router.md#2.2%20%E7%9C%9F%E9%A2%98%E5%A4%8D%E5%90%88%E8%B7%AF%E7%BA%BF) · [05 送达与AOS卡片](%5BCO03%5D%20Service%20and%20AOS.md) · [06 诉答文书卡片](./%5BCO04-05-10%5D%20Pleadings,%20Defence,%20Counterclaims%20and%20Third%20Party%20Proceedings.md) · [07 默认判决卡片](./%5BCO06-09%5D%20Pre-Trial%20Judgments,%20Admissions%20and%20Interim%20Payment.md)
 > 
 > ---
 > 
 > ## 0. 底层材料溯源库与代码表（Source Provenance Index）
 > 
-> 为确保凝结层每一项法定规则、判例要旨、实务操作与时间算法均可**无缝反向穿透到原始材料与证据链**，本卡旧版以 `` `[S-…: L…]` `` 方括号标签标注出处；2026-09-29 起按《PCLL Provenance Manual 2026-09-29》§2.2 改为**行内引注**（出处码＋行号或页码＋原文摘录三段，以全角方括号包裹；pdf 只写页码，不写行号），旧式标签与其对照表已按用户同日决定抹除，**下表只保留材料说明**（码→文件→层级→学年见文首引注图例）。**下列材料并非全为本届**：`OLD-*` 均为往届，引用其出处一律带「·往届仅参考」，行文亦须点明届别：
+> 为确保凝结层每一项法定规则、判例要旨、实务操作与时间算法均可**无缝回溯查验到原始材料与证据链**，本卡旧版以 `` `[S-…: L…]` `` 方括号标签标注出处；2026-09-29 起按《PCLL Provenance Manual 2026-09-29》§2.2 改为**行内引注**（出处码＋行号或页码＋原文摘录三段，以全角方括号包裹；pdf 只写页码，不写行号），旧式标签与其对照表已按用户同日决定抹除，**下表只保留材料说明**（码→文件→层级→学年见文首引注图例）。**下列材料并非全为本届**：`OLD-*` 均为往届，引用其出处一律带「·往届仅参考」，行文亦须点明届别：
 > 
 > | 溯源码 | 材料性质 | 底层文件位置（直接可点） | 核心贡献内容 |
 > |---|---|---|---|
@@ -968,7 +963,7 @@ flowchart TD
 > | `LG7V`／`LG3S`／`LG3V`／`OLD-LG17` | **法定法例规程（条文原文出处；分属本届讲义与往届讼费讲义）** | [本届 LG7 讲义](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG7%20-%20Drafting%20Summonses.%20Interlocutory%20Applications,%20Security%20for%20Costs.md) · [往届（2025-26）LG17 讲义](../../04%20Base%20Lectures/%5BLG17%5D%20Costs%20%28Substantive%29/LG17%20-%20Costs%20%28Substantive%29.md) · [LG3 REV 讲义](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG3%20-%20Service%20and%20Acknowledgement%20of%20Service%20%28REV%29.md) · [LG3 ppt REV](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG3%20ppt%20%28REV%29.md) | LG7 讲义附条文：O.32 r.1–6（L66–98）、O.42 r.3–5A（L128–172, L196–252）、O.23 r.1–3（L1080–1096）、Cap. 622 s.905（含 2025 年修订的 s.905(3)，L1137–1152）、O.59 r.10(5)（L1175–1177）、PD 14.2、PD 16.1；O.62 r.9A 与 PD 14.3 见往届 LG17 讲义（L572–609）；O.3 r.2(4)(5) 见 LG3 ppt REV Slides 11–13；O.65 r.7 见 LG3 REV 讲义 L521–523  |
 > | `OLD-SET3L7` | **往届学生稿·高分备考精要（非官方）** | [Set 3 LG7 传票／非正审／讼费担保笔记](../../06%20Base%20Exam%20Notes/Set%203/LG7%20Summons%20+%20Interlocutory%20Application%20+%20Security%20for%20costs.md) | 往届学生 LG7 专题复习笔记：O.32 传票程序、2 clear days vs 10 clear days (O.14) 送达要件、O.23 S4C 裁量要素与扼杀抗辩门槛；"Usually a demand by letter before the summons is issued"（L252）  |
 > | `LG7V`／`LG7B1`／`LG7B2`／`LG13V`／`📄BATCH-B`／`📄BATCH-C` | **权威司法先例（按其在**本库内**的转述处挂靠）** | [本届 LG7 讲义](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG7%20-%20Drafting%20Summonses.%20Interlocutory%20Applications,%20Security%20for%20Costs.md) · [本卡 §3.5 讼费担保判例出处对照](#0F.%20Security%20for%20Costs%20%E7%94%B3%E8%AF%B7%E4%B8%8E%E8%A3%81%E9%87%8F) | *Premier Fashion Wears*, *Yan Yu Ying*, *Success Lane*（margin note）；*Westminster City Council v Government of Iran*（O.32 r.5）；*Leung Kam Tai v Wong Chuen*（consent order 措辞）；*Waddington Ltd*, *Henrik Andersen*, *Akai Holdings (in liq) v Ernst & Young*（原讼庭与上诉庭）, *Lauria v Le Salon Orient*, *Hannelore de Lasala-Debring*, *Carmon Reestrutura*, *AG v Vianini Lavori*, *Wong Kwok Mei, Sanrita v Eversonic*, *Tronic v Topco*, *Re Greater Beijing Region Expressways*, *Charter View Holdings (BVI) Ltd*, *Ai Zhong v Metrofond*, *Dongguan Harris Plastic*, *Chan Man Shun v Sze Ching Lok*；*Keary Developments* 仅见于 Henrik Andersen 第 48 段引文（B 1-2 Slide 7）  |
-> | `MATRIX` | **凝结层·历年真题矩阵** | [03 真题矩阵](../00%20Master/03%20Past%20Paper%20Matrix%20and%20Analysis.md) | 历年真题中非正审传票起草缺陷纠错、讼费担保申请门槛举证、反诉原告担保免除、扼杀抗辩举证缺陷分析与即席讼费分担  |
+> | `MATRIX` | **凝结层·历年真题矩阵** | [03 真题矩阵](../_meta/Master%20Archive%202026-11-14/03%20Past%20Paper%20Matrix%20and%20Analysis.md) | 历年真题中非正审传票起草缺陷纠错、讼费担保申请门槛举证、反诉原告担保免除、扼杀抗辩举证缺陷分析与即席讼费分担  |
 > 
 > > ⚠️ **学年、编号与出处边界提示（2026-09-29 引注改造时复核）**：
 > > 1. `OLD-*` 四码（`OLD-LG16O`／`OLD-LG17`／`OLD-LG18`／`OLD-SET3L7`）均为**往届材料**，本卡引用其出处一律带「·往届仅参考」，同一行文亦须点明届别（检查器 C7／C8）。本届 8010 讲义只下发至 LG1–LG9、LG13、LG15，故 LG16／LG17／LG18 三段内容**必然**只能取自往届。

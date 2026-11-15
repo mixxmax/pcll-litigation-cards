@@ -44,7 +44,8 @@ SG课表安排:
 字幕校核范围: "LG11（2026-10-09）字幕入库校核；定向补充与交叉核对；非整卷逐句审核"
 ---
 
-## 案件管理与审讯组织体系
+
+# 案件管理与审讯组织体系
 
 ## 速读定位层
 
@@ -61,7 +62,7 @@ SG课表安排:
 6. **排期、备册后开庭。** §0F 说明 PTR 的四项工作、Certificate of Counsel、setting down、Running List 与 Fixture List（含 Warned List）、A–E 文件册的 250 页及 72 小时要求、正审举证与缺席后果，以及 O.37 的 damages assessment。 <small style="opacity: 0.55">〔CL15 L120 "a pre-trial review (“PTR”) will be held, in particular for “Fixture List” cases"〕</small>
 7. **按任务使用本卡。** §0G–§0J 处理答卷策略、排期、延期与制裁。§0K 把规则放回 SG04 的 TQ 练习，并衔接 SG06、SG09 和 SG10；材料目录与待核事项置于文末。
 
-诉答起草、striking out 和 amendment 见 [CO04-05 诉答卡](/pcll-litigation-cards/institutions/co04-05-10-pleadings/)；interlocutory summons、security for costs 和 O.42 的起草、审批与盖印流程见 [CO07 传票卡](/pcll-litigation-cards/institutions/co07-summonses-and-orders/) §3.3（本卡在 §0F.7 衔接）。Disclosure、witness statements 和 expert reports 的具体规则见 [CO08 证据准备卡](/pcll-litigation-cards/institutions/co08-evidence-preparation/)；interim relief 见 [CO13 临时救济卡](/pcll-litigation-cards/institutions/co13-interim-relief/)。本届材料只在 O.37 损害评定部分列出 writ of subpoena；正审传召文件的材料缺口列在文末。
+诉答起草、striking out 和 amendment 见 [CO04-05 诉答卡](./%5BCO04-05-10%5D%20Pleadings,%20Defence,%20Counterclaims%20and%20Third%20Party%20Proceedings.md)；interlocutory summons、security for costs 和 O.42 的起草、审批与盖印流程见 [CO07 传票卡](./%5BCO07%5D%20Drafting%20Summonses,%20Interlocutory%20Applications,%20Orders%20&%20Security%20for%20Costs.md) §3.3（本卡在 §0F.7 衔接）。Disclosure、witness statements 和 expert reports 的具体规则见 [CO08 证据准备卡](%5BCO08%5D%20Evidence%20Preparation%20System%20-%20Discovery%20Witnesses%20and%20Experts.md)；interim relief 见 [CO13 临时救济卡](%5BCO13%5D%20Interim%20Relief%20and%20Risk%20Protection%20System.md)。本届材料只在 O.37 损害评定部分列出 writ of subpoena；正审传召文件的材料缺口列在文末。
 
 ### 术语
 
@@ -146,9 +147,9 @@ flowchart TD
 | 案件管理总框架：三文书、两会议、三里程碑 | [§0B](#0B.%20%E6%A1%88%E4%BB%B6%E7%AE%A1%E7%90%86%E6%80%BB%E6%A1%86%E6%9E%B6%EF%BC%9A%E4%B8%89%E6%96%87%E4%B9%A6%E3%80%81%E4%B8%A4%E4%BC%9A%E8%AE%AE%E3%80%81%E4%B8%89%E9%87%8C%E7%A8%8B%E7%A2%91) |
 | Timetabling Questionnaire 逐栏填写逻辑 | [§0C](#0C.%20Timetabling%20Questionnaire%20%E9%80%90%E6%A0%8F%E5%A1%AB%E5%86%99%E9%80%BB%E8%BE%91) |
 | Extension of Time：O.3 r.5 的三渠道、裁量架构与逾期后果谱系 | [§0D](#0D.%20Extension%20of%20Time%EF%BC%9AO.3%20r.5%20%E7%9A%84%E4%B8%89%E6%B8%A0%E9%81%93%E3%80%81%E8%A3%81%E9%87%8F%E6%9E%B6%E6%9E%84%E4%B8%8E%E9%80%BE%E6%9C%9F%E5%90%8E%E6%9E%9C%E8%B0%B1%E7%B3%BB) |
-| 制裁与 Relief from Sanctions：自动生效引擎与 14 日补救窗口 | [§0E](#0E.%20%E5%88%B6%E8%A3%81%E4%B8%8E%20Relief%20from%20Sanctions%EF%BC%9A%E8%87%AA%E5%8A%A8%E7%94%9F%E6%95%88%E5%BC%95%E6%93%8E%E4%B8%8E%2014%20%E6%97%A5%E8%A1%A5%E6%95%91%E7%AA%97%E5%8F%A3) |
+| 违令制裁与救济机制：自执行制裁与 14 天救济时限 | [§0E](#0E.%20%E8%BF%9D%E4%BB%A4%E5%88%B6%E8%A3%81%E4%B8%8E%E6%95%91%E6%B5%8E%E6%9C%BA%E5%88%B6%EF%BC%9A%E8%87%AA%E6%89%A7%E8%A1%8C%E5%88%B6%E8%A3%81%E4%B8%8E%2014%20%E5%A4%A9%E6%95%91%E6%B5%8E%E6%97%B6%E9%99%90) |
 | 审讯组织：PTR → Setting Down → Listing → Trial Bundles → 当日 → O.37 | [§0F](#0F.%20%E5%AE%A1%E8%AE%AF%E7%BB%84%E7%BB%87%EF%BC%9APTR%20%E2%86%92%20Setting%20Down%20%E2%86%92%20Listing%20%E2%86%92%20Trial%20Bundles%20%E2%86%92%20%E5%BD%93%E6%97%A5%20%E2%86%92%20O.37) |
-| 攻防与暗礁：问卷的策略含义与制裁文化 | [§0G](#0G.%20%E6%94%BB%E9%98%B2%E4%B8%8E%E6%9A%97%E7%A4%81%EF%BC%9A%E9%97%AE%E5%8D%B7%E7%9A%84%E7%AD%96%E7%95%A5%E5%90%AB%E4%B9%89%E4%B8%8E%E5%88%B6%E8%A3%81%E6%96%87%E5%8C%96) |
+| 攻防与暗礁：问卷的策略含义与程序制裁机制 | [§0G](#0G.%20%E6%94%BB%E9%98%B2%E4%B8%8E%E6%9A%97%E7%A4%81%EF%BC%9A%E9%97%AE%E5%8D%B7%E7%9A%84%E7%AD%96%E7%95%A5%E5%90%AB%E4%B9%89%E4%B8%8E%E7%A8%8B%E5%BA%8F%E5%88%B6%E8%A3%81%E6%9C%BA%E5%88%B6) |
 | 文书与期限倒排 | [§0H](#0H.%20%E7%94%B3%E8%AF%B7%E4%B8%8E%E6%93%8D%E4%BD%9C%E5%B7%A5%E7%A8%8B%EF%BC%9A%E6%96%87%E4%B9%A6%E3%80%81%E9%80%81%E8%BE%BE%E5%92%8C%E6%9C%9F%E9%99%90) |
 | 提交前核对 | [§0I](#0I.%20%E6%94%BB%E9%98%B2%E4%B8%8E%E6%89%A7%E8%A1%8C%E5%89%8D%E6%A0%B8%E5%AF%B9) |
 | 失误、制裁与补救 | [§0J](#0J.%20%E7%A8%8B%E5%BA%8F%E5%A4%B1%E8%AF%AF%E5%8F%8A%E5%85%B6%E5%90%8E%E6%9E%9C) |
@@ -168,40 +169,40 @@ flowchart TD
 > 
 > | 码 | 文件 | 层级 | 学年 |
 > |---|---|---|---|
-> | CL12 | LG12 证人陈述与专家 | 本届讲义 | 2026-27 |
-> | CL15 | LG15 审讯准备和程序 | 本届讲义 | 2026-27 |
-> | CL15S1 | 本届课堂幻灯·CL LG15 1-2（Trial Preparation） | 本届讲义 | 2026-27 |
-> | CL15S2 | 本届课堂幻灯·CL LG15 2-2（Trial Procedure） | 本届讲义 | 2026-27 |
-> | CL15AX | 本届 LG15 Annex（PD 5.2／5.6／7.1／16.1／21.1／27 全文附载） | 本届讲义 | 2026-27 |
-> | CAP-C15 | 8010_LG15_PT_51238ed8.md | 本届讲义 | 2026-27 |
-> | CL7 | LG7 中间申请和讼费担保 | 本届讲义 | 2026-27 |
-> | CL8 | LG8 Discovery | 本届讲义 | 2026-27 |
-> | CAP-C7 | PCLL8010 LG7 PT | 本届讲义 | 2026-27 |
-> | CAP-C9 | PCLL8010 LG9 PT | 本届讲义 | 2026-27 |
-> | CL11 | 1. LG11 LECTURE OUTLINE (2026-2027) | 本届讲义 | 2026-27 |
-> | CL11M | 1. LG11 LECTURE OUTLINE (2026-2027)（04 Base 伴生 md，756 行，本卡新引均用其行号） | 本届讲义 | 2026-27 |
-> | CL11T | LG11 本届课堂录音转录（Otter 合并稿：8010_LG11_PT_Otter_Transcript_Combined.md，209 行；William Jones 执教，2026-10-09 晚堂） | 本届讲义 | 2026-27 |
-> | APPA | 本届 PD 5.2 Appendix A 排期问卷表伴生 md | 本届讲义 | 2026-27 |
-> | APPB | 本届 PD 5.2 Appendix B Case Management Summons 样本伴生 md | 本届讲义 | 2026-27 |
-> | APPC | 本届 PD 5.2 Appendix C 排期审讯问卷表伴生 md | 本届讲义 | 2026-27 |
-> | APPD | 本届 PD 5.2 Appendix D Setting Down for Trial 表伴生 md | 本届讲义 | 2026-27 |
-> | OLD-LG11O | 往届（2025-26）LG11 Case Management & EOT 讲义大纲（717 行·含 O.1B 权力例示与 CMC 缺席后果） | 往届官方 | 2025-26 |
-> | OLD-LG11S | 往届（2025-26）LG11 课堂幻灯伴生 md（564 行） | 往届官方 | 2025-26 |
-> | OLD-LG11TQ | 往届（2025-26）LG11 夹排期问卷范本（与本届 App A 自 L11 起逐行全同） | 往届官方 | 2025-26 |
-> | OLD-SET3L11 | 往届学生稿·Set 3「LG11 case management」（1213 行·非官方） | 往届学生稿 | 2025-26 |
-> | OLD-SET3L15 | 往届学生稿·Set 3「LG15 Trial Preparation」（663 行·非官方） | 往届学生稿 | 2025-26 |
-> | SG4TQ | 本届 SG04 Exercise 1—Contract Case 排期问卷完整填报稿（含逐栏依据） | 凝结层 | 2026-27 |
-> | SG4CD | 本届 SG04 主控「00 Classroom & Desk」（任务总览与大作业 DDL） | 凝结层 | 2026-27 |
+> | CL12 | [LG12 证人陈述与专家](../../99%20Moodle%20Mirror/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG12%20Witness%20Statements%20and%20Expert%20Reports/LG12%20-%20Witness%20Statements%20and%20Expert%20Reports.md) | 本届讲义 | 2026-27 |
+> | CL15 | [LG15 审讯准备和程序](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG15%20-%20Trial%20Preparation%20Trial%20Procedure.md) | 本届讲义 | 2026-27 |
+> | CL15S1 | [本届课堂幻灯·CL LG15 1-2（Trial Preparation）](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/CL%20LG15%202026-2027%201-2.md) | 本届讲义 | 2026-27 |
+> | CL15S2 | [本届课堂幻灯·CL LG15 2-2（Trial Procedure）](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/CL%20LG15%202026-2027%202-2.md) | 本届讲义 | 2026-27 |
+> | CL15AX | [本届 LG15 Annex（PD 5.2／5.6／7.1／16.1／21.1／27 全文附载）](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/CL%20LG15%20Trial%20Prep%20-%20Annex.md) | 本届讲义 | 2026-27 |
+> | CAP-C15 | [8010_LG15_PT_51238ed8.md](../../99%20Moodle%20Mirror/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG15%20-%20Trial%20Prep%20&%20Procedure/Panopto%20Captions%20%28local%20export%29/8010_LG15_PT_51238ed8.md) | 本届讲义 | 2026-27 |
+> | CL7 | [LG7 中间申请和讼费担保](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG7%20-%20Drafting%20Summonses.%20Interlocutory%20Applications,%20Security%20for%20Costs.md) | 本届讲义 | 2026-27 |
+> | CL8 | [LG8 Discovery](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG8%EF%BC%9A%20Discovery/LG8%20Discovery%20Lecture%20Outline.md) | 本届讲义 | 2026-27 |
+> | CAP-C7 | [PCLL8010 LG7 PT](../../99%20Moodle%20Mirror/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG7%20-%20Drafting%20Summonses.%20Interlocutory%20Applications,%20Security%20for%20Costs/Panopto%20Captions%20%28local%20export%29/8010_LG07_PT.md) | 本届讲义 | 2026-27 |
+> | CAP-C9 | [PCLL8010 LG9 PT](../../99%20Moodle%20Mirror/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG9%20-%20Summary%20Judgment%20&%20Interim%20Payment/Panopto%20Captions%20%28local%20export%29/8010_LG09_PT.md) | 本届讲义 | 2026-27 |
+> | CL11 | [1. LG11 LECTURE OUTLINE (2026-2027)](../../99%20Moodle%20Mirror/Lecture%20Outlines,%20Powerpoints%20&%20Materials/1.%20LG11%20LECTURE%20OUTLINE%20%282026-2027%29.docx) | 本届讲义 | 2026-27 |
+> | CL11M | [1. LG11 LECTURE OUTLINE (2026-2027)（04 Base 伴生 md，756 行，本卡新引均用其行号）](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/1.%20LG11%20LECTURE%20OUTLINE%20%282026-2027%29.md) | 本届讲义 | 2026-27 |
+> | CL11T | [LG11 本届课堂录音转录（Otter 合并稿：8010_LG11_PT_Otter_Transcript_Combined.md，209 行；William Jones 执教，2026-10-09 晚堂）](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG11%20-%20Case%20Management%20and%20Extension%20of%20Time/8010_LG11_PT_Otter_Transcript_Combined.md) | 本届讲义 | 2026-27 |
+> | APPA | [本届 PD 5.2 Appendix A 排期问卷表伴生 md](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/PD5.2_App_A_V2%20Timetabling%20Questionnaire.md) | 本届讲义 | 2026-27 |
+> | APPB | [本届 PD 5.2 Appendix B Case Management Summons 样本伴生 md](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/PD5.2_App_B%20Case%20Management%20Summons.md) | 本届讲义 | 2026-27 |
+> | APPC | [本届 PD 5.2 Appendix C 排期审讯问卷表伴生 md](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/PD5.2_App_C_V2%20Listing%20Questionnaire.md) | 本届讲义 | 2026-27 |
+> | APPD | [本届 PD 5.2 Appendix D Setting Down for Trial 表伴生 md](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/PD5.2_App_D%20Setting%20Down%20for%20Trial.md) | 本届讲义 | 2026-27 |
+> | OLD-LG11O | [往届（2025-26）LG11 Case Management & EOT 讲义大纲（717 行·含 O.1B 权力例示与 CMC 缺席后果）](../../04%20Base%20Lectures/%5BLG11%5D%20Case%20Management%20and%20Extension%20of%20Time/LG11%20Case%20Management%20and%20EOT%20Lecture%20Outline.md) | 往届官方 | 2025-26 |
+> | OLD-LG11S | [往届（2025-26）LG11 课堂幻灯伴生 md（564 行）](../../04%20Base%20Lectures/%5BLG11%5D%20Case%20Management%20and%20Extension%20of%20Time/LG11%20Case%20Management%20and%20EoT.md) | 往届官方 | 2025-26 |
+> | OLD-LG11TQ | [往届（2025-26）LG11 夹排期问卷范本（与本届 App A 自 L11 起逐行全同）](../../04%20Base%20Lectures/%5BLG11%5D%20Case%20Management%20and%20Extension%20of%20Time/Timetabling%20Questionnaire.md) | 往届官方 | 2025-26 |
+> | OLD-SET3L11 | [往届学生稿·Set 3「LG11 case management」（1213 行·非官方）](../../06%20Base%20Exam%20Notes/Set%203/LG11%20case%20management.md) | 往届学生稿 | 2025-26 |
+> | OLD-SET3L15 | [往届学生稿·Set 3「LG15 Trial Preparation」（663 行·非官方）](../../06%20Base%20Exam%20Notes/Set%203/LG15%20Trial%20Preparation.md) | 往届学生稿 | 2025-26 |
+> | SG4TQ | [本届 SG04 Exercise 1—Contract Case 排期问卷完整填报稿（含逐栏依据）](../../01%20SG/SG04%20Drafting%20SoC%20II%20-%20Negligence/01%20Exercise%201%20-%20Timetabling%20Questionnaire.md) | 凝结层 | 2026-27 |
+> | SG4CD | [本届 SG04 主控「00 Classroom & Desk」（任务总览与大作业 DDL）](../../01%20SG/SG04%20Drafting%20SoC%20II%20-%20Negligence/00%20Classroom%20&%20Desk.md) | 凝结层 | 2026-27 |
 
-> | SG4AP | 本届 SG4 Activity Plan（SG04 原任务书） | 本届官方 | 2026-27 |
-> | LG11UP | 本届Updated Word修订阅读核对 | 本层自拟 | 2026-27 |
+> | SG4AP | [本届 SG4 Activity Plan（SG04 原任务书）](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Small%20Group%20Activity%20Plans/SG4%20Activity%20Plan%20.md) | 本届官方 | 2026-27 |
+> | LG11UP | [本届Updated Word修订阅读核对](obsidian://open?vault=3b1e77255f6c6e29&file=output%2Fresearch%2FCivil%20Litigation%20LG11%20Updated%20Tracked%20Changes%20Verification%20-%202026-10-23.md) | 本层自拟 | 2026-27 |
 <!-- END:cite-legend -->
 
 ## 0B. 案件管理总框架：三文书、两会议、三里程碑
 
 法院以 TQ 取得排期资料，以 consent summons 或 CMS 处理双方的建议，并在需要时举行 CMC 或 PTR。CMC、PTR 和 trial 一经定为 milestone，只能按较严格的程序改期。 <small style="opacity: 0.55">〔CL11M L23 "Lecture title | Case Management & Extension of Time"；CL11M L27 "Ophelia Chan on Case Management &  Sam Liu on Extension of Time"〕</small>
 
-### 0B.1 全景状态机：从 pleadings 结案到开审，以及制裁—救济环
+### 0B.1 案件管理程序流转全景：从诉答完结到开审及制裁救济回路
 
 各方在 O.18 r.20（close of pleadings）所定日期后开始计算 28 日。经办律师签署 TQ；各方可同步协商，但 PD 5.2 ¶8 不准以谈判未完为由延误交问卷。原告应在获知被告立场后选用 consent summons 或 CMS。法院取得各方资料后，先判断能否在书面上处理；如须进一步查问备审进度或解决争议，才需聆讯或 CMC。排期一经确定，各方就按指定日期完成证据准备；预见不能履行时走 §0D，制裁已生效时走 §0E。随后按 §0F 完成 trial preparation。 <small style="opacity: 0.55">〔CL11M L159 "the Timetabling Questionnaire together with the Mediation Certificate shall be filed with the Court"；CL11M L211 "at the same time as the filing of the Timetabling Questionnaire (i.e. within 28 days after the deemed date of close of pleadings)"〕〔CL11M L181 "the process of consultation must not delay the filing of the Timetabling Questionnaire"；CL15AX L52 "the process of consultation must not delay the filing of the Timetabling Questionnaire"〕〔CL11M L263 "file a single set of Timetabling Questionnaire (still within 28 days after the deemed date of close of pleadings)"；CL15AX L64 "within 14 days after receiving the Timetabling Questionnaire from all defendants"〕〔CL11M L305 "the Court will decline to hear the Case Management Summons unless the Timetabling Questionnaire has been filed"；CL15AX L88 "the plaintiff (whether legally represented or not) must take out a case management summons for directions"〕〔CL11M L319 "failing which the order nisi and the directions therein becomes absolute (i.e. final)"；CL15AX L114 "the Court will make orders nisi giving case management directions and fix a timetable"〕〔CL11M L423 "At least 7 days before the Case Management Conference, each party shall file and serve their Listing Questionnaire"；CL11M L433 "At least 3 days before the Case Management Conference, the Plaintiff shall lodge the Case Management Conference bundle"〕〔CL11M L479 "normally about 8 to 10 weeks before the trial date (para 33 of PD 5.2)"；CL15 L142 "At the PTR, the Court will:"〕〔CL15 L206 "The request for setting down is done by filing Appendix D as attached to PD 5.2."；CL15 L210 "must deliver to the Registrar, by post or otherwise, a request that the action may be set down for trial"〕〔CL15 L262 "A Running List case is one with an estimated length of trial of 3 days or less"；CL15AX L298 "will be assigned to and set down in the Running List"〕〔CL11M L643 "Such order can be made upon application by a party, by consent of the party, or of the court’s own motion under O.1B r.2."；CL11M L679 "any sanction for failure to comply imposed by the rule or court order has effect unless the party in default applies"〕</small>
 
@@ -231,7 +232,7 @@ flowchart TD
 - **当事人须先交自己的 TQ。** *Faith Bright* 中，法院拒绝听取没有提交 TQ 的当事人提出的 CMS；缺报者应补交并解释迟延。 <small style="opacity: 0.55">〔CL11M L305 "the Court will decline to hear the Case Management Summons unless the Timetabling Questionnaire has been filed"；OLD-LG11O L157 "The Court has said that it would refuse to hear CMS if parties failed to file Timetabling Questionnaires"·往届仅参考〕</small>
 - **原告不推动，被告可申请。** 若原告不交 TQ 或不发 CMS，被告可按 O.25 r.1(4) 自行发 CMS 或申请驳回。按往届例示，法院可依 r.1(5) 把驳回申请当作 CMS 处理，以便定下 directions。 <small style="opacity: 0.55">〔CL11M L201 "If the Plaintiff does not file a Timetabling Questionnaire, the Defendant may (a) take out a Case Management Summons"；CL11M L303 "or (b) apply for an order to dismiss the action"〕〔OLD-LG11O L178 "Plaintiff has the primary duty, but D also has duty to proceed with the case in reasonable timely manner"·往届仅参考〕</small>
 - **原告在 CMS 摆明双方立场。** 原告可以写明双方均同意 28 日内交换 witness statements，但对中间申请时限分别主张 14 日和 28 日，并列明是否需要 CMC 的分歧。CMS 将争议交给法院；CMC 则是法院指定的管理会议。 <small style="opacity: 0.55">〔APPB L18 "Parties to seek counsel’s opinion within 28 days thereafter. [Agreed]"；APPB L20 "Parties to take out all interlocutory applications within 14 days thereafter. [Plaintiff]"〕</small>
-- **课堂更正（2026-10-09 讲师当场自纠）**：课件所载样本命令标题为 "Order for case management conference"，讲师当场说明——实务命令抬头**仅写 "Order"**，不写命令内容描述，该样本 "not a very good sample"；命令起草板块仍以 [CO07 卡](/pcll-litigation-cards/institutions/co07-summonses-and-orders/)§3.3 为准。 <small style="opacity: 0.55">〔CL11T L97 "only order without describing what the order is about. … this is not a very good sample"〕</small>
+- **课堂更正（2026-10-09 讲师当场自纠）**：课件所载样本命令标题为 "Order for case management conference"，讲师当场说明——实务命令抬头**仅写 "Order"**，不写命令内容描述，该样本 "not a very good sample"；命令起草板块仍以 [CO07 卡](./%5BCO07%5D%20Drafting%20Summonses,%20Interlocutory%20Applications,%20Orders%20&%20Security%20for%20Costs.md)§3.3 为准。 <small style="opacity: 0.55">〔CL11T L97 "only order without describing what the order is about. … this is not a very good sample"〕</small>
 
 ### 0B.4 CMC 聆讯实务：谁出席、没出席的代价
 
@@ -302,7 +303,7 @@ CJR 要求法院按 O.1A r.1 的 underlying objectives 管理案件。法院须�
 | 排期名单 | Running／Fixture 两分（PD 7.1） | **PD 5.7 与 PD 7.1 不适用区院**；区院 Running List 只及 PI／雇员补偿／交通车祸索赔三类，逾 3 日或有无律师当事人剔出。 <small style="opacity: 0.55">〔CL15AX L598 "do not apply to proceedings in the District Court."；CL15AX L528 "claims under the Employees’ Compensation Ordinance (Cap. 282)"〕</small> | PD 27 §J、§S35 |
 | 和解会议（CSC／MASC） | 不适用 | **仅区院**（PD 31.1；本届大纲 key takeaway 明文）。 <small style="opacity: 0.55">〔CL11M L163 "Case Settlement Conference & Mediator-Assisted Case Settlement Conference only applies in District Court."〕</small> | PD 31.1（本届大纲转述） |
 
-### 0B.8 调解与和解会议体系：CJR 的"和解压力"从什么制度件上发生
+### 0B.8 调解与和解机制：PD 31 调解程序与讼费制裁杠杆
 
 1. **Mediation Certificate／Notice／Response／Minute 的 PD 31 链条**：谁愿调解，交证明后发 Mediation Notice（App C）；对方 14 日内回 Mediation Response（App D）；拟定条款后 3 日内交 Mediation Minute。谈不拢的细分差异：联合申请法院作方向（限 venue／费用／参与充足度／开始时间四项单方申请面），以及为调解中止诉讼，但**中止不应扰乱里程碑、除例外情况不推迟审日**。课堂补充：调解达成后，原告须 promptly inform court 调解结果，并以 consent order 或 notice of discontinuance 正式了结程序。 <small style="opacity: 0.55">〔CL11M L225 "a Mediation Notice (as set out in Appendix C of PD 31)"；CL11M L245 "a Mediation Response (as set out in Appendix D of PD 31) within 14 days"；CL11M L247 "The Mediation Minute should be filed in Court within 3 days after being signed"〕〔CL11M L255 "bearing in mind to avoid disruption to milestone dates and, save in exceptional circumstances, postponement of the trial dates"〕〔CL11T L68 "the plaintiff would have to promptly inform the court the results of mediation"〕</small>
 2. **Case Settlement Conference（CSC）与 Mediator-Assisted CSC（MASC）＝区院专属**：在 CMS／CMC 或 Consent Summons 阶段排；当事人可证案不适合或已完成足够调解来"退出"；聆讯前 7 日交 CSC bundle（一页案情摘要、争点表、关键文件、最新要约与反要约、调解报告）；聆讯不公开、无损害基础、法官／聆案官只作三类命令（押后／同意命令了结全部或部分／推进下一阶段方向）；若不和解，主持法官不再介入本案；讼费原则上 in the cause，不合规或无理行为可致制裁。往届讲义据旧 Guidance Notes 另有细节（"pilot scheme"、退出二门、文件清单）。 <small style="opacity: 0.55">〔CL11M L325 "PART F: Case Settlement Conference"；CL11M L339 "parties may contend that their case is not suitable for Case Settlement Conference"；CL11M L407 "generally, costs in the cause"〕〔OLD-LG11O L377 "a pilot scheme at the DC for CSC (without prejudice hearing) to be held"·往届仅参考〕</small>
@@ -417,7 +418,7 @@ O.1A r.1(e) 规定法院应促进和解。PD 31 要求各方先交 Mediation Cer
 4. **出庭前带什么**：旧档里到底准过几次延期、有否先磋、理据是什么——无律师答辩人须先备送达誓章，否则可能押后。 <small style="opacity: 0.55">〔CL11M L735 "how many extensions of time have been granted before this application"；CL11M L739 "Unable to prove service may result in an adjournment of the summons pending service"〕</small>
 5. **庭外最后一轮**：通常可收窄为两点——给多少天、要不要 unless。呈词序：申请人→答辩人→申请人复言；口头裁，讼费后议。 <small style="opacity: 0.55">〔CL11M L747–L751 "how many days of extension should be granted … whether the extension should be granted on an unless basis"〕〔CL11M L751 "the applicant will make submissions first, then the respondent will make submissions in opposition"〕</small>
 6. **答辩方的实务姿态**：Time Summons 很少被整单驳回；与其求驳回，不如**缩期＋unless**。 <small style="opacity: 0.55">〔CL11M L743 "a Time Summons is rarely dismissed but Masters are more minded to give strict timelines"〕</small>
-7. **庭后命令之起草**：仅涉延期与讼费的命令**无须起草**（O.42 r.4(2)(a)(i)）；含 unless 等特别方向者由申请人尽快起草（O.42 r.5）——起草与盖印实体细节交叉 [CO07 卡](/pcll-litigation-cards/institutions/co07-summonses-and-orders/)§3.3（本卡 0F.7 再交叉）。 <small style="opacity: 0.55">〔CL11M L753 "If the order only involves an extension of time and costs, it is not required to draw up"；CL11M L753 "e.g. unless order being made, it must be drawn up by the applicant as soon as reasonably practicable"〕</small>
+7. **庭后命令之起草**：仅涉延期与讼费的命令**无须起草**（O.42 r.4(2)(a)(i)）；含 unless 等特别方向者由申请人尽快起草（O.42 r.5）——起草与盖印实体细节交叉 [CO07 卡](./%5BCO07%5D%20Drafting%20Summonses,%20Interlocutory%20Applications,%20Orders%20&%20Security%20for%20Costs.md)§3.3（本卡 0F.7 再交叉）。 <small style="opacity: 0.55">〔CL11M L753 "If the order only involves an extension of time and costs, it is not required to draw up"；CL11M L753 "e.g. unless order being made, it must be drawn up by the applicant as soon as reasonably practicable"〕</small>
 若期限已过但尚无 self-executing sanction，法院仍可按 O.3 r.5(2) 批出 retrospective leave。若已有自动制裁，则转用 §0E。双方发生争议时，法院按 §0D.2 查证迟延、胜算和 prejudice，再决定能否按较短期限完成。 <small style="opacity: 0.55">〔📄CL11 第“Part L: Extension of Time”节，The Decurion、Astro Nusantara及Zida讨论〕</small>
 
 申请人应交代原期限、以往获准延期的次数、这次不能完成的具体原因、已完成的工作及拟定的新时间表。发传票前，把理由、替代日程和答复期限交给对方；如关键事实有争议，可用支持誓章和文件证明。 <small style="opacity: 0.55">〔📄CL11 第“How to Apply for Time Extension – Time Summons”节〕</small>
@@ -445,11 +446,11 @@ O.1A r.1(e) 规定法院应促进和解。PD 31 要求各方先交 Mediation Cer
 2. 传票前置函议：若协议不成，必须在现有期限届满前尽早发出传票（In-time application）。
 3. 法院可接受不可归咎于当事人的突发事件或关键证人的重大变故。若律师只说事务繁忙，却交代不出具体事实和补救安排，法院不会把它当作充分理由。
 
-## 0E. 制裁与 Relief from Sanctions：自动生效引擎与 14 日补救窗口
+## 0E. 违令制裁与救济机制：自执行制裁与 14 天救济时限
 
-> 对应深度合同③。两件机制件：**unless order（制裁随令预设，逾期自动生效）** 与 **O.2 rr.4–5 relief（制裁生效后的唯一回头路）**。本节末给状态机与补救顺序；另设 [§0J.1 后果链总表](#0J.1%20不做或逾期的后果链总表（索引）)——全卡各程序环节"不做／逾期"一站查清，§6 逆向亦以该表为断点清单。
+> 核心程序机制：**unless order（制裁随令预设，逾期自动生效）** 与 **O.2 rr.4–5 relief（制裁生效后的法定救济途径）**。本节末提供程序流转与补救次序；另设 [§0J.1 后果链总表](#0J.1%20不做或逾期的后果链总表（索引）)——全卡各程序环节"不做／逾期"一站查清，§6 目标策略亦以该表为违约清单。
 
-### 0E.1 unless order 的生成、形式与相称
+### 0E.1 Unless Order 的作出（Making of Order）、形式要求与相称性
 
 1. **法院何时发令。** 法院按 O.1B r.1(3) 可附条件（例如付款入法院），并写明不履行的后果；可应一方申请、依当事人同意或自行作出。若当事人反复拖延，守约方应列明原有命令、每次延期及失责，以支持明确的最后履行期限。 <small style="opacity: 0.55">〔CL11M L641 "specify the consequence of failure to comply with the order (r.1(3)(b))"〕〔CL11M L643 "Such order can be made upon application by a party, by consent of the party, or of the court’s own motion under O.1B r.2."〕〔CL11M L643 "the parties, or one of the parties, has repeatedly failed to follow the deadlines"〕</small>
 2. **按当事人的出席及代表状态写期限。** O.42 r.2(1) 要求命人作为的命令明定时间；按 PD 16.5 ¶2，须从送达起算时可写 “unless within 14 days of the service of this order ...”；对于在场、有代表或同意的情形，可订绝对日期和时间，例如 “unless by [4 p.m. on Thursday, 1st December 1988] ...”。若命令不合 O.42 r.2 的形式要求，据其取得的 default judgment 可被撤销（*Van Houten v Foodsafe Ltd*, CA）。 <small style="opacity: 0.55">〔CL11M L645 "an order which requires a person to do an act must itself specify time after service of the order"；CL11M L651 "within 14 days of the service of this order the defendant"；CL11M L655 "unless by [4 p.m. on Thursday, 1st December 1988] etc. as above"〕〔CL11M L657 "may result in judgment entered pursuant to the unless order be set aside by the Court"〕</small>
@@ -473,7 +474,7 @@ O.1A r.1(e) 规定法院应促进和解。PD 31 要求各方先交 Mediation Cer
 
 违令方可尽早补交欠缺文件，以证明迟延已受控制。补交本身不能解除已生效的制裁；须由法院批出 relief。
 
-### 0E.4 逾序→制裁→救济：状态机与补救顺序
+### 0E.4 逾期违令→制裁生效→救济申请：程序流转与补救次序
 
 ```mermaid
 stateDiagram-v2
@@ -625,10 +626,10 @@ stateDiagram-v2
 - 判令形式：O.42 r.2(1) 作为的命令明载期限（unless 的形式根源，见 0E.1）；O.42 r.4(2)(a)(i) 仅延期／仅含 r.4(3) 所列行为且无特别条款的命令无须起草；O.42 r.5 其余命令由发起申请一方起草并尽快呈批（unless 属起草之列）；PD 16.1：呈批应尽早参与并不迟于宣判后 7 日、律师亲签、登记处改动不服可约 Practice Master。 <small style="opacity: 0.55">〔CL11M L753 "If the order only involves an extension of time and costs, it is not required to draw up"〕〔CL11M L753 "e.g. unless order being made, it must be drawn up by the applicant as soon as reasonably practicable"〕〔CL15AX L370 "submitted for approval as soon as practicable but in any case not later than 7 days after the pronouncement"；CL15AX L372 "Draft orders will only be accepted by the Court if signed personally by a solicitor"〕</small>
 
 **处理讼费。** 申请 summary assessment 的律师应带 statement of costs，让法官在庭上逐项核算；不遵 PD 14.3 ¶8 的后果见 *Cortland Enterprises*。课堂举的费用回收量级是 party-and-party 约 50–70%，common fund 约 70% 至 80% 多，indemnity basis 约 80% 多至 100%。法官可用 indemnity costs 反映须受非难的行为；法院不按这些百分比自动计费，实际基准及评定规则见 CO17 §3。 <small style="opacity: 0.55">〔CAP-C15 L2868-L2879 "So that is something we'll discuss more in civil advocacy."〕〔CAP-C15 L2881-L2893 "Okay. Still with Cortland Enterprises, paragraph 40."〕〔CAP-C15 L2827-L2863 "Are you always right? So just to remind you, in case I've not said it before."〕</small>
-- **细节承担**：命令起草、审批、盖印、送达与备案的主体规则在 [CO07 卡](/pcll-litigation-cards/institutions/co07-summonses-and-orders/)§3.3（含 O.42 r.3 命令日期＝宣判日、r.5(5)(6) 起草权与盖印、r.5A 同意命令与 Consent Summons 的两路、PD 16.1 的叙文要件）；本卡不复制。
+- **细节承担**：命令起草、审批、盖印、送达与备案的主体规则在 [CO07 卡](./%5BCO07%5D%20Drafting%20Summonses,%20Interlocutory%20Applications,%20Orders%20&%20Security%20for%20Costs.md)§3.3（含 O.42 r.3 命令日期＝宣判日、r.5(5)(6) 起草权与盖印、r.5A 同意命令与 Consent Summons 的两路、PD 16.1 的叙文要件）；本卡不复制。
 - **证人传唤文件**：本卡材料范围内，writ of subpoena 仅见于 O.37 评定程序（0F.6 上引）；传召证人到审讯的 subpoena ad testificandum／duces tecum 课程层面与流程未在已读材料出现 → **登记文末 open 块待补**（即不等于说其不存在）。
 
-## 0G. 攻防与暗礁：问卷的策略含义与制裁文化
+## 0G. 攻防与暗礁：问卷的策略含义与程序制裁机制
 
 填 TQ 时，各方以可核实的事实提出时间表。法院会在 CMC、PTR 和列单时回看这些资料，决定是否接纳新方向以及由谁承担迟来的申请费用。
 
@@ -641,8 +642,9 @@ stateDiagram-v2
 5. **用 A3–A5 交代调解时点。** 若适宜等 expert reports 后再调解，律师可在 A4 写明依据；请求 stay 时须建议周数，并交代对里程碑的影响（PD 31 ¶16）。若一方拒绝合理的 admission 或 agreement，法院可按 PD 5.2 ¶10 作费用命令。 <small style="opacity: 0.55">〔CL15AX L56 "may be visited with costs sanctions"〕</small>
 6. **按实际工作量估审期。** 原讼庭合资格的三日或以下短案可进 Running List；通常四日或以上用 Fixture List。高估会增加庭时和文件工作，低估会在 Listing Questionnaire C1 或 PTR 引来核查；法院可依 O.35 r.3A 限证人数和时长。各方应先独立估算自己的四部分，再供法院合计。 <small style="opacity: 0.55">〔CL15AX L124 "giving time estimates (without taking into account the time estimates of other parties)"〕</small>
 
-### 0G.2 制裁文化与和解压力：规则如何改变行为
+### 0G.2 诉讼文化转变与制裁机制（Litigation Culture Change & Sanctions Regime）：规则如何改变行为
 
+根据民事司法改革（CJR）核心目标，法院积极推行**诉讼文化转变（Change in Litigation Culture）**，坚决扭转以往放任拖延与对抗性诉讼技巧的旧习，并以严格的**程序制裁机制（Sanctions Regime）**作为后盾确保规则合规（Culture of Compliance）：
 - **中间申请应尽早提出。** 一般 summons 按 O.32 r.3 至少提前 2 clear days 送达；有特别规则则从其规定。案件进入 CMS 后，应同时核 O.25 r.7 的集中处理要求。PD 5.2 ¶¶28、30–31 允许法院拒绝本可早提的申请；到 PTR 时，法院可按 ¶34 仅以迟延驳回。 <small style="opacity: 0.55">〔CL15 L70 "so far as practicable apply at the time fixed for determination of the summons"；CL15 L74 "Any application subsequent to the case management summons and before judgment"〕</small>
 - **不合作由造成额外程序的一方解释。** PD 5.2 ¶6(4) 容许法院就不相称的申请及无理反对即席评定不利费用；¶10 也适用于 TQ 上无理拒作 admission 或 agreement。若一方过错导致开会，法院可按 ¶¶47–48 命即时支付；代表准备不足而押后时可判 wasted costs。 <small style="opacity: 0.55">〔CL15AX L44 "They will be met with adverse costs orders summarily assessed"〕〔CL15AX L56 "may be visited with costs sanctions"〕〔CL11M L475 "an order for costs wasted"〕</small>
 - **申请延期时同时提出相称后果。** 按 PD 5.2 ¶29，法院在 CMC 后批准延期时通常附 self-executing sanction。O.32 r.11B(2) 要求 CMS 发出后除特殊情况外列明不遵后果；PD 5.2 ¶41 对争议下的 non-milestone 延期要求即时 unless order。 <small style="opacity: 0.55">〔CL11M L555 "extension will only be granted on the basis of an immediate “unless order”"〕</small>
@@ -758,7 +760,7 @@ flowchart TD
 | 审期估计 | 证人和争议量是否支持时长 | 信息变化就更新估计，不等开庭才暴露 |
 | 文件册状态 | 是否与交换证据和可采性一致 | 在bundle不等于已经admitted |
 
-负责律师先核是否有新事实、该事实影响哪项义务，再确定能否自行补正或须向法院申请。若已发生制裁，按 [§0E.4](#0E.4%20逾序→制裁→救济：状态机与补救顺序) 处理；各项后果见 [§0J.1](#0J.1%20不做或逾期的后果链总表（索引）)。
+负责律师先核是否有新事实、该事实影响哪项义务，再确定能否自行补正或须向法院申请。若已发生制裁，按 [§0E.4](#0E.4%20逾期违令→制裁生效→救济申请：程序流转与补救次序) 处理；各项后果见 [§0J.1](#0J.1%20不做或逾期的后果链总表（索引）)。
 
 | 状态变量 | 触发事实（输入信号） | 决策点 | 行动 | 反馈（制裁） | 补救（relief） |
 | --- | --- | --- | --- | --- | --- |
@@ -813,7 +815,7 @@ flowchart TD
 
 #### 0H.1 本届 SG04 Exercise 1（Contract Case）作为本主题的最直接应用锚点
 
-**场景**：SG04（2026-10-15 晚授课；Assignment 1（SoC，与本问卷不同项）DDL 2026-10-27 17:30）。Exercise 1 以 Contract Case（HCA 3388/2021）为背景、模拟日 2021-10-11，由被告方实习律师起草该方 Timetabling Questionnaire；完整答案与研究在 SG04 Exercise 1 填报稿（本届官方表式一栏不漏）；原任务书见 SG4 Activity Plan：AP 明示课前须上 LG11 并按 Exercise 1 备妥问卷、样本问卷于 2026-10-16 午后上 Moodle，Exercise 1 本体为课堂研讨与角色扮演、不需上传；模拟日与填表指示。 <small style="opacity: 0.55">〔SG4CD L8 "2026年10月15日（周四）19:00 – 21:00（Week 7）"；SG4CD L100 "2026年10月27日（周二）下午 5:30"〕〔SG4AP L39–L45 "Attend Civil Litigation LG11 … Prepare the Timetabling Questionnaire under Exercise 1"；SG4AP L72 "will be posted on Moodle after noon on Friday 16 October 2026"；SG4TQ L21 "Exercise 1 · Filling in Timetabling Questionnaire"；SG4TQ L25 "官方 10-16 午后发样本；无需上传 Moodle"〕〔SG4AP L92 "Assume today is 11 October 2021."；SG4AP L96 "download the current form of the Timetabling Questionnaire from the judiciary website"；SG4CD L20 "按假定 2021-10-11 程序状态，依据 PD 5.2"〕</small>
+**场景**：SG04（2026-10-15 晚授课；Assignment 1（SoC，与本问卷不同项）DDL 2026-10-27 17:30）。Exercise 1 以 Contract Case（HCA 3388/2021）为背景、模拟日 2021-10-11，由被告方实习律师起草该方 Timetabling Questionnaire；完整答案与研究在 [SG04 Exercise 1 填报稿](../../01%20SG/SG04%20Drafting%20SoC%20II%20-%20Negligence/01%20Exercise%201%20-%20Timetabling%20Questionnaire.md)（本届官方表式一栏不漏）；原任务书见 [SG4 Activity Plan](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Small%20Group%20Activity%20Plans/SG4%20Activity%20Plan%20.md)：AP 明示课前须上 LG11 并按 Exercise 1 备妥问卷、样本问卷于 2026-10-16 午后上 Moodle，Exercise 1 本体为课堂研讨与角色扮演、不需上传；模拟日与填表指示。 <small style="opacity: 0.55">〔SG4CD L8 "2026年10月15日（周四）19:00 – 21:00（Week 7）"；SG4CD L100 "2026年10月27日（周二）下午 5:30"〕〔SG4AP L39–L45 "Attend Civil Litigation LG11 … Prepare the Timetabling Questionnaire under Exercise 1"；SG4AP L72 "will be posted on Moodle after noon on Friday 16 October 2026"；SG4TQ L21 "Exercise 1 · Filling in Timetabling Questionnaire"；SG4TQ L25 "官方 10-16 午后发样本；无需上传 Moodle"〕〔SG4AP L92 "Assume today is 11 October 2021."；SG4AP L96 "download the current form of the Timetabling Questionnaire from the judiciary website"；SG4CD L20 "按假定 2021-10-11 程序状态，依据 PD 5.2"〕</small>
 
 **逐栏映射（节选关键决策对应本卡模块）**：
 
@@ -835,8 +837,8 @@ flowchart TD
 
 #### 0H.2 SG6／SG9／SG10 挂接（按本届 SG 总索引状态）
 
-- **SG06（2026-10-29，Civil Procedure 1）**：以本届四题为准。若答案涉及中间程序的处理顺序，先核 §0B 的 directions 和 milestone，再按 §0D、§0E 判断延期或已生效制裁。入口见 SG 总索引、SG06 主控。
-- **SG9（2026-11-19，Civ Proc 2，Knowledge）**：即决判决／讼费担保推演——与本卡 0B.6（里程碑变动作程序背景）、0C 栏 I1、0D（想延期会牵动的 O.14 聆讯日）互馈；S4C 本体在 [CO07 卡](/pcll-litigation-cards/institutions/co07-summonses-and-orders/)。
+- **SG06（2026-10-29，Civil Procedure 1）**：以本届四题为准。若答案涉及中间程序的处理顺序，先核 §0B 的 directions 和 milestone，再按 §0D、§0E 判断延期或已生效制裁。入口见 [SG 总索引](../../01%20SG/00%20Index.md)、[SG06 主控](../../01%20SG/SG06%20Civil%20Procedure%201/00%20Classroom%20&%20Desk.md)。
+- **SG9（2026-11-19，Civ Proc 2，Knowledge）**：即决判决／讼费担保推演——与本卡 0B.6（里程碑变动作程序背景）、0C 栏 I1、0D（想延期会牵动的 O.14 聆讯日）互馈；S4C 本体在 [CO07 卡](./%5BCO07%5D%20Drafting%20Summonses,%20Interlocutory%20Applications,%20Orders%20&%20Security%20for%20Costs.md)。
 - **SG10（2026-11-20／26，Civil Procedure 3）**：涉及 injunctions、O.22 与 unless order。答题时先写命令义务及制裁（§0E.1），再按实际阶段选普通延期（§0D.5）或 relief（§0E.2–0E.5）。
 
 > **Exam / Drafting Formulation:** "The parties propose that lists of documents be exchanged by [date]."
@@ -908,7 +910,7 @@ flowchart TD
 | 期限与制裁 | 延期解决何时履行；relief from sanctions 处理已生效的制裁。补交材料不能自动恢复诉权。 |
 | 排期与证据 | 把 discovery、证人及专家交换日期纳入 timetable；先按 CO08 准备，发现缺口及时通知。 |
 
-## 4. 工程控制论
+## 4. 办案流程控制与关键节点核查（Procedural Control & Case Verification）
 
 | 核对项 | 当事人如何核对 | 发现缺口后的行动 |
 | --- | --- | --- |
@@ -916,23 +918,23 @@ flowchart TD
 | 变更期限或制裁救济 | 先核是否 milestone；制裁已生效时及时按 O.2 r.5 申请，通常 14 日内 | 对方可核迟延缘由、已浪费费用和审期影响，并提出较短延期或附条件方向。 |
 | 最后备审 | 按 PD 5.6 的适用时限交存 trial bundles；从审讯时间倒排证据、文件册及到庭安排 | 区分延期、变更里程碑和 relief from sanctions；递交前对照实际命令及法院已批准的日期。 |
 
-## 5. 横向耦合
+## 5. 横向程序联动与机制衔接（Inter-Procedural Coordination & Interface）
 
 | 接口 | 两个程序如何衔接 |
 | --- | --- |
 | 期限与制裁 | 延期解决何时履行；relief from sanctions 处理已生效的制裁。补交材料不能自动恢复诉权。 |
 | 排期与证据 | 把 discovery、证人及专家交换日期纳入 timetable；先按 CO08 准备，发现缺口及时通知。 |
-| **修改 pleadings** | 在 TQ 的 C 栏申报拟修改及 F&BP，再由法院在 CMS 或 CMC 定方向。临近 trial，申请人须解释 delay，并提出能弥补对方 prejudice 的办法。*Lok Wai Yee* 因可能成立的抗辩而准迟改，原审日亦被废；*China Shanshui* 与 *China Forestry* 在开案后权衡迟延及损害，后案准改。*Ma Man Chun* 展示开审才发现 pleadings 不足的代价。详见 [CO04-05 卡](/pcll-litigation-cards/institutions/co04-05-10-pleadings/)。 <small style="opacity: 0.55">〔CL11M L621 "Just and fair to allow ex-husband to amend Defence very late, even if it would result in the vacation of the trial dates"〕〔CL15 L506 "Normally, leave to amend a pleading before trial is usually allowed unless the proposed amendment is bound to fail."〕〔CL15S1 L140 "Mr Lim’s opening submissions plainly go beyond the scope of the plaintiffs’ pleadings."〕</small> |
+| **修改 pleadings** | 在 TQ 的 C 栏申报拟修改及 F&BP，再由法院在 CMS 或 CMC 定方向。临近 trial，申请人须解释 delay，并提出能弥补对方 prejudice 的办法。*Lok Wai Yee* 因可能成立的抗辩而准迟改，原审日亦被废；*China Shanshui* 与 *China Forestry* 在开案后权衡迟延及损害，后案准改。*Ma Man Chun* 展示开审才发现 pleadings 不足的代价。详见 [CO04-05 卡](./%5BCO04-05-10%5D%20Pleadings,%20Defence,%20Counterclaims%20and%20Third%20Party%20Proceedings.md)。 <small style="opacity: 0.55">〔CL11M L621 "Just and fair to allow ex-husband to amend Defence very late, even if it would result in the vacation of the trial dates"〕〔CL15 L506 "Normally, leave to amend a pleading before trial is usually allowed unless the proposed amendment is bound to fail."〕〔CL15S1 L140 "Mr Lim’s opening submissions plainly go beyond the scope of the plaintiffs’ pleadings."〕</small> |
 | **默认判决（default judgment）** | DJ 的撤销／附条件撤销把案件拉回时表——撤销后重新进入 CMS/CMC 节奏；LG07 卡 §7 Batch B：Master 附条件撤销默认判决（14 日内缴存 HK$100,000）、即席评定原告讼费 HK$50,000——"附条件"即案件管理语言；相关交叉在 LG07 卡 §2.2 与本卡 0E.1 的 unless。 |
 | **O.14 简易判决** | O.14 传票须 10 clear days，与非正审传票 2 clear days 不同节拍；其入卷与 CMS 阶段中间程序可见性共用时间表；O.14 的 10 clear days 与一般传票 2 clear days 的时间差，LG07 卡 §5.1 已列；CMS 后申请"近审日"被阻的概率，0J.1 行 10＋Waddington。 <small style="opacity: 0.55">〔CL11M L491 "late interlocutory applications may be dismissed on the basis of delay alone"〕</small> |
-| **S4C 讼费担保** | 问卷 I1 须申报拟申请与日期；不申报而迟来申请可被迟延驳回；问卷 I1；迟至 PTR 前申请被批反例（Waddington：单以迟延驳回）；担保本体规则在 [CO07 卡](/pcll-litigation-cards/institutions/co07-summonses-and-orders/)§3.4–4.2。 <small style="opacity: 0.55">〔APPA L416 "Do you intend to apply for security for costs?"〕</small> |
+| **S4C 讼费担保** | 问卷 I1 须申报拟申请与日期；不申报而迟来申请可被迟延驳回；问卷 I1；迟至 PTR 前申请被批反例（Waddington：单以迟延驳回）；担保本体规则在 [CO07 卡](./%5BCO07%5D%20Drafting%20Summonses,%20Interlocutory%20Applications,%20Orders%20&%20Security%20for%20Costs.md)§3.4–4.2。 <small style="opacity: 0.55">〔APPA L416 "Do you intend to apply for security for costs?"〕</small> |
 | **Witness statements 与 experts** | 若法院按 O.38 r.2A 指定交换期，各方不能凭 O.3 r.5(3) 的书面同意延展；未获许可不能援引逾期陈述。PTR 可命 witness statements stand as evidence-in-chief，证人仍须到庭接受 cross-examination。申请人应及早按 PD 5.2 ¶20 交代专家姓名、领域、精确争点，并说明是否适合 single joint expert。 <small style="opacity: 0.55">〔CL15 L362 "Order 3, rule 5(3) shall not apply to any period specified by the Court under this paragraph."〕〔CL15 L132 "the witness statements will stand as evidence-in-chief"〕〔CL15AX L106 "identified the expert by name and field"〕</small> |
 | **披露与 bundle** | discovery 不等方向就推进（PD 5.2 §5）；文件册草稿索引在 CMC bundle 已要交，trial bundle 按 PD 5.6 制作；先行披露；CMC bundle 内容；trial bundle 每册≤250 页、72 小时前交存。 <small style="opacity: 0.55">〔CL15AX L34 "The parties should proceed with discovery without the need to wait for an order of the Court"〕〔CL11M L433 "the Plaintiff shall lodge the Case Management Conference bundle"；CL11M L443 "should be updated and re-used at subsequent Case Management Conferences"〕〔CL15AX L270 "should never include more than 250 pages"；CL15AX L276 "at least 72 hours before the date fixed for the hearing"〕</small> |
 | **临时救济（interim）** | 禁制令／Mareva／Anton Piller 属法官权限且按 LG13 轨道走；其存在会在 TQ 栏 I2 申报为待办中间程序；LG13 卡 §0A 已系统展开；I2 的申报面。 <small style="opacity: 0.55">〔APPA L424 "Are there any other interlocutory applications that you intend to make"〕</small> |
 | **和解与 Settlement→list** | 和解意向在问卷 A3/A5 申报；和解达成要及时通知名单人员并撤回档案；问卷 A3/A5；O.34 r.8(2) 持续信息义务。 <small style="opacity: 0.55">〔APPA L60 "Do you have intention to settle this case by mediation?"；APPA L82 "Do you seek for a stay of proceedings to attempt mediation?"〕〔CL15 L274 "furnish without delay to the officer who keeps the list all available information"；CL15 L274 "the action is settled or withdrawn, to notify that officer of the fact without delay"〕</small> |
 | **中间申请集中义务（O.25 r.7）** | 该在 CMS 出的申请要全列，迟出要被延误单驳回；此为本卡"暗礁"与 LG07 传票规则的接点；O.25 r.7 三期限：CMS 前 7 日通知差异项／CMS 后 2 clear days 传票。 <small style="opacity: 0.55">〔CL15 L70 "so far as practicable apply at the time fixed for determination of the summons"；CL15 L74 "Any application subsequent to the case management summons and before judgment"〕</small> |
 
-## 6. 逆向选择
+## 6. 目标倒推与实务应对策略（Goal-Driven Strategy & Strategic Remedies）
 
 | 客户目标 | 从目标倒推所需材料与行动 |
 | --- | --- |
@@ -1036,19 +1038,19 @@ flowchart TD
 > | 辐射 | 对应课程及用途 |
 > |---|---|
 > | LG | 主辐射LG7、LG15；接口LG8披露、LG12证人与专家；LG11本届原Word已于2026-10-06核读；其他后续材料另按到货状态 |
-> | SG06 | 工作台；中间程序整体安排；材料状态：本届AP/追加资料未作为完整题面核齐；只作辐射定位 |
-> | SG07 | 工作台；宣誓材料与命令起草；材料状态：本届AP/追加资料未作为完整题面核齐；只作辐射定位 |
-> | SG09 | 工作台；中间申请时序；材料状态：本届AP/追加资料未作为完整题面核齐；只作辐射定位 |
-> | SG10 | 工作台；后续程序知识与审讯准备；材料状态：本届AP/追加资料未作为完整题面核齐；只作辐射定位 |
+> | SG06 | [工作台](../../01%20SG/SG06%20Civil%20Procedure%201/00%20Classroom%20&%20Desk.md)；中间程序整体安排；材料状态：本届AP/追加资料未作为完整题面核齐；只作辐射定位 |
+> | SG07 | [工作台](../../01%20SG/SG07%20Drafting%20Affidavit%20and%20Order%20%28Affirmation%20of%20Service%29/00%20Classroom%20&%20Desk.md)；宣誓材料与命令起草；材料状态：本届AP/追加资料未作为完整题面核齐；只作辐射定位 |
+> | SG09 | [工作台](../../01%20SG/SG09%20Civil%20Procedure%202%20%28Knowledge%29/00%20Classroom%20&%20Desk.md)；中间申请时序；材料状态：本届AP/追加资料未作为完整题面核齐；只作辐射定位 |
+> | SG10 | [工作台](../../01%20SG/SG10%20Civil%20Procedure%203%20%28Knowledge%29/00%20Classroom%20&%20Desk.md)；后续程序知识与审讯准备；材料状态：本届AP/追加资料未作为完整题面核齐；只作辐射定位 |
 > 
 > **底层材料快照**：本届LG7申请文书材料、LG15讲义/两份课件/Annex和PD5.2表格已见；LG8/12证据准备文件可作接口。没有完整核齐本届LG11独立案件管理材料、实际排期命令及后续SGAP，因此是已到材料范围的体系稿。
 > 
 > | 已到源文 | 版本和用途 |
 > |---|---|
-> | LG7 中间申请和讼费担保 | 本届发布／2026-27；本卡按所选段落核引，不以文件存在宣称全部法源/课堂补充已核完。 |
-> | LG15 审讯准备和程序 | 本届发布／2026-27；本卡按所选段落核引，不以文件存在宣称全部法源/课堂补充已核完。 |
-> | LG12 证人陈述与专家 | 本届2026授课日期；内页仍写2025-2026；尚在99镜像；本卡按所选段落核引，不以文件存在宣称全部法源/课堂补充已核完。 |
-> | LG8 Discovery | 本届发布／2026-27；本卡按所选段落核引，不以文件存在宣称全部法源/课堂补充已核完。 |
+> | [LG7 中间申请和讼费担保](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG7%20-%20Drafting%20Summonses.%20Interlocutory%20Applications,%20Security%20for%20Costs.md) | 本届发布／2026-27；本卡按所选段落核引，不以文件存在宣称全部法源/课堂补充已核完。 |
+> | [LG15 审讯准备和程序](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG15%20-%20Trial%20Preparation%20Trial%20Procedure.md) | 本届发布／2026-27；本卡按所选段落核引，不以文件存在宣称全部法源/课堂补充已核完。 |
+> | [LG12 证人陈述与专家](../../99%20Moodle%20Mirror/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG12%20Witness%20Statements%20and%20Expert%20Reports/LG12%20-%20Witness%20Statements%20and%20Expert%20Reports.md) | 本届2026授课日期；内页仍写2025-2026；尚在99镜像；本卡按所选段落核引，不以文件存在宣称全部法源/课堂补充已核完。 |
+> | [LG8 Discovery](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Lecture%20Outlines,%20Powerpoints%20&%20Materials/LG8%EF%BC%9A%20Discovery/LG8%20Discovery%20Lecture%20Outline.md) | 本届发布／2026-27；本卡按所选段落核引，不以文件存在宣称全部法源/课堂补充已核完。 |
 > 
 > **总体判断**：书面讲义可支撑下列规则和体系，但本届材料链不视为全齐。具体缺口列在末尾open块；未发本届SG题面只登记辐射用途，不套用往届案情。
 > 
@@ -1060,7 +1062,7 @@ flowchart TD
 > 
 > **7. 既有卡片关系和使用方法**
 > 
-> **本轮新增接口**：[民事证据准备体系 披露 证人及专家](/pcll-litigation-cards/institutions/co08-evidence-preparation/)；[临时救济与风险保障体系](/pcll-litigation-cards/institutions/co13-interim-relief/)。先看相邻体系的边界，再回本卡规则表核查。
+> **本轮新增接口**：[民事证据准备体系 披露 证人及专家](%5BCO08%5D%20Evidence%20Preparation%20System%20-%20Discovery%20Witnesses%20and%20Experts.md)；[临时救济与风险保障体系](%5BCO13%5D%20Interim%20Relief%20and%20Risk%20Protection%20System.md)。先看相邻体系的边界，再回本卡规则表核查。
 > 
 > **已有节点**：
 > - [LG07\] Drafting Summonses, Interlocutory Applications, Orders & Security for Costs\](%5BLG07%5D%20Drafting%20Summonses%2C%20Interlocutory%20Applications%2C%20Orders%20%26%20Security%20for%20Costs.m](%5BCO07%5D%20Drafting%20Summonses,%20Interlocutory%20Applications,%20Orders%20&%20Security%20for%20Costs.md)：仅作已有脉络与原未决的入口；本卡法律规则仍由图例中的底层材料承重。
@@ -1080,7 +1082,7 @@ flowchart TD
 > 
 > **2026-10-04 N1–N3 补作与来源挂接**
 > 
-> **本届SG04 Exercise1是本卡新增的直接应用入口**：Contract Case完整问卷／研究。依据 SG4 AP L39–45、90–96：LG11、Contract A／B／C1–24和特别提供的C25–26草稿。
+> **本届SG04 Exercise1是本卡新增的直接应用入口**：[Contract Case完整问卷](../../01%20SG/SG04%20Drafting%20SoC%20II%20-%20Negligence/01%20Exercise%201%20-%20Timetabling%20Questionnaire.md)／[研究](../../01%20SG/SG04%20Drafting%20SoC%20II%20-%20Negligence/02%20Exercise%202%20-%20Statement%20of%20Claim%20&%20Case%20Analysis.md)。依据 [SG4 AP](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Small%20Group%20Activity%20Plans/SG4%20Activity%20Plan%20.md) L39–45、90–96：LG11、Contract A／B／C1–24和特别提供的C25–26草稿。
 > 
 > 状态控制：draft≠filed；拟议directions≠已作order；对方填“否”≠己方可照抄；“未完成”≠“已逾期”。本轮使用司法机构当前AppendixA表式并与库内原表核对相同，所有未知指示在草稿方括号落地。【2026-10-05历史说明】当时未把“LG11整包未齐”改为齐全；2026-10-06现已取得并核读本届原Word，故“原讲义缺料”已补足，见0A；这仍不等于课堂后续材料全齐。
 > 
@@ -1108,7 +1110,7 @@ flowchart TD
 > - **【O-T8｜2026-10-11｜disputed（不作定本入正文）】Setting down 申请 VCF 是否另收费**：讲师答 "No… I don't think so"〔CL11T L117 "Will that be extra cost for requiring these? No. No. No. I don't think so."〕——属存疑表述，待核；0F.2 正文只登记 App D 栏目含 video conferencing facilities，不登记收费结论。
 > 
 > 
-> > **2026-10-06 SG-USE材料状态更正**：本届LG11现已入99镜像，📄本届原件封面与课程日期已核。此前“未核齐／未到货”不再代表有无原件的现状；SG04 Questionnaire已接入其Timetabling Questionnaire及case-management directions章节。正文未因本次到货而冒称已逐句融合整份LG11。
+> > **2026-10-06 SG-USE材料状态更正**：本届LG11现已入99镜像，[📄本届原件](../../99%20Moodle%20Mirror/Lecture%20Outlines,%20Powerpoints%20&%20Materials/1.%20LG11%20LECTURE%20OUTLINE%20%282026-2027%29.docx)封面与课程日期已核。此前“未核齐／未到货”不再代表有无原件的现状；SG04 Questionnaire已接入其Timetabling Questionnaire及case-management directions章节。正文未因本次到货而冒称已逐句融合整份LG11。
 > 
 > 
 > <!-- END:open -->
@@ -1118,7 +1120,7 @@ flowchart TD
 > 
 > 旧文和此前未决事项保留；本次增加的规则分别回到本届底层来源，例子标注为自拟，不代入未取得的本届案情。
 > 
-> > **2026-10-06 链接修复留痕**：按本机Obsidian内部链接解析修正编码、跨库或定位问题；本次仅调整链接与技术标注，原有正文行序保留。逐处记录见课程总库 `output/reviews/Obsidian Link Repair - 2026-10-06.md`。 完整修复记录
+> > **2026-10-06 链接修复留痕**：按本机Obsidian内部链接解析修正编码、跨库或定位问题；本次仅调整链接与技术标注，原有正文行序保留。逐处记录见课程总库 `output/reviews/Obsidian Link Repair - 2026-10-06.md`。 [完整修复记录](obsidian://open?vault=3b1e77255f6c6e29&file=output%2Freviews%2FObsidian%20Link%20Repair%20-%202026-10-06.md)
 > 
 > **2026-10-09 深化重构与 LG11 行同步记录（本轮）**
 > 

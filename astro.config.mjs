@@ -469,13 +469,13 @@ export default defineConfig({
 									title: '证据准备与披露清单',
 									badge: '7项核心',
 									items: [
-										{ label: '自动披露与文件清单', en: 'List of Documents O.24 r.2', href: '#0b-证据准备总框架三件套时序主干与状态机' },
+										{ label: '自动披露与文件清单', en: 'List of Documents O.24 r.2', href: '#0b-证据准备总框架三大核心支柱时序主干与程序推进' },
 										{ label: 'Peruvian Guano 关联测试', en: 'Train of Inquiry Relevance', href: '#0c-o24-自动披露范围peruvian-guano-口径与-list-of-documents-结构' },
-										{ label: '法律专业特权核验', en: 'Legal Professional Privilege', href: '#0b-证据准备总框架三件套时序主干与状态机' },
-										{ label: '默示承诺禁止滥用', en: 'Implied Undertaking Harman', href: '#0b-证据准备总框架三件套时序主干与状态机' },
-										{ label: '特定文件披露申请', en: 'Specific Discovery O.24 r.7', href: '#0b-证据准备总框架三件套时序主干与状态机' },
-										{ label: '证人陈述书事实界限', en: 'Witness Statements O.38', href: '#0b-证据准备总框架三件套时序主干与状态机' },
-										{ label: '独立专家证人指引', en: 'Expert Reports & Code PD 22', href: '#0b-证据准备总框架三件套时序主干与状态机' },
+										{ label: '法律专业特权核验', en: 'Legal Professional Privilege', href: '#0b-证据准备总框架三大核心支柱时序主干与程序推进' },
+										{ label: '默示承诺禁止滥用', en: 'Implied Undertaking Harman', href: '#0b-证据准备总框架三大核心支柱时序主干与程序推进' },
+										{ label: '特定文件披露申请', en: 'Specific Discovery O.24 r.7', href: '#0b-证据准备总框架三大核心支柱时序主干与程序推进' },
+										{ label: '证人陈述书事实界限', en: 'Witness Statements O.38', href: '#0b-证据准备总框架三大核心支柱时序主干与程序推进' },
+										{ label: '独立专家证人指引', en: 'Expert Reports & Code PD 22', href: '#0b-证据准备总框架三大核心支柱时序主干与程序推进' },
 									]
 								},
 								'co11': {
@@ -483,12 +483,12 @@ export default defineConfig({
 									badge: '7项核心',
 									items: [
 										{ label: '排期问卷倒排填写', en: 'Timetabling Questionnaire', href: '#0c-timetabling-questionnaire-逐栏填写逻辑' },
-										{ label: '调解证书提交死线', en: 'Mediation Certificate PD 31', href: '#0b-8-调解与和解会议体系-cjr-的-和解压力-从什么制度件上发生' },
-										{ label: '三大不可动摇里程碑', en: '3 Milestone Dates (CMC/PTR/Trial)', href: '#0b-6-里程碑日期-vs-非里程碑日期-更改规则对照' },
-										{ label: '非里程碑时限合意调整', en: 'Non-Milestone Consent O.25 r.1B', href: '#0d-1-三个渠道与两个例外' },
-										{ label: '除非命令与违规制裁', en: 'Unless Order & Strike Out', href: '#0e-1-unless-order-的生成-形式与相称' },
-										{ label: '制裁宽免五维裁量', en: 'Relief from Sanctions O.2 r.5', href: '#0e-3-relief-from-sanctions-14-日窗口-传票-誓章-十因素裁量' },
-										{ label: '审前复核与正式排期', en: 'PTR, Bundles & Setting Down', href: '#0f-1-ptr-审前覆核-法院预期的-备审成果展示' },
+										{ label: '调解证书提交死线', en: 'Mediation Certificate PD 31', href: '#0b8-调解与和解机制pd-31-调解程序与讼费制裁杠杆' },
+										{ label: '三大不可动摇里程碑', en: '3 Milestone Dates (CMC/PTR/Trial)', href: '#0b6-里程碑日期-vs-非里程碑日期更改规则对照' },
+										{ label: '非里程碑时限合意调整', en: 'Non-Milestone Consent O.25 r.1B', href: '#0d1-三个渠道与两个例外' },
+										{ label: '除非命令与违规制裁', en: 'Unless Order & Strike Out', href: '#0e1-unless-order-的作出making-of-order形式要求与相称性' },
+										{ label: '制裁宽免五维裁量', en: 'Relief from Sanctions O.2 r.5', href: '#0e3-relief-from-sanctions14-日窗口传票誓章十因素裁量' },
+										{ label: '审前复核与正式排期', en: 'PTR, Bundles & Setting Down', href: '#0f1-ptr审前覆核法院预期的备审成果展示' },
 									]
 								},
 								'co13': {
