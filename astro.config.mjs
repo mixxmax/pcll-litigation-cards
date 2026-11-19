@@ -588,7 +588,7 @@ export default defineConfig({
 					],
 				},
 				{
-					label: '🏛️ 制度凝结层 (Institutions 01–13)',
+					label: '🏛️ 制度凝结层 (Institutions 01–19)',
 					items: [
 						{ label: 'CO01 · 接案指示、诉前行为与 LBA', slug: 'institutions/co01-taking-instructions' },
 						{ label: 'CO03 · 送达、诉讼认收与管辖权异议', slug: 'institutions/co03-service-and-aos' },
@@ -598,6 +598,11 @@ export default defineConfig({
 						{ label: 'CO08 · 证据准备体系：披露、证人与专家', slug: 'institutions/co08-evidence-preparation' },
 						{ label: 'CO11 · 案件管理与审讯组织体系', slug: 'institutions/co11-case-management' },
 						{ label: 'CO13 · 临时救济与风险保障体系', slug: 'institutions/co13-interim-relief' },
+						{ label: 'CO14 · 和解、附制裁要约与终止诉讼', slug: 'institutions/co14-settlement' },
+						{ label: 'CO16 · 誓章、非宗教式确认与证物', slug: 'institutions/co16-affidavits' },
+						{ label: 'CO17 · 讼费、评定与核费', slug: 'institutions/co17-costs-taxation' },
+						{ label: 'CO18 · 判决执行与资产追回', slug: 'institutions/co18-judgment-enforcement' },
+						{ label: 'CO19 · 民事上诉、许可与暂缓执行', slug: 'institutions/co19-civil-appeals' },
 					],
 				},
 			],
