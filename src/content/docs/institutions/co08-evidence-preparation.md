@@ -48,20 +48,20 @@ SG课表安排:
 
 ## 速读定位层
 
-> 本层为 2026-10-10 深化重构新增的开篇导引；具体规则、条件、例外与引注见下方 §0A（既有）与 §0B–§0P（本轮深化），按本层术语定位后直达。本卡主题＝**证据准备（Evidence Preparation）**：从 pleadings 锁定争议，到文件、证言、专家意见三方面取证并进入审讯。 <small style="opacity: 0.55">〔CL12 L76 "Civil litigation operates on “cards on the table” basis"〕</small>
+> 本层为 2026-10-10 深化重构新增的开篇导引；具体规则、条件、例外与引注见下方 §0A（既有）与 §0B–§0P（本轮深化），按本层术语定位后直达。本卡主题为**证据准备（Evidence Preparation）**：从 pleadings 锁定争议，到文件、证言、专家意见三方面取证并进入审讯。 <small style="opacity: 0.55">〔CL12 L76 "Civil litigation operates on “cards on the table” basis"〕</small>
 
 ### 适用范围
 
 **覆盖（按程序时序）**——自诉答终结（close of pleadings）到证据齐备可交案件管理的完整"取证"链：
-1. **O.24 自动披露**：诉答终结后 14 日交换 List of Documents（Form 26）；文件定义（Cap.1 s.3＋PDSL 1.2 电子文件）、Peruvian Guano 相关性口径与 CJR 限缩（O.24 r.15A）、possession/custody/power、持续义务与补充清单；。 <small style="opacity: 0.55">〔CL8 L25 "within 14 days of the close of the pleadings"〕</small>
-2. **异议与特权**：without prejudice、legal advice privilege、litigation privilege、自陷罪特权；特权不免列单（Schedule I Part 2）与特权放弃六径；。 <small style="opacity: 0.55">〔CL8 L40 "privileged documents must still be listed"〕</small>
-3. **查阅与真实性**：inspection（O.24 r.9）、付费副本（r.11A）、拒绝查阅救济（r.11）、文书中提及文件的查阅（r.10，4 日回复）、O.27 r.4 真实性视为承认；。 <small style="opacity: 0.55">〔CL8 L45 "Discovery and inspection are 2 distinct concepts"〕</small>
-4. **补强路径**：Further and Better List（r.3(2)）与 specific discovery（r.7／r.8(2) 五要件＋负担转移＋否认誓章终局性）；。 <small style="opacity: 0.55">〔CL8 L50 "Why the document sought is thought to exist"〕</small>
-5. **implied undertaking**：披露文件只限本诉讼使用、违反＝contempt、open court 例外与 release 固有管辖；。 <small style="opacity: 0.55">〔CL8 L55 "not to use the documents for any purpose other than the proceedings"〕</small>
-6. **诉前／第三方披露**：HCO ss.41/42（DCO ss.47A/47B）、Norwich Pharmacal、subpoena duces tecum；。 <small style="opacity: 0.55">〔CL8 L65 "Governs discovery against a potential party before the commencement"〕</small>
-7. **interrogatories（O.26）**：两次免许可、14 日反对窗、不少于 28 日答复期、r.6 制裁；。 <small style="opacity: 0.55">〔CL8 L80 "The time allowed must be at least 28 days from the date of service."〕</small>
-8. **证人陈述（O.38 r.2A）**：交换方向、SoT、迟交／新增许可、stand as EIC 与传闻边界；。 <small style="opacity: 0.55">〔CL12 L96 "The failure to file witness statement(s) according to directions given"〕</small>
-9. **专家证据（O.38 rr.35–38、r.4、r.4A）**：许可门槛、overriding duty、Code of Conduct、专家会议／联合声明、SJE 与反驳 SJE；。 <small style="opacity: 0.55">〔CL12 L148 "parties need to obtain leave to adduce expert evidence"〕</small>
+1. **O.24 自动披露**：诉答终结后 14 日交换 List of Documents（Form 26）；文件定义（Cap.1 s.3＋PDSL 1.2 电子文件）、Peruvian Guano 相关性口径与 CJR 限缩（O.24 r.15A）、possession/custody/power、持续义务与补充清单。 <small style="opacity: 0.55">〔CL8 L25 "within 14 days of the close of the pleadings"〕</small>
+2. **异议与特权**：without prejudice、legal advice privilege、litigation privilege、自陷罪特权；特权不免列单（Schedule I Part 2）与特权放弃六径。 <small style="opacity: 0.55">〔CL8 L40 "privileged documents must still be listed"〕</small>
+3. **查阅与真实性**：inspection（O.24 r.9）、付费副本（r.11A）、拒绝查阅救济（r.11）、文书中提及文件的查阅（r.10，4 日回复）、O.27 r.4 真实性视为承认。 <small style="opacity: 0.55">〔CL8 L45 "Discovery and inspection are 2 distinct concepts"〕</small>
+4. **补强路径**：Further and Better List（r.3(2)）与 specific discovery（r.7／r.8(2) 五要件＋负担转移＋否认誓章终局性）。 <small style="opacity: 0.55">〔CL8 L50 "Why the document sought is thought to exist"〕</small>
+5. **implied undertaking**：披露文件只限本诉讼使用、违反即 contempt、open court 例外与 release 固有管辖。 <small style="opacity: 0.55">〔CL8 L55 "not to use the documents for any purpose other than the proceedings"〕</small>
+6. **诉前／第三方披露**：HCO ss.41/42（DCO ss.47A/47B）、Norwich Pharmacal、subpoena duces tecum。 <small style="opacity: 0.55">〔CL8 L65 "Governs discovery against a potential party before the commencement"〕</small>
+7. **interrogatories（O.26）**：两次免许可、14 日反对窗、不少于 28 日答复期、r.6 制裁。 <small style="opacity: 0.55">〔CL8 L80 "The time allowed must be at least 28 days from the date of service."〕</small>
+8. **证人陈述（O.38 r.2A）**：交换方向、SoT、迟交／新增许可、stand as EIC 与传闻边界。 <small style="opacity: 0.55">〔CL12 L96 "The failure to file witness statement(s) according to directions given"〕</small>
+9. **专家证据（O.38 rr.35–38、r.4、r.4A）**：许可门槛、overriding duty、Code of Conduct、专家会议／联合声明、SJE 与反驳 SJE。 <small style="opacity: 0.55">〔CL12 L148 "parties need to obtain leave to adduce expert evidence"〕</small>
 10. **披露违规制裁与攻防**：unless order 交叉 [CO11 卡](%5BCO11%5D%20Case%20Management%20and%20Trial%20Organisation%20System.md)、后果链总表（0J）、暗礁（0M）、SG 应用（0O）与材料矩阵（0P）。
 
 **不覆盖（边界声明，相关主卡承担）**：① 排期问卷／CMS／CMC／里程碑／EOT／unless order 形式与 relief 十因素的主体规则（→ [CO11 案件管理卡](%5BCO11%5D%20Case%20Management%20and%20Trial%20Organisation%20System.md)；本卡只在 0L 引接口）；② 诉答起草与 F&BP（→ [CO04-05 诉答卡](./%5BCO04-05-10%5D%20Pleadings,%20Defence,%20Counterclaims%20and%20Third%20Party%20Proceedings.md)；F&BP 与质问书的分工见 0I.5）；③ 传票／誓章／命令起草本体（→ [CO07 传票卡](./%5BCO07%5D%20Drafting%20Summonses,%20Interlocutory%20Applications,%20Orders%20&%20Security%20for%20Costs.md)）；④ 临时救济（→ [CO13 临时救济卡](%5BCO13%5D%20Interim%20Relief%20and%20Risk%20Protection%20System.md)）；⑤ 审讯组织、trial bundles、缺席与 O.35（→ LG15 卡 0F）；⑥ Evidence Ordinance ss.46–55 传闻机制本体——库内无条例原文，本卡只按材料覆盖范围处理（见 0J.5 与 open 块）。
@@ -109,7 +109,7 @@ SG课表安排:
 | 查阅与副本 | 清单只给"存在"，查阅给"内容"：r.9 查阅原件、r.11A 付费取副本、r.11 拒绝查阅救济。 O.24 rr.9–11A。 <small style="opacity: 0.55">〔CL8 L45 "Discovery and inspection are 2 distinct concepts"〕</small> |
 | 真实性视为承认 | 避免审讯纠缠文书真伪：O.27 r.4 视为承认，21 日内可争议。 O.27 r.4。 <small style="opacity: 0.55">〔CL8 L45 "deemed admission of authenticity of the documents listed"〕</small> |
 | F&B list ／ specific discovery | 对方清单不足时的两条补强路：不知是什么用前者，能识别就用后者。 O.24 rr.3(2)、r.7。 <small style="opacity: 0.55">〔CAP-C8 L1684 "then a much better way to get a document is to use specific discovery instead."〕</small> |
-| implied undertaking | 让当事人敢交文件：使用范围锁死本诉讼，违反＝contempt。 普通法。 <small style="opacity: 0.55">〔CAP-C8 L2011 "so breach of the implied undertaking is a contempt of court."〕</small> |
+| implied undertaking | 让当事人敢交文件：使用范围锁死本诉讼，违反即 contempt。 普通法。 <small style="opacity: 0.55">〔CAP-C8 L2011 "so breach of the implied undertaking is a contempt of court."〕</small> |
 | 诉前／第三方披露 | 起诉前定被告身份、或向案外人取文件：HCO ss.41/42＋Norwich Pharmacal。 HCO ss.41/42。 <small style="opacity: 0.55">〔CL8 L65 "Governs discovery against a potential party before the commencement"〕</small> |
 | Interrogatories | 文件之外的信息缺口：对方须宣誓回答，不同于 WS 的自愿陈述。 O.26。 <small style="opacity: 0.55">〔CL8 L75 "if the interrogatories satisfy the requirements under O.26, must be provided"〕</small> |
 | WS 交换 | 把口头证据书面化固定：对方预知证据、法院据以控审期。 O.38 r.2A。 <small style="opacity: 0.55">〔CL12 L92 "Parties are to name witnesses to be called in their respective timetabling questionnaires"〕</small> |
@@ -229,8 +229,8 @@ stateDiagram-v2
 | 查阅（inspection） | 列单时一并送达查阅通知；通知指定送达后七日内的查阅时间。 <small style="opacity: 0.55">〔CAP-C8 L1525 "I think that should be seven days after receiving the list of document"〕</small> | O.24 r.9 | 拒绝查阅 → 对方向法院申请 O.24 r.11。 <small style="opacity: 0.55">〔CL8 L45 "If inspection is refused, then the other party can apply to Court"〕</small> |
 | 索取副本 | 承诺支付合理影印费后。 <small style="opacity: 0.55">〔CL8 L45 "Upon undertaking to pay reasonable photocopying charges"〕</small> | O.24 r.11A | 实务主流：约九成九案件只取副本不看原件（字幕）。 <small style="opacity: 0.55">〔CAP-C8 L1501 "I think generally 99% of the case you don't really inspect the document"〕</small> |
 | r.10 文书中提及文件的查阅 | 收到查阅请求后 **4 日**内回复是否反对。 <small style="opacity: 0.55">〔CL8 L45 "must within 4 days send a notice to the requesting party"〕</small> | O.24 r.10 | 覆盖 pleadings／誓章／WS／专家报告中提及的文件 |
-| 真实性争议通知 | 查阅后 **21 日**（或查阅期限后 21 日，取较后）。 <small style="opacity: 0.55">〔CL8 L45 "21 days after inspection, or 21 days after the time limited for inspection, whichever is later"〕</small> | O.27 r.4(2) | 逾期＝视为承认清单文件为真 |
-| 反对 interrogatories | 收到后 **14 日**内申请。 <small style="opacity: 0.55">〔CL8 L75 "apply to the Court within 14 days of the receipt of the interrogatories"〕</small> | O.26 r.3(2) | 逾窗不反对＝须逐条作答 |
+| 真实性争议通知 | 查阅后 **21 日**（或查阅期限后 21 日，取较后）。 <small style="opacity: 0.55">〔CL8 L45 "21 days after inspection, or 21 days after the time limited for inspection, whichever is later"〕</small> | O.27 r.4(2) | 逾期即视为承认清单文件为真 |
+| 反对 interrogatories | 收到后 **14 日**内申请。 <small style="opacity: 0.55">〔CL8 L75 "apply to the Court within 14 days of the receipt of the interrogatories"〕</small> | O.26 r.3(2) | 逾窗不反对即须逐条作答 |
 | 答复 interrogatories | 质问书所载期限，且**不少于送达起 28 日**。 <small style="opacity: 0.55">〔CL8 L80 "The time allowed must be at least 28 days from the date of service."〕</small> | O.26 r.2(2) | 以誓章逐条作答；特权异议另以誓章提出（r.5(1)） |
 | WS 交换 | 法院在 CMS 指定期内；**O.3 r.5(3) 书面同意延期不适用**。 <small style="opacity: 0.55">〔CL12R L48 "Order 3, rule 5(3) shall not apply to any period specified by the Court under this paragraph."〕</small> | O.38 r.2A(2) | 多起案件为"同时进行"交换。 <small style="opacity: 0.55">〔CL12R L58 "where they are to be served by more than one party, be exchanged simultaneously"〕</small> |
 
@@ -290,7 +290,7 @@ flowchart TD
 | 电子文件 | PDSL 1.2："文件"明含电子储存信息、电邮、通讯软件、**元数据**与云端储存——纵屏幕上或打印件通常不可见亦然；字幕补充：甚至已从硬盘删除而未被覆写的文件也计。 <small style="opacity: 0.55">〔CL8 L20 "emails, messaging apps, metadata and cloud storage, even where such information is not typically visible"〕〔CAP-C8 L208 "things like metadata and files deleted from the tab from the hard disk"〕</small> | PDSL 1.2 |
 | 商事名单门槛 | 商事名单案件申索或反申索逾 **HK$8 million** 且待检索文件逾 **10,000** 份（或各方同意／法院指示）→ PDSL 1.2 指示适用；非商事名单亦可经申请或法院自行适用。 <small style="opacity: 0.55">〔CL8 L25 "if the claim or counterclaim exceeds HK$8 million and there are at least 10,000 Documents"〕</small> | PDSL 1.2（大纲转述） |
 
-**实务含义（自拟）**："我打印出来看了没有"不是检索标准——元数据、已删未覆写文件、云端副本都在定义内；设计检索范围时按"信息载体"而非"纸"思考。课堂用例（幻灯）：A 售电脑予 B、B 以瑕疵拒付，书面合同、瑕疵质检报告、显示 A 交货前已得质检报告的消息，均是相关性判断的操练对象。 <small style="opacity: 0.55">〔CL8S L92 "A sell a computer to B in consideration of $10,000."；CL8S L93 "Whether the following documents are discoverable?"〕</small>
+**实务含义（实务推演）**："我打印出来看了没有"不是检索标准——元数据、已删未覆写文件、云端副本都在定义内；设计检索范围时按"信息载体"而非"纸"思考。课堂用例（幻灯）：A 售电脑予 B、B 以瑕疵拒付，书面合同、瑕疵质检报告、显示 A 交货前已得质检报告的消息，均是相关性判断的操练对象。 <small style="opacity: 0.55">〔CL8S L92 "A sell a computer to B in consideration of $10,000."；CL8S L93 "Whether the following documents are discoverable?"〕</small>
 
 ### 0C.2 Peruvian Guano 口径与 CJR 限缩
 
@@ -302,7 +302,7 @@ flowchart TD
 
 规则：争议只能由 pleadings 确定，故披露在 pleadings 结束后进行；终结后 **14 日**内自动交换 LoD（O.24 r.2）。 <small style="opacity: 0.55">〔CL8 L25 "discovery takes place after pleadings are closed"；CL8 L25 "within 14 days of the close of the pleadings"；CL8S L102 "Disputes between parties are identified through pleadings"〕</small>
 
-**时点算术（2026-09-29 课堂演示，上届知识卷题型）**：答辩于 1 月 6 日送达、客户不交 Reply → pleadings 于答辩送达后 28 日（2 月 3 日）视为终结 → 加 14 日＝2 月 17 日 → 17 日逢农历新年公众假期 → 顺延至下一工作日 2 月 20 日为 LoD 死线；Timetabling Questionnaire 则按 28 日（终结后 28 日＝3 月 3 日，交叉 LG15 卡）。**方法**：起算事件 → 期间 → 日历日 → 查公众假期，四步缺一不可（课堂原话提醒）。 <small style="opacity: 0.55">〔CAP-C8 L2572 "28 days after the service of the defense."；CAP-C8 L2590 "do you remember to check whether there is a public holiday?"；CAP-C8 L2596 "So the next working day should be the 20th of February."；CAP-C8 L2620 "the timeline is 28 days from the close of pleadings"〕〔CAP-C8 L2590 "Whenever you check a deadline, do you remember to check"〕</small>
+**时点算术（2026-09-29 课堂演示，上届知识卷题型）**：答辩于 1 月 6 日送达、客户不交 Reply → pleadings 于答辩送达后 28 日（2 月 3 日）视为终结 → 加 14 日即 2 月 17 日 → 17 日逢农历新年公众假期 → 顺延至下一工作日 2 月 20 日为 LoD 死线；Timetabling Questionnaire 则按 28 日（终结后 28 日即 3 月 3 日，交叉 LG15 卡）。**方法**：起算事件 → 期间 → 日历日 → 查公众假期，四步缺一不可（课堂原话提醒）。 <small style="opacity: 0.55">〔CAP-C8 L2572 "28 days after the service of the defense."；CAP-C8 L2590 "do you remember to check whether there is a public holiday?"；CAP-C8 L2596 "So the next working day should be the 20th of February."；CAP-C8 L2620 "the timeline is 28 days from the close of pleadings"〕〔CAP-C8 L2590 "Whenever you check a deadline, do you remember to check"〕</small>
 
 ### 0C.4 List of Documents 结构逐栏：Schedule I 两栏 · Schedule II · Form 27
 
@@ -402,7 +402,7 @@ flowchart TD
 
 1. **内容重于标签**：是否 WP 看整份通讯是否"真正旨在和解"，标记既不创设也不否定保护。 <small style="opacity: 0.55">〔CL8 L30 "the whole content of the document will be considered, irrespective of whether privilege was claimed"〕</small>
 2. **例外（unambiguous impropriety）**：若排除该证据会掩护伪证、勒索或其他"unambiguous impropriety"，仍予采纳。 <small style="opacity: 0.55">〔CL8 L30 "cloak for perjury, blackmail or other “unambiguous impropriety”"〕</small>
-3. **攻防含义（自拟）**：和解信的"可列不可交"位置在 Schedule I Part 2；起草和解函时把让步写成"无损害基础＋真正和解目的"结构，反之一封纯指控信贴 WP 标签只会被对方在庭上拆穿。
+3. **攻防含义（实务推演）**：和解信的"可列不可交"位置在 Schedule I Part 2；起草和解函时把让步写成"无损害基础＋真正和解目的"结构，反之一封纯指控信贴 WP 标签只会被对方在庭上拆穿。
 
 ### 0D.3 LPP 的四个细分规则
 
@@ -417,11 +417,11 @@ flowchart TD
 
 | 径 | 规则 | 引注 |
 | --- | --- | --- |
-| 明示同意 | 可限定特定目的；其余目的上特权仍在（CITIC Pacific）；CFA 2024：授权大律师向法援署披露经济状况＝对该信息放弃（*MK v Director of Legal Aid*）。 <small style="opacity: 0.55">〔CL8 L35 "But consent can be limited to a specific purpose only"〕〔CL8 L35 "privilege over that information had been waived"〕</small> | CITIC；MK v DLA |
+| 明示同意 | 可限定特定目的；其余目的上特权仍在（CITIC Pacific）；CFA 2024：授权大律师向法援署披露经济状况即对该信息放弃（*MK v Director of Legal Aid*）。 <small style="opacity: 0.55">〔CL8 L35 "But consent can be limited to a specific purpose only"〕〔CL8 L35 "privilege over that information had been waived"〕</small> | CITIC；MK v DLA |
 | 庭上故意使用 | 在该材料**及同一事项**其他信息上丧失 LPP（Great Atlantic）。 <small style="opacity: 0.55">〔CL8 L35 "Deliberately using privileged material in Court will cause the loss of LPP on that material and other information relating to the same subject matter"〕</small> | Great Atlantic |
 | 起诉己方律师 | 诉法律代表专业疏忽即丧失（Paragon Finance）；课堂解释：否则律师无法答辩。 <small style="opacity: 0.55">〔CAP-C8 L1258 "how could the lawyer formulate a defense at all?"〕</small> | Paragon v Freshfields |
 | 不再保密 | 材料失去保密性质。 <small style="opacity: 0.55">〔CL8 L40 "When the privileged material ceases to have confidential character"〕</small> | — |
-| 对方取得（含误给） | 一方取得特权材料，纵未经对方知悉或同意（可就 **inadvertent discovery** 争议）；课堂用回收纸事故说明：背面印有特权内容误交对方＝特权丧失＋典型专业疏忽。 <small style="opacity: 0.55">〔CL8 L40 "even without the knowledge or consent of the other party (subject to argument on inadvertent discovery)"〕〔CAP-C8 L1294 "your privilege will be lost by providing to the other party accidentally."；CAP-C8 L1300 "This is a typical case of professional negligence."〕</small> | 补救路径见 0I.4.3 与 open 块 O-E3 |
+| 对方取得（含误给） | 一方取得特权材料，纵未经对方知悉或同意（可就 **inadvertent discovery** 争议）；课堂用回收纸事故说明：背面印有特权内容误交对方即特权丧失并构成典型专业疏忽。 <small style="opacity: 0.55">〔CL8 L40 "even without the knowledge or consent of the other party (subject to argument on inadvertent discovery)"〕〔CAP-C8 L1294 "your privilege will be lost by providing to the other party accidentally."；CAP-C8 L1300 "This is a typical case of professional negligence."〕</small> | 补救路径见 0I.4.3 与 open 块 O-E3 |
 
 ### 0D.5 自陷罪特权（privilege against self-incrimination）
 
@@ -475,7 +475,7 @@ flowchart TD
 
 | 工具 | 规则 | 要点 | 引注 |
 | --- | --- | --- | --- |
-| 查阅（inspection） | O.24 r.9 | 清单交换后有权查阅对方清单内文件（原件）；课堂：清单描述未写 copy 即推定原件，查阅时须交原件。 <small style="opacity: 0.55">〔CL8 L45 "After the parties have served and exchanged their respective Lists of Documents, parties can inspect"〕〔CAP-C8 L1486 "entitled to inspect the document listed in the list of documents, the original of those documents."〕</small> | 拒绝查阅 → r.11 申请法院命令；违令再犯＝contempt（字幕）。 <small style="opacity: 0.55">〔CL8 L45 "If inspection is refused, then the other party can apply to Court"〕〔CAP-C8 L1519 "any further breach of the order will be a contempt of court"〕</small> |
+| 查阅（inspection） | O.24 r.9 | 清单交换后有权查阅对方清单内文件（原件）；课堂：清单描述未写 copy 即推定原件，查阅时须交原件。 <small style="opacity: 0.55">〔CL8 L45 "After the parties have served and exchanged their respective Lists of Documents, parties can inspect"〕〔CAP-C8 L1486 "entitled to inspect the document listed in the list of documents, the original of those documents."〕</small> | 拒绝查阅 → r.11 申请法院命令；违令再犯即 contempt（字幕）。 <small style="opacity: 0.55">〔CL8 L45 "If inspection is refused, then the other party can apply to Court"〕〔CAP-C8 L1519 "any further breach of the order will be a contempt of court"〕</small> |
 | 副本（copies） | O.24 r.11A | 承诺付合理影印费即可索取副本；课堂：实务上约九成九案件只取副本不看原件，除非争真伪。 <small style="opacity: 0.55">〔CL8 L45 "Upon undertaking to pay reasonable photocopying charges, parties may also request copies"〕〔CAP-C8 L1501 "generally 99% of the case you don't really inspect the document"；CAP-C8 L1507 "upon paying of appropriate photocopying fees"〕</small> | 往届笔记口径：只有争真伪才需原件（往届学生稿，仅参考）。 <small style="opacity: 0.55">〔OLD-SET3L8 L340 "May only request original when they dispute the authenticity of the doc"·往届仅参考〕</small> |
 | 文书中提及文件 | O.24 r.10 | 可要求查阅对方 pleadings／誓章／WS／专家报告中**提及**的文件；对方收请求后 **4 日**内须回复是否反对。 <small style="opacity: 0.55">〔CL8 L45 "which are referred to in the other party’s pleadings, affidavits, witness statements, or expert reports"；CL8 L45 "must within 4 days send a notice"〕</small> | 课堂例：SoC 引述的书面买卖协议，未待披露即可先按 r.10 索阅。 <small style="opacity: 0.55">〔CAP-C8 L1585 "B can request inspection of that particular sale and purchase agreement"〕</small> |
 
@@ -484,7 +484,7 @@ flowchart TD
 - **视为承认**：清单所列文件**推定为真**（deemed admission of authenticity），除非对方争议；课堂："presumed to be authentic"。 <small style="opacity: 0.55">〔CL8 L45 "deemed admission of authenticity of the documents listed in the List"〕〔CAP-C8 L1531 "The document listed in the list of documents are presumed to be authentic."〕</small>
 - **两条争议路径**：(1) 在 pleadings 中争议（可修改诉答加入）；(2) 送达通知——**查阅后 21 日或查阅期限后 21 日，取较后**（O.27 r.4(2)）。 <small style="opacity: 0.55">〔CL8 L45 "the pleadings: O.27 r.4(1)"；CAP-C8 L1561 "then you amend your pleadings to challenge the authenticity that can happen."〕〔CL8 L45 "21 days after inspection, or 21 days after the time limited for inspection, whichever is later"〕</small>
 - **争议后负担**：出示文件一方须证明其为真，而非对方证明其为假。 <small style="opacity: 0.55">〔CAP-C8 L1621 "the party who produced the document bear the obligation to prove that it is authentic"〕</small>
-- **攻防含义（自拟）**：不收 21 日窗的"睡后价格"＝清单文件全数成真；收到清单后第一件事是按 0E.1 取副本并逐件核真伪，把争议决定写进日历。
+- **攻防含义（实务推演）**：不抓 21 日真伪争议窗，清单文件即全数成真；收到清单后第一件事是按 0E.1 取副本并逐件核真伪，把争议决定写进日历。
 
 **总表索引**：拒绝查阅与真伪争议逾窗的后果链见 [§0J 总表](#0J.2%20%E7%8E%AF%E8%8A%82%20%C3%97%20%E4%B8%8D%E5%81%9A%E5%90%8E%E6%9E%9C%20%C3%97%20%E4%BE%9D%E6%8D%AE%EF%BC%9A%E5%90%8E%E6%9E%9C%E9%93%BE%E6%80%BB%E8%A1%A8) 行 7、行 8。
 
@@ -514,7 +514,7 @@ flowchart TD
 | 1 | 相关性 | 与 pleadings **已识别**的争点相关（Peruvian Guano）；**不得**用以试探可否新 plead 指控（fishing expedition 不准）；也不能靠"乱 plead 一切"构造相关——经分析不相关的 averment 不支撑申请（*Allington Investments*）；仅为损毁对方信誉的申请不批。 <small style="opacity: 0.55">〔CL8 L50 "cannot be used to seek documents in order to see whether an allegation can be pleaded"〕〔CL8 L50 "no specific discovery is allowed based on that plea"〕〔CL8 L50 "solely for the purpose of impeaching the credit of the opposite party"〕</small> | 负担在申请人 |
 | 2 | 存在 | 可从周遭情况或具体事实显示**或然性**，如某类文件按商业惯例应存在（*Union Bank of India v General Nice Resources*）。 <small style="opacity: 0.55">〔CL8 L50 "by assessing whether it is business practice for a certain type of document to exist"〕</small> | 或然即可 |
 | 3 | 在对方持有 | 在对方 possession/custody/power（O.24 r.7）。 <small style="opacity: 0.55">〔CL8 L50 "Why the document sought is thought to be in the other party’s possession"〕</small> | 三态同 0C.5 |
-| 4 | 必要性 | 为公平处理本案或节省费用所必需（O.24 r.8(2)）；法院考虑 RHC/RDC 基本原则（成本效益、迅速、比例、程序经济、公平）。 <small style="opacity: 0.55">〔CL8 L50 "The order is necessary either for fairly disposing of the matter or for saving costs"〕</small> | 反例：要求**大量**类别（oppressive）可拒；文件保密性可纳入考量（*Tullett Prebon*）。 <small style="opacity: 0.55">〔CL8 L50 "If the specific discovery being sought is oppressive"；CL8 L50–L54 "whether the documents are … confidential in nature"〕</small> |
+| 4 | 必要性 | 为公平处理本案或节省费用所必需（O.24 r.8(2)）；法院考虑 RHC/RDC 基本原则（成本效益、迅速、比例、程序经济、公平）。 <small style="opacity: 0.55">〔CL8 L50 "The order is necessary either for fairly disposing of the matter or for saving costs"〕</small> | 反例：要求**大量**类别（oppressive）可被拒绝；文件保密性可纳入考量（*Tullett Prebon*）。 <small style="opacity: 0.55">〔CL8 L50 "If the specific discovery being sought is oppressive"；CL8 L50–L54 "whether the documents are … confidential in nature"〕</small> |
 | 5 | 具体性 | 至少可按类别识别；大纲给传票措辞示范："file an affidavit stating whether he is and/or has been in possession of the written contract signed between the Plaintiff and the Defendant dated 1 June 2009"。 <small style="opacity: 0.55">〔CL8 L55 "It must be able to be identified at least by a class or category"〕〔CL8 L55 "the written contract signed between the Plaintiff and the Defendant dated 1 June 2009"〕</small> | — |
 
 **负担转移（课堂口径）**：申请人先证相关性＋存在＋持有，满足后负担转移到反对一方，由其说明为何不必为公平处理／节省费用而交出；法院对披露有裁量，纵三要件齐备仍可拒绝。 <small style="opacity: 0.55">〔CAP-C8 L1912 "Once those are satisfied, the burden shifts on the respondent."〕〔CAP-C8 L1885 "Still, the court has the discretion to refuse disclosure because discovery again actually falls within the discretionary power of the court."〕</small>
@@ -564,7 +564,7 @@ O.24 命令可因**充分因由**被撤销或变更：*Chan May May v Raymond Yu
 
 - **触发**：某人非因己过而**卷入**他人不法行为，即负义务协助受害人——披露全部信息及不法者身份（*Norwich Pharmacal v C&E Commissioners*）。 <small style="opacity: 0.55">〔CL8 L70 "gets “mixed up” in another person’s wrongdoing"；CL8 L70 "a duty to assist the victim by disclosing full information and the identity of the wrongdoer"〕</small>
 - **用途边界**：源起于 PI 以外诉前披露不能的场景；现今典型用途是**不知被告身份**时向第三方取得识别信息——**不是**对一切旁观者的一般搜寻令；范围不限于身份，可及有助受害人的其他信息／文件（*A v B*）。 <small style="opacity: 0.55">〔CL8 L70 "It is now still useful when P does not know the exact identity of D"〕〔CL8 L70 "the order can also order to disclose other information and/or documents which may assist the victim"〕</small>
-- **典型场景**：知识产权（海关披露进口者、ISP 披露上传者）、资金追踪（*Bankers Trust v Shapira*＝Bankers Trust order）；课堂 YouTube 例：版权人不知上传者身份→要求平台提供身份及上传细节；不限 IP 案件类型。 <small style="opacity: 0.55">〔CL8 L70 "the whereabouts of money so that tracing can be performed"〕〔CAP-C8 L2197 "to provide you with the identity of the person who uploaded that document."〕〔CAP-C8 L2224 "It doesn't limit to IP could be in any different type of action."〕</small>
+- **典型场景**：知识产权（海关披露进口者、ISP 披露上传者）、资金追踪（*Bankers Trust v Shapira* 即 Bankers Trust order）；课堂 YouTube 例：版权人不知上传者身份→要求平台提供身份及上传细节；不限 IP 案件类型。 <small style="opacity: 0.55">〔CL8 L70 "the whereabouts of money so that tracing can be performed"〕〔CAP-C8 L2197 "to provide you with the identity of the person who uploaded that document."〕〔CAP-C8 L2224 "It doesn't limit to IP could be in any different type of action."〕</small>
 - **费用**：申请人通常须付被申请人遵令的费用。 <small style="opacity: 0.55">〔CL8 L70 "the applicants for a Norwich Pharmacal order have to pay costs of the respondent in complying with the order"〕</small>
 
 #### 0F.7.3 Subpoena duces tecum
@@ -615,7 +615,7 @@ Interrogatories要求对方而非潜在证人宣誓回答；围绕争点、公�
 
 #### 0F.8.3 与 witness statement 的分工（why interrogatories 仍然存在）
 
-*Re Parfums Yves Saint Laurent*：满足 O.26 要求的信息**必须提供**；WS 的信息若给也是**自愿给**——质问书能拿到"whole story"，WS 可能只是"edited"版本；幻灯对照表同构：interrogatories＝mandatory disclosure、WS＝voluntary selective；课堂比喻：WS 是证人自选内容，质问书像被盘问——必须回答指定问题。 <small style="opacity: 0.55">〔CL8 L75 "if the interrogatories satisfy the requirements under O.26, must be provided"；CL8 L75 "Information in a witness statement, if provided at all, is given voluntarily"〕〔CL8S L459 "Mandatory if O.26 is satisfied"〕〔CAP-C8 L2395 "you are required to provide the information request under the interrogatories."〕</small>
+*Re Parfums Yves Saint Laurent*：满足 O.26 要求的信息**必须提供**；WS 的信息若给也是**自愿给**——质问书能拿到"whole story"，WS 可能只是"edited"版本；幻灯对照表同构：interrogatories 是 mandatory disclosure、WS 是 voluntary selective；课堂比喻：WS 是证人自选内容，质问书像被盘问——必须回答指定问题。 <small style="opacity: 0.55">〔CL8 L75 "if the interrogatories satisfy the requirements under O.26, must be provided"；CL8 L75 "Information in a witness statement, if provided at all, is given voluntarily"〕〔CL8S L459 "Mandatory if O.26 is satisfied"〕〔CAP-C8 L2395 "you are required to provide the information request under the interrogatories."〕</small>
 
 #### 0F.8.4 不答复的后果
 
@@ -642,7 +642,7 @@ F&BP 针对 pleadings——补全对方的"故事"，答案成为 pleading 一�
 
 ### 0G.2 违反后果：contempt 与 committal
 
-课堂明示：对法院的 undertaking"as good as a court order"，违反＝**contempt of court**，可经 committal 程序惩处；往届笔记同记"contempt to court + sentencing"（往届学生稿，仅参考）。 <small style="opacity: 0.55">〔CAP-C8 L2005 "undertaking to the court is as good as a court order"；CAP-C8 L2011 "so breach of the implied undertaking is a contempt of court."〕〔OLD-SET3L8 L486 "contempt to court + sentencing"·往届仅参考〕</small>
+课堂明示：对法院的 undertaking"as good as a court order"，违反即 **contempt of court**，可经 committal 程序惩处；往届笔记同记"contempt to court + sentencing"（往届学生稿，仅参考）。 <small style="opacity: 0.55">〔CAP-C8 L2005 "undertaking to the court is as good as a court order"；CAP-C8 L2011 "so breach of the implied undertaking is a contempt of court."〕〔OLD-SET3L8 L486 "contempt to court + sentencing"·往届仅参考〕</small>
 
 ### 0G.3 承诺失效与解除的两条路径
 
@@ -651,7 +651,7 @@ F&BP 针对 pleadings——补全对方的"故事"，答案成为 pleading 一�
 | open court 失效（O.24 r.14A） | 文件被向法院读出或在公开法庭被提及后，承诺不再适用：①庭上朗读（*The Cambridgeshire*）；②在 skeleton／口头陈词中提及（*Derby & Co v Weldon*）；③法官为预备或裁决而读阅（*SmithKline Beecham*；*Barings*）。 <small style="opacity: 0.55">〔CL8 L60 "ceases to apply after the document has been read to or by the Court, or referred to in open court"；CL8 L60 "Documents which the judge read in preparation or in determination of the case"〕</small> | 课堂：成为 public document，可自由使用。 <small style="opacity: 0.55">〔CAP-C8 L2038 "it becomes a public document now and no longer subject to the implied undertaking."〕</small> |
 | release（固有管辖） | 法院可在**例外情况**下解除承诺，以传票申请；罕准（*Miller v Scorrey*："rare"）；*Techtronic*：须 **cogent and persuasive reasons and special circumstances**；获准两例：用于外国平行程序（实为同一申索）、用于追踪原诉讼标的财产之他案；公益打击严重跨境欺诈可压倒 collateral use 管控（*Unicredit Bank Austria v Dragon Wise*）。 <small style="opacity: 0.55">〔CL8 L60 "release a party from the implied undertaking in exceptional circumstances"；CL8 L60 "it would be rare that such implied undertaking can be relaxed"；CL8 L60 "must show cogent and persuasive reasons and special circumstances"〕〔CL8 L60 "The public interest in combating serious and extra-territorial fraud took precedence"〕</small> | 课堂补充平行程序例：被告在两法域作矛盾答辩，可用本案文件质其可信性。 <small style="opacity: 0.55">〔CAP-C8 L2086 "Then you can apply for leave to use the document in the following parallel proceedings."〕</small> |
 
-**攻防含义（自拟）**：把"诉讼里见过"当"公开"是 0M 暗礁之一；要用披露文件于别案／举报，**先 release 后使用**，次序不可倒。
+**攻防含义（实务推演）**：把"诉讼里见过"当"公开"是 0M 暗礁之一；要用披露文件于别案／举报，**先 release 后使用**，次序不可倒。
 
 **总表索引**：擅自使用披露文件的后果链见 [§0J 总表](#0J.2%20%E7%8E%AF%E8%8A%82%20%C3%97%20%E4%B8%8D%E5%81%9A%E5%90%8E%E6%9E%9C%20%C3%97%20%E4%BE%9D%E6%8D%AE%EF%BC%9A%E5%90%8E%E6%9E%9C%E9%93%BE%E6%80%BB%E8%A1%A8) 行 3。
 
@@ -667,7 +667,7 @@ F&BP 针对 pleadings——补全对方的"故事"，答案成为 pleading 一�
 
 ### 0G.4 事实证人陈述（Witness Statements under O.38 r.2A）
 
-**此时案件处在什么状态？** 披露阶段结束、案件管理会议已排定方向，法院命令各方在指定期内交换证人陈述。**本制度在干嘛？** WS 把口头证据提前书面化：审讯前对方就知道你的证人要说什么，法院据此排期；开庭时陈述书通常直接 stand as evidence-in-chief，证人到庭确认后接受盘问。**和谁区分？** WS ≠ 誓章——誓章经宣誓可作中间程序证据，WS 本身不是证据，靠的是证人到庭；证人不到庭，法院不考虑其陈述；未按时交换的证人不得传唤，除非对方同意或法院许可。事实证人说亲历事实，专家证人（0G.5）就专门争点发表意见且须法院许可。 <small style="opacity: 0.55">〔CL12 L100 "A party may not call a witness if a witness statement of that witness has not been previously served"〕〔CL12 L124 "if a witness is ultimately not called at trial, the Court will not consider the witness statement"〕〔CL15 L342 "Evidence by affidavit (O. 38, r. 2)"〕</small>
+**此时案件处在什么状态？** 披露阶段结束、案件管理会议已排定方向，法院命令各方在指定期内交换证人陈述。**本制度在干嘛？** WS 把口头证据提前书面化：审讯前对方就知道你的证人要说什么，法院据此排期；开庭时陈述书通常直接 stand as evidence-in-chief，证人到庭确认后接受盘问。**和谁区分？** WS ≠ 誓章——誓章经宣誓可以作为中间程序证据，WS 本身不是证据，靠的是证人到庭；证人不到庭，法院不考虑其陈述；未按时交换的证人不得传唤，除非对方同意或法院许可。事实证人说亲历事实，专家证人（0G.5）就专门争点发表意见且须法院许可。 <small style="opacity: 0.55">〔CL12 L100 "A party may not call a witness if a witness statement of that witness has not been previously served"〕〔CL12 L124 "if a witness is ultimately not called at trial, the Court will not consider the witness statement"〕〔CL15 L342 "Evidence by affidavit (O. 38, r. 2)"〕</small>
 
 > 【O.38 r.2A 证人陈述书规则与庭审失权】
 > - **陈述书替代主问（Statement stands as evidence-in-chief）**：证人出庭宣誓核实其陈述书后，陈述书直接作为其主问证言，通常不允许律师再进行详尽口头主问。
@@ -677,7 +677,7 @@ F&BP 针对 pleadings——补全对方的"故事"，答案成为 pleading 一�
 
 ##### 0G.4.1 体系与文书要求
 
-- **cards on the table**：民事诉讼以摊牌为基础，各方须告知将在审讯依赖的证据（O.38 r.2A(2)）；告知证据的三条途径：pleadings、discovery、交换 WS。WS＝载明证人将于庭上所述**全部事项**的文件。 <small style="opacity: 0.55">〔CL12 L76 "Civil litigation operates on “cards on the table” basis"〕〔CL12 L86 "a document including all matters which a witness is going to say at trial"〕</small>
+- **cards on the table**：民事诉讼以摊牌为基础，各方须告知将在审讯依赖的证据（O.38 r.2A(2)）；告知证据的三条途径：pleadings、discovery、交换 WS。WS 指载明证人将于庭上所述**全部事项**的文件。 <small style="opacity: 0.55">〔CL12 L76 "Civil litigation operates on “cards on the table” basis"〕〔CL12 L86 "a document including all matters which a witness is going to say at trial"〕</small>
 - **方向与交换**：CMS 定案时法院**应**命各方于指定期内相互送达 WS；多方送达时**同时交换**；各方在排期问卷中报证人名单并协商交换时表（交叉 LG15 卡 0C 栏 F）。 <small style="opacity: 0.55">〔CL12R L44 "the Court shall direct every party to serve on the other parties, within such period as the Court may specify"〕〔CL12R L58 "where they are to be served by more than one party, be exchanged simultaneously"〕〔CL12 L92 "Parties are to name witnesses to be called in their respective timetabling questionnaires"〕</small>
 - **O.3 r.5(3) 排除**：法院指定的 WS 交换期**不能**以书面同意私延——这是 non-milestone 中最硬的一日（LG15 卡 0E.5 行 3 同口径）。 <small style="opacity: 0.55">〔CL12R L48 "Order 3, rule 5(3) shall not apply to any period specified by the Court under this paragraph."；CL15 L362 "Order 3, rule 5(3) shall not apply to any period specified by the Court under this paragraph."〕</small>
 - **形式要件（r.2A(4)）**：注明日期；除有充分理由（随函说明）外由证人**签署**；按 O.41A 以 **statement of truth** 核证；充分识别所提及文件。往届笔记细化（往届学生稿，仅参考）：第一人称、证人自己的语言、编年排列、不含不可采内容（不相关／意见）。 <small style="opacity: 0.55">〔CL12R L54 "be signed by the intended witness and must be verified by a statement of truth in accordance with Order 41A"；CL12 L88 "include a statement of truth signed by the witness: O.41A"〕〔OLD-SET3L12 L132 "hearsay evidence is now generally permissible, it is of less weight than evidence on matters within the witness’s own knowledge"·往届仅参考〕</small>
@@ -690,7 +690,7 @@ F&BP 针对 pleadings——补全对方的"故事"，答案成为 pleading 一�
 - **许可权衡**：公共利益（全部相关证据在庭，助得正确结论）↔ 迟交损害（审讯受阻、他方损害、违 CJR 目标）；若对方可经**押后＋费用**充分补偿，通常无损害。 <small style="opacity: 0.55">〔CL12 L108 "potential disruption of trial; (ii) prejudice to other parties; (iii) contrary to the underlying objectives of CJR"；CL12 L110 "no prejudice will be caused if the other party can be sufficiently compensated by suitable adjournment"〕</small>
 - **迟交实务**：越到 set down 后越难——不得以补充陈述提出**新案件**（*Parsad*；PD 5.2 §31）；须非常强理由／例外原因（如迟发现证据、原证据因前任律师无能而有缺陷）；申请附**拟交陈述草稿＋誓章**全叙迟交原因与应获采纳理由（*Liu Chen v Chan Poon Wing*）；往届笔记：补充陈述以法院固有权力批 leave（*Allington Investments*，往届学生稿，仅参考）；若在 PTR 才申请，可单以延误被驳（PD 5.2 §34，往届学生稿，仅参考）。 <small style="opacity: 0.55">〔CL12 L114 "Once the case has reached the stage of setting down, it becomes increasingly difficult for a party to raise a new case"〕〔CL12 L116 "Very strong grounds and/or exceptional reasons would be required"〕〔CL12 L118 "there should be a draft witness statement, together with an affidavit setting out the full account on the lateness"〕〔OLD-SET3L12 L214 "Court has inherent power to grant leave to serve supplemental statements"·往届仅参考〕〔OLD-SET3L12 L494 "if the application is only made at PTR, the Court can dismiss it because of delay alone"·往届仅参考〕</small>
 
-##### 0G.4.3 庭上使用：stand as EIC、top-up 与"不叫到庭＝不看"
+##### 0G.4.3 庭上使用：stand as EIC、top-up 与"不叫到庭即不看"
 
 - **通常命令**：各方几乎总会争取 WS **stand as evidence-in-chief**——主问免重新发问，只就 WS 未覆盖或需澄清处问 **top-up** 问题；条文依据 r.2A(7)(a)。 <small style="opacity: 0.55">〔CL12 L120 "parties will invariably ask for a direction that witness statements will stand as the examination-in-chief"；CL12 L122 "parties are usually allowed to ask “top up” questions"〕〔CL12R L66 "direct that the statement served, or part of it, shall stand as the evidence in chief"〕</small>
 - **证人仍须到庭**：证人不出庭，法院**不考虑**其 WS；送达方不传，他方不得径用该陈述（r.2A(6)）；陈述一经法官内庭读阅，视为已在公开法庭读出（*Barings*；*SmithKline Beecham*）。 <small style="opacity: 0.55">〔CL12 L124 "if a witness is ultimately not called at trial, the Court will not consider the witness statement"〕〔CL12R L62 "no other party may put the statement in evidence at the trial"〕〔CL12 L126 "treated as having been read out in open court once they are considered by the judge"〕</small>
@@ -755,7 +755,7 @@ SJE适合争点较窄、金额较低或知识领域较成熟等情形，仍由�
 
 ##### 0G.5.5 专家会议、联合声明与 SJE
 
-- **专家会议（r.38）**：法院可指示专家于审前作 **without prejudice** 会议，识别证据中真正有争部分，并可备**联合声明**列明同意与不同意之处；会议价值：法院按逻辑与一致性取舍（*Chinachem* para.491）；往届笔记引 *Leung Wai Kee*：联合声明须**说明不同意之理由**，只复述分歧结论＝违反专家首要职责（往届学生稿，仅参考）。 <small style="opacity: 0.55">〔CL12 L200 "direct “without prejudice” meetings between the experts prior to trial"；CL12R L430 "for the purpose of identifying those parts of their evidence which are in issue"〕〔CL12 L208 "decide whose expert evidence to prefer, based on the logic and consistency"〕〔OLD-SET3L12 L415 "state the reasons for any non-agreement"·往届仅参考〕</small>
+- **专家会议（r.38）**：法院可指示专家于审前作 **without prejudice** 会议，识别证据中真正有争部分，并可备**联合声明**列明同意与不同意之处；会议价值：法院按逻辑与一致性取舍（*Chinachem* para.491）；往届笔记引 *Leung Wai Kee*：联合声明须**说明不同意之理由**，只复述分歧结论即违反专家首要职责（往届学生稿，仅参考）。 <small style="opacity: 0.55">〔CL12 L200 "direct “without prejudice” meetings between the experts prior to trial"；CL12R L430 "for the purpose of identifying those parts of their evidence which are in issue"〕〔CL12 L208 "decide whose expert evidence to prefer, based on the logic and consistency"〕〔OLD-SET3L12 L415 "state the reasons for any non-agreement"·往届仅参考〕</small>
 - **SJE（O.38 r.4A）**：法院可命两方以上共委**单一联合专家**，争议人选时法院可从双方名单挑选或指定选法；纵一方不同意，法院经考虑（争点可否预定、争议程度、申索价值与分聘成本比较、已聘专家费用、选人与指示困难）并给其陈词机会后仍可任命。 <small style="opacity: 0.55">〔CL12 L210 "The Court can appoint (or the parties can agree on their own) a single joint expert"；CL12R L142 "order 2 or more parties to the action to appoint a single joint expert witness"；CL12R L156 "whether the issues requiring expert evidence can readily be identified in advance"〕</small>
 - **SJE 适用情景**：争点窄、申索金额低、知识领域成熟无需取样多种意见、复杂案件可共委 lead expert 汇总各方专家意见、PI 案件。 <small style="opacity: 0.55">〔CL12 L212 "Single joint expert (SJE) is useful in the following situations:-"〕</small>
 - **SJE 非终局**：意见通常获重视，但法院不必然接受（*Coopers Payer*）；任后可准各方另聘专家反驳——不满须**非 "fanciful"**（*Daimler AG v Leiduck*；HKCP 2023 §38/4A/6），考量九项因素：争议性质、需专家争点数、要第二专家的理由、标的金额、对审讯进行的影响、申请迟延、对审期之延误、其他特别情况、整体公正；纵不同意 SJE 任命，法院亦可事后撤销任命并准各自聘专家。 <small style="opacity: 0.55">〔CL12 L224 "his opinion will not be necessarily accepted by the Court"〕〔CL12 L226 "if the party’s dissatisfaction was not “fanciful”"；CL12 L228 "The factors to be considered when the Court is deciding whether parties should be allowed to instruct their own experts"〕〔CL12R L174 "it may set aside the order and allow the parties concerned to appoint their own expert witnesses"〕</small>
@@ -785,7 +785,7 @@ SJE适合争点较窄、金额较低或知识领域较成熟等情形，仍由�
 
 通常证人宣誓后确认签名及更正、申请WS作为EIC，再作必要top-up并接受盘问；有争议的可信性问题不自动逼每案重做全部主问。扩展或新事项依r.2A(7)(b)、(7A)须许可。 <small style="opacity: 0.55">〔T12 L974 "confirm whether it's the signature"〕〔T12 L1046 "good reason not to limit the scope"〕</small>
 
-**撤回错误扩大解释**：字幕L1076口语可被读成“对方连该证人也不能叫”，准确规则是另一方不能径把已交换但未获传唤者的WS投入证据；独立依法传唤证人、或适用EO／O.38传闻路径，是不同问题。§0J.3“不叫到庭＝不看”须服从其传闻例外，不能当绝对规则。字幕L365“hearsay not generally permissible”同样不能取代本卡已引的民事传闻法。 <small style="opacity: 0.55">〔T12 L1079 "except by way of hearsay evidence allowable under the evidence ordinance."〕</small>
+**撤回错误扩大解释**：字幕L1076口语可被读成“对方连该证人也不能叫”，准确规则是另一方不能径把已交换但未获传唤者的WS投入证据；独立依法传唤证人、或适用EO／O.38传闻路径，是不同问题。§0J.3“不叫到庭即不看”须服从其传闻例外，不能当绝对规则。字幕L365“hearsay not generally permissible”同样不能取代本卡已引的民事传闻法。 <small style="opacity: 0.55">〔T12 L1079 "except by way of hearsay evidence allowable under the evidence ordinance."〕</small>
 
 #### 0G.6.3 从争点倒推专家方向与指示信
 
@@ -859,7 +859,7 @@ flowchart TD
 | 副本特权两条件 | 原件无特权时，副本仅在"为诉讼／求意见而作＋从未持有原件"时可获特权。 | <small style="opacity: 0.55">〔CL8 L35 "the party has never had possession of the original document"〕</small> |
 | 诉前披露范围 | HCO s.41 诉前披露限直接相关文件，窄于 Peruvian Guano；s.42 第三方披露回到正常口径。 | <small style="opacity: 0.55">〔CL8 L65 "the scope of discovery is much more restricted than the Peruvian Guano test"〕</small> |
 | WS 交换硬期 | O.38 r.2A 指定交换期不适用 O.3 r.5(3) 书面同意延期。 | <small style="opacity: 0.55">〔CL12R L48 "Order 3, rule 5(3) shall not apply to any period specified by the Court under this paragraph."〕</small> |
-| 不叫到庭＝不看 | 证人终不到庭，法院不考虑其 WS。 | <small style="opacity: 0.55">〔CL12 L124 "if a witness is ultimately not called at trial, the Court will not consider the witness statement"〕</small> |
+| 不叫到庭即不看 | 证人终不到庭，法院不考虑其 WS。 | <small style="opacity: 0.55">〔CL12 L124 "if a witness is ultimately not called at trial, the Court will not consider the witness statement"〕</small> |
 | 专家报告准入声明 | 无 r.37C 声明的专家报告不可采。 | <small style="opacity: 0.55">〔CL12R L402 "is not admissible in evidence unless the report contains a declaration by the expert witness"〕</small> |
 | SJE 非终局 | SJE 意见不必然被接受；不满须非 fanciful 才可另聘专家反驳。 | <small style="opacity: 0.55">〔CL12 L224 "his opinion will not be necessarily accepted by the Court"；CL12 L226 "if the party’s dissatisfaction was not “fanciful”"〕</small> |
 
@@ -924,15 +924,15 @@ flowchart TD
 
 ### 0I.4.1 暗礁十条
 
-* [ ] **暗礁 1：把披露范围想成"有利才交"**。相关＝有利**或**不利；抽起不利文件违反持续双向义务。 <small style="opacity: 0.55">〔CL8 L40 "whether they are useful or harmful to his own case"；CAP-C8 L1441 "it also means that documents that may damage your case"〕</small>
-* [ ] **暗礁 2：特权就完全不列**。特权只免**交出**不免**列入**——须入 Sch I Part 2、类别描述即可；漏列＝清单不实。 <small style="opacity: 0.55">〔CL8 L40 "privileged documents must still be listed in the List of Documents"〕</small>
+* [ ] **暗礁 1：把披露范围想成"有利才交"**。相关包括有利**或**不利；抽起不利文件违反持续双向义务。 <small style="opacity: 0.55">〔CL8 L40 "whether they are useful or harmful to his own case"；CAP-C8 L1441 "it also means that documents that may damage your case"〕</small>
+* [ ] **暗礁 2：特权就完全不列**。特权只免**交出**不免**列入**——须入 Sch I Part 2、类别描述即可；漏列即清单不实。 <small style="opacity: 0.55">〔CL8 L40 "privileged documents must still be listed in the List of Documents"〕</small>
 * [ ] **暗礁 3：标签迷信**。贴 "without prejudice" 不创设保护，内容才是真正和解才算；反之真正和解信不贴标也受保护。 <small style="opacity: 0.55">〔CL8 L30 "the whole content of the document will be considered, irrespective of whether privilege was claimed"；CAP-C8 L886 "the contents of the document rather than the label"〕</small>
 * [ ] **暗礁 4：把"保密"当特权**。第三方保密交付不抗披露（Alfred Crompton）；保密已由 implied undertaking 兜底。 <small style="opacity: 0.55">〔CL8 L35 "this is insufficient to oppose discovery"；CAP-C8 L1186 "The confidentiality is already protected by the implied undertaking."〕</small>
-* [ ] **暗礁 5：擅自使用披露文件**。拿去报警、报 IRD、用于别案＝contempt；**先 release 后使用**。 <small style="opacity: 0.55">〔CAP-C8 L2020 "You cannot use the document to make a report of crime to the police"；CAP-C8 L2011 "so breach of the implied undertaking is a contempt of court."〕</small>
+* [ ] **暗礁 5：擅自使用披露文件**。拿去报警、报 IRD、用于别案即 contempt；**先 release 后使用**。 <small style="opacity: 0.55">〔CAP-C8 L2020 "You cannot use the document to make a report of crime to the police"；CAP-C8 L2011 "so breach of the implied undertaking is a contempt of court."〕</small>
 * [ ] **暗礁 6：迟交 WS 想靠同意书私延**。O.38 r.2A 指定期明文排除 O.3 r.5(3)——私延无效，只能求法院方向。 <small style="opacity: 0.55">〔CL12R L48 "Order 3, rule 5(3) shall not apply to any period specified by the Court under this paragraph."〕</small>
-* [ ] **暗礁 7：把 specific discovery 当捕鱼竿**。用以试探可否新 plead 指控＝fishing expedition 不批；只为损毁对方信誉也不批。 <small style="opacity: 0.55">〔CL8 L50 "cannot be used to seek documents in order to see whether an allegation can be pleaded"〕</small>
+* [ ] **暗礁 7：把 specific discovery 当捕鱼竿**。用以试探可否新 plead 指控即 fishing expedition，不批；只为损毁对方信誉也不批。 <small style="opacity: 0.55">〔CL8 L50 "cannot be used to seek documents in order to see whether an allegation can be pleaded"〕</small>
 * [ ] **暗礁 8：原件副本混写**。描述不写 copy 即推定原件——查阅时拿不出原件就要澄清或改清单；寄出信件的原件入 Sch II、自备副本入 Sch I Part 1。 <small style="opacity: 0.55">〔CAP-C8 L628 "it will be presumed to be the original document"；CAP-C8 L700 "and that copy of the letter is still discoverable."〕</small>
-* [ ] **暗礁 9：睡过 21 日真伪争议窗**。逾窗＝清单文件全数视为真确，盘问弹药自废。 <small style="opacity: 0.55">〔CL8 L45 "21 days after inspection, or 21 days after the time limited for inspection, whichever is later"〕</small>
+* [ ] **暗礁 9：睡过 21 日真伪争议窗**。逾窗即清单文件全数视为真确，盘问弹药自废。 <small style="opacity: 0.55">〔CL8 L45 "21 days after inspection, or 21 days after the time limited for inspection, whichever is later"〕</small>
 * [ ] **暗礁 10：临审才披露／迟交证据**。文件可不获接纳；或押后＋费用自负。 <small style="opacity: 0.55">〔CAP-C8 L1459 "late disclosure of the document may lead to the document not to be accepted by the court."〕</small>
 
 ### 0I.4.2 Redaction（遮盖）边界：库内无明文登记
@@ -960,11 +960,11 @@ flowchart TD
 
 | 状态变量 | 触发事实（输入信号） | 决策点 | 行动 | 反馈（制裁） | 补救（relief） |
 | --- | --- | --- | --- | --- | --- |
-| **L＝清单台账**（14 日死线、Sch 分类、原件/副本标注） | 死线逼近而检索未完；新文件到手 | 先交后补还是申请延期？ | 检索按"possession/custody/power"三态做全；清单按 0C.4 逐栏 | 漏列被对方 Form 27 逼签＋unless 暴露。 <small style="opacity: 0.55">〔CL8 L40 "in the form of RHC Appendix, Form 27"〕</small> | supplemental list 即补；已 unless 化走 O.2 r.5（→LG15 卡） |
-| **P＝特权审查**（Sch I Part 2 类别） | 特权主张被挑战；误交对方 | 类别是否成立？waiver 风险多大？ | 按 0D.1 四类逐个文件定档；送出前复核 | 夸大被挑战→费用；庭上故意使用→同一事项 waiver。 <small style="opacity: 0.55">〔CL8 L35 "Deliberately using privileged material in Court will cause the loss of LPP on that material"〕</small> | inadvertent discovery 之争（库内无明文→open O-E3）；事前流程预防 |
-| **U＝使用合规**（implied undertaking） | 想把披露文件用于别案／举报 | open court 失效还是 release？ | 先查 r.14A 三形态；否则传票申请 release | 擅自使用＝contempt。 <small style="opacity: 0.55">〔CAP-C8 L2011 "so breach of the implied undertaking is a contempt of court."〕</small> | release 须 cogent reasons＋special circumstances。 <small style="opacity: 0.55">〔CL8 L60 "must show cogent and persuasive reasons and special circumstances"〕</small> |
-| **W＝证人链**（WS 交换期、SoT、出庭安排） | 交换期将到而陈述未成；证人不配合 | 求同意、求许可，还是 subpoena？ | 按 0J.1 形式要件定稿；迟交即备草稿＋迟因誓章 | 不得传唤（r.2A(10)）／O.32 r.11B 制裁。 <small style="opacity: 0.55">〔CL12R L84 "he shall not be entitled to adduce evidence to which the direction related without the leave of the Court"〕</small> | 许可权衡：公共利益 vs 损害；set down 后极难 |
-| **X＝专家链**（live issue、许可、独立性） | 技术争点浮现；对方申报 SJE | 自有专家还是同意 SJE？ | PD 5.2 §20 三项申报（专业领域、专家姓名、精确争点）；守则＋SoT＋37C 声明齐备 | 未许可不得援引（r.36）。 <small style="opacity: 0.55">〔CL12R L368 "Except with the leave of the Court or where all parties agree, no expert evidence may be adduced"〕</small> | 反驳 SJE 须非 fanciful（0K.5）；越界段落可剔除 |
+| **L：清单台账**（14 日死线、Sch 分类、原件/副本标注） | 死线逼近而检索未完；新文件到手 | 先交后补还是申请延期？ | 检索按"possession/custody/power"三态做全；清单按 0C.4 逐栏 | 漏列被对方 Form 27 逼签＋unless 暴露。 <small style="opacity: 0.55">〔CL8 L40 "in the form of RHC Appendix, Form 27"〕</small> | supplemental list 即补；已 unless 化走 O.2 r.5（→LG15 卡） |
+| **P：特权审查**（Sch I Part 2 类别） | 特权主张被挑战；误交对方 | 类别是否成立？waiver 风险多大？ | 按 0D.1 四类逐个文件定档；送出前复核 | 夸大被挑战→费用；庭上故意使用→同一事项 waiver。 <small style="opacity: 0.55">〔CL8 L35 "Deliberately using privileged material in Court will cause the loss of LPP on that material"〕</small> | inadvertent discovery 之争（库内无明文→open O-E3）；事前流程预防 |
+| **U：使用合规**（implied undertaking） | 想把披露文件用于别案／举报 | open court 失效还是 release？ | 先查 r.14A 三形态；否则传票申请 release | 擅自使用即 contempt。 <small style="opacity: 0.55">〔CAP-C8 L2011 "so breach of the implied undertaking is a contempt of court."〕</small> | release 须 cogent reasons＋special circumstances。 <small style="opacity: 0.55">〔CL8 L60 "must show cogent and persuasive reasons and special circumstances"〕</small> |
+| **W：证人链**（WS 交换期、SoT、出庭安排） | 交换期将到而陈述未成；证人不配合 | 求同意、求许可，还是 subpoena？ | 按 0J.1 形式要件定稿；迟交即备草稿＋迟因誓章 | 不得传唤（r.2A(10)）／O.32 r.11B 制裁。 <small style="opacity: 0.55">〔CL12R L84 "he shall not be entitled to adduce evidence to which the direction related without the leave of the Court"〕</small> | 许可权衡：公共利益 vs 损害；set down 后极难 |
+| **X：专家链**（live issue、许可、独立性） | 技术争点浮现；对方申报 SJE | 自有专家还是同意 SJE？ | PD 5.2 §20 三项申报（专业领域、专家姓名、精确争点）；守则＋SoT＋37C 声明齐备 | 未许可不得援引（r.36）。 <small style="opacity: 0.55">〔CL12R L368 "Except with the leave of the Court or where all parties agree, no expert evidence may be adduced"〕</small> | 反驳 SJE 须非 fanciful（0K.5）；越界段落可剔除 |
 
 **四类常见实务失误（重点防范）**：(1) 把"不相关/不在手"当特权问题讨论——先 discoverable 后 privilege（字幕口径）；(2) 把 Sch I Part 2 当"不列清单"；(3) 把 WS 当证据本身——未到庭不采纳；(4) 把聘专家当获许可——leave 是独立闸。 <small style="opacity: 0.55">〔CAP-C8 L865 "they are not discoverable in the first place"〕〔CL8 L40 "privileged documents must still be listed"〕〔CL12 L124 "if a witness is ultimately not called at trial, the Court will not consider the witness statement"〕〔CL12 L68 "The Court’s leave is required to adduce expert evidence."〕</small>
 
@@ -982,36 +982,36 @@ flowchart TD
 | --- | --- | --- | --- |
 | 不交／漏交 LoD | 对方先请求 Form 27 誓章；案件管理层面催办→unless order | O.24 r.2(7)；O.32 r.11B | <small style="opacity: 0.55">〔CL8 L40 "within 14 days of the request to swear to the truth and accuracy"〕</small> |
 | 迟披露（持续义务违反） | 补充清单立即补；临审披露的文件可不获接纳、或致押后＋费用 | *Vernon v Bosley*；课堂警告 | <small style="opacity: 0.55">〔CL8 L40 "will need to file Supplemental List(s) of Documents"；CAP-C8 L1459 "late disclosure of the document may lead to the document not to be accepted by the court."〕</small> |
-| 拒绝查阅 | 对方向法院申请查阅命令；违令＝contempt | O.24 r.11 | <small style="opacity: 0.55">〔CL8 L45 "If inspection is refused, then the other party can apply to Court"；CAP-C8 L1519 "any further breach of the order will be a contempt of court"〕</small> |
+| 拒绝查阅 | 对方向法院申请查阅命令；违令即 contempt | O.24 r.11 | <small style="opacity: 0.55">〔CL8 L45 "If inspection is refused, then the other party can apply to Court"；CAP-C8 L1519 "any further breach of the order will be a contempt of court"〕</small> |
 | 不答质问书 | 无命令者：O.26 r.6(1) 制裁申请（剔除／入判）；有命令者：r.6(2) contempt | O.26 r.6 | <small style="opacity: 0.55">〔CL8 L80 "for sanctions (e.g. striking out an action, entering judgment)"；CL8 L80 "it may be cited for contempt"〕</small> |
 | 不遵 WS 交换方向 | 非经许可不得援引该证据；可被禁传证人、判费用，重则剔除 claim/defence | O.38 r.2A(10)；O.32 r.11B；*Chow Kwok Fai* | <small style="opacity: 0.55">〔CL12R L84 "he shall not be entitled to adduce evidence to which the direction related without the leave of the Court"；CL12 L96 "may result in an order barring that party from calling witnesses, or an order for costs, or worse still, striking out of his claim/defence"〕</small> |
-| 擅自使用披露文件 | implied undertaking 违反＝contempt（committal 程序） | 普通法 | <small style="opacity: 0.55">〔CAP-C8 L2011 "so breach of the implied undertaking is a contempt of court."〕</small> |
+| 擅自使用披露文件 | implied undertaking 违反即 contempt（committal 程序） | 普通法 | <small style="opacity: 0.55">〔CAP-C8 L2011 "so breach of the implied undertaking is a contempt of court."〕</small> |
 
 ### 0J.1.2 unless order 接口（三段式，详见 LG15 卡）
 
 1. **作出／下达（Making of Order）**：法院作命令可载明不遵后果（O.1B r.1(3)）；CMS 后除特殊情况**须**载后果（O.32 r.11B(2)）——本环节的披露／WS 期限均属可被 unless 化的"方向"。
 2. **生效**：逾期不遵，制裁**自动即时生效**，对方无需再申请（O.2 r.4）。
-3. **救济**：唯一回头路＝违后 **14 日**内传票＋誓章申请 relief from sanction（O.2 r.5 十因素）；逾期仍有延展裁量但加背延迟因素。
+3. **救济**：唯一回头路：违后 **14 日**内传票＋誓章申请 relief from sanction（O.2 r.5 十因素）；逾期仍有延展裁量但加背延迟因素。
 以上三段的逐条引注与程序流转在 [CO11 卡](%5BCO11%5D%20Case%20Management%20and%20Trial%20Organisation%20System.md) 0E.1–0E.4；本卡 0J 行 1/4/5 的"制裁暴露"均回到该回路。
 
-### 0J.1.3 与本卡时限的衔接提示（自拟）
+### 0J.1.3 与本卡时限的衔接提示（实务推演）
 
 披露面死线（14 日 LoD、4 日 r.10 回复、21 日真伪争议窗、28 日质问答复）在 CJR 诉讼文化转变（Change in Litigation Culture）与严苛制裁机制下不是软目标：**预见逾期先磋商／申请延期**（O.3 r.5 的三条延期途径，CO11 卡 0D），**不要**等对方 unless 化后再救——relief 常带 indemnity 讼费代价（CO11 卡 0E.3）。
 
 
 ### 0J.2 环节 × 不做后果 × 依据：后果链总表
 
-> 对应 §18.6"逆向后果"：本卡各程序环节"不做／做错会怎样"一站查清；正文各环节以"总表索引"回点本表行号。【自动后果】＝无需对方动作即发生；【制裁暴露】＝对方或法院可启动的不利命令；【举证负担】＝想止血者要证明什么；【救济门槛】＝按哪条规则求宽。库内无明文者如实标注并进 open 块。
+> 对应 §18.6"逆向后果"：本卡各程序环节"不做／做错会怎样"一站查清；正文各环节以"总表索引"回点本表行号。【自动后果】指无需对方动作即发生；【制裁暴露】指对方或法院可启动的不利命令；【举证负担】指想止血者要证明什么；【救济门槛】指按哪条规则求宽。库内无明文者如实标注并进 open 块。
 
 | # | 失误 | 后果及下一步 |
 | --- | --- | --- |
-| 1 | 不交换／漏交 List of Documents（14 日自动披露）：清单未交或漏列相关文件 | 【制裁暴露】对方可在 CMS 前请求 Form 27 誓章（14 日内）担保清单真确；案件管理层面可被催办→unless order→自动制裁（→LG15 卡 0E）。【自动后果】持续义务不因此消灭：新到文件仍须补充清单。【举证负担】清单由己方签署（或誓章担保），漏列被对方举证时＝可信度与费用双重损失。【救济门槛】立即补 supplemental list＋说明；已 unless 化者走 O.2 r.5 relief（14 日窗）。 <small style="opacity: 0.55">〔CL8 L40 "within 14 days of the request to swear to the truth and accuracy"；CL8 L40 "has a continuous duty to discover documents. This"；CL8 L40 "will need to file Supplemental List(s) of Documents"〕</small> |
-| 2 | 夸大／误主张特权：把不成立特权的文件放入 Sch I Part 2，或应列而不列 | 【制裁暴露】特权只免交出不免列单；概括描述即可不等于任意扩张——对方可按清单、pleadings、已披露文件挑战（0F.4 五类反证）。【自动后果】主动在庭上使用特权材料＝在该材料及同一事项上丧失 LPP（Great Atlantic）。【举证负担】主张方须能交代类别基础（WP／LAP／LP／自陷罪）；in-house 仅限法律事项。【救济门槛】误交对方者仅余 inadvertent discovery 之争（库内无明文→open O-E3）；事前预防＝送出前特权复核。 <small style="opacity: 0.55">〔CL8 L40 "privileged documents must still be listed in the List of Documents"；CL8 L35 "Deliberately using privileged material in Court will cause the loss of LPP on that material"；CL8 L35 "not business or administrative matters"；CL8 L40 "subject to argument on inadvertent discovery"〕</small> |
+| 1 | 不交换／漏交 List of Documents（14 日自动披露）：清单未交或漏列相关文件 | 【制裁暴露】对方可在 CMS 前请求 Form 27 誓章（14 日内）担保清单真确；案件管理层面可被催办→unless order→自动制裁（→LG15 卡 0E）。【自动后果】持续义务不因此消灭：新到文件仍须补充清单。【举证负担】清单由己方签署（或誓章担保），漏列被对方举证时即造成可信度与费用双重损失。【救济门槛】立即补 supplemental list＋说明；已 unless 化者走 O.2 r.5 relief（14 日窗）。 <small style="opacity: 0.55">〔CL8 L40 "within 14 days of the request to swear to the truth and accuracy"；CL8 L40 "has a continuous duty to discover documents. This"；CL8 L40 "will need to file Supplemental List(s) of Documents"〕</small> |
+| 2 | 夸大／误主张特权：把不成立特权的文件放入 Sch I Part 2，或应列而不列 | 【制裁暴露】特权只免交出不免列单；概括描述即可不等于任意扩张——对方可按清单、pleadings、已披露文件挑战（0F.4 五类反证）。【自动后果】主动在庭上使用特权材料即在该材料及同一事项上丧失 LPP（Great Atlantic）。【举证负担】主张方须能交代类别基础（WP／LAP／LP／自陷罪）；in-house 仅限法律事项。【救济门槛】误交对方者仅余 inadvertent discovery 之争（库内无明文→open O-E3）；事前预防为送出前特权复核。 <small style="opacity: 0.55">〔CL8 L40 "privileged documents must still be listed in the List of Documents"；CL8 L35 "Deliberately using privileged material in Court will cause the loss of LPP on that material"；CL8 L35 "not business or administrative matters"；CL8 L40 "subject to argument on inadvertent discovery"〕</small> |
 | 3 | 擅自使用披露文件（implied undertaking 违反）：把披露文件／衍生信息用于本诉讼外（报警、别案、商业目的、公开） | 【自动后果】contempt of court，可经 committal 程序惩处——undertaking 等同 court order；及于己方律师与任何经手人。【制裁暴露】对方可循藐视程序追究。【举证负担】想用者须证明 open court 失效（r.14A 三形态）或获批 release。【救济门槛】release 属固有管辖且罕准：须 cogent and persuasive reasons＋special circumstances（Techtronic）；公益打击严重跨境欺诈为例（Unicredit）。 <small style="opacity: 0.55">〔CAP-C8 L2005 "undertaking to the court is as good as a court order"；CAP-C8 L2011 "so breach of the implied undertaking is a contempt of court."；CL8 L55 "The implied undertaking binds not only the receiving party but also his solicitors"；CL8 L60 "must show cogent and persuasive reasons and special circumstances"〕</small> |
-| 4 | 迟交／未交 witness statement：未按法院指定期交换 WS（含想私延） | 【自动后果】未送达该证人 WS 者**不得传唤**该证人（r.2A(10)）；不遵方向者非经许可不得援引相关证据。【制裁暴露】O.32 r.11B：禁传证人、费用，重则剔除 claim/defence（*Chow Kwok Fai*）；set down 后补充陈述几乎无路（*Parsad*）。【举证负担】许可权衡＝公共利益 vs 损害；迟交申请须附草稿＋全叙迟因的誓章（*Liu Chen*）。【救济门槛】对方同意或法院许可；**不能**靠 O.3 r.5(3) 书面同意私延。 <small style="opacity: 0.55">〔CL12 L100 "A party may not call a witness if a witness statement of that witness has not been previously served"；CL12R L84 "he shall not be entitled to adduce evidence to which the direction related without the leave of the Court"；CL12 L96 "may result in an order barring that party from calling witnesses, or an order for costs, or worse still, striking out of his claim/defence"；CL12R L48 "Order 3, rule 5(3) shall not apply to any period specified by the Court under this paragraph."〕</small> |
+| 4 | 迟交／未交 witness statement：未按法院指定期交换 WS（含想私延） | 【自动后果】未送达该证人 WS 者**不得传唤**该证人（r.2A(10)）；不遵方向者非经许可不得援引相关证据。【制裁暴露】O.32 r.11B：禁传证人、费用，重则剔除 claim/defence（*Chow Kwok Fai*）；set down 后补充陈述几乎无路（*Parsad*）。【举证负担】许可权衡为公共利益 vs 损害；迟交申请须附草稿＋全叙迟因的誓章（*Liu Chen*）。【救济门槛】对方同意或法院许可；**不能**靠 O.3 r.5(3) 书面同意私延。 <small style="opacity: 0.55">〔CL12 L100 "A party may not call a witness if a witness statement of that witness has not been previously served"；CL12R L84 "he shall not be entitled to adduce evidence to which the direction related without the leave of the Court"；CL12 L96 "may result in an order barring that party from calling witnesses, or an order for costs, or worse still, striking out of his claim/defence"；CL12R L48 "Order 3, rule 5(3) shall not apply to any period specified by the Court under this paragraph."〕</small> |
 | 5 | 不答 interrogatories／披露命令：逾 28 日下限不答，或不遵披露命令 | 【制裁暴露】无命令质问：O.26 r.6(1) 制裁申请（剔除诉讼、登录判决），法院按一切情况定"just"（*Hui Sui Hop*）；有命令质问：r.6(2) contempt。披露命令层面：unless order 自动生效（→LG15 卡 0E）。【举证负担】反对者须在 14 日窗内申请（r.3(2)），证明无关或非必要。【救济门槛】特权异议以誓章提出（r.5(1)）；不足答案可被 F&BP（r.5(3)）。 <small style="opacity: 0.55">〔CL8 L80 "for sanctions (e.g. striking out an action, entering judgment)"；CL8 L80 "it may be cited for contempt"；CL8 L75 "has to apply to the Court within 14 days of the receipt of the interrogatories"；CL8 L80 "may take objection formally by way of an affidavit setting out the objection"〕</small> |
 | 6 | 未获许可援引专家证据：未申请 leave 或超许可范围用专家报告 | 【自动后果】O.38 r.36：除许可或各方同意外不得援引——报告进不了法庭。【制裁暴露】未获批先取证据，费用自担（PD 5.2 §20(2)，交叉 LG15 卡 0C 栏 G）；越界报告段落乃至全份可剔除（*Wong Hoi Fung*）；严重失职专家本人可被判付对方费用（*Philips v Symes*）、可被诉（*Jones v Kaney*）。【举证负担】live issue＋fair and proportionate＋necessary/relevant/probative 三重说服。【救济门槛】迟申请适用与 WS 相同权衡；人数与 SJE 由法院按 r.4/r.4A 控制。 <small style="opacity: 0.55">〔CL12R L368 "Except with the leave of the Court or where all parties agree, no expert evidence may be adduced"；CL12 L178 "the offending paragraphs (or even the whole report) can be struck out"；CL12 L152 "Expert evidence is required to resolve a live issue between the parties"〕</small> |
-| 7 | 拒绝查阅／不交副本：列入 Sch I Part 1 却拒绝查阅 | 【制裁暴露】对方向法院申请查阅命令（O.24 r.11）；违令＝contempt、committal 程序。【举证负担】拒绝方须交代合法反对基础（如特权——但特权文件本应在 Part 2）。【救济门槛】以 r.11 命令化解；实务九成九案件以 r.11A 副本处理。 <small style="opacity: 0.55">〔CL8 L45 "If inspection is refused, then the other party can apply to Court"；CAP-C8 L1519 "any further breach of the order will be a contempt of court and subject to the committal proceedings to be commenced."〕</small> |
+| 7 | 拒绝查阅／不交副本：列入 Sch I Part 1 却拒绝查阅 | 【制裁暴露】对方向法院申请查阅命令（O.24 r.11）；违令即 contempt、committal 程序。【举证负担】拒绝方须交代合法反对基础（如特权——但特权文件本应在 Part 2）。【救济门槛】以 r.11 命令化解；实务九成九案件以 r.11A 副本处理。 <small style="opacity: 0.55">〔CL8 L45 "If inspection is refused, then the other party can apply to Court"；CAP-C8 L1519 "any further breach of the order will be a contempt of court and subject to the committal proceedings to be commenced."〕</small> |
 | 8 | 真伪争议逾窗：未在 21 日窗内争清单文件真伪 | 【自动后果】视为承认清单文件为真（O.27 r.4）——盘问弹药自废。【救济门槛】可申延期（课堂口径），但须解释；争议须**明示**（pleadings 或通知）。 <small style="opacity: 0.55">〔CL8 L45 "21 days after inspection, or 21 days after the time limited for inspection, whichever is later"；CAP-C8 L1633 "you need to spell it out to let other parties know you are disputing the authenticity."〕</small> |
 | 9 | 持续义务违反（迟披露）：文件早已在手，临审才披露 | 【制裁暴露】文件可不获接纳；或押后审理＋由披露方付对方费用（课堂警告）。【举证负担】须解释迟延并求许可。【救济门槛】发现即补 supplemental list——越早越轻。 <small style="opacity: 0.55">〔CAP-C8 L1459 "late disclosure of the document may lead to the document not to be accepted by the court."；CL8 L40 "has a continuous duty to discover documents. This"〕</small> |
 | 10 | 误用 subpoena duces tecum 替代披露：以传召令绕过第三方披露程序 | 【制裁暴露】门槛严于 specific discovery，须特定文件；法院倾向第三方披露（inter partes），对方可申请撤销 subpoena。【举证负担】申请人须说明文件特定性与必要性。【救济门槛】改走 HCO s.42／O.24 r.7A 第三方披露。 <small style="opacity: 0.55">〔CL8 L70 "more stringent than a specific discovery application"；CAP-C8 L2260 "the court would ask you to use the third party discovery instead of issuing the subpoena"〕</small> |
@@ -1019,6 +1019,8 @@ flowchart TD
 **使用口径**：任务书点名四行——**行 1（不交换清单）、行 2（夸大特权）、行 3（擅自使用披露文件）、行 4（迟交 WS）**——与 0M 暗礁 1/2/5/6 互为表里；各行回到正文 0C–0L 对应小节展开。
 
 ## 0K. SG 实务应用与导师口径
+
+**本届 SG09 完整应用：** [Hogwarts Q4](../../01%20SG/SG09%20Civil%20Procedure%202%20%28Knowledge%29/04%20Question%204%20-%20Summary%20Judgment%20and%20Discovery.md)。
 
 **此时案件处在什么状态？** 知识齐备，要接到本届 SG 的具体题目上。**本节在干嘛？** 0K.1 承接 SG06 的披露题（Norman 传真、Gary 法律意见、Joey 信逐项判断特权与披露），0K.2 对照 SG07 的誓章起草，把规则变成答题步骤与导师红线。**怎么用？** 规则主述仍在 0B–0J；本节是应用层，答题细节以链接的完整答案文件为准。
 
@@ -1066,7 +1068,7 @@ flowchart TD
   3. 事实陈述（按严格时间先后排序，每一段仅叙述一个明确事实）；
   4. 结尾包含真实声明（Statement of Truth）并由证人亲笔签字。
 - **SG 应用映射与练习精析（自原第 0O 节归拢）**：
-#### 0O.1 SG06（Civil Procedure 1，Knowledge，2026-10-29）＝本卡最直接的知识型挂接
+#### 0O.1 SG06（Civil Procedure 1，Knowledge，2026-10-29）：本卡最直接的知识型挂接
 
 - **定位**：SG06 主控明示本场为"民事诉讼程序实务研讨课（涵盖送达、缺席判决及**文件披露**）"，其核心讲义链接含本届 LG8 Discovery 大纲；该句原为2026-10-06历史状态，**2026-10-28作废**：本届AP已入库，四题16问已完整制作，要求课前书面准备但未列另行上传deadline——本卡 0B–0I（披露全线）即其披露部分的知识底座，0J 总表为其"违规后果"题型的断点清单。
 - **题型预告（课堂口径）**：2026-09-29 LG8 课堂末段即演上届知识卷真题——答辩送达日 → deemed close（28 日）→ LoD 死线（14 日）→ 公众假期顺延 → 问卷死线（28 日）的连环计算（详见 0C.3 时点算术）；此类"程序日历算术"正是知识卷的得分点，备考时把 0B.2 时限表当公式表用。 <small style="opacity: 0.55">〔CAP-C8 L2572 "28 days after the service of the defense."；CAP-C8 L2596 "So the next working day should be the 20th of February."〕</small>
@@ -1077,7 +1079,7 @@ flowchart TD
 | SG | 与本卡的接口 | 用法 |
 | --- | --- | --- |
 | SG03（2026-10-08 已上，SoC I Contract） | 争议事实分解 → 证据清单；SoC 中提及的文件已可被 r.10 索阅 | 起草时同步建"文件地图"：每个 pleaded fact 对应手上有／对方有／第三方有的文件（0B.4 路径图；0E.1 r.10）。 <small style="opacity: 0.55">〔CL8 L45 "which are referred to in the other party’s pleadings, affidavits, witness statements, or expert reports"〕</small> |
-| SG04（2026-10-15，SoC II Negligence） | 排期问卷 F 栏（证人）／G·H 栏（专家）申报——证人名单＝盘问地图，专家申报三项（姓名／领域／精确争点）＋SJE 评审 | 交叉 [CO11 卡](%5BCO11%5D%20Case%20Management%20and%20Trial%20Organisation%20System.md) 0C 栏 F/G/H 与 0H.1 逐栏映射；本卡 0J.1／0K.2 给规则底座 |
+| SG04（2026-10-15，SoC II Negligence） | 排期问卷 F 栏（证人）／G·H 栏（专家）申报——证人名单即盘问地图，专家申报三项（姓名／领域／精确争点）＋SJE 评审 | 交叉 [CO11 卡](%5BCO11%5D%20Case%20Management%20and%20Trial%20Organisation%20System.md) 0C 栏 F/G/H 与 0H.1 逐栏映射；本卡 0J.1／0K.2 给规则底座 |
 | SG05（2026-10-22，DCC Contract） | 抗辩／反诉后争议范围重定 → 披露范围跟着 pleadings 走（0C.2） | DCC 落笔前重跑 Peruvian Guano 四问（0C.7），确认披露范围未随新诉答漂移 |
 | SG07（2026-11-05，Affidavit & Order） | 誓章与 WS 的分界：中间程序用誓章（O.38 r.2 特别路径），审讯主证据用 WS＋出庭 | 起草案情誓章时区分"中间申请证据"与"审讯证据"（0J.1；往届学生稿对比仅参考）。 <small style="opacity: 0.55">〔OLD-SET3L12 L54 "Affidavit: evidence tendered by someone + certified by a person that it was true"·往届仅参考〕</small> |
 
@@ -1132,7 +1134,7 @@ flowchart TD
 | 文件与证言 | 文件清单交代材料存在及持有状况；witness statement 交代证人将作出的事实证言。 |
 | 专家与事实 | 专家意见在许可范围内协助法院；事实证人陈述自己能够证明的事实。 |
 | Pleadings ↔ 披露范围 | 诉答一改，Peruvian Guano 四问要重跑；乱 plead 构造不了相关性；*Allington Investments*：经分析不相关的 averment 不支撑 specific discovery；诉答规则→[CO04-05 卡](./%5BCO04-05-10%5D%20Pleadings,%20Defence,%20Counterclaims%20and%20Third%20Party%20Proceedings.md)。 <small style="opacity: 0.55">〔CL8 L50 "no specific discovery is allowed based on that plea"〕</small> |
-| 排期问卷 ↔ 证人／专家申报 | 问卷 F/G/H 栏申报＝WS 与专家方向的起点，晚申报天然低分；证人名单与交换时表在问卷；专家申报三项（领域／姓名／精确争点）；逐栏映射→LG15 卡 0C/0H.1。 <small style="opacity: 0.55">〔CL12 L92 "Parties are to name witnesses to be called in their respective timetabling questionnaires"〕〔CL12 L160 "The parties will first state their need to call expert evidence (and the identity of such expert) in the questionnaire"〕</small> |
+| 排期问卷 ↔ 证人／专家申报 | 问卷 F/G/H 栏申报即 WS 与专家方向的起点，晚申报天然低分；证人名单与交换时表在问卷；专家申报三项（领域／姓名／精确争点）；逐栏映射→LG15 卡 0C/0H.1。 <small style="opacity: 0.55">〔CL12 L92 "Parties are to name witnesses to be called in their respective timetabling questionnaires"〕〔CL12 L160 "The parties will first state their need to call expert evidence (and the identity of such expert) in the questionnaire"〕</small> |
 | 案件管理 ↔ 披露死线 | 14 日自动披露是默认值；实际案件常按管理命令定死线（范本即按 Master 命令）；范本 LoD 注明按 2021-11-23 案件管理命令；unless/relief→LG15 卡 0E。 <small style="opacity: 0.55">〔CL8D L16 "in compliance with the Case Management Directions of Master Liu dated 23rd November 2021"〕</small> |
 | 誓章 ↔ WS | 中间程序以誓章举证，审讯以 WS＋出庭；两套文书不可互替；O.38 r.2 特别路径；0J.1 WS ≠ 证据对照。 <small style="opacity: 0.55">〔CL15 L342 "Evidence by affidavit (O. 38, r. 2)"〕</small> |
 | Interrogatories ↔ WS／F&BP | 质问书取"whole story"（强制）；WS 自愿；F&BP 补 pleadings 非证据；*Re Parfums YSL*；课堂分工。 <small style="opacity: 0.55">〔CL8 L75 "Information in a witness statement, if provided at all, is given voluntarily"〕〔CAP-C8 L2359 "The answer will become part of the evidence."〕</small> |
@@ -1151,7 +1153,7 @@ flowchart TD
 | 减少证人出庭 | 先看真实同意与审讯命令；单靠交换statement不能代替必要的出庭程序。 |
 | **A 拿到对方关键文件** | 副本到手 → r.11A／r.9 查阅 → 清单列明 → 补强：能识别走 specific discovery、不能走 F&B list → 函件先行；断环 1：直接传票不先函件→费用反咬（0F.3）；断环 2：誓章四要件缺一→申请被驳。对策：函件指明文件＋誓章备齐相关/存在/持有/必要；0F；0J 行 5。 <small style="opacity: 0.55">〔CAP-C8 L1801 "I won't say that it's mandatory, but generally speaking, you should do so."〕</small> |
 | **B 守住己方敏感文件** | 文件不交出 → 特权成立 → 正确入 Sch I Part 2 → 类别描述 → 不被挑战；断环 1：保密误当特权（0D.1）；断环 2：庭上故意使用→同一事项 waiver；断环 3：误交对方→inadvertent 之争（库内无明文）。对策：送出前特权复核流程；0D；0J 行 2。 <small style="opacity: 0.55">〔CL8 L35 "this is insufficient to oppose discovery"〕</small> |
-| **C 证据链完整上庭** | 证人出庭采纳 → WS 已按时交换＋SoT → 专家已获 leave＋37C 声明 → 报告已交换；断环 1：WS 期私延无效（0J.1）；断环 2：证人不到庭＝陈述不看；断环 3：专家未许可＝不得援引。对策：死线倒排＋出庭确认清单；0J/0K；0J 行 4/6。 <small style="opacity: 0.55">〔CL12 L124 "if a witness is ultimately not called at trial, the Court will not consider the witness statement"〕</small> |
+| **C 证据链完整上庭** | 证人出庭采纳 → WS 已按时交换＋SoT → 专家已获 leave＋37C 声明 → 报告已交换；断环 1：WS 期私延无效（0J.1）；断环 2：证人不到庭即陈述不看；断环 3：专家未许可即不得援引。对策：死线倒排＋出庭确认清单；0J/0K；0J 行 4/6。 <small style="opacity: 0.55">〔CL12 L124 "if a witness is ultimately not called at trial, the Court will not consider the witness statement"〕</small> |
 | **D 防止披露文件外溢** | 文件只用在本案 → implied undertaking 合规 → 需他用时先 release；断环：把"诉讼里见过"当公开→contempt。对策：任何外用前先核 r.14A 失效情形，否则申请 release 并备 cogent reasons；0G；0J 行 3。 <small style="opacity: 0.55">〔CL8 L60 "must show cogent and persuasive reasons and special circumstances"〕</small> |
 
 
@@ -1227,9 +1229,9 @@ flowchart TD
 
 见 [现行章节](#0J.1.2%20unless%20order%20%E6%8E%A5%E5%8F%A3%EF%BC%88%E4%B8%89%E6%AE%B5%E5%BC%8F%EF%BC%8C%E8%AF%A6%E8%A7%81%20LG15%20%E5%8D%A1%EF%BC%89)。
 
-###### 0L.3 与本卡时限的衔接提示（自拟）
+###### 0L.3 与本卡时限的衔接提示（实务推演）
 
-见 [现行章节](#0J.1.3%20%E4%B8%8E%E6%9C%AC%E5%8D%A1%E6%97%B6%E9%99%90%E7%9A%84%E8%A1%94%E6%8E%A5%E6%8F%90%E7%A4%BA%EF%BC%88%E8%87%AA%E6%8B%9F%EF%BC%89)。
+见 [现行章节](#0J.1.3%20%E4%B8%8E%E6%9C%AC%E5%8D%A1%E6%97%B6%E9%99%90%E7%9A%84%E8%A1%94%E6%8E%A5%E6%8F%90%E7%A4%BA%EF%BC%88%E5%AE%9E%E5%8A%A1%E6%8E%A8%E6%BC%94%EF%BC%89)。
 
 <!-- === AUDIT_ZONE_START (DO NOT SEND BELOW THIS LINE TO GPT) === -->
 > [!abstract]- 审计留痕：材料矩阵、待核事项与历史修订记录
