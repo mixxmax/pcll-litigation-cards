@@ -183,7 +183,7 @@ flowchart TD
 
 ### 1. 原则一：第一性原理（First Principles — 诉讼不可再拆的底层需求）
 
-> **接案场景的三问（2026-10-10 并入自原 Supplement §1）**：接案首先解决客户真正想达到什么、凭什么达到以及谁决定采取行动。法律标签不能替代事实调查；一封 LBA 也不能同时代替证据整理、诉状和和解协议——目标、事实、规则、决定与执行必须连续起来（操作化见 0A 各节）。
+> **接案场景的三问**：接案首先解决客户真正想达到什么、凭什么达到以及谁决定采取行动。法律标签不能替代事实调查；一封 LBA 也不能同时代替证据整理、诉状和和解协议——目标、事实、规则、决定与执行必须连续起来（操作化见 0A 各节）。
 
 - **告知（Notice）**：通过正式的索赔函（LBA）与令状背书（Indorsement of Claim），向对方充分披露侵权/违约事实与法律依据，满足程序知情权；
 - **界定（Define）**：准确界定适格原告（Greenhouse 油站拥有人）与责任主体（司机个人直接过失 + 雇主转承责任 *Vicarious Liability*）；
@@ -196,7 +196,7 @@ flowchart TD
 
 先交代面谈安排：听客户说明目的和故事，再集中补问题，最后给意见和确定下一步。开始时让对方用自己的话说，避免一开始就逐个封闭问题打断叙述；记下需要回头追问的点。 <small style="opacity: 0.55">〔LG2V L173 "It is also important at this stage to establish the"〕</small>
 
-| 阶段 | 可实际使用的问题（本卡自拟） | 为什么这样问 |
+| 阶段 | 可实际使用的问题（实务推演） | 为什么这样问 |
 | --- | --- | --- |
 | 目标 | “What would you like to achieve, and what matters most to you?” | 先确认结果偏好，避免把客户问题擅自定为某个法律程序 |
 | 自由叙述 | “Please take me through what happened, starting with your first contact.” | 取得原始叙述、事件顺序及客户认为重要的线索 |
@@ -226,11 +226,11 @@ flowchart TD
 
 | 状态变量 | 触发事实（输入信号） | 决策点 | 行动 | 反馈（失手代价） | 补救 |
 | --- | --- | --- | --- | --- | --- |
-| **客户目标**（G） | 客户叙述的目的与律师假设不一致；案情推进后目标改变 | 先澄清还是先选诉因？ | 复述确认目标（0A.3）；事实补充后重新确认 | 目标不明就起草＝答非所问，函件写成律师想要的样子 | 回到 0A.3 的目标问题重取指示。 <small style="opacity: 0.55">〔LG1V L345 "- NOTE: the nature of a problem may change over time."〕</small> |
-| **事实来源**（F） | 关键要件缺对应事实；客户版本与文件／证人冲突 | 区分亲历／转述／推测；缺证据与缺事实分列清单 | 漏斗追问＋查册（§一 6）；把缺口转成可执行下一步 | 事实未齐即下确定结论＝意见失准（0B 行 4） | 0A.4 记录格式：问题→答复→依据→是否需核实→影响要件。 <small style="opacity: 0.55">〔LG2V L195 "You must not start giving the client your"〕</small> |
+| **客户目标**（G） | 客户叙述的目的与律师假设不一致；案情推进后目标改变 | 先澄清还是先选诉因？ | 复述确认目标（0A.3）；事实补充后重新确认 | 目标不明就起草即答非所问，函件写成律师想要的样子 | 回到 0A.3 的目标问题重取指示。 <small style="opacity: 0.55">〔LG1V L345 "- NOTE: the nature of a problem may change over time."〕</small> |
+| **事实来源**（F） | 关键要件缺对应事实；客户版本与文件／证人冲突 | 区分亲历／转述／推测；缺证据与缺事实分列清单 | 漏斗追问＋查册（§一 6）；把缺口转成可执行下一步 | 事实未齐即下确定结论即意见失准（0B 行 4） | 0A.4 记录格式：问题→答复→依据→是否需核实→影响要件。 <small style="opacity: 0.55">〔LG2V L195 "You must not start giving the client your"〕</small> |
 | **授权与客户决定**（A） | 函件含「将起诉」措辞但未见指示；律师建议被当成客户决定 | 该步骤是否已获授权？ | 威胁起诉前先核指示（"if so instructed"）；意见给选项不替客户决定 | 越权步骤＋abuse of process 风险（0B 行 1、行 11） | 补取书面指示；公司客户核决议链。 <small style="opacity: 0.55">〔LG1V L473 "not comply (if so instructed) | Other points"；LG2V L417 "Ultimately choice is yours, you have heard my"〕</small> |
-| **时效台账**（L） | 事故日／违约日与今日之差逼近 6 年（人身伤害 3 年） | 先发令状还是继续调查谈判？ | 届满前发保护性令状中断时效 | 逾期＝诉权灭失、执业疏忽（0B 行 5） | 保护性令状＝12 个月送达期；延展须届满前申请且有 good reason。 <small style="opacity: 0.55">〔INTRO3 L114 "Validity of a writ: 12 months from the date of issue: O.6 r.8(1)"；INTRO3 L132 "Bad reasons: (i) negotiations were going on; (ii) legal aid application is pending; (iii) gathering evidence"〕</small> |
-| **送达时钟**（W） | 令状已发但证据未齐 | 何时送达启动应诉时钟？ | 在 12 个月内完成查册谈判后送达 | 过期不送达／不延展＝令状失效（0B 行 6） | 届满前申请延展（每次 ≤12 个月）。 <small style="opacity: 0.55">〔INTRO3 L134 "the writ can only be extended for no more than 12 months starting from the date of expiry"〕</small> |
+| **时效台账**（L） | 事故日／违约日与今日之差逼近 6 年（人身伤害 3 年） | 先发令状还是继续调查谈判？ | 届满前发保护性令状中断时效 | 逾期即诉权灭失、执业疏忽（0B 行 5） | 保护性令状有 12 个月送达期；延展须届满前申请且有 good reason。 <small style="opacity: 0.55">〔INTRO3 L114 "Validity of a writ: 12 months from the date of issue: O.6 r.8(1)"；INTRO3 L132 "Bad reasons: (i) negotiations were going on; (ii) legal aid application is pending; (iii) gathering evidence"〕</small> |
+| **送达时钟**（W） | 令状已发但证据未齐 | 何时送达启动应诉时钟？ | 在 12 个月内完成查册谈判后送达 | 过期不送达／不延展即令状失效（0B 行 6） | 届满前申请延展（每次 ≤12 个月）。 <small style="opacity: 0.55">〔INTRO3 L134 "the writ can only be extended for no more than 12 months starting from the date of expiry"〕</small> |
 | **讼费暴露**（C） | 是否发 LBA、何时发、措辞如何 | 发函促和解还是直接起诉？ | 财产损失案照讲义建议发函并布局诉前行为记录 | 诉前行为不合理→弥偿基准讼费暴露（0B 行 10） | 和解意愿与合理期限写进函件；担心转移资产则改道保全与直接起诉（0B 行 12）。 <small style="opacity: 0.55">〔LG1V L409 "if the Court considers a party to have acted unreasonably before action, it may order that party to pay the other party's costs"〕</small> |
 
 **总表索引**：上述状态变量失手的完整后果链，集中见 [§0J 后果总表](#0J.%20%E7%A8%8B%E5%BA%8F%E5%A4%B1%E8%AF%AF%E5%8F%8A%E5%85%B6%E5%90%8E%E6%9E%9C) 行 1–6、行 10–12。
@@ -255,7 +255,7 @@ flowchart TD
 
 一个好的补充问题同时说明缺的事实、已有信息和用途。例如“谁同意该条款”影响是否有授权及谁受约束；“何时发现瑕疵、何时通知”影响事实时间轴及条款适用；“损失如何计算、有什么记录”影响损害与举证。若材料已经明确，不重复询问；若只有客户推断，继续问其知识来源。 <small style="opacity: 0.55">〔LG1V L347 "Stage 2: Fact investigation"〕〔LG2V L191 "In this next part of the interview your need to"〕〔LG5V L280 "The material facts relating to the contract generally include:"〕</small>
 
-**记录格式（自拟）**：问题→客户答复→依据文件/亲历来源→是否还需核实→将影响的要件或救济。不要把“我可以申请什么”当作事实问题，也不要因为目前没有文件就写成该事件不存在。以上格式用于落实本届讲义的fact investigation，不是额外法律规则。 <small style="opacity: 0.55">〔LG1V L349 "Have to get some facts first to facilitate identification of"〕</small>
+**记录格式（实务推演）**：问题→客户答复→依据文件/亲历来源→是否还需核实→将影响的要件或救济。不要把“我可以申请什么”当作事实问题，也不要因为目前没有文件就写成该事件不存在。以上格式用于落实本届讲义的fact investigation，不是额外法律规则。 <small style="opacity: 0.55">〔LG1V L349 "Have to get some facts first to facilitate identification of"〕</small>
 
 ### 3. 原则三：竖向主干（Vertical Spine — 时间轴与程序主线）
 - 接案会见（Retainer / 决议案）$\longrightarrow$ 尽职调查（时效/资力/发票）$\longrightarrow$ 发出 LBA（给予**合理期限** 14–28 天；**无法定答复期**）$\longrightarrow$ 紧急保全（保护性令状争取 12 个月送达期）$\longrightarrow$ 正式向区域法院立案（Issue Writ）。 <small style="opacity: 0.55">〔LG1V L431 "Reasonable time limit: 14 – 28 days"〕〔INTRO3 L114 "Validity of a writ: 12 months from the date of issue: O.6 r.8(1)"〕</small>
@@ -289,7 +289,7 @@ flowchart TD
 
 | 客户目标 | 从终点向回数 | 最易断的环与对策 | 引注 |
 | --- | --- | --- | --- |
-| **尽快拿到赔偿** | 拿到钱 → 对方有偿付能力（资力查册）→ 责任与金额可证（完整证据链条）→ 对方愿意谈（LBA 扎实）→ 客户已授权该口径 | 断环 1：未证金额或过强威胁削弱可信度；断环 2：胜诉后对方无资力＝空头判决。对策：查册先行、函件客观 | <small style="opacity: 0.55">〔📄LG1P Slide 19 "Land Search"；LG1V L439 "Save costs – the other side might not dispute liability"〕</small> |
+| **尽快拿到赔偿** | 拿到钱 → 对方有偿付能力（资力查册）→ 责任与金额可证（完整证据链条）→ 对方愿意谈（LBA 扎实）→ 客户已授权该口径 | 断环 1：未证金额或过强威胁削弱可信度；断环 2：胜诉后对方无资力即空头判决。对策：查册先行、函件客观 | <small style="opacity: 0.55">〔📄LG1P Slide 19 "Land Search"；LG1V L439 "Save costs – the other side might not dispute liability"〕</small> |
 | **维持商业关系** | 关系存续 → 函件不激怒对方 → 采用能让收件人理解的行动建议（明确、可照办） | 断环：含糊措辞使对方不知道要做什么。对策：功能性段落＋明确期限与支付方式（0A.6） | <small style="opacity: 0.55">〔LG1V L471 "Presentation (30%) Contains appropriate opening and closing formalities (visual cues"〕</small> |
 | **立即起诉** | 判得回 → 打赢 → 立得上（管辖／时效／当事人三核验过闸）→ 资料与目标已核 | 断环：为赶进度猜事实、跳过三核验——时效、适格、管辖任一出错即翻车（0B 行 5、7、8）。对策：三核验不过就不发 | ；§二 三矩阵。 <small style="opacity: 0.55">〔LG2V L195 "You must not start giving the client your"〕</small> |
 | **守住时效再调查** | 令状有效 → 12 个月内送达 → 调查在送达期内完成 | 断环：把保护性令状当无限拖延——「gathering evidence」是延展 bad reason。对策：令状发出日即排调查日历（0B 行 6） | <small style="opacity: 0.55">〔INTRO3 L132 "Bad reasons: (i) negotiations were going on; (ii) legal aid application is pending; (iii) gathering evidence"〕</small> |
@@ -302,7 +302,7 @@ flowchart TD
 
 费用不是末尾装饰。讲义要求说明可能工作量、时间、费用估计或大概预测及付款安排；案件进展中如情况重大变化也要重新考虑。法律援助可用性要按实际条件评估，不能一概假定客户不符合。 <small style="opacity: 0.55">〔LG2V L477 "Of particular importance at the first interview with a client,"〕</small>
 
-**本卡自拟收尾示例**：“On the information available, the next step is to obtain the delivery and inspection records. They will help us assess the alleged breach and the loss claimed. Once we have reviewed them, we will confirm the advice and the proposed terms of the letter.” 这是有条件的下一步说明，不是对任何本届客户的实际建议。 <small style="opacity: 0.55">〔LG1V L353 "Legal issues preliminarily identified from facts gathered may necessitate further"〕</small>
+**收尾示例（实务推演）**：“On the information available, the next step is to obtain the delivery and inspection records. They will help us assess the alleged breach and the loss claimed. Once we have reviewed them, we will confirm the advice and the proposed terms of the letter.” 这是有条件的下一步说明，不是对任何本届客户的实际建议。 <small style="opacity: 0.55">〔LG1V L353 "Legal issues preliminarily identified from facts gathered may necessitate further"〕</small>
 
 ### 6. 本届 LG1 核心补录：PG-FLAP 五阶段 · 查册手段 · 本案法律争点
 
@@ -521,7 +521,7 @@ flowchart LR
     style P4 fill:#E8F5E9,stroke:#2E7D32,stroke-width:2px
 ```
 
-**阶段一诉前程序推进图（Stage 1 Pre-Action Progression）**（Audit 2026-09-27 M5 指出的 Level B 缺口；本图节点与转移条件一律取自本卡已核实的事实：授权节点＝董事会决议；查册节点；合理期限；对方沉默；保护性令状 12 个月；区域法院门槛；寄发方式（往届官方范本））。 <small style="opacity: 0.55">〔📄BATCH-A p.33 "THAT solicitors be instructed to act on behalf of the Company"〕〔📄BATCH-A p.33 "THAT George Po be authorised to represent the Company to give instructions"〕〔LG1V L355 "whether (and if so, what) additional information/documents and/or further searches/investigations are required"〕〔LG1V L431 "Reasonable time limit: 14 – 28 days"〕〔LG1V L433-L435 "What if the other side fails to respond to a letter before action … No specific implications"〕〔INTRO3 L114 "Validity of a writ: 12 months from the date of issue: O.6 r.8(1)"〕〔INTRO1 L147 "Money claims: up to $3 million: DC Ordinance (Cap.336)"〕〔SAMPLE L25-L26 "[ON FIRM LETTERHEAD] … BY REGISTERED POST" ·往届仅参考〕</small>
+**阶段一诉前程序推进图（Stage 1 Pre-Action Progression）**（Audit 2026-09-27 M5 指出的 Level B 缺口；本图节点与转移条件一律取自本卡已核实的事实：授权节点为董事会决议；查册节点；合理期限；对方沉默；保护性令状 12 个月；区域法院门槛；寄发方式（往届官方范本））。 <small style="opacity: 0.55">〔📄BATCH-A p.33 "THAT solicitors be instructed to act on behalf of the Company"〕〔📄BATCH-A p.33 "THAT George Po be authorised to represent the Company to give instructions"〕〔LG1V L355 "whether (and if so, what) additional information/documents and/or further searches/investigations are required"〕〔LG1V L431 "Reasonable time limit: 14 – 28 days"〕〔LG1V L433-L435 "What if the other side fails to respond to a letter before action … No specific implications"〕〔INTRO3 L114 "Validity of a writ: 12 months from the date of issue: O.6 r.8(1)"〕〔INTRO1 L147 "Money claims: up to $3 million: DC Ordinance (Cap.336)"〕〔SAMPLE L25-L26 "[ON FIRM LETTERHEAD] … BY REGISTERED POST" ·往届仅参考〕</small>
 
 ```mermaid
 stateDiagram-v2
@@ -913,14 +913,14 @@ flowchart TD
 
 **此时案件处在什么状态？** 前面各节讲的是「应该怎么做」，本节回答反面问题：哪一步不做或做错，现实里会发生什么、对方或法庭会怎样利用。**本制度在干嘛？** 这张总表把全卡十二个环节加五条诉前补充串成后果链：每行写明是自动生效的后果（如时效届满诉权灭失）、对方或法院可启动的不利结果（如剔除诉状、授权瑕疵抗辩），还是律师自身的执业风险，并给出补救门槛。**和谁区分？** 【自动后果】无需对方动作即发生；【制裁暴露】要靠对方或法院启动；【执业暴露】是律所自身的职业风险——三者机制不同，补救方式也不同。
 
-> 对应主规范 §18.6：把本卡各环节「不做／做错／逾期会怎样」集中在一张总表，正文各环节以「总表索引」回点（§一 2→行 1–4、§二→行 5–8、§四／§五→行 9–12、§六→全表、0A.3→行 2、0A.5→行 3）。【自动后果】＝无需对方动作即发生；【制裁暴露】＝对方或法院可启动的不利结果；【执业暴露】＝对律所／律师自身的执业风险；【救济门槛】＝按什么补救。库内无明文者如实标注并进 open 块，不臆造。
+> 对应主规范 §18.6：把本卡各环节「不做／做错／逾期会怎样」集中在一张总表，正文各环节以「总表索引」回点（§一 2→行 1–4、§二→行 5–8、§四／§五→行 9–12、§六→全表、0A.3→行 2、0A.5→行 3）。【自动后果】指无需对方动作即发生；【制裁暴露】指对方或法院可启动的不利结果；【执业暴露】指对律所／律师自身的执业风险；【救济门槛】指按什么补救。库内无明文者如实标注并进 open 块，不臆造。
 
 | # | 失误 | 后果及下一步 |
 | --- | --- | --- |
 | 1 | 未核验公司授权（董事会决议）即发函或起诉：授权链断裂 | 【制裁暴露】无适当授权可被视为 abuse of process（往届官方 AP 明文），相对方可提授权瑕疵抗辩。【救济门槛】接案时核验决议并留档——本案 A17 决议即「授权委托律师＋授权 George Po 代表公司给指示」的范式；O.5A r.2「董事不经律师自行诉讼」是另一轨（三要件见 §二 3 ⚠️ 注），两者不可混。 <small style="opacity: 0.55">〔SG1AP L182 "If there is no proper authorisation, it could be regarded as abuse of process" ·往届仅参考；📄BATCH-A p.33 "THAT solicitors be instructed to act on behalf of the Company"；📄BATCH-A p.33 "THAT George Po be authorised to represent the Company to give instructions"〕</small> |
 | 2 | 面谈预写剧本／诱导式提问：叙述被污染、意见建立在失真输入上 | 【执业暴露】讲义明令不要预设事实、不要被预先写好的 script 绑死；诱导式问题令客户自发版本失真，后续法律意见随之失准。【救济门槛】回到开放问题重取叙述（0A.3 漏斗；closed question 适合核对日期等事实，不一律禁止）。 <small style="opacity: 0.55">〔LG2V L167 "in advance, you should not make assumptions about the"；LG2V L289 "Open Questions - at the start of an interview or"；CAP-C2 L970 "And then finally using those closed questions as you're checking"〕</small> |
 | 3 | 不作费用与讼费风险揭示：客户对账单与胜败风险无预期 | 【执业暴露】Principal 4.01（LG2 大纲全文引述）：接案时须给讼费最佳信息、解释工作量与时间、尽可能给预估并以书面确认； contentious 事项还须告知四项——自付账单不论结果、败诉须付对方、胜诉未必足额且对方或无资力、对方法援时或追不回；法援资格未告知可致 negligence 申索。 <small style="opacity: 0.55">〔LG2V L479 "4.01 INFORM CLIENT ABOUT COSTS"；LG2V L487 "that in any event he will be personally responsible for paying his own solicitor's bill of costs"；LG2V L491 "and may not be capable of paying what he has been ordered to pay"；LG2V L495 "If a solicitor thinks that his client may be eligible for legal aid, he must inform the client of its availability"；INTRO2 L168 "It is the duty of a solicitor to explain to his client the potential liability of costs in commencing any action"〕</small> |
-| 4 | 事实与资力调查未完即起诉或给确定结论：意见失准或拿到空头判决 | 【执业暴露】掌握相关事实前不得开始给完整意见；【制裁暴露】对无资力被告胜诉＝执行不能（空头判决）。【救济门槛】查册清单逐项做完（§一 6（2）八项手段：车辆登记／商业登记／公司／控罪书／私营代理／土地／破产清盘／CCTV 与供词）；意见区分「已知足判」与「取决于补充材料」（0A.5）。 <small style="opacity: 0.55">〔LG2V L195 "You must not start giving the client your"；📄LG1P Slide 19 "Land Search"；📄LG1P Slide 20 "Bankruptcy and Winding-Up Search"〕</small> |
+| 4 | 事实与资力调查未完即起诉或给确定结论：意见失准或拿到空头判决 | 【执业暴露】掌握相关事实前不得开始给完整意见；【制裁暴露】对无资力被告胜诉即执行不能（空头判决）。【救济门槛】查册清单逐项做完（§一 6（2）八项手段：车辆登记／商业登记／公司／控罪书／私营代理／土地／破产清盘／CCTV 与供词）；意见区分「已知足判」与「取决于补充材料」（0A.5）。 <small style="opacity: 0.55">〔LG2V L195 "You must not start giving the client your"；📄LG1P Slide 19 "Land Search"；📄LG1P Slide 20 "Bankruptcy and Winding-Up Search"〕</small> |
 | 5 | 不核时效／时效届满未发令状：诉权永久灭失 | 【自动后果】Cap. 347：合同与一般侵权 6 年、盖印契约 12 年、人身伤害 3 年，逾期诉权灭失（人身伤害仅余 s.30 法庭裁量豁免）；对律师构成执业疏忽（§六 红线 2）。【救济门槛】届满前发保护性令状中断时效。 <small style="opacity: 0.55">〔INTRO2 L94 "Contract: 6 years from the date of breach – s.4(1)"；INTRO2 L100 "Other tort claims (e.g. nuisance, trespass to land, conversion): 6 years from when the damage was sustained"；INTRO2 L106 "the Court has the discretion to override any time limit if it thinks appropriate"〕</small> |
 | 6 | 保护性令状发出后 12 个月内不送达／不延展：令状失效 | 【自动后果】令状自发出日起 12 个月有效；延展每次不超过 12 个月且须在届满前申请；「gathering evidence」被列为延展的 bad reason——保护性令状不能当无限拖延工具；被告亦可依 O.12 r.8A(1) 发送达通知促执行（原告并不完全掌控送达时点）。【救济门槛】届满前申请延展并备 good reason。 <small style="opacity: 0.55">〔INTRO3 L114 "Validity of a writ: 12 months from the date of issue: O.6 r.8(1)"；INTRO3 L132 "Bad reasons: (i) negotiations were going on; (ii) legal aid application is pending; (iii) gathering evidence"；INTRO3 L134 "the writ can only be extended for no more than 12 months starting from the date of expiry"；INTRO3 L116 "It does not mean that P is in complete control as to when service of the writ should occur within the 12 months"〕</small> |
 | 7 | 告错原告（开票的姊妹公司／商号）：诉状被剔除 | 【制裁暴露】O.18 r.19：无合理诉因或程序滥用可剔除，法院可依职权或依申请、于诉讼任何阶段作出。【救济门槛】以直接受损及承担经济损失的主体为原告（本案 Greenhouse 而非 Supplies），附发票证明实际损失承担链（§六 红线 1）。 <small style="opacity: 0.55">〔LG4V L626 "discloses no reasonable cause of action or defence"；LG4V L650 "abuse of the process of the Court"；LG4V L656 "The Court may order a strike out on its own motion or an application of parties"〕</small> |
